@@ -1,0 +1,37 @@
+name: Fetch
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 4 * * *"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up branch
+        run: |
+          git fetch origin data && git switch data || git switch -c data
+          git rebase main
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+      - run: npm install
+      - name: Fetch
+        run: npm start
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      - name: Prettify
+        run: npm run format-data
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data
+          git diff --staged --quiet || git commit -m "Updated data from Spotify"
+          git push origin data -f
