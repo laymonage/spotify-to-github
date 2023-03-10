@@ -72,11 +72,29 @@ export async function createClient(
 
       const rest = (await Promise.all(promises)).map((r) => r.items).flat();
 
-      return [...items, ...rest];
+      return [...items, ...rest].sort(compare);
     },
   };
 
   return client;
+}
+
+function compare(
+  a: SpotifyApi.SavedTrackObject,
+  b: SpotifyApi.SavedTrackObject
+): number {
+  const byDate =
+    new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+  if (byDate !== 0) return byDate;
+
+  if (a.track.album.id === b.track.album.id) {
+    if (a.track.disc_number === b.track.disc_number) {
+      return a.track.track_number - b.track.track_number;
+    }
+    return a.track.disc_number - b.track.disc_number;
+  }
+
+  return a.track.name.localeCompare(b.track.name);
 }
 
 export function simplifySavedTrack(
