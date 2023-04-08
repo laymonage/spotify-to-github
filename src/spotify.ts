@@ -114,6 +114,7 @@ export function simplifySavedTrack(
       name: saved.track.album.name,
       release_date: saved.track.album.release_date,
       images: saved.track.album.images,
+      external_urls: saved.track.album.external_urls,
     },
     artists: saved.track.artists.map((a) => ({
       id: a.id,
@@ -137,6 +138,7 @@ interface SavedTrackSimplified {
     name: string;
     release_date: string;
     images: SpotifyApi.ImageObject[];
+    external_urls: SpotifyApi.ExternalUrlObject;
   };
   artists: Array<{
     id: string;
