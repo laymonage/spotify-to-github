@@ -107,19 +107,19 @@ export function simplifySavedTrack(
     popularity: saved.track.popularity,
     duration_ms: saved.track.duration_ms,
     explicit: saved.track.explicit,
-    external_urls: saved.track.external_urls,
+    url: saved.track.external_urls.spotify,
     preview_url: saved.track.preview_url,
     album: {
       id: saved.track.album.id,
       name: saved.track.album.name,
       release_date: saved.track.album.release_date,
-      images: saved.track.album.images,
-      external_urls: saved.track.album.external_urls,
+      image_url: saved.track.album.images[0].url,
+      url: saved.track.album.external_urls.spotify,
     },
     artists: saved.track.artists.map((a) => ({
       id: a.id,
       name: a.name,
-      external_urls: a.external_urls,
+      url: a.external_urls.spotify,
     })),
   };
 }
@@ -131,18 +131,18 @@ interface SavedTrackSimplified {
   popularity: number;
   duration_ms: number;
   explicit: boolean;
-  external_urls: SpotifyApi.ExternalUrlObject;
+  url: string;
   preview_url: string | null;
   album: {
     id: string;
     name: string;
     release_date: string;
-    images: SpotifyApi.ImageObject[];
-    external_urls: SpotifyApi.ExternalUrlObject;
+    image_url: string;
+    url: string;
   };
   artists: Array<{
     id: string;
     name: string;
-    external_urls: SpotifyApi.ExternalUrlObject;
+    url: string;
   }>;
 }
