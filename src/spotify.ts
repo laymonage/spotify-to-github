@@ -172,14 +172,36 @@ export function simplifySavedTrack(
   };
 }
 
+export function simplifySavedAlbum(
+  saved: SpotifyApi.SavedAlbumObject
+): SavedAlbumSimplified {
+  return {
+    id: saved.album.id,
+    name: saved.album.name,
+    added_at: saved.added_at,
+    type: saved.album.album_type,
+    total_tracks: saved.album.total_tracks,
+    url: saved.album.external_urls.spotify,
+    image_url: saved.album.images[0].url,
+    release_date: saved.album.release_date,
+    artists: saved.album.artists.map((a) => ({
+      id: a.id,
+      name: a.name,
+      url: a.external_urls.spotify,
+    })),
+    genres: saved.album.genres,
+    popularity: saved.album.popularity,
+  };
+}
+
 interface SavedTrackSimplified {
   id: string;
   name: string;
   added_at: string;
   popularity: number;
+  url: string;
   duration_ms: number;
   explicit: boolean;
-  url: string;
   preview_url: string | null;
   album: {
     id: string;
@@ -188,6 +210,24 @@ interface SavedTrackSimplified {
     image_url: string;
     url: string;
   };
+  artists: Array<{
+    id: string;
+    name: string;
+    url: string;
+  }>;
+}
+
+interface SavedAlbumSimplified {
+  id: string;
+  name: string;
+  added_at: string;
+  popularity: number;
+  url: string;
+  image_url: string;
+  type: SpotifyApi.AlbumObjectSimplified["album_type"];
+  total_tracks: number;
+  release_date: string;
+  genres: string[];
   artists: Array<{
     id: string;
     name: string;

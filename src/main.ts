@@ -1,5 +1,9 @@
 import { mkdir, writeFile } from "fs/promises";
-import { createClient, simplifySavedTrack } from "./spotify";
+import {
+  createClient,
+  simplifySavedAlbum,
+  simplifySavedTrack,
+} from "./spotify";
 
 function log(message: string): void {
   console.log(`[${new Date().toISOString()}]: ${message}`);
@@ -41,7 +45,10 @@ async function main() {
   writeJSON("saved_tracks", output);
 
   log(`Simplifying saved tracks data…`);
-  const simplifiedOutput = { total, tracks: tracks.map(simplifySavedTrack) };
+  let simplifiedOutput: { total: number } & Record<string, unknown> = {
+    total,
+    tracks: tracks.map(simplifySavedTrack),
+  };
 
   log(`Writing simplified saved tracks data…`);
   writeJSON("saved_tracks_simplified", simplifiedOutput);
@@ -55,6 +62,12 @@ async function main() {
   log(`Writing full saved albums data…`);
   output = { total, albums };
   writeJSON("saved_albums", output);
+
+  log(`Simplifying saved albums data…`);
+  simplifiedOutput = { total, albums: albums.map(simplifySavedAlbum) };
+
+  log(`Writing simplified saved albums data…`);
+  writeJSON("saved_albums_simplified", simplifiedOutput);
 
   log(`Done!`);
 }
