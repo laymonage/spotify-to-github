@@ -33,11 +33,11 @@ async function main() {
   log(`Getting all saved tracks…`);
   const tracks = await client.getAllSavedTracks();
 
-  const total = tracks.length;
+  let total = tracks.length;
   log(`Found ${total} saved tracks.`);
 
   log(`Writing full saved tracks data…`);
-  const output = { total, tracks };
+  let output: Record<string, unknown> = { total, tracks };
   writeJSON("saved_tracks", output);
 
   log(`Simplifying saved tracks data…`);
@@ -45,6 +45,16 @@ async function main() {
 
   log(`Writing simplified saved tracks data…`);
   writeJSON("saved_tracks_simplified", simplifiedOutput);
+
+  log(`Getting all saved albums…`);
+  const albums = await client.getAllSavedAlbums();
+
+  total = albums.length;
+  log(`Found ${total} saved albums.`);
+
+  log(`Writing full saved albums data…`);
+  output = { total, albums };
+  writeJSON("saved_albums", output);
 
   log(`Done!`);
 }

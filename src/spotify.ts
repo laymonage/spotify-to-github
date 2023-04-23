@@ -3,6 +3,7 @@ const SPOTIFY_ACCOUNTS_BASE_URL = "https://accounts.spotify.com";
 
 const ENDPOINTS = {
   SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
+  SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
 };
 
@@ -31,6 +32,10 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersSavedTracksResponse>;
   getAllSavedTracks(): Promise<SpotifyApi.SavedTrackObject[]>;
+  getSavedAlbums(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersSavedAlbumsResponse>;
+  getAllSavedAlbums(): Promise<SpotifyApi.SavedAlbumObject[]>;
 }
 
 export async function createClient(
@@ -73,6 +78,30 @@ export async function createClient(
       const rest = (await Promise.all(promises)).map((r) => r.items).flat();
 
       return [...items, ...rest].sort(compare);
+    },
+    async getSavedAlbums(query: Record<string, string>) {
+      const response = await fetch(
+        `${ENDPOINTS.SAVED_ALBUMS}?${new URLSearchParams(query)}`,
+        init
+      );
+      return await response.json();
+    },
+    async getAllSavedAlbums() {
+      const { limit, total, items } = await this.getSavedAlbums({
+        limit: "50",
+      });
+
+      const promises: Promise<SpotifyApi.UsersSavedAlbumsResponse>[] = [];
+
+      for (let i = 1; i <= Math.floor(total / 50); i++) {
+        promises.push(
+          this.getSavedAlbums({ limit: `${limit}`, offset: `${i * limit}` })
+        );
+      }
+
+      const rest = (await Promise.all(promises)).map((r) => r.items).flat();
+
+      return [...items, ...rest];
     },
   };
 
