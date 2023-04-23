@@ -102,17 +102,21 @@ export async function createClient(
       return client.getSaved(ENDPOINTS.SAVED_ALBUMS, query);
     },
     async getAllSavedTracks() {
-      return (await client.getAllSaved(client.getSavedTracks)).sort(compare);
+      return (await client.getAllSaved(client.getSavedTracks)).sort(
+        compareTrack
+      );
     },
     async getAllSavedAlbums() {
-      return client.getAllSaved(client.getSavedAlbums);
+      return (await client.getAllSaved(client.getSavedAlbums)).sort(
+        compareAlbum
+      );
     },
   };
 
   return client;
 }
 
-function compare(
+function compareTrack(
   a: SpotifyApi.SavedTrackObject,
   b: SpotifyApi.SavedTrackObject
 ): number {
@@ -128,6 +132,17 @@ function compare(
   }
 
   return a.track.name.localeCompare(b.track.name);
+}
+
+function compareAlbum(
+  a: SpotifyApi.SavedAlbumObject,
+  b: SpotifyApi.SavedAlbumObject
+): number {
+  const byDate =
+    new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+  if (byDate !== 0) return byDate;
+
+  return a.album.name.localeCompare(b.album.name);
 }
 
 export function simplifySavedTrack(
