@@ -5,7 +5,7 @@ const ENDPOINTS = {
   SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
   SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
-};
+} as const;
 
 async function getAccessToken(
   clientId: string,
@@ -28,6 +28,15 @@ async function getAccessToken(
 }
 
 interface Client {
+  getAllSaved<T>(
+    getFunction: (
+      query: Record<string, string>
+    ) => Promise<SpotifyApi.PagingObject<T>>
+  ): Promise<T[]>;
+  getSaved<T>(
+    endpoint: (typeof ENDPOINTS)[keyof typeof ENDPOINTS],
+    query: Record<string, string>
+  ): Promise<T>;
   getSavedTracks(
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersSavedTracksResponse>;
@@ -55,53 +64,48 @@ export async function createClient(
   };
 
   const client: Client = {
-    async getSavedTracks(query: Record<string, string>) {
+    async getSaved<T>(
+      endpoint: (typeof ENDPOINTS)[keyof typeof ENDPOINTS],
+      query: Record<string, string>
+    ) {
       const response = await fetch(
-        `${ENDPOINTS.SAVED_TRACKS}?${new URLSearchParams(query)}`,
+        `${endpoint}?${new URLSearchParams(query)}`,
         init
       );
-      return await response.json();
+      return (await response.json()) as T;
     },
-    async getAllSavedTracks() {
-      const { limit, total, items } = await this.getSavedTracks({
+    async getAllSaved<T>(
+      getFunction: (
+        query: Record<string, string>
+      ) => Promise<SpotifyApi.PagingObject<T>>
+    ) {
+      const { limit, total, items } = await getFunction({
         limit: "50",
       });
 
-      const promises: Promise<SpotifyApi.UsersSavedTracksResponse>[] = [];
+      const promises: Promise<SpotifyApi.PagingObject<T>>[] = [];
 
       for (let i = 1; i <= Math.floor(total / 50); i++) {
         promises.push(
-          this.getSavedTracks({ limit: `${limit}`, offset: `${i * limit}` })
-        );
-      }
-
-      const rest = (await Promise.all(promises)).map((r) => r.items).flat();
-
-      return [...items, ...rest].sort(compare);
-    },
-    async getSavedAlbums(query: Record<string, string>) {
-      const response = await fetch(
-        `${ENDPOINTS.SAVED_ALBUMS}?${new URLSearchParams(query)}`,
-        init
-      );
-      return await response.json();
-    },
-    async getAllSavedAlbums() {
-      const { limit, total, items } = await this.getSavedAlbums({
-        limit: "50",
-      });
-
-      const promises: Promise<SpotifyApi.UsersSavedAlbumsResponse>[] = [];
-
-      for (let i = 1; i <= Math.floor(total / 50); i++) {
-        promises.push(
-          this.getSavedAlbums({ limit: `${limit}`, offset: `${i * limit}` })
+          getFunction({ limit: `${limit}`, offset: `${i * limit}` })
         );
       }
 
       const rest = (await Promise.all(promises)).map((r) => r.items).flat();
 
       return [...items, ...rest];
+    },
+    async getSavedTracks(query) {
+      return client.getSaved(ENDPOINTS.SAVED_TRACKS, query);
+    },
+    async getSavedAlbums(query) {
+      return client.getSaved(ENDPOINTS.SAVED_ALBUMS, query);
+    },
+    async getAllSavedTracks() {
+      return (await client.getAllSaved(client.getSavedTracks)).sort(compare);
+    },
+    async getAllSavedAlbums() {
+      return client.getAllSaved(client.getSavedAlbums);
     },
   };
 
