@@ -43,7 +43,7 @@ jobs:
           git switch data || git checkout --orphan data
           git reset
           rm -rf data
-          git stash pop || git restore --theirs data
+          git restore --source="stash@{0}" data
           git add data
           git diff --staged --quiet || git commit -m "Updated data from Spotify"
           git push origin data
