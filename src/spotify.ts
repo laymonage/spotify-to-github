@@ -8,6 +8,16 @@ const ENDPOINTS = {
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
 } as const;
 
+const ENDPOINTS_WITH_ID = {
+  PLAYLIST: (id: string) => `${SPOTIFY_API_BASE_URL}/playlists/${id}` as const,
+  PLAYLIST_TRACKS: (id: string) =>
+    `${SPOTIFY_API_BASE_URL}/playlists/${id}/tracks` as const,
+} as const;
+
+type ENDPOINT =
+  | (typeof ENDPOINTS)[keyof typeof ENDPOINTS]
+  | ReturnType<(typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID]>;
+
 async function getAccessToken(
   clientId: string,
   clientSecret: string,
@@ -34,8 +44,17 @@ interface Client {
       query: Record<string, string>
     ) => Promise<SpotifyApi.PagingObject<T>>
   ): Promise<T[]>;
-  getSaved<T>(
-    endpoint: (typeof ENDPOINTS)[keyof typeof ENDPOINTS],
+  getSaved<T>(endpoint: ENDPOINT, query: Record<string, string>): Promise<T>;
+  getAllById<T>(
+    getFunction: (
+      id: string,
+      query: Record<string, string>
+    ) => Promise<SpotifyApi.PagingObject<T>>,
+    id: string
+  ): Promise<T[]>;
+  getById<T>(
+    endpoint: (typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID],
+    id: string,
     query: Record<string, string>
   ): Promise<T>;
   getSavedTracks(
@@ -50,6 +69,19 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.ListOfUsersPlaylistsResponse>;
   getAllSavedPlaylists(): Promise<SpotifyApi.PlaylistObjectSimplified[]>;
+  getPlaylist(
+    id: string,
+    query: Record<string, string>
+  ): Promise<
+    Omit<SpotifyApi.PlaylistObjectFull, "tracks"> & {
+      tracks: SpotifyApi.PlaylistTrackObject[];
+    }
+  >;
+  getPlaylistTracks(
+    id: string,
+    query: Record<string, string>
+  ): Promise<SpotifyApi.PlaylistTrackResponse>;
+  getAllPlaylistTracks(id: string): Promise<SpotifyApi.PlaylistTrackObject[]>;
 }
 
 export async function createClient(
@@ -100,6 +132,22 @@ export async function createClient(
 
       return [...items, ...rest];
     },
+    async getById<T>(
+      endpoint: (typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID],
+      id: string,
+      query: Record<string, string>
+    ) {
+      return await client.getSaved<T>(endpoint(id), query);
+    },
+    async getAllById<T>(
+      getFunction: (
+        id: string,
+        query: Record<string, string>
+      ) => Promise<SpotifyApi.PagingObject<T>>,
+      id: string
+    ) {
+      return await client.getAllSaved<T>((query) => getFunction(id, query));
+    },
     async getSavedTracks(query) {
       return client.getSaved(ENDPOINTS.SAVED_TRACKS, query);
     },
@@ -121,6 +169,22 @@ export async function createClient(
     },
     async getAllSavedPlaylists() {
       return await client.getAllSaved(client.getSavedPlaylists);
+    },
+    async getPlaylistTracks(id, query) {
+      return client.getById(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS, id, query);
+    },
+    async getAllPlaylistTracks(id) {
+      return await client.getAllById(client.getPlaylistTracks, id);
+    },
+    async getPlaylist(id, query) {
+      const playlistResponse = client.getById<SpotifyApi.PlaylistObjectFull>(
+        ENDPOINTS_WITH_ID.PLAYLIST,
+        id,
+        query
+      );
+      const tracks = await client.getAllPlaylistTracks(id);
+      const { tracks: _tracks, ...playlist } = await playlistResponse;
+      return { ...playlist, tracks };
     },
   };
 

@@ -10,8 +10,12 @@ function log(message: string): void {
 }
 
 async function writeJSON(name: string, data: Record<string, unknown>) {
-  await mkdir("data", { recursive: true });
+  await mkdir("data/playlists", { recursive: true });
   writeFile(`data/${name}.json`, JSON.stringify(data), {});
+}
+
+async function sleep(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function main() {
@@ -76,6 +80,19 @@ async function main() {
 
   log(`Writing full saved playlists data…`);
   writeJSON("saved_playlists", output);
+
+  for (const playlist of playlists) {
+    log(`Getting playlist ${playlist.name}…`);
+    await client.getPlaylist(playlist.id, {}).then((playlist) => {
+      log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
+      writeJSON(`playlists/${playlist.id}`, playlist);
+    });
+    // Spotify's API rate limit is calculated in a rolling 30 second window.
+    // Sleep for half a second between playlist requests to avoid hitting the
+    // rate limit.
+    log(`Waiting for 500 milliseconds…`);
+    await sleep(500);
+  }
 
   log(`Done!`);
 }
