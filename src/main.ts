@@ -73,17 +73,20 @@ async function main() {
   log(`Writing simplified saved albums data…`);
   writeJSON("saved_albums_simplified", simplifiedOutput);
 
-  log(`Getting all saved playlists…`);
-  const playlists = (await client.getAllSavedPlaylists()).filter((playlist) => {
-    return process.env.SPOTIFY_PUBLIC_PLAYLISTS_ONLY === "true"
-      ? playlist.public
-      : true;
-  });
+  log(`Getting all playlists…`);
+  let playlists = await client.getAllSavedPlaylists();
   total = playlists.length;
+  log(`Found ${total} playlists.`);
+
+  if (process.env.SPOTIFY_PUBLIC_PLAYLISTS_ONLY === "true") {
+    playlists = playlists.filter((playlist) => playlist.public);
+    total = playlists.length;
+    log(`Will only write ${total} public playlists.`);
+  }
   output = { total, playlists };
 
-  log(`Writing full saved playlists data…`);
-  writeJSON("saved_playlists", output);
+  log(`Writing playlists data…`);
+  writeJSON("playlists", output);
 
   for (const playlist of playlists) {
     log(`Getting playlist ${playlist.name}…`);
