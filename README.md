@@ -1,6 +1,6 @@
-# spotify-saved-tracks
+# spotify-to-github
 
-Save your Spotify saved tracks into a GitHub repository, updated daily by GitHub
+Save your Spotify data into a GitHub repository, updated daily by GitHub
 Actions.
 
 To use this repository with your Spotify account, click on "Use this template"
