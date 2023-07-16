@@ -25,12 +25,15 @@ jobs:
           cache: npm
       - run: npm install
       - name: Fetch
+        id: fetch
+        if: env.SPOTIFY_CLIENT_ID && env.SPOTIFY_CLIENT_SECRET && env.SPOTIFY_REFRESH_TOKEN
         run: npm start
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
       - name: Prettify
+        if: steps.fetch.outcome == 'success'
         run: npm run format-data
       - name: Commit and push
         run: |
