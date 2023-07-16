@@ -74,7 +74,11 @@ async function main() {
   writeJSON("saved_albums_simplified", simplifiedOutput);
 
   log(`Getting all saved playlists…`);
-  const playlists = await client.getAllSavedPlaylists();
+  const playlists = (await client.getAllSavedPlaylists()).filter((playlist) => {
+    return process.env.SPOTIFY_PUBLIC_PLAYLISTS_ONLY === "true"
+      ? playlist.public
+      : true;
+  });
   total = playlists.length;
   output = { total, playlists };
 

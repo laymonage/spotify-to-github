@@ -16,6 +16,9 @@ configure the following secrets:
 For more details on how to obtain those values, see
 [Spotify Web API docs][spotify-api].
 
+For playlists, you can set the `SPOTIFY_PUBLIC_PLAYLISTS_ONLY` to `true` if you
+only want to save public playlists. Otherwise, all playlists will be saved.
+
 The workflow is run every day to update the data, but you can trigger it
 [manually][manual-workflow] or by pushing a new commit to the repository. The
 data can then be found inside the `data` directory on the `data` branch.

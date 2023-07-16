@@ -31,6 +31,7 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          SPOTIFY_PUBLIC_PLAYLISTS_ONLY: ${{ vars.SPOTIFY_PUBLIC_PLAYLISTS_ONLY}}
       - name: Prettify
         if: steps.fetch.outcome == 'success'
         run: npm run format-data
