@@ -69,6 +69,14 @@ async function main() {
   log(`Writing simplified saved albums data…`);
   writeJSON("saved_albums_simplified", simplifiedOutput);
 
+  log(`Getting all saved playlists…`);
+  const playlists = await client.getAllSavedPlaylists();
+  total = playlists.length;
+  output = { total, playlists };
+
+  log(`Writing full saved playlists data…`);
+  writeJSON("saved_playlists", output);
+
   log(`Done!`);
 }
 

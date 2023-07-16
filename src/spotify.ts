@@ -4,6 +4,7 @@ const SPOTIFY_ACCOUNTS_BASE_URL = "https://accounts.spotify.com";
 const ENDPOINTS = {
   SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
   SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
+  SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
 } as const;
 
@@ -45,6 +46,10 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersSavedAlbumsResponse>;
   getAllSavedAlbums(): Promise<SpotifyApi.SavedAlbumObject[]>;
+  getSavedPlaylists(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.ListOfUsersPlaylistsResponse>;
+  getAllSavedPlaylists(): Promise<SpotifyApi.PlaylistObjectSimplified[]>;
 }
 
 export async function createClient(
@@ -101,6 +106,9 @@ export async function createClient(
     async getSavedAlbums(query) {
       return client.getSaved(ENDPOINTS.SAVED_ALBUMS, query);
     },
+    async getSavedPlaylists(query) {
+      return client.getSaved(ENDPOINTS.SAVED_PLAYLISTS, query);
+    },
     async getAllSavedTracks() {
       return (await client.getAllSaved(client.getSavedTracks)).sort(
         compareTrack
@@ -110,6 +118,9 @@ export async function createClient(
       return (await client.getAllSaved(client.getSavedAlbums)).sort(
         compareAlbum
       );
+    },
+    async getAllSavedPlaylists() {
+      return await client.getAllSaved(client.getSavedPlaylists);
     },
   };
 
