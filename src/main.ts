@@ -11,6 +11,8 @@ function log(message: string): void {
 
 async function writeJSON(name: string, data: Record<string, unknown>) {
   await mkdir("data/playlists", { recursive: true });
+  await mkdir("data/top/artists", { recursive: true });
+  await mkdir("data/top/tracks", { recursive: true });
   writeFile(`data/${name}.json`, JSON.stringify(data), {});
 }
 
@@ -72,6 +74,29 @@ async function main() {
 
   log(`Writing simplified saved albums data…`);
   writeJSON("saved_albums_simplified", simplifiedOutput);
+
+  const timeRanges = ["short_term", "medium_term", "long_term"];
+  for (const timeRange of timeRanges) {
+    log(`Getting top artists and tracks for ${timeRange}…`);
+    const promises = [
+      client.getAllTopArtists({ time_range: timeRange }),
+      client.getAllTopTracks({ time_range: timeRange }),
+    ];
+    const [artists, tracks] = await Promise.all(promises);
+
+    total = artists.length;
+    log(`Found ${total} top artists for ${timeRange}.`);
+
+    log(`Writing top artists for ${timeRange} data…`);
+    writeJSON(`top/artists/${timeRange}`, { total, artists });
+
+    log(`Getting top tracks for ${timeRange}…`);
+    total = tracks.length;
+    log(`Found ${total} top tracks for ${timeRange}.`);
+
+    log(`Writing top tracks for ${timeRange} data…`);
+    writeJSON(`top/tracks/${timeRange}`, { total, tracks });
+  }
 
   log(`Getting all playlists…`);
   let playlists = await client.getAllSavedPlaylists();

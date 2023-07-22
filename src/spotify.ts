@@ -5,6 +5,8 @@ const ENDPOINTS = {
   SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
   SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
+  TOP_ARTISTS: `${SPOTIFY_API_BASE_URL}/me/top/artists`,
+  TOP_TRACKS: `${SPOTIFY_API_BASE_URL}/me/top/tracks`,
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
 } as const;
 
@@ -58,6 +60,12 @@ interface Client {
     id: string,
     query: Record<string, string>
   ): Promise<T>;
+  getAllTopItems<T>(
+    getFunction: (
+      query: Record<string, string>
+    ) => Promise<SpotifyApi.PagingObject<T>>,
+    query?: Record<string, string>
+  ): Promise<T[]>;
   getSavedTracks(
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersSavedTracksResponse>;
@@ -70,6 +78,18 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.ListOfUsersPlaylistsResponse>;
   getAllSavedPlaylists(): Promise<SpotifyApi.PlaylistObjectSimplified[]>;
+  getTopArtists(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersTopArtistsResponse>;
+  getAllTopArtists(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.ArtistObjectFull[]>;
+  getTopTracks(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersTopTracksResponse>;
+  getAllTopTracks(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.TrackObjectFull[]>;
   getPlaylist(
     id: string,
     query: Record<string, string>
@@ -151,6 +171,26 @@ export async function createClient(
     ) {
       return await client.getAllSaved<T>((query) => getFunction(id, query));
     },
+    async getAllTopItems<T>(
+      getFunction: (
+        query: Record<string, string>
+      ) => Promise<SpotifyApi.PagingObject<T>>,
+      query: Record<string, string> = {}
+    ) {
+      // Spotify's API reports there are only 50 items in total, but you can
+      // actually get 49 more items by setting the limit to 50 and the offset
+      // to 49. Once the offset is 50 or more, you can't get any more items.
+      const { items: first49 } = await getFunction({
+        limit: "49",
+        ...query,
+      });
+      const { items: rest } = await getFunction({
+        limit: "50",
+        offset: "49",
+        ...query,
+      });
+      return [...first49, ...rest];
+    },
     async getSavedTracks(query) {
       return client.getSaved(ENDPOINTS.SAVED_TRACKS, query);
     },
@@ -159,6 +199,12 @@ export async function createClient(
     },
     async getSavedPlaylists(query) {
       return client.getSaved(ENDPOINTS.SAVED_PLAYLISTS, query);
+    },
+    async getTopArtists(query) {
+      return client.getSaved(ENDPOINTS.TOP_ARTISTS, query);
+    },
+    async getTopTracks(query) {
+      return client.getSaved(ENDPOINTS.TOP_TRACKS, query);
     },
     async getAllSavedTracks() {
       return (await client.getAllSaved(client.getSavedTracks)).sort(
@@ -172,6 +218,12 @@ export async function createClient(
     },
     async getAllSavedPlaylists() {
       return await client.getAllSaved(client.getSavedPlaylists);
+    },
+    async getAllTopArtists(query) {
+      return await client.getAllTopItems(client.getTopArtists, query);
+    },
+    async getAllTopTracks(query) {
+      return await client.getAllTopItems(client.getTopTracks, query);
     },
     async getPlaylistTracks(id, query) {
       return client.getById(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS, id, query);
