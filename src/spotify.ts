@@ -330,6 +330,12 @@ function compareString(a: string, b: string): number {
   return a.localeCompare(b, undefined, { sensitivity: "base" });
 }
 
+type NamedEntity = { name: string; id: string };
+
+function compareNamedEntity(a: NamedEntity, b: NamedEntity) {
+  return compareString(a.name, b.name) || compareString(a.id, b.id);
+}
+
 function compareDateString(a: string, b: string): number {
   return new Date(b).getTime() - new Date(a).getTime();
 }
@@ -350,10 +356,8 @@ function compareTrack(
 ): number {
   return (
     compareSaved(a, b) ||
-    compareString(a.track.artists[0].name, b.track.artists[0].name) ||
-    compareString(a.track.artists[0].id, b.track.artists[0].id) ||
-    compareString(a.track.album.name, b.track.album.name) ||
-    compareString(a.track.album.id, b.track.album.id) ||
+    compareNamedEntity(a.track.artists[0], b.track.artists[0]) ||
+    compareNamedEntity(a.track.album, b.track.album) ||
     a.track.disc_number - b.track.disc_number ||
     a.track.track_number - b.track.track_number
   );
@@ -365,10 +369,8 @@ function compareAlbum(
 ): number {
   return (
     compareSaved(a, b) ||
-    compareString(a.album.artists[0].name, b.album.artists[0].name) ||
-    compareString(a.album.artists[0].id, b.album.artists[0].id) ||
-    compareString(a.album.name, b.album.name) ||
-    compareString(a.album.id, b.album.id)
+    compareNamedEntity(a.album.artists[0], b.album.artists[0]) ||
+    compareNamedEntity(a.album, b.album)
   );
 }
 
@@ -378,8 +380,7 @@ function compareEpisode(
 ): number {
   return (
     compareSaved(a, b) ||
-    compareString(a.episode.show.name, b.episode.show.name) ||
-    compareString(a.episode.show.id, b.episode.show.id) ||
+    compareNamedEntity(a.episode.show, b.episode.show) ||
     compareDateString(a.episode.release_date, b.episode.release_date)
   );
 }
@@ -388,11 +389,7 @@ function compareShow(
   a: SpotifyApi.SavedShowObject,
   b: SpotifyApi.SavedShowObject
 ): number {
-  return (
-    compareSaved(a, b) ||
-    compareString(a.show.name, b.show.name) ||
-    compareString(a.show.id, b.show.id)
-  );
+  return compareSaved(a, b) || compareNamedEntity(a.show, b.show);
 }
 
 export function simplifySavedTrack(
