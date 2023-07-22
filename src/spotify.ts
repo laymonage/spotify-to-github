@@ -354,7 +354,11 @@ function compareTrack(
     return a.track.disc_number - b.track.disc_number;
   }
 
-  return compareString(a.track.name, b.track.name);
+  if (a.track.artists[0].id === b.track.artists[0].id) {
+    return compareString(a.track.album.name, b.track.album.name);
+  }
+
+  return compareString(a.track.artists[0].name, b.track.artists[0].name);
 }
 
 function compareAlbum(
@@ -364,7 +368,11 @@ function compareAlbum(
   const byDate = compareSaved(a, b);
   if (byDate !== 0) return byDate;
 
-  return compareString(a.album.name, b.album.name);
+  if (a.album.artists[0].id === b.album.artists[0].id) {
+    return compareString(a.album.name, b.album.name);
+  }
+
+  return compareString(a.album.artists[0].name, b.album.artists[0].name);
 }
 
 function compareEpisode(
