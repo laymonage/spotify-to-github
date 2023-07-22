@@ -42,7 +42,8 @@ interface Client {
   getAllSaved<T>(
     getFunction: (
       query: Record<string, string>
-    ) => Promise<SpotifyApi.PagingObject<T>>
+    ) => Promise<SpotifyApi.PagingObject<T>>,
+    query?: Record<string, string>
   ): Promise<T[]>;
   getSaved<T>(endpoint: ENDPOINT, query: Record<string, string>): Promise<T>;
   getAllById<T>(
@@ -114,17 +115,19 @@ export async function createClient(
     async getAllSaved<T>(
       getFunction: (
         query: Record<string, string>
-      ) => Promise<SpotifyApi.PagingObject<T>>
+      ) => Promise<SpotifyApi.PagingObject<T>>,
+      query: Record<string, string> = {}
     ) {
       const { limit, total, items } = await getFunction({
         limit: "50",
+        ...query,
       });
 
       const promises: Promise<SpotifyApi.PagingObject<T>>[] = [];
 
       for (let i = 1; i <= Math.floor(total / 50); i++) {
         promises.push(
-          getFunction({ limit: `${limit}`, offset: `${i * limit}` })
+          getFunction({ limit: `${limit}`, offset: `${i * limit}`, ...query })
         );
       }
 
