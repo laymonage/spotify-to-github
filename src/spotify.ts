@@ -348,59 +348,51 @@ function compareTrack(
   a: SpotifyApi.SavedTrackObject,
   b: SpotifyApi.SavedTrackObject
 ): number {
-  const byDate = compareSaved(a, b);
-  if (byDate !== 0) return byDate;
-
-  if (a.track.album.id === b.track.album.id) {
-    if (a.track.disc_number === b.track.disc_number) {
-      return a.track.track_number - b.track.track_number;
-    }
-    return a.track.disc_number - b.track.disc_number;
-  }
-
-  if (a.track.artists[0].id === b.track.artists[0].id) {
-    return compareString(a.track.album.name, b.track.album.name);
-  }
-
-  return compareString(a.track.artists[0].name, b.track.artists[0].name);
+  return (
+    compareSaved(a, b) ||
+    compareString(a.track.artists[0].name, b.track.artists[0].name) ||
+    compareString(a.track.artists[0].id, b.track.artists[0].id) ||
+    compareString(a.track.album.name, b.track.album.name) ||
+    compareString(a.track.album.id, b.track.album.id) ||
+    a.track.disc_number - b.track.disc_number ||
+    a.track.track_number - b.track.track_number
+  );
 }
 
 function compareAlbum(
   a: SpotifyApi.SavedAlbumObject,
   b: SpotifyApi.SavedAlbumObject
 ): number {
-  const byDate = compareSaved(a, b);
-  if (byDate !== 0) return byDate;
-
-  if (a.album.artists[0].id === b.album.artists[0].id) {
-    return compareString(a.album.name, b.album.name);
-  }
-
-  return compareString(a.album.artists[0].name, b.album.artists[0].name);
+  return (
+    compareSaved(a, b) ||
+    compareString(a.album.artists[0].name, b.album.artists[0].name) ||
+    compareString(a.album.artists[0].id, b.album.artists[0].id) ||
+    compareString(a.album.name, b.album.name) ||
+    compareString(a.album.id, b.album.id)
+  );
 }
 
 function compareEpisode(
   a: SpotifyApi.SavedEpisodeObject,
   b: SpotifyApi.SavedEpisodeObject
 ): number {
-  const byDate = compareSaved(a, b);
-  if (byDate !== 0) return byDate;
-
-  if (a.episode.show.id === b.episode.show.id) {
-    return compareDateString(a.episode.release_date, b.episode.release_date);
-  }
-
-  return compareString(a.episode.show.name, b.episode.show.name);
+  return (
+    compareSaved(a, b) ||
+    compareString(a.episode.show.name, b.episode.show.name) ||
+    compareString(a.episode.show.id, b.episode.show.id) ||
+    compareDateString(a.episode.release_date, b.episode.release_date)
+  );
 }
 
 function compareShow(
   a: SpotifyApi.SavedShowObject,
   b: SpotifyApi.SavedShowObject
 ): number {
-  const byDate = compareSaved(a, b);
-  if (byDate !== 0) return byDate;
-
-  return compareString(a.show.name, b.show.name);
+  return (
+    compareSaved(a, b) ||
+    compareString(a.show.name, b.show.name) ||
+    compareString(a.show.id, b.show.id)
+  );
 }
 
 export function simplifySavedTrack(
