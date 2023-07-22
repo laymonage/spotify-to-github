@@ -260,10 +260,12 @@ export async function createClient(
       return await client.getAllSaved(client.getSavedPlaylists);
     },
     async getAllSavedShows() {
-      return await client.getAllSaved(client.getSavedShows);
+      return (await client.getAllSaved(client.getSavedShows)).sort(compareShow);
     },
     async getAllSavedEpisodes() {
-      return await client.getAllSaved(client.getSavedEpisodes);
+      return (await client.getAllSaved(client.getSavedEpisodes)).sort(
+        compareEpisode
+      );
     },
     async getAllTopArtists(query) {
       return await client.getAllTopItems(client.getTopArtists, query);
@@ -324,12 +326,21 @@ export async function createClient(
   return client;
 }
 
+function compareSaved<
+  T extends
+    | SpotifyApi.SavedAlbumObject
+    | SpotifyApi.SavedTrackObject
+    | SpotifyApi.SavedShowObject
+    | SpotifyApi.SavedEpisodeObject
+>(a: T, b: T): number {
+  return new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+}
+
 function compareTrack(
   a: SpotifyApi.SavedTrackObject,
   b: SpotifyApi.SavedTrackObject
 ): number {
-  const byDate =
-    new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+  const byDate = compareSaved(a, b);
   if (byDate !== 0) return byDate;
 
   if (a.track.album.id === b.track.album.id) {
@@ -346,11 +357,37 @@ function compareAlbum(
   a: SpotifyApi.SavedAlbumObject,
   b: SpotifyApi.SavedAlbumObject
 ): number {
-  const byDate =
-    new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+  const byDate = compareSaved(a, b);
   if (byDate !== 0) return byDate;
 
   return a.album.name.localeCompare(b.album.name);
+}
+
+function compareEpisode(
+  a: SpotifyApi.SavedEpisodeObject,
+  b: SpotifyApi.SavedEpisodeObject
+): number {
+  const byDate = compareSaved(a, b);
+  if (byDate !== 0) return byDate;
+
+  if (a.episode.show.id === b.episode.show.id) {
+    return (
+      new Date(b.episode.release_date).getTime() -
+      new Date(a.episode.release_date).getTime()
+    );
+  }
+
+  return a.episode.name.localeCompare(b.episode.name);
+}
+
+function compareShow(
+  a: SpotifyApi.SavedShowObject,
+  b: SpotifyApi.SavedShowObject
+): number {
+  const byDate = compareSaved(a, b);
+  if (byDate !== 0) return byDate;
+
+  return a.show.name.localeCompare(b.show.name);
 }
 
 export function simplifySavedTrack(
