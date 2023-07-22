@@ -330,6 +330,10 @@ function compareString(a: string, b: string): number {
   return a.localeCompare(b, undefined, { sensitivity: "base" });
 }
 
+function compareDateString(a: string, b: string): number {
+  return new Date(b).getTime() - new Date(a).getTime();
+}
+
 function compareSaved<
   T extends
     | SpotifyApi.SavedAlbumObject
@@ -337,7 +341,7 @@ function compareSaved<
     | SpotifyApi.SavedShowObject
     | SpotifyApi.SavedEpisodeObject
 >(a: T, b: T): number {
-  return new Date(b.added_at).getTime() - new Date(a.added_at).getTime();
+  return compareDateString(a.added_at, b.added_at);
 }
 
 function compareTrack(
@@ -383,10 +387,7 @@ function compareEpisode(
   if (byDate !== 0) return byDate;
 
   if (a.episode.show.id === b.episode.show.id) {
-    return (
-      new Date(b.episode.release_date).getTime() -
-      new Date(a.episode.release_date).getTime()
-    );
+    return compareDateString(a.episode.release_date, b.episode.release_date);
   }
 
   return compareString(a.episode.name, b.episode.name);
