@@ -6,6 +6,7 @@ const ENDPOINTS = {
   SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
   SAVED_SHOWS: `${SPOTIFY_API_BASE_URL}/me/shows`,
+  SAVED_EPISODES: `${SPOTIFY_API_BASE_URL}/me/episodes`,
   TOP_ARTISTS: `${SPOTIFY_API_BASE_URL}/me/top/artists`,
   TOP_TRACKS: `${SPOTIFY_API_BASE_URL}/me/top/tracks`,
   FOLLOWING: `${SPOTIFY_API_BASE_URL}/me/following`,
@@ -87,6 +88,10 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersSavedShowsResponse>;
   getAllSavedShows(): Promise<SpotifyApi.SavedShowObject[]>;
+  getSavedEpisodes(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersSavedEpisodesResponse>;
+  getAllSavedEpisodes(): Promise<SpotifyApi.SavedEpisodeObject[]>;
   getTopArtists(
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersTopArtistsResponse>;
@@ -229,6 +234,9 @@ export async function createClient(
     async getSavedShows(query) {
       return client.getSaved(ENDPOINTS.SAVED_SHOWS, query);
     },
+    async getSavedEpisodes(query) {
+      return client.getSaved(ENDPOINTS.SAVED_EPISODES, query);
+    },
     async getTopArtists(query) {
       return client.getSaved(ENDPOINTS.TOP_ARTISTS, query);
     },
@@ -253,6 +261,9 @@ export async function createClient(
     },
     async getAllSavedShows() {
       return await client.getAllSaved(client.getSavedShows);
+    },
+    async getAllSavedEpisodes() {
+      return await client.getAllSaved(client.getSavedEpisodes);
     },
     async getAllTopArtists(query) {
       return await client.getAllTopItems(client.getTopArtists, query);

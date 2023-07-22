@@ -76,6 +76,16 @@ async function main() {
   log(`Writing simplified saved albums data…`);
   writeJSON("saved_albums_simplified", simplifiedOutput);
 
+  log(`Getting all saved episodes…`);
+  const episodes = await client.getAllSavedEpisodes();
+
+  total = episodes.length;
+  log(`Found ${total} saved episodes.`);
+
+  log(`Writing saved episodes data…`);
+  output = { total, episodes };
+  writeJSON("saved_episodes", output);
+
   const timeRanges = ["short_term", "medium_term", "long_term"];
   for (const timeRange of timeRanges) {
     log(`Getting top artists and tracks for ${timeRange}…`);
