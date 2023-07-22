@@ -98,6 +98,16 @@ async function main() {
     writeJSON(`top/tracks/${timeRange}`, { total, tracks });
   }
 
+  log(`Getting all followed artists…`);
+  const followedArtists = await client.getAllFollowing();
+
+  total = followedArtists.length;
+  log(`Found ${total} followed artists.`);
+
+  log(`Writing followed artists data…`);
+  output = { total, artists: followedArtists };
+  writeJSON("following", output);
+
   log(`Getting all playlists…`);
   let playlists = await client.getAllSavedPlaylists();
   total = playlists.length;

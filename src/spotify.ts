@@ -7,6 +7,7 @@ const ENDPOINTS = {
   SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
   TOP_ARTISTS: `${SPOTIFY_API_BASE_URL}/me/top/artists`,
   TOP_TRACKS: `${SPOTIFY_API_BASE_URL}/me/top/tracks`,
+  FOLLOWING: `${SPOTIFY_API_BASE_URL}/me/following`,
   TOKEN: `${SPOTIFY_ACCOUNTS_BASE_URL}/api/token`,
 } as const;
 
@@ -90,6 +91,10 @@ interface Client {
   getAllTopTracks(
     query: Record<string, string>
   ): Promise<SpotifyApi.TrackObjectFull[]>;
+  getFollowing(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersFollowedArtistsResponse>;
+  getAllFollowing(): Promise<SpotifyApi.ArtistObjectFull[]>;
   getPlaylist(
     id: string,
     query: Record<string, string>
@@ -206,6 +211,9 @@ export async function createClient(
     async getTopTracks(query) {
       return client.getSaved(ENDPOINTS.TOP_TRACKS, query);
     },
+    async getFollowing(query) {
+      return client.getSaved(ENDPOINTS.FOLLOWING, { type: "artist", ...query });
+    },
     async getAllSavedTracks() {
       return (await client.getAllSaved(client.getSavedTracks)).sort(
         compareTrack
@@ -224,6 +232,22 @@ export async function createClient(
     },
     async getAllTopTracks(query) {
       return await client.getAllTopItems(client.getTopTracks, query);
+    },
+    async getAllFollowing() {
+      const { artists } = await client.getFollowing({ limit: "50" });
+      const { items } = artists;
+      let after: string | null = artists.cursors.after;
+
+      while (after) {
+        const { artists: nextArtists } = await client.getFollowing({
+          limit: "50",
+          after,
+        });
+        items.push(...nextArtists.items);
+        after = nextArtists.cursors.after;
+      }
+
+      return items;
     },
     async getPlaylistTracks(id, query) {
       return client.getById(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS, id, query);
