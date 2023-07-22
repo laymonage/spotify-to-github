@@ -257,7 +257,9 @@ export async function createClient(
       );
     },
     async getAllSavedPlaylists() {
-      return await client.getAllSaved(client.getSavedPlaylists);
+      return (await client.getAllSaved(client.getSavedPlaylists)).sort(
+        compareNamedEntity
+      );
     },
     async getAllSavedShows() {
       return (await client.getAllSaved(client.getSavedShows)).sort(compareShow);
@@ -287,7 +289,7 @@ export async function createClient(
         after = nextArtists.cursors.after;
       }
 
-      return items;
+      return items.sort(compareNamedEntity);
     },
     async getPlaylistTracks(id, query) {
       return client.getById(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS, id, query);
