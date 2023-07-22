@@ -390,7 +390,7 @@ function compareEpisode(
     return compareDateString(a.episode.release_date, b.episode.release_date);
   }
 
-  return compareString(a.episode.name, b.episode.name);
+  return compareString(a.episode.show.name, b.episode.show.name);
 }
 
 function compareShow(
