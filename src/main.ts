@@ -13,6 +13,7 @@ async function writeJSON(name: string, data: Record<string, unknown>) {
   await mkdir("data/playlists", { recursive: true });
   await mkdir("data/top/artists", { recursive: true });
   await mkdir("data/top/tracks", { recursive: true });
+  await mkdir("data/shows", { recursive: true });
   writeFile(`data/${name}.json`, JSON.stringify(data), {});
 }
 
@@ -131,6 +132,28 @@ async function main() {
     });
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
+    // rate limit.
+    log(`Waiting for 500 milliseconds…`);
+    await sleep(500);
+  }
+
+  log(`Getting all shows…`);
+  const shows = await client.getAllSavedShows();
+  total = shows.length;
+  log(`Found ${total} shows.`);
+
+  log(`Writing shows data…`);
+  output = { total, shows };
+  writeJSON("saved_shows", output);
+
+  for (const savedShow of shows) {
+    log(`Getting show ${savedShow.show.name}…`);
+    await client.getShow(savedShow.show.id, {}).then((show) => {
+      log(`Writing show ${show.name} to ${show.id}.json…`);
+      writeJSON(`shows/${show.id}`, show);
+    });
+    // Spotify's API rate limit is calculated in a rolling 30 second window.
+    // Sleep for half a second between show requests to avoid hitting the
     // rate limit.
     log(`Waiting for 500 milliseconds…`);
     await sleep(500);

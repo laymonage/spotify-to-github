@@ -5,6 +5,7 @@ const ENDPOINTS = {
   SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
   SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
+  SAVED_SHOWS: `${SPOTIFY_API_BASE_URL}/me/shows`,
   TOP_ARTISTS: `${SPOTIFY_API_BASE_URL}/me/top/artists`,
   TOP_TRACKS: `${SPOTIFY_API_BASE_URL}/me/top/tracks`,
   FOLLOWING: `${SPOTIFY_API_BASE_URL}/me/following`,
@@ -15,6 +16,9 @@ const ENDPOINTS_WITH_ID = {
   PLAYLIST: (id: string) => `${SPOTIFY_API_BASE_URL}/playlists/${id}` as const,
   PLAYLIST_TRACKS: (id: string) =>
     `${SPOTIFY_API_BASE_URL}/playlists/${id}/tracks` as const,
+  SHOW: (id: string) => `${SPOTIFY_API_BASE_URL}/shows/${id}` as const,
+  SHOW_EPISODES: (id: string) =>
+    `${SPOTIFY_API_BASE_URL}/shows/${id}/episodes` as const,
 } as const;
 
 type ENDPOINT =
@@ -79,6 +83,10 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.ListOfUsersPlaylistsResponse>;
   getAllSavedPlaylists(): Promise<SpotifyApi.PlaylistObjectSimplified[]>;
+  getSavedShows(
+    query: Record<string, string>
+  ): Promise<SpotifyApi.UsersSavedShowsResponse>;
+  getAllSavedShows(): Promise<SpotifyApi.SavedShowObject[]>;
   getTopArtists(
     query: Record<string, string>
   ): Promise<SpotifyApi.UsersTopArtistsResponse>;
@@ -108,6 +116,19 @@ interface Client {
     query: Record<string, string>
   ): Promise<SpotifyApi.PlaylistTrackResponse>;
   getAllPlaylistTracks(id: string): Promise<SpotifyApi.PlaylistTrackObject[]>;
+  getShow(
+    id: string,
+    query: Record<string, string>
+  ): Promise<
+    Omit<SpotifyApi.ShowObjectFull, "episodes"> & {
+      episodes: SpotifyApi.EpisodeObjectSimplified[];
+    }
+  >;
+  getShowEpisodes(
+    id: string,
+    query: Record<string, string>
+  ): Promise<SpotifyApi.ShowEpisodesResponse>;
+  getAllShowEpisodes(id: string): Promise<SpotifyApi.EpisodeObjectSimplified[]>;
 }
 
 export async function createClient(
@@ -205,6 +226,9 @@ export async function createClient(
     async getSavedPlaylists(query) {
       return client.getSaved(ENDPOINTS.SAVED_PLAYLISTS, query);
     },
+    async getSavedShows(query) {
+      return client.getSaved(ENDPOINTS.SAVED_SHOWS, query);
+    },
     async getTopArtists(query) {
       return client.getSaved(ENDPOINTS.TOP_ARTISTS, query);
     },
@@ -226,6 +250,9 @@ export async function createClient(
     },
     async getAllSavedPlaylists() {
       return await client.getAllSaved(client.getSavedPlaylists);
+    },
+    async getAllSavedShows() {
+      return await client.getAllSaved(client.getSavedShows);
     },
     async getAllTopArtists(query) {
       return await client.getAllTopItems(client.getTopArtists, query);
@@ -264,6 +291,22 @@ export async function createClient(
       const tracks = await client.getAllPlaylistTracks(id);
       const { tracks: _tracks, ...playlist } = await playlistResponse;
       return { ...playlist, tracks };
+    },
+    async getShowEpisodes(id, query) {
+      return client.getById(ENDPOINTS_WITH_ID.SHOW_EPISODES, id, query);
+    },
+    async getAllShowEpisodes(id) {
+      return await client.getAllById(client.getShowEpisodes, id);
+    },
+    async getShow(id, query) {
+      const showResponse = client.getById<SpotifyApi.ShowObjectFull>(
+        ENDPOINTS_WITH_ID.SHOW,
+        id,
+        query
+      );
+      const episodes = await client.getAllShowEpisodes(id);
+      const { episodes: _episodes, ...show } = await showResponse;
+      return { ...show, episodes };
     },
   };
 
