@@ -2,11 +2,11 @@ const SPOTIFY_API_BASE_URL = "https://api.spotify.com/v1";
 const SPOTIFY_ACCOUNTS_BASE_URL = "https://accounts.spotify.com";
 
 const ENDPOINTS = {
-  SAVED_TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
-  SAVED_ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
-  SAVED_PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
-  SAVED_SHOWS: `${SPOTIFY_API_BASE_URL}/me/shows`,
-  SAVED_EPISODES: `${SPOTIFY_API_BASE_URL}/me/episodes`,
+  TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
+  ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
+  PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
+  SHOWS: `${SPOTIFY_API_BASE_URL}/me/shows`,
+  EPISODES: `${SPOTIFY_API_BASE_URL}/me/episodes`,
   TOP_ARTISTS: `${SPOTIFY_API_BASE_URL}/me/top/artists`,
   TOP_TRACKS: `${SPOTIFY_API_BASE_URL}/me/top/tracks`,
   FOLLOWING: `${SPOTIFY_API_BASE_URL}/me/following`,
@@ -223,19 +223,19 @@ export async function createClient(
       return [...first49, ...rest];
     },
     async getSavedTracks(query) {
-      return client.getSaved(ENDPOINTS.SAVED_TRACKS, query);
+      return client.getSaved(ENDPOINTS.TRACKS, query);
     },
     async getSavedAlbums(query) {
-      return client.getSaved(ENDPOINTS.SAVED_ALBUMS, query);
+      return client.getSaved(ENDPOINTS.ALBUMS, query);
     },
     async getSavedPlaylists(query) {
-      return client.getSaved(ENDPOINTS.SAVED_PLAYLISTS, query);
+      return client.getSaved(ENDPOINTS.PLAYLISTS, query);
     },
     async getSavedShows(query) {
-      return client.getSaved(ENDPOINTS.SAVED_SHOWS, query);
+      return client.getSaved(ENDPOINTS.SHOWS, query);
     },
     async getSavedEpisodes(query) {
-      return client.getSaved(ENDPOINTS.SAVED_EPISODES, query);
+      return client.getSaved(ENDPOINTS.EPISODES, query);
     },
     async getTopArtists(query) {
       return client.getSaved(ENDPOINTS.TOP_ARTISTS, query);

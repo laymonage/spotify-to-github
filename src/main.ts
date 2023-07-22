@@ -49,7 +49,7 @@ async function main() {
 
   log(`Writing full saved tracks data…`);
   let output: Record<string, unknown> = { total, tracks };
-  writeJSON("saved_tracks", output);
+  writeJSON("tracks", output);
 
   log(`Simplifying saved tracks data…`);
   let simplifiedOutput: { total: number } & Record<string, unknown> = {
@@ -58,7 +58,7 @@ async function main() {
   };
 
   log(`Writing simplified saved tracks data…`);
-  writeJSON("saved_tracks_simplified", simplifiedOutput);
+  writeJSON("tracks_simplified", simplifiedOutput);
 
   log(`Getting all saved albums…`);
   const albums = await client.getAllSavedAlbums();
@@ -68,13 +68,13 @@ async function main() {
 
   log(`Writing full saved albums data…`);
   output = { total, albums };
-  writeJSON("saved_albums", output);
+  writeJSON("albums", output);
 
   log(`Simplifying saved albums data…`);
   simplifiedOutput = { total, albums: albums.map(simplifySavedAlbum) };
 
   log(`Writing simplified saved albums data…`);
-  writeJSON("saved_albums_simplified", simplifiedOutput);
+  writeJSON("albums_simplified", simplifiedOutput);
 
   log(`Getting all saved episodes…`);
   const episodes = await client.getAllSavedEpisodes();
@@ -84,7 +84,7 @@ async function main() {
 
   log(`Writing saved episodes data…`);
   output = { total, episodes };
-  writeJSON("saved_episodes", output);
+  writeJSON("episodes", output);
 
   const timeRanges = ["short_term", "medium_term", "long_term"];
   for (const timeRange of timeRanges) {
@@ -154,7 +154,7 @@ async function main() {
 
   log(`Writing shows data…`);
   output = { total, shows };
-  writeJSON("saved_shows", output);
+  writeJSON("shows", output);
 
   for (const savedShow of shows) {
     log(`Getting show ${savedShow.show.name}…`);
