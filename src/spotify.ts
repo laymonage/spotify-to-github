@@ -326,6 +326,10 @@ export async function createClient(
   return client;
 }
 
+function compareString(a: string, b: string): number {
+  return a.localeCompare(b, undefined, { sensitivity: "base" });
+}
+
 function compareSaved<
   T extends
     | SpotifyApi.SavedAlbumObject
@@ -350,7 +354,7 @@ function compareTrack(
     return a.track.disc_number - b.track.disc_number;
   }
 
-  return a.track.name.localeCompare(b.track.name);
+  return compareString(a.track.name, b.track.name);
 }
 
 function compareAlbum(
@@ -360,7 +364,7 @@ function compareAlbum(
   const byDate = compareSaved(a, b);
   if (byDate !== 0) return byDate;
 
-  return a.album.name.localeCompare(b.album.name);
+  return compareString(a.album.name, b.album.name);
 }
 
 function compareEpisode(
@@ -377,7 +381,7 @@ function compareEpisode(
     );
   }
 
-  return a.episode.name.localeCompare(b.episode.name);
+  return compareString(a.episode.name, b.episode.name);
 }
 
 function compareShow(
@@ -387,7 +391,7 @@ function compareShow(
   const byDate = compareSaved(a, b);
   if (byDate !== 0) return byDate;
 
-  return a.show.name.localeCompare(b.show.name);
+  return compareString(a.show.name, b.show.name);
 }
 
 export function simplifySavedTrack(
