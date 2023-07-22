@@ -258,7 +258,7 @@ export async function createClient(
     },
     async getAllSavedPlaylists() {
       return (await client.getAllSaved(client.getSavedPlaylists)).sort(
-        compareNamedEntity
+        comparePlaylist
       );
     },
     async getAllSavedShows() {
@@ -392,6 +392,17 @@ function compareShow(
   b: SpotifyApi.SavedShowObject
 ): number {
   return compareSaved(a, b) || compareNamedEntity(a.show, b.show);
+}
+
+function comparePlaylist(
+  a: SpotifyApi.PlaylistObjectSimplified,
+  b: SpotifyApi.PlaylistObjectSimplified
+): number {
+  return (
+    compareString(a.owner.display_name || "", b.owner.display_name || "") ||
+    compareString(a.owner.id, b.owner.id) ||
+    compareNamedEntity(a, b)
+  );
 }
 
 export function simplifySavedTrack(
