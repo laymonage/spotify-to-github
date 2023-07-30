@@ -34,6 +34,9 @@ async function main() {
   log(`Getting all saved tracks…`);
   const tracks = await client.getAllSavedTracks();
 
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
+
   let total = tracks.length;
   log(`Found ${total} saved tracks.`);
 
@@ -53,6 +56,9 @@ async function main() {
   log(`Getting all saved albums…`);
   const albums = await client.getAllSavedAlbums();
 
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
+
   total = albums.length;
   log(`Found ${total} saved albums.`);
 
@@ -66,6 +72,9 @@ async function main() {
   log(`Writing simplified saved albums data…`);
   writeJSON("albums_simplified", simplifiedOutput);
 
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
+
   log(`Getting all saved episodes…`);
   const episodes = await client.getAllSavedEpisodes();
 
@@ -75,6 +84,9 @@ async function main() {
   log(`Writing saved episodes data…`);
   output = { total, episodes };
   writeJSON("episodes", output);
+
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
 
   const timeRanges = ["short_term", "medium_term", "long_term"];
   for (const timeRange of timeRanges) {
@@ -97,6 +109,9 @@ async function main() {
 
     log(`Writing top tracks for ${timeRange} data…`);
     writeJSON(`top/tracks/${timeRange}`, { total, tracks });
+
+    log(`Waiting for 1 second…`);
+    await sleep(1000);
   }
 
   log(`Getting all followed artists…`);
@@ -108,6 +123,9 @@ async function main() {
   log(`Writing followed artists data…`);
   output = { total, artists: followedArtists };
   writeJSON("following", output);
+
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
 
   log(`Getting all playlists…`);
   let playlists = await client.getAllSavedPlaylists();
@@ -124,6 +142,9 @@ async function main() {
   log(`Writing playlists data…`);
   writeJSON("playlists", output);
 
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
+
   for (const playlist of playlists) {
     log(`Getting playlist ${playlist.name}…`);
     await client.getPlaylist(playlist.id, {}).then((playlist) => {
@@ -137,6 +158,9 @@ async function main() {
     await sleep(500);
   }
 
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
+
   log(`Getting all shows…`);
   const shows = await client.getAllSavedShows();
   total = shows.length;
@@ -145,6 +169,9 @@ async function main() {
   log(`Writing shows data…`);
   output = { total, shows };
   writeJSON("shows", output);
+
+  log(`Waiting for 1 second…`);
+  await sleep(1000);
 
   for (const savedShow of shows) {
     log(`Getting show ${savedShow.show.name}…`);
