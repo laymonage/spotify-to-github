@@ -38,7 +38,7 @@ async function main() {
   const client = await createClient(
     SPOTIFY_CLIENT_ID,
     SPOTIFY_CLIENT_SECRET,
-    SPOTIFY_REFRESH_TOKEN
+    SPOTIFY_REFRESH_TOKEN,
   );
 
   log(`Getting all saved tracks…`);

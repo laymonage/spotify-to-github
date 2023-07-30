@@ -29,7 +29,7 @@ type ENDPOINT =
 async function getAccessToken(
   clientId: string,
   clientSecret: string,
-  refreshToken: string
+  refreshToken: string,
 ): Promise<string> {
   const auth = Buffer.from(`${clientId}:${clientSecret}`).toString("base64");
   const response = await fetch(ENDPOINTS.TOKEN, {
@@ -49,68 +49,68 @@ async function getAccessToken(
 interface Client {
   getAllSaved<T>(
     getFunction: (
-      query: Record<string, string>
+      query: Record<string, string>,
     ) => Promise<SpotifyApi.PagingObject<T>>,
-    query?: Record<string, string>
+    query?: Record<string, string>,
   ): Promise<T[]>;
   getSaved<T>(endpoint: ENDPOINT, query: Record<string, string>): Promise<T>;
   getAllById<T>(
     getFunction: (
       id: string,
-      query: Record<string, string>
+      query: Record<string, string>,
     ) => Promise<SpotifyApi.PagingObject<T>>,
-    id: string
+    id: string,
   ): Promise<T[]>;
   getById<T>(
     endpoint: (typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID],
     id: string,
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<T>;
   getAllTopItems<T>(
     getFunction: (
-      query: Record<string, string>
+      query: Record<string, string>,
     ) => Promise<SpotifyApi.PagingObject<T>>,
-    query?: Record<string, string>
+    query?: Record<string, string>,
   ): Promise<T[]>;
   getSavedTracks(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersSavedTracksResponse>;
   getAllSavedTracks(): Promise<SpotifyApi.SavedTrackObject[]>;
   getSavedAlbums(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersSavedAlbumsResponse>;
   getAllSavedAlbums(): Promise<SpotifyApi.SavedAlbumObject[]>;
   getSavedPlaylists(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.ListOfUsersPlaylistsResponse>;
   getAllSavedPlaylists(): Promise<SpotifyApi.PlaylistObjectSimplified[]>;
   getSavedShows(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersSavedShowsResponse>;
   getAllSavedShows(): Promise<SpotifyApi.SavedShowObject[]>;
   getSavedEpisodes(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersSavedEpisodesResponse>;
   getAllSavedEpisodes(): Promise<SpotifyApi.SavedEpisodeObject[]>;
   getTopArtists(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersTopArtistsResponse>;
   getAllTopArtists(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.ArtistObjectFull[]>;
   getTopTracks(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersTopTracksResponse>;
   getAllTopTracks(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.TrackObjectFull[]>;
   getFollowing(
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.UsersFollowedArtistsResponse>;
   getAllFollowing(): Promise<SpotifyApi.ArtistObjectFull[]>;
   getPlaylist(
     id: string,
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<
     Omit<SpotifyApi.PlaylistObjectFull, "tracks"> & {
       tracks: SpotifyApi.PlaylistTrackObject[];
@@ -118,12 +118,12 @@ interface Client {
   >;
   getPlaylistTracks(
     id: string,
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.PlaylistTrackResponse>;
   getAllPlaylistTracks(id: string): Promise<SpotifyApi.PlaylistTrackObject[]>;
   getShow(
     id: string,
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<
     Omit<SpotifyApi.ShowObjectFull, "episodes"> & {
       episodes: SpotifyApi.EpisodeObjectSimplified[];
@@ -131,7 +131,7 @@ interface Client {
   >;
   getShowEpisodes(
     id: string,
-    query: Record<string, string>
+    query: Record<string, string>,
   ): Promise<SpotifyApi.ShowEpisodesResponse>;
   getAllShowEpisodes(id: string): Promise<SpotifyApi.EpisodeObjectSimplified[]>;
 }
@@ -139,12 +139,12 @@ interface Client {
 export async function createClient(
   clientId: string,
   clientSecret: string,
-  refreshToken: string
+  refreshToken: string,
 ): Promise<Client> {
   const accessToken = await getAccessToken(
     clientId,
     clientSecret,
-    refreshToken
+    refreshToken,
   );
   const init = {
     headers: {
@@ -155,19 +155,19 @@ export async function createClient(
   const client: Client = {
     async getSaved<T>(
       endpoint: (typeof ENDPOINTS)[keyof typeof ENDPOINTS],
-      query: Record<string, string>
+      query: Record<string, string>,
     ) {
       const response = await fetch(
         `${endpoint}?${new URLSearchParams(query)}`,
-        init
+        init,
       );
       return (await response.json()) as T;
     },
     async getAllSaved<T>(
       getFunction: (
-        query: Record<string, string>
+        query: Record<string, string>,
       ) => Promise<SpotifyApi.PagingObject<T>>,
-      query: Record<string, string> = {}
+      query: Record<string, string> = {},
     ) {
       const { limit, total, items } = await getFunction({
         limit: "50",
@@ -178,7 +178,7 @@ export async function createClient(
 
       for (let i = 1; i <= Math.floor(total / 50); i++) {
         promises.push(
-          getFunction({ limit: `${limit}`, offset: `${i * limit}`, ...query })
+          getFunction({ limit: `${limit}`, offset: `${i * limit}`, ...query }),
         );
       }
 
@@ -189,24 +189,24 @@ export async function createClient(
     async getById<T>(
       endpoint: (typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID],
       id: string,
-      query: Record<string, string>
+      query: Record<string, string>,
     ) {
       return await client.getSaved<T>(endpoint(id), query);
     },
     async getAllById<T>(
       getFunction: (
         id: string,
-        query: Record<string, string>
+        query: Record<string, string>,
       ) => Promise<SpotifyApi.PagingObject<T>>,
-      id: string
+      id: string,
     ) {
       return await client.getAllSaved<T>((query) => getFunction(id, query));
     },
     async getAllTopItems<T>(
       getFunction: (
-        query: Record<string, string>
+        query: Record<string, string>,
       ) => Promise<SpotifyApi.PagingObject<T>>,
-      query: Record<string, string> = {}
+      query: Record<string, string> = {},
     ) {
       // Spotify's API reports there are only 50 items in total, but you can
       // actually get 49 more items by setting the limit to 50 and the offset
@@ -248,17 +248,17 @@ export async function createClient(
     },
     async getAllSavedTracks() {
       return (await client.getAllSaved(client.getSavedTracks)).sort(
-        compareTrack
+        compareTrack,
       );
     },
     async getAllSavedAlbums() {
       return (await client.getAllSaved(client.getSavedAlbums)).sort(
-        compareAlbum
+        compareAlbum,
       );
     },
     async getAllSavedPlaylists() {
       return (await client.getAllSaved(client.getSavedPlaylists)).sort(
-        comparePlaylist
+        comparePlaylist,
       );
     },
     async getAllSavedShows() {
@@ -266,7 +266,7 @@ export async function createClient(
     },
     async getAllSavedEpisodes() {
       return (await client.getAllSaved(client.getSavedEpisodes)).sort(
-        compareEpisode
+        compareEpisode,
       );
     },
     async getAllTopArtists(query) {
@@ -301,7 +301,7 @@ export async function createClient(
       const playlistResponse = client.getById<SpotifyApi.PlaylistObjectFull>(
         ENDPOINTS_WITH_ID.PLAYLIST,
         id,
-        query
+        query,
       );
       const tracks = await client.getAllPlaylistTracks(id);
       const { tracks: _tracks, ...playlist } = await playlistResponse;
@@ -317,7 +317,7 @@ export async function createClient(
       const showResponse = client.getById<SpotifyApi.ShowObjectFull>(
         ENDPOINTS_WITH_ID.SHOW,
         id,
-        query
+        query,
       );
       const episodes = await client.getAllShowEpisodes(id);
       const { episodes: _episodes, ...show } = await showResponse;
@@ -347,14 +347,14 @@ function compareSaved<
     | SpotifyApi.SavedAlbumObject
     | SpotifyApi.SavedTrackObject
     | SpotifyApi.SavedShowObject
-    | SpotifyApi.SavedEpisodeObject
+    | SpotifyApi.SavedEpisodeObject,
 >(a: T, b: T): number {
   return compareDateString(a.added_at, b.added_at);
 }
 
 function compareTrack(
   a: SpotifyApi.SavedTrackObject,
-  b: SpotifyApi.SavedTrackObject
+  b: SpotifyApi.SavedTrackObject,
 ): number {
   return (
     compareSaved(a, b) ||
@@ -367,7 +367,7 @@ function compareTrack(
 
 function compareAlbum(
   a: SpotifyApi.SavedAlbumObject,
-  b: SpotifyApi.SavedAlbumObject
+  b: SpotifyApi.SavedAlbumObject,
 ): number {
   return (
     compareSaved(a, b) ||
@@ -378,7 +378,7 @@ function compareAlbum(
 
 function compareEpisode(
   a: SpotifyApi.SavedEpisodeObject,
-  b: SpotifyApi.SavedEpisodeObject
+  b: SpotifyApi.SavedEpisodeObject,
 ): number {
   return (
     compareSaved(a, b) ||
@@ -389,14 +389,14 @@ function compareEpisode(
 
 function compareShow(
   a: SpotifyApi.SavedShowObject,
-  b: SpotifyApi.SavedShowObject
+  b: SpotifyApi.SavedShowObject,
 ): number {
   return compareSaved(a, b) || compareNamedEntity(a.show, b.show);
 }
 
 function comparePlaylist(
   a: SpotifyApi.PlaylistObjectSimplified,
-  b: SpotifyApi.PlaylistObjectSimplified
+  b: SpotifyApi.PlaylistObjectSimplified,
 ): number {
   return (
     compareString(a.owner.display_name || "", b.owner.display_name || "") ||
@@ -406,7 +406,7 @@ function comparePlaylist(
 }
 
 export function simplifySavedTrack(
-  saved: SpotifyApi.SavedTrackObject
+  saved: SpotifyApi.SavedTrackObject,
 ): SavedTrackSimplified {
   return {
     id: saved.track.id,
@@ -433,7 +433,7 @@ export function simplifySavedTrack(
 }
 
 export function simplifySavedAlbum(
-  saved: SpotifyApi.SavedAlbumObject
+  saved: SpotifyApi.SavedAlbumObject,
 ): SavedAlbumSimplified {
   return {
     id: saved.album.id,
