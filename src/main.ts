@@ -1,25 +1,9 @@
-import { mkdir, writeFile } from "fs/promises";
+import { log, sleep, writeJSON } from "./functions";
 import {
   createClient,
   simplifySavedAlbum,
   simplifySavedTrack,
 } from "./spotify";
-
-function log(message: string): void {
-  console.log(`[${new Date().toISOString()}]: ${message}`);
-}
-
-async function writeJSON(name: string, data: Record<string, unknown>) {
-  await mkdir("data/playlists", { recursive: true });
-  await mkdir("data/top/artists", { recursive: true });
-  await mkdir("data/top/tracks", { recursive: true });
-  await mkdir("data/shows", { recursive: true });
-  writeFile(`data/${name}.json`, JSON.stringify(data), {});
-}
-
-async function sleep(ms: number) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
 
 async function main() {
   const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID as string;
