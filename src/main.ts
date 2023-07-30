@@ -145,18 +145,57 @@ async function main() {
   log(`Waiting for 1 second…`);
   await sleep(1000);
 
+  let savedTracksPlaylist: SpotifyApi.PlaylistObjectSimplified | undefined;
+  let savedTracksPlaylistFull: Awaited<ReturnType<typeof client.getPlaylist>>;
+
   for (const playlist of playlists) {
     log(`Getting playlist ${playlist.name}…`);
-    await client.getPlaylist(playlist.id, {}).then((playlist) => {
-      log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
-      writeJSON(`playlists/${playlist.id}`, playlist);
-    });
+    const playlistFull = await client.getPlaylist(playlist.id, {});
+    log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
+    writeJSON(`playlists/${playlist.id}`, playlistFull);
+
+    if (
+      playlist.name.toLowerCase() == "liked songs (mirror)" &&
+      playlist.description?.toLowerCase().includes("spotify-to-github")
+    ) {
+      log(
+        `Found ${playlist.name} playlist. Will use it to store saved tracks.`,
+      );
+
+      savedTracksPlaylist = playlist;
+      savedTracksPlaylistFull = playlistFull;
+    }
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
     // rate limit.
     log(`Waiting for 500 milliseconds…`);
     await sleep(500);
   }
+
+  if (!savedTracksPlaylist) {
+    log(`Saved tracks playlist not found. Creating a new playlist…`);
+    savedTracksPlaylist = await client.createPlaylist({
+      name: "Liked Songs (Mirror)",
+      description:
+        "Shareable Liked Songs playlist synchronised by spotify-to-github.",
+    });
+    const { name, uri } = savedTracksPlaylist;
+    log(`Created playlist ${name} with uri: ${uri}.`);
+  } else {
+    log(`Saved tracks playlist found. Deleting all tracks…`);
+    await client.deletePlaylistTracks(
+      savedTracksPlaylist,
+      savedTracksPlaylistFull!.tracks
+        .map(({ track }) => track)
+        .filter(<T>(t: T): t is NonNullable<T> => t !== null),
+    );
+  }
+
+  log(`Synchronising saved tracks playlist…`);
+  await client.addPlaylistTracks(
+    savedTracksPlaylist,
+    tracks.map(({ track }) => track),
+  );
 
   log(`Waiting for 1 second…`);
   await sleep(1000);

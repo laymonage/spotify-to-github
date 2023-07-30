@@ -1,3 +1,5 @@
+import { chunk, sleep } from "./functions";
+
 const SPOTIFY_API_BASE_URL = "https://api.spotify.com/v1";
 const SPOTIFY_ACCOUNTS_BASE_URL = "https://accounts.spotify.com";
 
@@ -26,6 +28,11 @@ const ENDPOINTS_WITH_ID = {
 type ENDPOINT =
   | (typeof ENDPOINTS)[keyof typeof ENDPOINTS]
   | ReturnType<(typeof ENDPOINTS_WITH_ID)[keyof typeof ENDPOINTS_WITH_ID]>;
+
+type CreatePlaylistRequest = { name: string; description?: string } & (
+  | { public?: true; collaborative?: false }
+  | { public?: false; collaborative?: true }
+);
 
 async function getAccessToken(
   clientId: string,
@@ -136,6 +143,21 @@ interface Client {
     query: Record<string, string>,
   ): Promise<SpotifyApi.ShowEpisodesResponse>;
   getAllShowEpisodes(id: string): Promise<SpotifyApi.EpisodeObjectSimplified[]>;
+  createPlaylist(
+    body: CreatePlaylistRequest,
+  ): Promise<SpotifyApi.CreatePlaylistResponse>;
+  deletePlaylistTracks(
+    playlist:
+      | SpotifyApi.PlaylistObjectSimplified
+      | SpotifyApi.PlaylistObjectFull,
+    tracks: SpotifyApi.TrackObjectSimplified[],
+  ): Promise<SpotifyApi.RemoveTracksFromPlaylistResponse>;
+  addPlaylistTracks(
+    playlist:
+      | SpotifyApi.PlaylistObjectSimplified
+      | SpotifyApi.PlaylistObjectFull,
+    tracks: SpotifyApi.TrackObjectSimplified[],
+  ): Promise<SpotifyApi.AddTracksToPlaylistResponse>;
 }
 
 export async function createClient(
@@ -151,6 +173,7 @@ export async function createClient(
   const init = {
     headers: {
       Authorization: `Bearer ${accessToken}`,
+      "Content-Type": "application/json",
     },
   };
 
@@ -328,6 +351,43 @@ export async function createClient(
       const episodes = await client.getAllShowEpisodes(id);
       const { episodes: _episodes, ...show } = await showResponse;
       return { ...show, episodes };
+    },
+    async createPlaylist(body: CreatePlaylistRequest) {
+      return await fetch(ENDPOINTS.PLAYLISTS, {
+        ...init,
+        method: "POST",
+        body: JSON.stringify(body),
+      }).then((res) => res.json());
+    },
+    async deletePlaylistTracks({ id, snapshot_id }, tracks) {
+      const chunks = chunk(tracks, 100);
+      let response: SpotifyApi.PlaylistSnapshotResponse = { snapshot_id };
+      if (tracks.length === 0) return response;
+
+      for (const tracks of chunks) {
+        response = (await fetch(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS(id), {
+          ...init,
+          method: "DELETE",
+          body: JSON.stringify({ tracks: tracks.map(({ uri }) => ({ uri })) }),
+        }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
+        await sleep(100);
+      }
+      return response;
+    },
+    async addPlaylistTracks({ id, snapshot_id }, tracks) {
+      const chunks = chunk(tracks, 100);
+      let response: SpotifyApi.PlaylistSnapshotResponse = { snapshot_id };
+      if (tracks.length === 0) return response;
+
+      for (const tracks of chunks) {
+        response = (await fetch(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS(id), {
+          ...init,
+          method: "POST",
+          body: JSON.stringify({ uris: tracks.map(({ uri }) => uri) }),
+        }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
+        await sleep(100);
+      }
+      return response;
     },
   };
 
