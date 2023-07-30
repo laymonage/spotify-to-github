@@ -1,5 +1,5 @@
 {
-  "total": 54,
+  "total": 55,
   "playlists": [
     {
       "collaborative": false,
@@ -500,7 +500,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://images-ak.spotifycdn.com/image/ab67706c0000bebbe7810c4fe35c541ea07c60cf",
+          "url": "https://i.scdn.co/image/ab67706c0000bebbe7810c4fe35c541ea07c60cf",
           "width": null
         }
       ],
@@ -790,6 +790,52 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:5ppN5yAqEooOGH4cbqCZRU"
+    },
+    {
+      "collaborative": false,
+      "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6T5QnaTXvu6ckKwcxANEwp"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6T5QnaTXvu6ckKwcxANEwp",
+      "id": "6T5QnaTXvu6ckKwcxANEwp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27304d1070527114f6ca287cb86ab67616d0000b2737d08b36cdc6e909f02b926b3ab67616d0000b273bd21be5397e6928a0597c61aab67616d0000b273e9d3e03e94497aabc96ac7de",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27304d1070527114f6ca287cb86ab67616d0000b2737d08b36cdc6e909f02b926b3ab67616d0000b273bd21be5397e6928a0597c61aab67616d0000b273e9d3e03e94497aabc96ac7de",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27304d1070527114f6ca287cb86ab67616d0000b2737d08b36cdc6e909f02b926b3ab67616d0000b273bd21be5397e6928a0597c61aab67616d0000b273e9d3e03e94497aabc96ac7de",
+          "width": 60
+        }
+      ],
+      "name": "Liked Songs (Mirror)",
+      "owner": {
+        "display_name": "laymonage",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjE5LDg3NzZlMzFhMWFkMjRlOWY0OThhNTM2MWQxZDNhNWQ1NDNiZTRhZjE=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6T5QnaTXvu6ckKwcxANEwp/tracks",
+        "total": 3099
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6T5QnaTXvu6ckKwcxANEwp"
     },
     {
       "collaborative": false,
@@ -1577,7 +1623,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDA2M2ZiYzRjMWZlNjU0NTAwMjY2NTRhZjNmZmQ1ZTdmZg==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDBmODdkOWE4MmE2MTU2N2U4OWJkMjY3ZjZlZWVjNjkwNw==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2FbdbG/tracks",
         "total": 50
@@ -1611,7 +1657,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDBmZjE3YTU0YjRkZjllMGQxNzI4ZTY2MGU0ZjFjMmZjMQ==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDBhZDRmZTI5ODY1NTBjODhlOTViOTRiZTExMWUwNThhMA==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0FDQVa/tracks",
         "total": 50
@@ -1645,7 +1691,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDAwMTE2ZWNhNWU1NWM3ZjQxZTI0MjJlODM3OTQ4YTM0MA==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDAxMzk4MmUwNmRkMzE1MmNkMjVkZDAwODM2YTM0OGI3Mw==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1BU23m/tracks",
         "total": 49
@@ -1679,7 +1725,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDA1YzAyYWRlZDM1YzE2YTNmZTE3MjU4YzZlNzMxMTA4Ng==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDA5NGJkZWE4MDk0OGE5MWY0NzQ3YjMxZmUzZTVkYzdiMA==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj/tracks",
         "total": 44
@@ -1713,7 +1759,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDAyYmM3NDc0MWNkYTQwMzVmZTkyMDFiMTQ0OGI2NjAzMQ==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDBhODQ3YjQxYTI4N2QwMWY4OTY4YWY5ZjA2YmU1ZjQ5MQ==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2kyxLG/tracks",
         "total": 50
@@ -1747,10 +1793,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDBkNDMxYzVmN2RkMjliYTdmMjUyZjEzYTA3MzI5NmNmZQ==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDBkN2FhYzlkYWQwZTQ3ODAwOWM3MGYyZDY0ZjA3ZDViNQ==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4q7ks0/tracks",
-        "total": 49
+        "total": 50
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1DZ06evO4q7ks0"
@@ -1781,7 +1827,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgxNzcyNDIsMDAwMDAwMDBhMDE0Zjg3MTg3YzA0ZWNkNjI1OTIwYTdjNzQ4Yzc0OQ==",
+      "snapshot_id": "MjgxNzg2NjksMDAwMDAwMDA0MGZlMTYxYjk1ZWJkNzFmNWZiMzFlZjA2ZWIyZjYyNw==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4ohLfG/tracks",
         "total": 50
