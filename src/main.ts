@@ -25,6 +25,12 @@ async function main() {
     SPOTIFY_REFRESH_TOKEN,
   );
 
+  log(`Getting current user…`);
+  // Strip email from profile data to prevent exposure.
+  const { email: _email, ...me } = await client.getProfile();
+  log(`Logged in as ${me.display_name} (${me.id}).`);
+  writeJSON("me", me);
+
   log(`Getting all saved tracks…`);
   const tracks = await client.getAllSavedTracks();
 

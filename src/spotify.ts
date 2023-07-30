@@ -2,6 +2,7 @@ const SPOTIFY_API_BASE_URL = "https://api.spotify.com/v1";
 const SPOTIFY_ACCOUNTS_BASE_URL = "https://accounts.spotify.com";
 
 const ENDPOINTS = {
+  PROFILE: `${SPOTIFY_API_BASE_URL}/me`,
   TRACKS: `${SPOTIFY_API_BASE_URL}/me/tracks`,
   ALBUMS: `${SPOTIFY_API_BASE_URL}/me/albums`,
   PLAYLISTS: `${SPOTIFY_API_BASE_URL}/me/playlists`,
@@ -47,6 +48,7 @@ async function getAccessToken(
 }
 
 interface Client {
+  getProfile(): Promise<SpotifyApi.CurrentUsersProfileResponse>;
   getAllSaved<T>(
     getFunction: (
       query: Record<string, string>,
@@ -153,6 +155,10 @@ export async function createClient(
   };
 
   const client: Client = {
+    async getProfile() {
+      const response = await fetch(ENDPOINTS.PROFILE, init);
+      return (await response.json()) as SpotifyApi.CurrentUsersProfileResponse;
+    },
     async getSaved<T>(
       endpoint: (typeof ENDPOINTS)[keyof typeof ENDPOINTS],
       query: Record<string, string>,
