@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/19986834dcc9108f14ad878df598972ba54f2c45",
+      "description": "As a neurodivergent child going to school far from home, Misan Harriman found solace in the internet -- \"an endless library of the extraordinary,\" as he calls it. In this powerful talk, he shares his journey as a self-taught photographer of extraordinary range, from covering the greatest civil rights movements of our lifetimes to becoming the first Black man to shoot a cover for British Vogue. A reminder that each one of us can find our own ways to create a better world for all.",
+      "duration_ms": 762756,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4RwoluEXI1GnLEs2V9PQ10"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4RwoluEXI1GnLEs2V9PQ10",
+      "html_description": "As a neurodivergent child going to school far from home, Misan Harriman found solace in the internet -- &#34;an endless library of the extraordinary,&#34; as he calls it. In this powerful talk, he shares his journey as a self-taught photographer of extraordinary range, from covering the greatest civil rights movements of our lifetimes to becoming the first Black man to shoot a cover for British Vogue. A reminder that each one of us can find our own ways to create a better world for all.",
+      "id": "4RwoluEXI1GnLEs2V9PQ10",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8adb0531cd61125ad610ecff55",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fdb0531cd61125ad610ecff55",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68ddb0531cd61125ad610ecff55",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The power of an image -- and the mind behind it | Misan Harriman",
+      "release_date": "2023-08-01",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4RwoluEXI1GnLEs2V9PQ10"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/0454c7ff36282d0c31b98230b29c62dd02f03808",
       "description": "What if we could use waste to create resilient and sustainable buildings? Bringing out the beauty of the dirt beneath our feet, climate-responsive architect Vinu Daniel shares how he and his team are giving local and discarded materials (think: mud, plastic and used tires) a second life by using them to create dreamlike homes, schools and other public spaces.",
       "duration_ms": 609852,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1GvChT8pGM3QV4KawlrvbO"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/0a494f2ff2cf243a51ac4d6ff1ae44b7b5067142",
-      "description": "After his HIV diagnosis, former pro rugby player Gareth Thomas set out on a mission to tackle the stigma and shame that prevent people from getting the testing and care they need. In this empowering talk, Thomas shares his mission to demystify and redefine what it means to live with HIV -- and shares how each of us can normalize conversations around all vilified conditions.",
-      "duration_ms": 750068,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1wt0pRwvqTOitX0FaEVCXr"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1wt0pRwvqTOitX0FaEVCXr",
-      "html_description": "After his HIV diagnosis, former pro rugby player Gareth Thomas set out on a mission to tackle the stigma and shame that prevent people from getting the testing and care they need. In this empowering talk, Thomas shares his mission to demystify and redefine what it means to live with HIV -- and shares how each of us can normalize conversations around all vilified conditions.",
-      "id": "1wt0pRwvqTOitX0FaEVCXr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ad9c283135d188cd9fb8ab608",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fd9c283135d188cd9fb8ab608",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dd9c283135d188cd9fb8ab608",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to tackle the stigma of living with HIV | Gareth Thomas",
-      "release_date": "2022-12-01",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1wt0pRwvqTOitX0FaEVCXr"
     }
   ]
 }
