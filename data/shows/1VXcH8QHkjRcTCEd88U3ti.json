@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/b230779037c424f7c357d727f5d4908ab870f796",
+      "description": "Experiential artist Lucas Rizzotto was going through a tough breakup, so he did what anyone would do: he built a personal time machine. In a playful talk, he shares how his free-ranging experimentation led to various delightful, unexpected innovations that are changing how people think about the relationship between technology and art. \"Technology gives us the tools, but art shows us the way,\" he says.",
+      "duration_ms": 751236,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2VFIwvFWR9d5dmGwydSHPH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2VFIwvFWR9d5dmGwydSHPH",
+      "html_description": "Experiential artist Lucas Rizzotto was going through a tough breakup, so he did what anyone would do: he built a personal time machine. In a playful talk, he shares how his free-ranging experimentation led to various delightful, unexpected innovations that are changing how people think about the relationship between technology and art. &#34;Technology gives us the tools, but art shows us the way,&#34; he says.",
+      "id": "2VFIwvFWR9d5dmGwydSHPH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a01b4e50b4ab29d8f46417c7c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f01b4e50b4ab29d8f46417c7c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d01b4e50b4ab29d8f46417c7c",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why I built my own time machine | Lucas Rizzotto",
+      "release_date": "2023-08-02",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2VFIwvFWR9d5dmGwydSHPH"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/19986834dcc9108f14ad878df598972ba54f2c45",
       "description": "As a neurodivergent child going to school far from home, Misan Harriman found solace in the internet -- \"an endless library of the extraordinary,\" as he calls it. In this powerful talk, he shares his journey as a self-taught photographer of extraordinary range, from covering the greatest civil rights movements of our lifetimes to becoming the first Black man to shoot a cover for British Vogue. A reminder that each one of us can find our own ways to create a better world for all.",
       "duration_ms": 762756,
@@ -276,7 +315,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "How today's scraps will be tomorrow's sustainable buildings | Vinu Daniel",
+      "name": "The beauty of building with mud and trash | Vinu Daniel",
       "release_date": "2023-07-31",
       "release_date_precision": "day",
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7i6U6Enmh6boP0xIaveLQd"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/d70a18e98fadbf8e6cab1b267b57011e9b264b04",
-      "description": "One billion people worldwide are living with a disability, and too many of them are left unemployed or feeling like they need to hide their conditions due to discriminatory hiring practices, says social innovator and TED Fellow Ryan Gersava. With a focus on healing and disclosure, he created an online school to provide people like him with the technical skills and employment aid they need to thrive. Now he's calling for every company to initiate efforts to welcome and support those with disabilities, creating a future of work that leaves no one behind.",
-      "duration_ms": 421003,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1GvChT8pGM3QV4KawlrvbO"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1GvChT8pGM3QV4KawlrvbO",
-      "html_description": "One billion people worldwide are living with a disability, and too many of them are left unemployed or feeling like they need to hide their conditions due to discriminatory hiring practices, says social innovator and TED Fellow Ryan Gersava. With a focus on healing and disclosure, he created an online school to provide people like him with the technical skills and employment aid they need to thrive. Now he&#39;s calling for every company to initiate efforts to welcome and support those with disabilities, creating a future of work that leaves no one behind.",
-      "id": "1GvChT8pGM3QV4KawlrvbO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a42dc934478093d7d456ea197",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f42dc934478093d7d456ea197",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d42dc934478093d7d456ea197",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A disability-inclusive future of work | Ryan Gersava",
-      "release_date": "2022-12-02",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1GvChT8pGM3QV4KawlrvbO"
     }
   ]
 }
