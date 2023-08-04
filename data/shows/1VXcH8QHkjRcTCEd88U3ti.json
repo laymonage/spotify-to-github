@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/b79ccb3f1ef3f430928623f5751c79862553404d",
+      "description": "Climate action is speeding up -- and we each have the power to push that transformation forward. As the head of the UNFCCC, the UN's entity supporting the global response to climate change, Simon Stiell points to clear social and technological signals that show we're at the tipping points of a green revolution -- and invites us all to apply our unique skills to defending the planet against the catastrophic impacts of the climate crisis.",
+      "duration_ms": 528180,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/40rGvoysuAWeYgYa5MuG9k"
+      },
+      "href": "https://api.spotify.com/v1/episodes/40rGvoysuAWeYgYa5MuG9k",
+      "html_description": "Climate action is speeding up -- and we each have the power to push that transformation forward. As the head of the UNFCCC, the UN&#39;s entity supporting the global response to climate change, Simon Stiell points to clear social and technological signals that show we&#39;re at the tipping points of a green revolution -- and invites us all to apply our unique skills to defending the planet against the catastrophic impacts of the climate crisis.",
+      "id": "40rGvoysuAWeYgYa5MuG9k",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8abeafa816aaaac3144e6848a4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fbeafa816aaaac3144e6848a4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dbeafa816aaaac3144e6848a4",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Climate action is on the cusp of exponential growth | Simon Stiell",
+      "release_date": "2023-08-03",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:40rGvoysuAWeYgYa5MuG9k"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/b230779037c424f7c357d727f5d4908ab870f796",
       "description": "Experiential artist Lucas Rizzotto was going through a tough breakup, so he did what anyone would do: he built a personal time machine. In a playful talk, he shares how his free-ranging experimentation led to various delightful, unexpected innovations that are changing how people think about the relationship between technology and art. \"Technology gives us the tools, but art shows us the way,\" he says.",
       "duration_ms": 751236,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3M6JBSAsO4oFlsFd3rqsLc"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/db572c5f60fd45d732ee9430f7826b449fb9fa28",
-      "description": "As oil and gas companies continue to make record profits off of the same forces driving climate chaos, war and soaring energy bills, it's become clear that boom times for the fossil fuel industry are bad times for the rest of us, says climate change lawyer Tessa Khan. She asks us to consider the true cost of our reliance on fossil fuels, outlining why the transition to safer, cleaner forms of energy has never been more urgent.",
-      "duration_ms": 434456,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7i6U6Enmh6boP0xIaveLQd"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7i6U6Enmh6boP0xIaveLQd",
-      "html_description": "As oil and gas companies continue to make record profits off of the same forces driving climate chaos, war and soaring energy bills, it&#39;s become clear that boom times for the fossil fuel industry are bad times for the rest of us, says climate change lawyer Tessa Khan. She asks us to consider the true cost of our reliance on fossil fuels, outlining why the transition to safer, cleaner forms of energy has never been more urgent.",
-      "id": "7i6U6Enmh6boP0xIaveLQd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a0e6206a59dee72da38b826e4",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f0e6206a59dee72da38b826e4",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d0e6206a59dee72da38b826e4",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How can we escape soaring energy bills? Stop using fossil fuels | Tessa Khan",
-      "release_date": "2022-12-05",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7i6U6Enmh6boP0xIaveLQd"
     }
   ]
 }

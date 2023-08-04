@@ -1,5 +1,5 @@
 {
-  "total": 89,
+  "total": 88,
   "artists": [
     {
       "external_urls": {
@@ -189,6 +189,36 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "width": 160
+        }
+      ],
+      "name": "Early Eyes",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -403,66 +433,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
-      "id": "0tMnuEXTeJeHbslcV8OybJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
-          "width": 160
-        }
-      ],
-      "name": "Drugdealer",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
       "followers": { "href": null, "total": 0 },
@@ -617,6 +587,36 @@
       "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:6Vf4rmMsQbAwiCG00YeEI7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -876,6 +876,36 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:6wFwvxJkurQPU2UdeD4qVt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["taiwan indie"],
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
+          "width": 160
+        }
+      ],
+      "name": "落日飛車 Sunset Rollercoaster",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
     },
     {
       "external_urls": {
@@ -1423,69 +1453,39 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        "spotify": "https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["taiwan indie"],
-      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
-      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/1O1r2qVtIFqlTJoB4jsJKd",
+      "id": "1O1r2qVtIFqlTJoB4jsJKd",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb454fb51f7bab1bc007f707bb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
+          "url": "https://i.scdn.co/image/ab67616100005174454fb51f7bab1bc007f707bb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
+          "url": "https://i.scdn.co/image/ab6761610000f178454fb51f7bab1bc007f707bb",
           "width": 160
         }
       ],
-      "name": "落日飛車 Sunset Rollercoaster",
-      "popularity": 54,
+      "name": "Miki Fiki",
+      "popularity": 35,
       "type": "artist",
-      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["soft rock"],
-      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
-      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79bedf7da0a906b84128f3af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479bedf7da0a906b84128f3af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af",
-          "width": 160
-        }
-      ],
-      "name": "Air Supply",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+      "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
     },
     {
       "external_urls": {
@@ -1553,6 +1553,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
+      "id": "3Kthx6vfOdyrwpE1mjsyb8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
+          "width": 160
+        }
+      ],
+      "name": "Good Luck Finding Iris",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
       },
       "followers": { "href": null, "total": 0 },
@@ -1580,6 +1610,36 @@
       "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock"],
+      "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+      "id": "3MATPJ9tYbcMhw5VOZrRU6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfdd161051b4cb136c231110d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fdd161051b4cb136c231110d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fdd161051b4cb136c231110d",
+          "width": 160
+        }
+      ],
+      "name": "Summer Salt",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
     },
     {
       "external_urls": {
@@ -2006,96 +2066,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/1O1r2qVtIFqlTJoB4jsJKd",
-      "id": "1O1r2qVtIFqlTJoB4jsJKd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb454fb51f7bab1bc007f707bb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174454fb51f7bab1bc007f707bb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178454fb51f7bab1bc007f707bb",
-          "width": 160
-        }
-      ],
-      "name": "Miki Fiki",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
-      "id": "3Kthx6vfOdyrwpE1mjsyb8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
-          "width": 160
-        }
-      ],
-      "name": "Good Luck Finding Iris",
-      "popularity": 24,
-      "type": "artist",
-      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock"],
-      "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-      "id": "3MATPJ9tYbcMhw5VOZrRU6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfdd161051b4cb136c231110d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fdd161051b4cb136c231110d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fdd161051b4cb136c231110d",
-          "width": 160
-        }
-      ],
-      "name": "Summer Salt",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
     },
     {
       "external_urls": {
@@ -2635,7 +2605,7 @@
         }
       ],
       "name": "GROUPLOVE",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx"
     },
