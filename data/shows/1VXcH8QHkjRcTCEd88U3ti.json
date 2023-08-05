@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/ccafb8c1e99addcd1c4e164f47b7367902ef08c8",
+      "description": "The city of Port Talbot in South Wales is known for a few things: a steel mill, a proudly working class population and a passionate commitment to the arts that produced Hollywood superstars Richard Burton and Anthony Hopkins. In this sweet, personal talk, actor Michael Sheen shares how he was also able to take advantage of all the city had to offer, why he's worried that a change in approach to arts education means that kids now don't get the same kind of chances -- and the steps he's taking to ensure that creative up-and-comers get the support and access they deserve. (With animations by Sam Orams and Sarah Klan.)",
+      "duration_ms": 1078860,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3F87msTIVBwcFiRdKI9GwS"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3F87msTIVBwcFiRdKI9GwS",
+      "html_description": "The city of Port Talbot in South Wales is known for a few things: a steel mill, a proudly working class population and a passionate commitment to the arts that produced Hollywood superstars Richard Burton and Anthony Hopkins. In this sweet, personal talk, actor Michael Sheen shares how he was also able to take advantage of all the city had to offer, why he&#39;s worried that a change in approach to arts education means that kids now don&#39;t get the same kind of chances -- and the steps he&#39;s taking to ensure that creative up-and-comers get the support and access they deserve. (With animations by Sam Orams and Sarah Klan.)",
+      "id": "3F87msTIVBwcFiRdKI9GwS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a6890d1952ce3359a69488e37",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f6890d1952ce3359a69488e37",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d6890d1952ce3359a69488e37",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The magic of a creative career | Michael Sheen",
+      "release_date": "2023-08-04",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3F87msTIVBwcFiRdKI9GwS"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/b79ccb3f1ef3f430928623f5751c79862553404d",
       "description": "Climate action is speeding up -- and we each have the power to push that transformation forward. As the head of the UNFCCC, the UN's entity supporting the global response to climate change, Simon Stiell points to clear social and technological signals that show we're at the tipping points of a green revolution -- and invites us all to apply our unique skills to defending the planet against the catastrophic impacts of the climate crisis.",
       "duration_ms": 528180,
@@ -297,17 +336,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8adb0531cd61125ad610ecff55",
+          "url": "https://i.scdn.co/image/ab6765630000ba8aafb894927ef458892b031967",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fdb0531cd61125ad610ecff55",
+          "url": "https://i.scdn.co/image/ab67656300005f1fafb894927ef458892b031967",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68ddb0531cd61125ad610ecff55",
+          "url": "https://i.scdn.co/image/ab6765630000f68dafb894927ef458892b031967",
           "width": 64
         }
       ],
@@ -323,7 +362,7 @@
       "uri": "spotify:episode:4RwoluEXI1GnLEs2V9PQ10"
     },
     {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/0454c7ff36282d0c31b98230b29c62dd02f03808",
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/7689f871b185b7dd1492e4137c71592e445eb3ce",
       "description": "What if we could use waste to create resilient and sustainable buildings? Bringing out the beauty of the dirt beneath our feet, climate-responsive architect Vinu Daniel shares how he and his team are giving local and discarded materials (think: mud, plastic and used tires) a second life by using them to create dreamlike homes, schools and other public spaces.",
       "duration_ms": 609852,
       "explicit": false,
@@ -2234,7 +2273,7 @@
       "uri": "spotify:episode:6U2EWxOYZ6Cxq87yI3HbjM"
     },
     {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/93a3d011e425a081a9c35167a9c8920afb83b59f",
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/97b090af844c78f25a0463a31e23d0a3ab6b8b02",
       "description": "In the US, youth in foster care are nearly twice as likely as war veterans to suffer from PTSD. Placed in foster care at just 11 months old, 2023 Audacious Project grantee Sixto Cancel experienced the faults of the system firsthand. Now, he's the founder of Think of Us, an organization working to reform child welfare by centering kinship care, or placing a child with an extended family member or a familiar adult. Learn more about his plan to help thousands of kids searching for a loving home with one simple, systemic switch. (This ambitious idea is a part of the Audacious Project, TED's initiative to inspire and fund global change.)",
       "duration_ms": 718956,
       "explicit": false,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0f3U7OkEJ4GgcSpomFIs5o"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/8d0c59fd45242fe6a07cddba517f618d982db8f3",
-      "description": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere.",
-      "duration_ms": 673738,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/3M6JBSAsO4oFlsFd3rqsLc"
-      },
-      "href": "https://api.spotify.com/v1/episodes/3M6JBSAsO4oFlsFd3rqsLc",
-      "html_description": "Meditation asks you to slip into a state of serene presence. But why does something that sounds effortless often feel so difficult? In this lighthearted invitation, spiritual leader Yongey Mingyur Rinpoche shares three steps to help you accept the ebb and flow of your emotions and learn to meditate anytime, anywhere.",
-      "id": "3M6JBSAsO4oFlsFd3rqsLc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a461623125d86ad7086756279",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f461623125d86ad7086756279",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d461623125d86ad7086756279",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to tap into your awareness -- and why meditation is easier than you think | Yongey Mingyur Rinpoche",
-      "release_date": "2022-12-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:3M6JBSAsO4oFlsFd3rqsLc"
     }
   ]
 }
