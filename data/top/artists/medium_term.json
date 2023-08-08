@@ -1347,7 +1347,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 54,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -1440,6 +1440,46 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "baltimore indie",
+        "dream pop",
+        "dreamo",
+        "indie pop",
+        "indie rock",
+        "indietronica",
+        "modern dream pop",
+        "pov: indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id": "56ZTgzPBDge0OvCGgMO3OY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
+          "width": 160
+        }
+      ],
+      "name": "Beach House",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
     {
       "external_urls": {
@@ -1833,7 +1873,7 @@
         }
       ],
       "name": "The Shins",
-      "popularity": 61,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
     },
@@ -3186,36 +3226,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/190DHPJLNML45FthZiizQi"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "detroit indie"],
-      "href": "https://api.spotify.com/v1/artists/190DHPJLNML45FthZiizQi",
-      "id": "190DHPJLNML45FthZiizQi",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0d15dbdb2e775204a32ce763",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740d15dbdb2e775204a32ce763",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780d15dbdb2e775204a32ce763",
-          "width": 160
-        }
-      ],
-      "name": "Mark Whalen",
-      "popularity": 34,
-      "type": "artist",
-      "uri": "spotify:artist:190DHPJLNML45FthZiizQi"
     }
   ]
 }
