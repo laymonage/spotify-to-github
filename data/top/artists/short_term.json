@@ -1,5 +1,5 @@
 {
-  "total": 87,
+  "total": 86,
   "artists": [
     {
       "external_urls": {
@@ -33,6 +33,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
+          "width": 160
+        }
+      ],
+      "name": "Omar Apollo",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
       },
       "followers": { "href": null, "total": 0 },
@@ -60,6 +90,45 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "baltimore indie",
+        "dream pop",
+        "dreamo",
+        "indie pop",
+        "indie rock",
+        "indietronica",
+        "modern dream pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id": "56ZTgzPBDge0OvCGgMO3OY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
+          "width": 160
+        }
+      ],
+      "name": "Beach House",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
     {
       "external_urls": {
@@ -157,76 +226,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
-      "id": "3hSFS64223jyO9Ck66rLOf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
-          "width": 160
-        }
-      ],
-      "name": "Okey Dokey",
-      "popularity": 36,
-      "type": "artist",
-      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "baltimore indie",
-        "dream pop",
-        "dreamo",
-        "indie pop",
-        "indie rock",
-        "indietronica",
-        "modern dream pop",
-        "pov: indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
-      "id": "56ZTgzPBDge0OvCGgMO3OY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
-          "width": 160
-        }
-      ],
-      "name": "Beach House",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
       },
       "followers": { "href": null, "total": 0 },
@@ -257,33 +256,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bedroom soul"],
-      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
-      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
+      "id": "3hSFS64223jyO9Ck66rLOf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
           "width": 160
         }
       ],
-      "name": "Omar Apollo",
-      "popularity": 67,
+      "name": "Okey Dokey",
+      "popularity": 36,
       "type": "artist",
-      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
     {
       "external_urls": {
@@ -348,47 +347,9 @@
         }
       ],
       "name": "Two Door Cinema Club",
-      "popularity": 67,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "indie rock",
-        "modern folk rock",
-        "modern rock",
-        "philly indie",
-        "pov: indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
-      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb389c0d8696b536d69be924db",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174389c0d8696b536d69be924db",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178389c0d8696b536d69be924db",
-          "width": 160
-        }
-      ],
-      "name": "Dr. Dog",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
     },
     {
       "external_urls": {
@@ -464,6 +425,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
+        }
+      ],
+      "name": "Still Woozy",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
       },
       "followers": { "href": null, "total": 0 },
@@ -521,6 +512,44 @@
       "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "indie rock",
+        "modern folk rock",
+        "modern rock",
+        "philly indie",
+        "pov: indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb389c0d8696b536d69be924db",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174389c0d8696b536d69be924db",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178389c0d8696b536d69be924db",
+          "width": 160
+        }
+      ],
+      "name": "Dr. Dog",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
     },
     {
       "external_urls": {
@@ -615,6 +644,36 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
+      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id": "7pXu47GoqSYRajmBCjxdD6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
+          "width": 160
+        }
+      ],
+      "name": "Vulfpeck",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
     {
       "external_urls": {
@@ -749,36 +808,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern rock", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/6Bllzm0olEwqGwPujaLiuA",
-      "id": "6Bllzm0olEwqGwPujaLiuA",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb50684f2b68a61a289dee8dc6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517450684f2b68a61a289dee8dc6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17850684f2b68a61a289dee8dc6",
-          "width": 160
-        }
-      ],
-      "name": "Arlie",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:6Bllzm0olEwqGwPujaLiuA"
     },
     {
       "external_urls": {
@@ -962,6 +991,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
+      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
+      "id": "54tv11ndFfiqXiR03PwdlB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
+          "width": 160
+        }
+      ],
+      "name": "Adam Melchor",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
       },
       "followers": { "href": null, "total": 0 },
@@ -1030,36 +1089,6 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
     {
       "external_urls": {
@@ -1491,7 +1520,7 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 36,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
@@ -1816,7 +1845,7 @@
         }
       ],
       "name": "Phoenix",
-      "popularity": 64,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
     },
@@ -1858,36 +1887,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
-      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
-      "id": "54tv11ndFfiqXiR03PwdlB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
-          "width": 160
-        }
-      ],
-      "name": "Adam Melchor",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
       },
       "followers": { "href": null, "total": 0 },
@@ -1912,7 +1911,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 53,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -2086,36 +2085,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
       },
       "followers": { "href": null, "total": 0 },
@@ -2260,7 +2229,7 @@
         }
       ],
       "name": "George Ezra",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:2ysnwxxNtSgbb9t1m2Ur4j"
     },

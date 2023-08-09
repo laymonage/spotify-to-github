@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/ab9c215545aa0c29379c7d40cec272a2b77c6160",
+      "description": "What happens when human and machine creativity meet? From an AI model trained on classic works to generate a seemingly infinite stream of portraits to a neural network that envisions otherworldly life-forms in impossible detail, media art curator Eileen Isagon Skyers showcases mind-bending art that embraces our increasingly technological future, showing how AI can stretch the scope of human imagination and help create worlds we could never design alone.",
+      "duration_ms": 465636,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7nI1Z8vrxylOmRas10FoL5"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7nI1Z8vrxylOmRas10FoL5",
+      "html_description": "What happens when human and machine creativity meet? From an AI model trained on classic works to generate a seemingly infinite stream of portraits to a neural network that envisions otherworldly life-forms in impossible detail, media art curator Eileen Isagon Skyers showcases mind-bending art that embraces our increasingly technological future, showing how AI can stretch the scope of human imagination and help create worlds we could never design alone.",
+      "id": "7nI1Z8vrxylOmRas10FoL5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aca989f666a3b91c601fa4fed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fca989f666a3b91c601fa4fed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dca989f666a3b91c601fa4fed",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "In the age of AI art, what can originality look like? | Eileen Isagon Skyers",
+      "release_date": "2023-08-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7nI1Z8vrxylOmRas10FoL5"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/9b5658a294b165fd6ef2a14a03c6d7db4993ff14",
       "description": "In a blistering talk, Nobel Laureate Al Gore looks at the two main obstacles to climate solutions and gives his view of how we might actually solve the environmental crisis in time. You won't want to miss his searing indictment of fossil fuel companies for walking back their climate commitments -- and his call for a global rethink of the roles of polluting industries in politics and finance.",
       "duration_ms": 1485972,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7L57esXsuNpDiLCRSejtyF"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/c994bd70bbe7f05b3549e61a21532b0daf066565",
-      "description": "In a constantly changing world, it's impossible for leaders to provide employees with the assurance they want, says Vimeo CEO Anjali Sud. Her solution: lead with humanity and flexibility. In conversation with veteran journalist Stephanie Mehta, Sud discusses her experience connecting remote employees worldwide, addressing burnout and adapting company practices for the needs of the next generation. Hear her vision for the future of work and ideas on how to be a leader that empowers others.",
-      "duration_ms": 1485545,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/08949iKTpuhrHIySLnNqQt"
-      },
-      "href": "https://api.spotify.com/v1/episodes/08949iKTpuhrHIySLnNqQt",
-      "html_description": "In a constantly changing world, it&#39;s impossible for leaders to provide employees with the assurance they want, says Vimeo CEO Anjali Sud. Her solution: lead with humanity and flexibility. In conversation with veteran journalist Stephanie Mehta, Sud discusses her experience connecting remote employees worldwide, addressing burnout and adapting company practices for the needs of the next generation. Hear her vision for the future of work and ideas on how to be a leader that empowers others.",
-      "id": "08949iKTpuhrHIySLnNqQt",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a04b44d4d3378787d0ff0b304",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f04b44d4d3378787d0ff0b304",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d04b44d4d3378787d0ff0b304",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How great leaders take on uncertainty | Anjali Sud and Stephanie Mehta",
-      "release_date": "2022-12-08",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:08949iKTpuhrHIySLnNqQt"
     }
   ]
 }

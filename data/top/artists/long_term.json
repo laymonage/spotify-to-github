@@ -579,7 +579,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 53,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -1096,6 +1096,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
+        }
+      ],
+      "name": "Still Woozy",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
       },
       "followers": { "href": null, "total": 0 },
@@ -1120,7 +1150,7 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 36,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
@@ -1190,36 +1220,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -1671,6 +1671,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
+          "width": 160
+        }
+      ],
+      "name": "Omar Apollo",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
       },
       "followers": { "href": null, "total": 0 },
@@ -2058,7 +2088,7 @@
         }
       ],
       "name": "Phoenix",
-      "popularity": 64,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
     },
@@ -2422,33 +2452,42 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bedroom soul"],
-      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
-      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "genres": [
+        "art pop",
+        "baltimore indie",
+        "dream pop",
+        "dreamo",
+        "indie pop",
+        "indie rock",
+        "indietronica",
+        "modern dream pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
+      "id": "56ZTgzPBDge0OvCGgMO3OY",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
+          "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
           "width": 160
         }
       ],
-      "name": "Omar Apollo",
-      "popularity": 67,
+      "name": "Beach House",
+      "popularity": 70,
       "type": "artist",
-      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
     {
       "external_urls": {
@@ -2960,46 +2999,6 @@
       "popularity": 21,
       "type": "artist",
       "uri": "spotify:artist:6oLj5SonG9BHYVJurbEri8"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "baltimore indie",
-        "dream pop",
-        "dreamo",
-        "indie pop",
-        "indie rock",
-        "indietronica",
-        "modern dream pop",
-        "pov: indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/56ZTgzPBDge0OvCGgMO3OY",
-      "id": "56ZTgzPBDge0OvCGgMO3OY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b3e38a46a56a423d8f741c09",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09",
-          "width": 160
-        }
-      ],
-      "name": "Beach House",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
     {
       "external_urls": {
