@@ -1,5 +1,5 @@
 {
-  "total": 86,
+  "total": 85,
   "artists": [
     {
       "external_urls": {
@@ -256,6 +256,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
+        }
+      ],
+      "name": "Still Woozy",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
       "followers": { "href": null, "total": 0 },
@@ -422,36 +452,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -1051,47 +1051,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "album rock",
-        "british invasion",
-        "classic rock",
-        "hard rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/67ea9eGLXYMsO2eYQRui3w",
-      "id": "67ea9eGLXYMsO2eYQRui3w",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/9cd709cabb4a614b4f1dd9ec256a5f30e21f0150",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/e70c8cbc5eb682b35da8dbc90c5c3631f4df9e23",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/4d7d0709054a22a2f67ecc139fec046b1f4cc880",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/d2607544c5d6ad7a77571f704621a038a947243a",
-          "width": 64
-        }
-      ],
-      "name": "The Who",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
       },
       "followers": { "href": null, "total": 0 },
@@ -1520,7 +1479,7 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
@@ -1911,7 +1870,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 54,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -2488,7 +2447,7 @@
         }
       ],
       "name": "Ratatat",
-      "popularity": 64,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
     },

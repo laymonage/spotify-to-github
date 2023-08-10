@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/5c1bdb1b01b7cf2dfd1ed5d4e0191880bd7a54f8",
+      "description": "Could the tech industry's complex algorithms support people during their darkest times, rather than just deliver targeted ads? Drawing from his own experience with depression, global mental health researcher Sandersan Onie shows how internet search behaviors can provide valuable insights into suicide risk and potentially help save lives by reaching people in a deeply personal way, at a crucial moment.",
+      "duration_ms": 676380,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/29MGRzfUOckIuwNp4R2CYh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/29MGRzfUOckIuwNp4R2CYh",
+      "html_description": "Could the tech industry&#39;s complex algorithms support people during their darkest times, rather than just deliver targeted ads? Drawing from his own experience with depression, global mental health researcher Sandersan Onie shows how internet search behaviors can provide valuable insights into suicide risk and potentially help save lives by reaching people in a deeply personal way, at a crucial moment.",
+      "id": "29MGRzfUOckIuwNp4R2CYh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a98c94bea26b4239aad254fc3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f98c94bea26b4239aad254fc3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d98c94bea26b4239aad254fc3",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How targeted ads might just save your life | Sandersan Onie",
+      "release_date": "2023-08-09",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:29MGRzfUOckIuwNp4R2CYh"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/ab9c215545aa0c29379c7d40cec272a2b77c6160",
       "description": "What happens when human and machine creativity meet? From an AI model trained on classic works to generate a seemingly infinite stream of portraits to a neural network that envisions otherworldly life-forms in impossible detail, media art curator Eileen Isagon Skyers showcases mind-bending art that embraces our increasingly technological future, showing how AI can stretch the scope of human imagination and help create worlds we could never design alone.",
       "duration_ms": 465636,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6e1aWqzrAFOWuTJ0Og1EmF"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/250888f702ee444a43146db01cfdde9bcadbf85f",
-      "description": "Remote work, while redefining the workplace landscape, seems stuck behind endless video conference calls that hinder free-flowing conversation and collaboration. In the 21st century, is that really the best we can do? Digital anthropologist Josephine Eyre makes the case for embracing the metaverse as an immersive meeting place that could help reignite creativity and communication.",
-      "duration_ms": 852076,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7L57esXsuNpDiLCRSejtyF"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7L57esXsuNpDiLCRSejtyF",
-      "html_description": "Remote work, while redefining the workplace landscape, seems stuck behind endless video conference calls that hinder free-flowing conversation and collaboration. In the 21st century, is that really the best we can do? Digital anthropologist Josephine Eyre makes the case for embracing the metaverse as an immersive meeting place that could help reignite creativity and communication.",
-      "id": "7L57esXsuNpDiLCRSejtyF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a4f11898e5583f5d959d110f2",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f4f11898e5583f5d959d110f2",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d4f11898e5583f5d959d110f2",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Are video calls the best we can do in the age of the metaverse? | Josephine Eyre",
-      "release_date": "2022-12-09",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7L57esXsuNpDiLCRSejtyF"
     }
   ]
 }
