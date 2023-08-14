@@ -1,6 +1,36 @@
 {
-  "total": 86,
+  "total": 89,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
+      "id": "5FxD8fkQZ6KcsSYupDVoSO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
+          "width": 160
+        }
+      ],
+      "name": "Omar Apollo",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
@@ -36,36 +66,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bedroom soul"],
-      "href": "https://api.spotify.com/v1/artists/5FxD8fkQZ6KcsSYupDVoSO",
-      "id": "5FxD8fkQZ6KcsSYupDVoSO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb32e5120c84a5f62bf8903e65",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517432e5120c84a5f62bf8903e65",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17832e5120c84a5f62bf8903e65",
-          "width": 160
-        }
-      ],
-      "name": "Omar Apollo",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
     },
     {
       "external_urls": {
@@ -138,33 +138,70 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "genres": [
+        "baroque pop",
+        "chamber pop",
+        "chicago indie",
+        "indie rock",
+        "melancholia",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+      "id": "4uSftVc3FPWe6RJuMZNEe9",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4bb6b07ebb49a29e623961f4",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "url": "https://i.scdn.co/image/ab676161000051744bb6b07ebb49a29e623961f4",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "url": "https://i.scdn.co/image/ab6761610000f1784bb6b07ebb49a29e623961f4",
           "width": 160
         }
       ],
-      "name": "Weyes Blood",
-      "popularity": 55,
+      "name": "Andrew Bird",
+      "popularity": 54,
       "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
+        }
+      ],
+      "name": "Still Woozy",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -195,6 +232,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "width": 160
+        }
+      ],
+      "name": "Early Eyes",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -232,73 +299,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 39,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "baroque pop",
-        "chamber pop",
-        "chicago indie",
-        "indie rock",
-        "melancholia",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
-      "id": "4uSftVc3FPWe6RJuMZNEe9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4bb6b07ebb49a29e623961f4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744bb6b07ebb49a29e623961f4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784bb6b07ebb49a29e623961f4",
-          "width": 160
-        }
-      ],
-      "name": "Andrew Bird",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
       },
       "followers": { "href": null, "total": 0 },
@@ -326,36 +326,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -413,39 +383,9 @@
         }
       ],
       "name": "Adam Melchor",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
-      "id": "3hSFS64223jyO9Ck66rLOf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
-          "width": 160
-        }
-      ],
-      "name": "Okey Dokey",
-      "popularity": 36,
-      "type": "artist",
-      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
     {
       "external_urls": {
@@ -509,6 +449,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "miami indie"],
+      "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+      "id": "7kAZYW5e5hQHYGQ0XHYhns",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc92228b7c4d48684820d79b4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c92228b7c4d48684820d79b4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c92228b7c4d48684820d79b4",
+          "width": 160
+        }
+      ],
+      "name": "Mustard Service",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
+      "id": "3hSFS64223jyO9Ck66rLOf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
+          "width": 160
+        }
+      ],
+      "name": "Okey Dokey",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
       },
       "followers": { "href": null, "total": 0 },
@@ -546,6 +546,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["la pop"],
+      "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+      "id": "1zkHConahaP6T8EBpg8BeE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe37f7ac8337f21ba3d428bdb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e37f7ac8337f21ba3d428bdb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e37f7ac8337f21ba3d428bdb",
+          "width": 160
+        }
+      ],
+      "name": "Ethan Gruska",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
       "followers": { "href": null, "total": 0 },
@@ -580,36 +610,6 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "miami indie"],
-      "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
-      "id": "7kAZYW5e5hQHYGQ0XHYhns",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc92228b7c4d48684820d79b4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c92228b7c4d48684820d79b4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c92228b7c4d48684820d79b4",
-          "width": 160
-        }
-      ],
-      "name": "Mustard Service",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
     },
     {
       "external_urls": {
@@ -681,6 +681,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["taiwan indie"],
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
+          "width": 160
+        }
+      ],
+      "name": "落日飛車 Sunset Rollercoaster",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
       },
       "followers": { "href": null, "total": 0 },
@@ -713,100 +743,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian surf rock"],
-      "href": "https://api.spotify.com/v1/artists/6yrtCy4XJHXM6tczo4RlTs",
-      "id": "6yrtCy4XJHXM6tczo4RlTs",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebffee61e3269bae17c99f8fe0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ffee61e3269bae17c99f8fe0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ffee61e3269bae17c99f8fe0",
-          "width": 160
-        }
-      ],
-      "name": "Lime Cordiale",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["taiwan indie"],
-      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
-      "id": "7BqRcZsHYYQeqMAOp7e532",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
-          "width": 160
-        }
-      ],
-      "name": "落日飛車 Sunset Rollercoaster",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative pop rock",
-        "modern alternative rock",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
-      "id": "1kDGbuxWknIKx4FlgWxiSp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb065faf07b0343e97bf3fba57",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174065faf07b0343e97bf3fba57",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178065faf07b0343e97bf3fba57",
-          "width": 160
-        }
-      ],
-      "name": "Nothing But Thieves",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
     },
     {
       "external_urls": {
@@ -870,6 +806,100 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian surf rock"],
+      "href": "https://api.spotify.com/v1/artists/6yrtCy4XJHXM6tczo4RlTs",
+      "id": "6yrtCy4XJHXM6tczo4RlTs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebffee61e3269bae17c99f8fe0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ffee61e3269bae17c99f8fe0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ffee61e3269bae17c99f8fe0",
+          "width": 160
+        }
+      ],
+      "name": "Lime Cordiale",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative pop rock",
+        "modern alternative rock",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+      "id": "1kDGbuxWknIKx4FlgWxiSp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb065faf07b0343e97bf3fba57",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174065faf07b0343e97bf3fba57",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178065faf07b0343e97bf3fba57",
+          "width": 160
+        }
+      ],
+      "name": "Nothing But Thieves",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
       },
       "followers": { "href": null, "total": 0 },
@@ -897,6 +927,72 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["hawaiian indie"],
+      "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
+      "id": "1cRqb8cQsGX8pgAceSWI7d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb87f12cb15b7db54018f553e5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517487f12cb15b7db54018f553e5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17887f12cb15b7db54018f553e5",
+          "width": 160
+        }
+      ],
+      "name": "Tigers in the Sky",
+      "popularity": 30,
+      "type": "artist",
+      "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "indie folk",
+        "indie rock",
+        "new americana",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6Qm9stX6XO1a4c7BXQDDgc",
+      "id": "6Qm9stX6XO1a4c7BXQDDgc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfc63c3630989a598f892b93b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fc63c3630989a598f892b93b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fc63c3630989a598f892b93b",
+          "width": 160
+        }
+      ],
+      "name": "Fruit Bats",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:6Qm9stX6XO1a4c7BXQDDgc"
     },
     {
       "external_urls": {
@@ -1052,36 +1148,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["hawaiian indie"],
-      "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
-      "id": "1cRqb8cQsGX8pgAceSWI7d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb87f12cb15b7db54018f553e5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517487f12cb15b7db54018f553e5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17887f12cb15b7db54018f553e5",
-          "width": 160
-        }
-      ],
-      "name": "Tigers in the Sky",
-      "popularity": 30,
-      "type": "artist",
-      "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
       },
       "followers": { "href": null, "total": 0 },
@@ -1109,36 +1175,6 @@
       "popularity": 24,
       "type": "artist",
       "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["la pop"],
-      "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
-      "id": "1zkHConahaP6T8EBpg8BeE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe37f7ac8337f21ba3d428bdb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e37f7ac8337f21ba3d428bdb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e37f7ac8337f21ba3d428bdb",
-          "width": 160
-        }
-      ],
-      "name": "Ethan Gruska",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
     },
     {
       "external_urls": {
@@ -1247,6 +1283,36 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -1818,7 +1884,7 @@
         }
       ],
       "name": "AJJ",
-      "popularity": 52,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4IDpDJIDfK96HMLD4Tphyl"
     },
@@ -1861,6 +1927,36 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4RI4gKUri5aV54E3o5fW8S"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4RI4gKUri5aV54E3o5fW8S",
+      "id": "4RI4gKUri5aV54E3o5fW8S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb26dc6d41e2065b8e122802af",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517426dc6d41e2065b8e122802af",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17826dc6d41e2065b8e122802af",
+          "width": 160
+        }
+      ],
+      "name": "Seiichi",
+      "popularity": 18,
+      "type": "artist",
+      "uri": "spotify:artist:4RI4gKUri5aV54E3o5fW8S"
     },
     {
       "external_urls": {
@@ -2043,6 +2139,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
+      "id": "3Da81tOAhG3gdust5MNI2s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
+          "width": 160
+        }
+      ],
+      "name": "The Humble Cheaters",
+      "popularity": 15,
+      "type": "artist",
+      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
       "followers": { "href": null, "total": 0 },
@@ -2103,33 +2229,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
+        "spotify": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
-      "id": "3Da81tOAhG3gdust5MNI2s",
+      "genres": ["deep new americana", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/0xPoVNPnxIIUS1vrxAYV00",
+      "id": "0xPoVNPnxIIUS1vrxAYV00",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb79deabbef86b785d97bbe2a5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
+          "url": "https://i.scdn.co/image/ab6761610000517479deabbef86b785d97bbe2a5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
+          "url": "https://i.scdn.co/image/ab6761610000f17879deabbef86b785d97bbe2a5",
           "width": 160
         }
       ],
-      "name": "The Humble Cheaters",
-      "popularity": 15,
+      "name": "Del Water Gap",
+      "popularity": 58,
       "type": "artist",
-      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
+      "uri": "spotify:artist:0xPoVNPnxIIUS1vrxAYV00"
     },
     {
       "external_urls": {
@@ -2167,36 +2293,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4RI4gKUri5aV54E3o5fW8S"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4RI4gKUri5aV54E3o5fW8S",
-      "id": "4RI4gKUri5aV54E3o5fW8S",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb26dc6d41e2065b8e122802af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517426dc6d41e2065b8e122802af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17826dc6d41e2065b8e122802af",
-          "width": 160
-        }
-      ],
-      "name": "Seiichi",
-      "popularity": 18,
-      "type": "artist",
-      "uri": "spotify:artist:4RI4gKUri5aV54E3o5fW8S"
     },
     {
       "external_urls": {
@@ -2419,17 +2515,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe56132a53491b23f70cad82c",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb613888dde99dca36aede8776",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e56132a53491b23f70cad82c",
+          "url": "https://i.scdn.co/image/ab67616100005174613888dde99dca36aede8776",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e56132a53491b23f70cad82c",
+          "url": "https://i.scdn.co/image/ab6761610000f178613888dde99dca36aede8776",
           "width": 160
         }
       ],
