@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/e9684eb9a1927527ecc47f559069416714bb3ff1",
+      "description": "Based on her work for a CIA task force aimed at predicting civil wars, political scientist Barbara F. Walter examines the rise in extremism and threats to democracies around the globe -- and paints an unsettling picture of the increasing likelihood of a second civil war in the United States.",
+      "duration_ms": 843684,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6VDO7ogtwrMRrAZ3XoKpIK"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6VDO7ogtwrMRrAZ3XoKpIK",
+      "html_description": "Based on her work for a CIA task force aimed at predicting civil wars, political scientist Barbara F. Walter examines the rise in extremism and threats to democracies around the globe -- and paints an unsettling picture of the increasing likelihood of a second civil war in the United States.",
+      "id": "6VDO7ogtwrMRrAZ3XoKpIK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a2b518ffbb27ffd12c876d630",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f2b518ffbb27ffd12c876d630",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d2b518ffbb27ffd12c876d630",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Is the US headed towards another civil war? | Barbara F. Walter",
+      "release_date": "2023-08-14",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6VDO7ogtwrMRrAZ3XoKpIK"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/00d1a3cfb40297e45d07af84f8565a3f99192dc6",
       "description": "In a talk packed with wry wisdom, pop culture queen Bevy Smith shares hard-earned lessons about authenticity, confidence, mature success and why, if you put in the work, \"life gets greater later.\"",
       "duration_ms": 921509,
@@ -7146,45 +7185,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5o7pTLvHdcewD5rfQmZift"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/5e32243214b05881967d6d65215e96ac541858ea",
-      "description": "Could the same mechanism used to accelerate vaccine development work for spurring solutions to the climate crisis? Sustainability innovator Stacy Kauk introduces the billion-dollar fund to supercharge the carbon removal market, which would help build a new industry aimed at drawing down carbon pollution from the air and storing it safely.",
-      "duration_ms": 846485,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6e1aWqzrAFOWuTJ0Og1EmF"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6e1aWqzrAFOWuTJ0Og1EmF",
-      "html_description": "Could the same mechanism used to accelerate vaccine development work for spurring solutions to the climate crisis? Sustainability innovator Stacy Kauk introduces the billion-dollar fund to supercharge the carbon removal market, which would help build a new industry aimed at drawing down carbon pollution from the air and storing it safely.",
-      "id": "6e1aWqzrAFOWuTJ0Og1EmF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a978b46b5ac326b878bc5d9d2",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f978b46b5ac326b878bc5d9d2",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d978b46b5ac326b878bc5d9d2",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The billion-dollar pollution solution humanity needs right now | Stacy Kauk",
-      "release_date": "2022-12-12",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6e1aWqzrAFOWuTJ0Og1EmF"
     }
   ]
 }

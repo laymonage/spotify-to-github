@@ -33,6 +33,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "indie folk",
+        "indie rock",
+        "new americana",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6Qm9stX6XO1a4c7BXQDDgc",
+      "id": "6Qm9stX6XO1a4c7BXQDDgc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfc63c3630989a598f892b93b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fc63c3630989a598f892b93b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fc63c3630989a598f892b93b",
+          "width": 160
+        }
+      ],
+      "name": "Fruit Bats",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:6Qm9stX6XO1a4c7BXQDDgc"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
       },
       "followers": { "href": null, "total": 0 },
@@ -296,36 +332,6 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alabama indie"],
-      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-      "id": "4dWtsQvuME6tCWFycaTvO7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
-          "width": 160
-        }
-      ],
-      "name": "The Brook & The Bluff",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
     {
       "external_urls": {
@@ -610,6 +616,101 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hSeosKw3pr72gC10igZow"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["folktronica"],
+      "href": "https://api.spotify.com/v1/artists/4hSeosKw3pr72gC10igZow",
+      "id": "4hSeosKw3pr72gC10igZow",
+      "images": [
+        {
+          "height": 639,
+          "url": "https://i.scdn.co/image/e0eb3b0e77d64175825fba287d9a1798136e0e2f",
+          "width": 1000
+        },
+        {
+          "height": 409,
+          "url": "https://i.scdn.co/image/56852cfbf8c7a2f762f6aea5c7d34508878c3c3b",
+          "width": 640
+        },
+        {
+          "height": 128,
+          "url": "https://i.scdn.co/image/8eb5a104bb03a5bfc7dd9c39a53907076dabc8b2",
+          "width": 200
+        },
+        {
+          "height": 41,
+          "url": "https://i.scdn.co/image/ede6c16b077c84e209abb51d61d0d2bc1078a49d",
+          "width": 64
+        }
+      ],
+      "name": "Szymon",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:4hSeosKw3pr72gC10igZow"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["alabama indie"],
+      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
+          "width": 160
+        }
+      ],
+      "name": "The Brook & The Bluff",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ztTVMgVpMa4gESKeL60xU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["chicago indie"],
+      "href": "https://api.spotify.com/v1/artists/1ztTVMgVpMa4gESKeL60xU",
+      "id": "1ztTVMgVpMa4gESKeL60xU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0c732c07f58081cfb1da153c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740c732c07f58081cfb1da153c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780c732c07f58081cfb1da153c",
+          "width": 160
+        }
+      ],
+      "name": "Blah Blah Blah",
+      "popularity": 26,
+      "type": "artist",
+      "uri": "spotify:artist:1ztTVMgVpMa4gESKeL60xU"
     },
     {
       "external_urls": {
@@ -960,42 +1061,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "indie folk",
-        "indie rock",
-        "new americana",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6Qm9stX6XO1a4c7BXQDDgc",
-      "id": "6Qm9stX6XO1a4c7BXQDDgc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfc63c3630989a598f892b93b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fc63c3630989a598f892b93b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fc63c3630989a598f892b93b",
-          "width": 160
-        }
-      ],
-      "name": "Fruit Bats",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:6Qm9stX6XO1a4c7BXQDDgc"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
       },
       "followers": { "href": null, "total": 0 },
@@ -1031,41 +1096,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4hSeosKw3pr72gC10igZow"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["folktronica"],
-      "href": "https://api.spotify.com/v1/artists/4hSeosKw3pr72gC10igZow",
-      "id": "4hSeosKw3pr72gC10igZow",
-      "images": [
-        {
-          "height": 639,
-          "url": "https://i.scdn.co/image/e0eb3b0e77d64175825fba287d9a1798136e0e2f",
-          "width": 1000
-        },
-        {
-          "height": 409,
-          "url": "https://i.scdn.co/image/56852cfbf8c7a2f762f6aea5c7d34508878c3c3b",
-          "width": 640
-        },
-        {
-          "height": 128,
-          "url": "https://i.scdn.co/image/8eb5a104bb03a5bfc7dd9c39a53907076dabc8b2",
-          "width": 200
-        },
-        {
-          "height": 41,
-          "url": "https://i.scdn.co/image/ede6c16b077c84e209abb51d61d0d2bc1078a49d",
-          "width": 64
-        }
-      ],
-      "name": "Szymon",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:4hSeosKw3pr72gC10igZow"
     },
     {
       "external_urls": {
@@ -1251,38 +1281,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
-      "id": "7gP3bB2nilZXLfPHJhMdvc",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
+      "id": "3Da81tOAhG3gdust5MNI2s",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb5a3c9a9ca40824e0f44ea78",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b5a3c9a9ca40824e0f44ea78",
+          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b5a3c9a9ca40824e0f44ea78",
+          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
           "width": 160
         }
       ],
-      "name": "Foster The People",
-      "popularity": 69,
+      "name": "The Humble Cheaters",
+      "popularity": 15,
       "type": "artist",
-      "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
     {
       "external_urls": {
@@ -1697,7 +1722,7 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
@@ -2136,36 +2161,6 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
-      "id": "3Da81tOAhG3gdust5MNI2s",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
-          "width": 160
-        }
-      ],
-      "name": "The Humble Cheaters",
-      "popularity": 15,
-      "type": "artist",
-      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
     {
       "external_urls": {
