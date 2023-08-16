@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/006b3d179039748f2cb4425328b9953e7aa8f187",
+      "description": "What can we make of a design that shows up over and over in disparate cultures throughout history? Theorist Terry Moore explores \"Penrose tiling\" -- two shapes that fit together in infinite combinations without ever repeating -- and ponders what it might mean.",
+      "duration_ms": 401268,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4oyj0xdTTiQah5MhFauhOm"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4oyj0xdTTiQah5MhFauhOm",
+      "html_description": "What can we make of a design that shows up over and over in disparate cultures throughout history? Theorist Terry Moore explores &#34;Penrose tiling&#34; -- two shapes that fit together in infinite combinations without ever repeating -- and ponders what it might mean.",
+      "id": "4oyj0xdTTiQah5MhFauhOm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae3efeb431dac9ef9925b14e7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe3efeb431dac9ef9925b14e7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de3efeb431dac9ef9925b14e7",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "A mysterious design that appears across millennia | Terry Moore",
+      "release_date": "2023-08-15",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4oyj0xdTTiQah5MhFauhOm"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/e9684eb9a1927527ecc47f559069416714bb3ff1",
       "description": "Based on her work for a CIA task force aimed at predicting civil wars, political scientist Barbara F. Walter examines the rise in extremism and threats to democracies around the globe -- and paints an unsettling picture of the increasing likelihood of a second civil war in the United States.",
       "duration_ms": 843684,
@@ -7146,45 +7185,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6X1PotJ4MVl4e1rx9oOXSs"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/9545408fbf98cce8bef90e528e78051d93fdcc34",
-      "description": "Technologist and TED Fellow Gautam Shah invites us to imagine how the metaverse could redefine the relationships between humans and other species. By giving individual wild animals a personal identity (such as Fio, a young orangutan in Borneo, or Mweituria, an elephant living in Kenya) and sharing data on their migration, milestones and habitats, Shah thinks we could empathize with wildlife in a whole new way. Learn more about how emerging technology could bring us closer to the natural world -- and what the connections we build there could mean for the future of the planet.",
-      "duration_ms": 434822,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5o7pTLvHdcewD5rfQmZift"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5o7pTLvHdcewD5rfQmZift",
-      "html_description": "Technologist and TED Fellow Gautam Shah invites us to imagine how the metaverse could redefine the relationships between humans and other species. By giving individual wild animals a personal identity (such as Fio, a young orangutan in Borneo, or Mweituria, an elephant living in Kenya) and sharing data on their migration, milestones and habitats, Shah thinks we could empathize with wildlife in a whole new way. Learn more about how emerging technology could bring us closer to the natural world -- and what the connections we build there could mean for the future of the planet.",
-      "id": "5o7pTLvHdcewD5rfQmZift",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a4cb94f54c9e503656a7de4a2",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f4cb94f54c9e503656a7de4a2",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d4cb94f54c9e503656a7de4a2",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Can the metaverse bring us closer to wildlife? | Gautam Shah",
-      "release_date": "2022-12-13",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5o7pTLvHdcewD5rfQmZift"
     }
   ]
 }
