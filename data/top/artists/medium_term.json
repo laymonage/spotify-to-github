@@ -990,6 +990,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+      "id": "0ubGY2CcC0tvR0eE6hJaT8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba16fc489132526e192d62744",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a16fc489132526e192d62744",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a16fc489132526e192d62744",
+          "width": 160
+        }
+      ],
+      "name": "Charlie Burg",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
       },
       "followers": { "href": null, "total": 0 },
@@ -1014,7 +1044,7 @@
         }
       ],
       "name": "Good Luck Finding Iris",
-      "popularity": 24,
+      "popularity": 23,
       "type": "artist",
       "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
@@ -1419,36 +1449,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "bedroom soul"],
-      "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-      "id": "0ubGY2CcC0tvR0eE6hJaT8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba16fc489132526e192d62744",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a16fc489132526e192d62744",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a16fc489132526e192d62744",
-          "width": 160
-        }
-      ],
-      "name": "Charlie Burg",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
     {
       "external_urls": {
