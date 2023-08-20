@@ -150,13 +150,13 @@ interface Client {
     playlist:
       | SpotifyApi.PlaylistObjectSimplified
       | SpotifyApi.PlaylistObjectFull,
-    tracks: SpotifyApi.TrackObjectSimplified[],
+    tracks: SpotifyApi.TrackObjectSimplified[] | string[],
   ): Promise<SpotifyApi.RemoveTracksFromPlaylistResponse>;
   addPlaylistTracks(
     playlist:
       | SpotifyApi.PlaylistObjectSimplified
       | SpotifyApi.PlaylistObjectFull,
-    tracks: SpotifyApi.TrackObjectSimplified[],
+    tracks: SpotifyApi.TrackObjectSimplified[] | string[],
   ): Promise<SpotifyApi.AddTracksToPlaylistResponse>;
 }
 
@@ -360,7 +360,7 @@ export async function createClient(
       }).then((res) => res.json());
     },
     async deletePlaylistTracks({ id, snapshot_id }, tracks) {
-      const chunks = chunk(tracks, 100);
+      const chunks = chunk<(typeof tracks)[number]>(tracks, 100);
       let response: SpotifyApi.PlaylistSnapshotResponse = { snapshot_id };
       if (tracks.length === 0) return response;
 
@@ -368,14 +368,18 @@ export async function createClient(
         response = (await fetch(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS(id), {
           ...init,
           method: "DELETE",
-          body: JSON.stringify({ tracks: tracks.map(({ uri }) => ({ uri })) }),
+          body: JSON.stringify({
+            tracks: tracks.map((track) => ({
+              uri: typeof track === "string" ? track : track.uri,
+            })),
+          }),
         }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
         await sleep(100);
       }
       return response;
     },
     async addPlaylistTracks({ id, snapshot_id }, tracks) {
-      const chunks = chunk(tracks, 100);
+      const chunks = chunk<(typeof tracks)[number]>(tracks, 100);
       let response: SpotifyApi.PlaylistSnapshotResponse = { snapshot_id };
       if (tracks.length === 0) return response;
 
@@ -383,7 +387,11 @@ export async function createClient(
         response = (await fetch(ENDPOINTS_WITH_ID.PLAYLIST_TRACKS(id), {
           ...init,
           method: "POST",
-          body: JSON.stringify({ uris: tracks.map(({ uri }) => uri) }),
+          body: JSON.stringify({
+            uris: tracks.map((track) =>
+              typeof track === "string" ? track : track.uri,
+            ),
+          }),
         }).then((res) => res.json())) as SpotifyApi.PlaylistSnapshotResponse;
         await sleep(100);
       }
