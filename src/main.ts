@@ -1,4 +1,4 @@
-import { log, sleep, writeJSON } from "./functions";
+import { difference, log, sleep, writeJSON } from "./functions";
 import {
   createClient,
   simplifySavedAlbum,
@@ -146,13 +146,17 @@ async function main() {
   await sleep(1000);
 
   let savedTracksPlaylist: SpotifyApi.PlaylistObjectSimplified | undefined;
-  let savedTracksPlaylistFull: Awaited<ReturnType<typeof client.getPlaylist>>;
+  let savedTracksPlaylistFull:
+    | Awaited<ReturnType<typeof client.getPlaylist>>
+    | undefined;
+  let playlistTrackUris = new Set<string>();
+  const savedTrackUris = new Set<string>(
+    tracks.map(({ track: { uri } }) => uri),
+  );
 
   for (const playlist of playlists) {
     log(`Getting playlist ${playlist.name}…`);
     const playlistFull = await client.getPlaylist(playlist.id, {});
-    log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
-    writeJSON(`playlists/${playlist.id}`, playlistFull);
 
     if (
       playlist.name.toLowerCase() == "liked songs (mirror)" &&
@@ -164,6 +168,14 @@ async function main() {
 
       savedTracksPlaylist = playlist;
       savedTracksPlaylistFull = playlistFull;
+      playlistTrackUris = new Set(
+        savedTracksPlaylistFull.tracks
+          .filter(({ track }) => !!track)
+          .map(({ track }) => track?.uri as string),
+      );
+    } else {
+      log(`Writing playlist ${playlist.name} to ${playlist.id}.json…`);
+      writeJSON(`playlists/${playlist.id}`, playlistFull);
     }
     // Spotify's API rate limit is calculated in a rolling 30 second window.
     // Sleep for half a second between playlist requests to avoid hitting the
@@ -182,19 +194,31 @@ async function main() {
     const { name, uri } = savedTracksPlaylist;
     log(`Created playlist ${name} with uri: ${uri}.`);
   } else {
-    log(`Saved tracks playlist found. Deleting all tracks…`);
-    await client.deletePlaylistTracks(
-      savedTracksPlaylist,
-      savedTracksPlaylistFull!.tracks
-        .map(({ track }) => track)
-        .filter(<T>(t: T): t is NonNullable<T> => t !== null),
-    );
+    const deletedTrackUris = difference(playlistTrackUris, savedTrackUris);
+    if (deletedTrackUris.size) {
+      log(
+        `Deleting ${deletedTrackUris.size} tracks from saved tracks playlist…`,
+      );
+      await client.deletePlaylistTracks(savedTracksPlaylist, [
+        ...deletedTrackUris,
+      ]);
+    } else {
+      log(`No tracks to delete from saved tracks playlist.`);
+    }
   }
 
-  log(`Synchronising saved tracks playlist…`);
-  await client.addPlaylistTracks(
-    savedTracksPlaylist,
-    tracks.map(({ track }) => track),
+  const addedTrackUris = difference(savedTrackUris, playlistTrackUris);
+  if (addedTrackUris.size) {
+    log(`Adding ${addedTrackUris.size} tracks to saved tracks playlist…`);
+    await client.addPlaylistTracks(savedTracksPlaylist, [...addedTrackUris]);
+  } else {
+    log(`No tracks to add to saved tracks playlist.`);
+  }
+
+  log(`Writing saved tracks playlist to ${savedTracksPlaylistFull!.id}.json…`);
+  writeJSON(
+    `playlists/${savedTracksPlaylistFull!.id}`,
+    savedTracksPlaylistFull!,
   );
 
   log(`Waiting for 1 second…`);
