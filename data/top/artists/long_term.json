@@ -315,6 +315,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "chicago indie",
+        "countrygaze",
+        "indie pop",
+        "indie rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
+      "id": "32aUoW94mJ7xTJI7fG0V1G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
+          "width": 160
+        }
+      ],
+      "name": "Whitney",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
       },
       "followers": { "href": null, "total": 0 },
@@ -372,42 +408,6 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "chicago indie",
-        "countrygaze",
-        "indie pop",
-        "indie rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
-      "id": "32aUoW94mJ7xTJI7fG0V1G",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
-          "width": 160
-        }
-      ],
-      "name": "Whitney",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
     },
     {
       "external_urls": {
@@ -711,36 +711,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
       },
       "followers": { "href": null, "total": 0 },
@@ -776,6 +746,36 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -1289,36 +1289,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
-      "id": "3M8JKaNdIRChzvxVK1XxKm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
-          "width": 160
-        }
-      ],
-      "name": "FLEECE",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd"
       },
       "followers": { "href": null, "total": 0 },
@@ -1346,6 +1316,36 @@
       "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
+      "id": "3M8JKaNdIRChzvxVK1XxKm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
+          "width": 160
+        }
+      ],
+      "name": "FLEECE",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
     },
     {
       "external_urls": {
@@ -2315,7 +2315,7 @@
         }
       ],
       "name": "Nat & Alex Wolff",
-      "popularity": 33,
+      "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:32fNbCzrzfsTbMHjznvm4S"
     },
