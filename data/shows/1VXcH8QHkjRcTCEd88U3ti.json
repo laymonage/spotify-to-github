@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/4c9e6a62c5f71b14c09782e4060fec13822e769b",
+      "description": "Yvonne Newbold's son, Toby, is one of the millions of young people living with a disability. Parenting Toby has offered her some lessons on how to help children move from anxiety-led behavior towards happier times. Drawing on her personal experience, she outlines some of the most effective and actionable of these strategies -- starting with a dash of curiosity, kindness and creative thinking.",
+      "duration_ms": 1142100,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/68DVbvImHFxte7Fep8NLkk"
+      },
+      "href": "https://api.spotify.com/v1/episodes/68DVbvImHFxte7Fep8NLkk",
+      "html_description": "Yvonne Newbold&#39;s son, Toby, is one of the millions of young people living with a disability. Parenting Toby has offered her some lessons on how to help children move from anxiety-led behavior towards happier times. Drawing on her personal experience, she outlines some of the most effective and actionable of these strategies -- starting with a dash of curiosity, kindness and creative thinking.",
+      "id": "68DVbvImHFxte7Fep8NLkk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a81a78efb6f9baf2d00af8608",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f81a78efb6f9baf2d00af8608",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d81a78efb6f9baf2d00af8608",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to meet your child's difficult behavior with compassion | Yvonne Newbold",
+      "release_date": "2023-08-21",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:68DVbvImHFxte7Fep8NLkk"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/06e7b00ca344e7cff0ac5ed79108c7e4c0553b44",
       "description": "The deadliest severe weather phenomenon is something you might not realize: extreme heat. Eleni Myrivili, chief heat officer of the city of Athens, Greece, explains that extreme heat and heat waves are often overlooked because they're not as dramatic as flooding or hurricanes – and breaks down three approaches to keep cities cool in a time of rapid global temperature rise. \"Cranking up the air conditioner is just not going to cut it,\" she says.",
       "duration_ms": 925480,
@@ -7224,45 +7263,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7tzCdy52MzR3irH9j9NvXf"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/211aedbec48436a785cdfce23632cd2e49be9e11",
-      "description": "When he learned of the threat that rising sea levels posed to his coastal hometown of Miami, Florida, eco-artist Xavier Cortada founded a movement around beautifully designed elevation markers highlighting the risk of flood damage. The collaborative art project quickly mobilized action -- and excited some controversy. Watch as Cortada offers a creative vision of community organizing inspired by art that engages, educates and empowers.",
-      "duration_ms": 723292,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5iSL38oQl3tr80INDW4Qgv"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5iSL38oQl3tr80INDW4Qgv",
-      "html_description": "When he learned of the threat that rising sea levels posed to his coastal hometown of Miami, Florida, eco-artist Xavier Cortada founded a movement around beautifully designed elevation markers highlighting the risk of flood damage. The collaborative art project quickly mobilized action -- and excited some controversy. Watch as Cortada offers a creative vision of community organizing inspired by art that engages, educates and empowers.",
-      "id": "5iSL38oQl3tr80INDW4Qgv",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af97b89f070879ba4c851e5a8",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff97b89f070879ba4c851e5a8",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df97b89f070879ba4c851e5a8",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A creative approach to community climate action | Xavier Cortada",
-      "release_date": "2022-12-15",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5iSL38oQl3tr80INDW4Qgv"
     }
   ]
 }

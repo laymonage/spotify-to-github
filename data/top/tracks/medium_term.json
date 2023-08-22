@@ -471,81 +471,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
-        },
-        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
-        "id": "7BJsrjI3UPcmZOur9yCrS3",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
-            "width": 64
-          }
-        ],
-        "name": "DEATH EP",
-        "release_date": "2021-10-29",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 209888,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000271" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/7ooBfrRJnHqqYlMqAKGsop"
-      },
-      "href": "https://api.spotify.com/v1/tracks/7ooBfrRJnHqqYlMqAKGsop",
-      "id": "7ooBfrRJnHqqYlMqAKGsop",
-      "is_local": false,
-      "name": "Muerto",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:7ooBfrRJnHqqYlMqAKGsop"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -1013,6 +938,81 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0NnqnWbds7RRoSnuR1tzSO"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
+        "id": "7BJsrjI3UPcmZOur9yCrS3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
+            "width": 64
+          }
+        ],
+        "name": "DEATH EP",
+        "release_date": "2021-10-29",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 209888,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000271" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ooBfrRJnHqqYlMqAKGsop"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7ooBfrRJnHqqYlMqAKGsop",
+      "id": "7ooBfrRJnHqqYlMqAKGsop",
+      "is_local": false,
+      "name": "Muerto",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7ooBfrRJnHqqYlMqAKGsop"
     },
     {
       "album": {
@@ -1719,156 +1719,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 158646,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800327" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/16yq5bVZYIPgdeoD5eAHNw"
-      },
-      "href": "https://api.spotify.com/v1/tracks/16yq5bVZYIPgdeoD5eAHNw",
-      "id": "16yq5bVZYIPgdeoD5eAHNw",
-      "is_local": false,
-      "name": "Down for the Count",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:16yq5bVZYIPgdeoD5eAHNw"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
-        },
-        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
-        "id": "7BJsrjI3UPcmZOur9yCrS3",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
-            "width": 64
-          }
-        ],
-        "name": "DEATH EP",
-        "release_date": "2021-10-29",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 218890,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000274" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4VHSVYpPz7SJj8UXITmJMi"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4VHSVYpPz7SJj8UXITmJMi",
-      "id": "4VHSVYpPz7SJj8UXITmJMi",
-      "is_local": false,
-      "name": "What Is Your Deal Man?",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:4VHSVYpPz7SJj8UXITmJMi"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
             },
             "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
@@ -2107,6 +1957,156 @@
       "track_number": 8,
       "type": "track",
       "uri": "spotify:track:40PRp88YqFp5fM0MtG2j1N"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
+        "id": "7BJsrjI3UPcmZOur9yCrS3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
+            "width": 64
+          }
+        ],
+        "name": "DEATH EP",
+        "release_date": "2021-10-29",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 218890,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000274" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4VHSVYpPz7SJj8UXITmJMi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4VHSVYpPz7SJj8UXITmJMi",
+      "id": "4VHSVYpPz7SJj8UXITmJMi",
+      "is_local": false,
+      "name": "What Is Your Deal Man?",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:4VHSVYpPz7SJj8UXITmJMi"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
+            "width": 64
+          }
+        ],
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 158646,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1800327" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/16yq5bVZYIPgdeoD5eAHNw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/16yq5bVZYIPgdeoD5eAHNw",
+      "id": "16yq5bVZYIPgdeoD5eAHNw",
+      "is_local": false,
+      "name": "Down for the Count",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:16yq5bVZYIPgdeoD5eAHNw"
     },
     {
       "album": {
@@ -2914,81 +2914,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
-        },
-        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
-        "id": "7BJsrjI3UPcmZOur9yCrS3",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
-            "width": 64
-          }
-        ],
-        "name": "DEATH EP",
-        "release_date": "2021-10-29",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 66496,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000273" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6LpCKnFlRRCmVmPGdiudcf"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6LpCKnFlRRCmVmPGdiudcf",
-      "id": "6LpCKnFlRRCmVmPGdiudcf",
-      "is_local": false,
-      "name": "Hey Dude Etude",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:6LpCKnFlRRCmVmPGdiudcf"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
             },
             "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
@@ -3277,21 +3202,21 @@
       ],
       "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 253571,
+      "duration_ms": 66496,
       "explicit": false,
-      "external_ids": { "isrc": "USWEX2000272" },
+      "external_ids": { "isrc": "USWEX2000273" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6z1LHucP7BDVHoX51kIKJ4"
+        "spotify": "https://open.spotify.com/track/6LpCKnFlRRCmVmPGdiudcf"
       },
-      "href": "https://api.spotify.com/v1/tracks/6z1LHucP7BDVHoX51kIKJ4",
-      "id": "6z1LHucP7BDVHoX51kIKJ4",
+      "href": "https://api.spotify.com/v1/tracks/6LpCKnFlRRCmVmPGdiudcf",
+      "id": "6LpCKnFlRRCmVmPGdiudcf",
       "is_local": false,
-      "name": "FKA Bluets",
+      "name": "Hey Dude Etude",
       "popularity": 0,
       "preview_url": null,
-      "track_number": 3,
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:6z1LHucP7BDVHoX51kIKJ4"
+      "uri": "spotify:track:6LpCKnFlRRCmVmPGdiudcf"
     },
     {
       "album": {
@@ -3765,6 +3690,81 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
+        "id": "7BJsrjI3UPcmZOur9yCrS3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
+            "width": 64
+          }
+        ],
+        "name": "DEATH EP",
+        "release_date": "2021-10-29",
+        "release_date_precision": "day",
+        "total_tracks": 5,
+        "type": "album",
+        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 253571,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000272" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6z1LHucP7BDVHoX51kIKJ4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6z1LHucP7BDVHoX51kIKJ4",
+      "id": "6z1LHucP7BDVHoX51kIKJ4",
+      "is_local": false,
+      "name": "FKA Bluets",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6z1LHucP7BDVHoX51kIKJ4"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -4232,81 +4232,6 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:5BJFaJRLHBCyK52izBKwFj"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
-        },
-        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
-        "id": "7BJsrjI3UPcmZOur9yCrS3",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
-            "width": 64
-          }
-        ],
-        "name": "DEATH EP",
-        "release_date": "2021-10-29",
-        "release_date_precision": "day",
-        "total_tracks": 5,
-        "type": "album",
-        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 123048,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000268" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2HKGSswGICUkJ4oTW8emNm"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2HKGSswGICUkJ4oTW8emNm",
-      "id": "2HKGSswGICUkJ4oTW8emNm",
-      "is_local": false,
-      "name": "Cockroach",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:2HKGSswGICUkJ4oTW8emNm"
     },
     {
       "album": {
@@ -4784,81 +4709,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-        },
-        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
-        "id": "0csxZuCz56owUfU6dC7Dth",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
-            "width": 64
-          }
-        ],
-        "name": "You and Me and Everything",
-        "release_date": "2021-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 161396,
-      "explicit": true,
-      "external_ids": { "isrc": "USWEX2000260" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0PoXJm9bYpjZhDLQOr5cop"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0PoXJm9bYpjZhDLQOr5cop",
-      "id": "0PoXJm9bYpjZhDLQOr5cop",
-      "is_local": false,
-      "name": "Guitars Are Better Than Synthesizers for Writing Through Hard Times",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 8,
-      "type": "track",
-      "uri": "spotify:track:0PoXJm9bYpjZhDLQOr5cop"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -4874,33 +4724,33 @@
         ],
         "available_markets": [],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3AcUPZXFl0cMkhXhoCn5yV"
+          "spotify": "https://open.spotify.com/album/7BJsrjI3UPcmZOur9yCrS3"
         },
-        "href": "https://api.spotify.com/v1/albums/3AcUPZXFl0cMkhXhoCn5yV",
-        "id": "3AcUPZXFl0cMkhXhoCn5yV",
+        "href": "https://api.spotify.com/v1/albums/7BJsrjI3UPcmZOur9yCrS3",
+        "id": "7BJsrjI3UPcmZOur9yCrS3",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dcf8e7012c6cf814174bfe78",
+            "url": "https://i.scdn.co/image/ab67616d0000b273295540f775d3449f4bf9fbe3",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dcf8e7012c6cf814174bfe78",
+            "url": "https://i.scdn.co/image/ab67616d00001e02295540f775d3449f4bf9fbe3",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dcf8e7012c6cf814174bfe78",
+            "url": "https://i.scdn.co/image/ab67616d00004851295540f775d3449f4bf9fbe3",
             "width": 64
           }
         ],
-        "name": "Juliette",
-        "release_date": "2019-11-12",
+        "name": "DEATH EP",
+        "release_date": "2021-10-29",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 5,
         "type": "album",
-        "uri": "spotify:album:3AcUPZXFl0cMkhXhoCn5yV"
+        "uri": "spotify:album:7BJsrjI3UPcmZOur9yCrS3"
       },
       "artists": [
         {
@@ -4916,21 +4766,21 @@
       ],
       "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 193488,
+      "duration_ms": 123048,
       "explicit": false,
-      "external_ids": { "isrc": "USWEX1900133" },
+      "external_ids": { "isrc": "USWEX2000268" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3sLE6NNNk9CjXZv1zh5rm4"
+        "spotify": "https://open.spotify.com/track/2HKGSswGICUkJ4oTW8emNm"
       },
-      "href": "https://api.spotify.com/v1/tracks/3sLE6NNNk9CjXZv1zh5rm4",
-      "id": "3sLE6NNNk9CjXZv1zh5rm4",
+      "href": "https://api.spotify.com/v1/tracks/2HKGSswGICUkJ4oTW8emNm",
+      "id": "2HKGSswGICUkJ4oTW8emNm",
       "is_local": false,
-      "name": "Juliette",
-      "popularity": 5,
+      "name": "Cockroach",
+      "popularity": 0,
       "preview_url": null,
-      "track_number": 1,
+      "track_number": 2,
       "type": "track",
-      "uri": "spotify:track:3sLE6NNNk9CjXZv1zh5rm4"
+      "uri": "spotify:track:2HKGSswGICUkJ4oTW8emNm"
     },
     {
       "album": {
@@ -5161,7 +5011,7 @@
       "id": "30TCAxiC8zVb5NVdUoUuCS",
       "is_local": false,
       "name": "Something to Believe",
-      "popularity": 52,
+      "popularity": 51,
       "preview_url": "https://p.scdn.co/mp3-preview/4158fef2c17dac209bdaadaa56ae35510da8bf48?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 4,
       "type": "track",
@@ -6117,6 +5967,81 @@
     },
     {
       "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3AcUPZXFl0cMkhXhoCn5yV"
+        },
+        "href": "https://api.spotify.com/v1/albums/3AcUPZXFl0cMkhXhoCn5yV",
+        "id": "3AcUPZXFl0cMkhXhoCn5yV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dcf8e7012c6cf814174bfe78",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dcf8e7012c6cf814174bfe78",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dcf8e7012c6cf814174bfe78",
+            "width": 64
+          }
+        ],
+        "name": "Juliette",
+        "release_date": "2019-11-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:3AcUPZXFl0cMkhXhoCn5yV"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 193488,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1900133" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3sLE6NNNk9CjXZv1zh5rm4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3sLE6NNNk9CjXZv1zh5rm4",
+      "id": "3sLE6NNNk9CjXZv1zh5rm4",
+      "is_local": false,
+      "name": "Juliette",
+      "popularity": 5,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3sLE6NNNk9CjXZv1zh5rm4"
+    },
+    {
+      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -6174,96 +6099,21 @@
       ],
       "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 203498,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000262" },
+      "duration_ms": 161396,
+      "explicit": true,
+      "external_ids": { "isrc": "USWEX2000260" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/3eoC3fgMgbTHWibJwbY2iN"
+        "spotify": "https://open.spotify.com/track/0PoXJm9bYpjZhDLQOr5cop"
       },
-      "href": "https://api.spotify.com/v1/tracks/3eoC3fgMgbTHWibJwbY2iN",
-      "id": "3eoC3fgMgbTHWibJwbY2iN",
+      "href": "https://api.spotify.com/v1/tracks/0PoXJm9bYpjZhDLQOr5cop",
+      "id": "0PoXJm9bYpjZhDLQOr5cop",
       "is_local": false,
-      "name": "Turnaround (Cocaine Song)",
-      "popularity": 4,
+      "name": "Guitars Are Better Than Synthesizers for Writing Through Hard Times",
+      "popularity": 0,
       "preview_url": null,
-      "track_number": 5,
+      "track_number": 8,
       "type": "track",
-      "uri": "spotify:track:3eoC3fgMgbTHWibJwbY2iN"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 243337,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800330" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2vcCHqDdGPi4zTeOfxanuO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2vcCHqDdGPi4zTeOfxanuO",
-      "id": "2vcCHqDdGPi4zTeOfxanuO",
-      "is_local": false,
-      "name": "Copilot",
-      "popularity": 4,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:2vcCHqDdGPi4zTeOfxanuO"
+      "uri": "spotify:track:0PoXJm9bYpjZhDLQOr5cop"
     },
     {
       "album": {
@@ -6827,33 +6677,33 @@
         ],
         "available_markets": [],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
         },
-        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
-        "id": "0csxZuCz56owUfU6dC7Dth",
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
             "width": 64
           }
         ],
-        "name": "You and Me and Everything",
-        "release_date": "2021-04-30",
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
         "release_date_precision": "day",
-        "total_tracks": 12,
+        "total_tracks": 11,
         "type": "album",
-        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
       },
       "artists": [
         {
@@ -6865,35 +6715,25 @@
           "name": "Tōth",
           "type": "artist",
           "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-          },
-          "href": "https://api.spotify.com/v1/artists/1TTfuOdEtj8lin2zR4OWmP",
-          "id": "1TTfuOdEtj8lin2zR4OWmP",
-          "name": "Flock of Dimes",
-          "type": "artist",
-          "uri": "spotify:artist:1TTfuOdEtj8lin2zR4OWmP"
         }
       ],
       "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 203043,
+      "duration_ms": 243337,
       "explicit": false,
-      "external_ids": { "isrc": "USWEX2000261" },
+      "external_ids": { "isrc": "USWEX1800330" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/0UG2CtCKV62BK6Y2MJwOzR"
+        "spotify": "https://open.spotify.com/track/2vcCHqDdGPi4zTeOfxanuO"
       },
-      "href": "https://api.spotify.com/v1/tracks/0UG2CtCKV62BK6Y2MJwOzR",
-      "id": "0UG2CtCKV62BK6Y2MJwOzR",
+      "href": "https://api.spotify.com/v1/tracks/2vcCHqDdGPi4zTeOfxanuO",
+      "id": "2vcCHqDdGPi4zTeOfxanuO",
       "is_local": false,
-      "name": "Daffadowndilly",
-      "popularity": 0,
+      "name": "Copilot",
+      "popularity": 3,
       "preview_url": null,
-      "track_number": 6,
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:0UG2CtCKV62BK6Y2MJwOzR"
+      "uri": "spotify:track:2vcCHqDdGPi4zTeOfxanuO"
     },
     {
       "album": {
@@ -7136,6 +6976,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+        },
+        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
+        "id": "0csxZuCz56owUfU6dC7Dth",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "width": 64
+          }
+        ],
+        "name": "You and Me and Everything",
+        "release_date": "2021-04-30",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 203498,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000262" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3eoC3fgMgbTHWibJwbY2iN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3eoC3fgMgbTHWibJwbY2iN",
+      "id": "3eoC3fgMgbTHWibJwbY2iN",
+      "is_local": false,
+      "name": "Turnaround (Cocaine Song)",
+      "popularity": 3,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:3eoC3fgMgbTHWibJwbY2iN"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
             },
             "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
@@ -7371,81 +7286,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 210946,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800329" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5M1TXdS2EjFDSUBIlZdvPs"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5M1TXdS2EjFDSUBIlZdvPs",
-      "id": "5M1TXdS2EjFDSUBIlZdvPs",
-      "is_local": false,
-      "name": "No Reason",
-      "popularity": 5,
-      "preview_url": null,
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:5M1TXdS2EjFDSUBIlZdvPs"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
             },
             "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
@@ -7674,6 +7514,91 @@
       "track_number": 8,
       "type": "track",
       "uri": "spotify:track:0JANuHeOtJa3fsadWiU0mS"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+        },
+        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
+        "id": "0csxZuCz56owUfU6dC7Dth",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "width": 64
+          }
+        ],
+        "name": "You and Me and Everything",
+        "release_date": "2021-04-30",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1TTfuOdEtj8lin2zR4OWmP",
+          "id": "1TTfuOdEtj8lin2zR4OWmP",
+          "name": "Flock of Dimes",
+          "type": "artist",
+          "uri": "spotify:artist:1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 203043,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000261" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0UG2CtCKV62BK6Y2MJwOzR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0UG2CtCKV62BK6Y2MJwOzR",
+      "id": "0UG2CtCKV62BK6Y2MJwOzR",
+      "is_local": false,
+      "name": "Daffadowndilly",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:0UG2CtCKV62BK6Y2MJwOzR"
     },
     {
       "album": {
@@ -9557,6 +9482,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
+            "width": 64
+          }
+        ],
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 210946,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1800329" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5M1TXdS2EjFDSUBIlZdvPs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5M1TXdS2EjFDSUBIlZdvPs",
+      "id": "5M1TXdS2EjFDSUBIlZdvPs",
+      "is_local": false,
+      "name": "No Reason",
+      "popularity": 4,
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:5M1TXdS2EjFDSUBIlZdvPs"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
             },
             "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
@@ -9785,241 +9785,6 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:5SzG3mZhauFYc16ZGpHIsi"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 259454,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800331" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0OruRmzEfjDPIabdJTi9RF"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0OruRmzEfjDPIabdJTi9RF",
-      "id": "0OruRmzEfjDPIabdJTi9RF",
-      "is_local": false,
-      "name": "Picture of You",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:0OruRmzEfjDPIabdJTi9RF"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-        },
-        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
-        "id": "0csxZuCz56owUfU6dC7Dth",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
-            "width": 64
-          }
-        ],
-        "name": "You and Me and Everything",
-        "release_date": "2021-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-          },
-          "href": "https://api.spotify.com/v1/artists/1TTfuOdEtj8lin2zR4OWmP",
-          "id": "1TTfuOdEtj8lin2zR4OWmP",
-          "name": "Flock of Dimes",
-          "type": "artist",
-          "uri": "spotify:artist:1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 192950,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000267" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1OKJwf4b6l1vEAujhHkeGZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1OKJwf4b6l1vEAujhHkeGZ",
-      "id": "1OKJwf4b6l1vEAujhHkeGZ",
-      "is_local": false,
-      "name": "Thirsty",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 9,
-      "type": "track",
-      "uri": "spotify:track:1OKJwf4b6l1vEAujhHkeGZ"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 161972,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800328" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2roYKk0xtwJpooY5A3GxJR",
-      "id": "2roYKk0xtwJpooY5A3GxJR",
-      "is_local": false,
-      "name": "Song to Make You Fall in Love With Me",
-      "popularity": 9,
-      "preview_url": null,
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:2roYKk0xtwJpooY5A3GxJR"
     },
     {
       "album": {
@@ -11445,6 +11210,166 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
+            "width": 64
+          }
+        ],
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 259454,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1800331" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0OruRmzEfjDPIabdJTi9RF"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0OruRmzEfjDPIabdJTi9RF",
+      "id": "0OruRmzEfjDPIabdJTi9RF",
+      "is_local": false,
+      "name": "Picture of You",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:0OruRmzEfjDPIabdJTi9RF"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+        },
+        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
+        "id": "0csxZuCz56owUfU6dC7Dth",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "width": 64
+          }
+        ],
+        "name": "You and Me and Everything",
+        "release_date": "2021-04-30",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          },
+          "href": "https://api.spotify.com/v1/artists/1TTfuOdEtj8lin2zR4OWmP",
+          "id": "1TTfuOdEtj8lin2zR4OWmP",
+          "name": "Flock of Dimes",
+          "type": "artist",
+          "uri": "spotify:artist:1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 192950,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000267" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1OKJwf4b6l1vEAujhHkeGZ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1OKJwf4b6l1vEAujhHkeGZ",
+      "id": "1OKJwf4b6l1vEAujhHkeGZ",
+      "is_local": false,
+      "name": "Thirsty",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:1OKJwf4b6l1vEAujhHkeGZ"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
             },
             "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
@@ -11671,6 +11596,81 @@
       "track_number": 5,
       "type": "track",
       "uri": "spotify:track:1uB2akBAGtDbw9rGM4rjWA"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
+            "width": 64
+          }
+        ],
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 161972,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1800328" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2roYKk0xtwJpooY5A3GxJR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2roYKk0xtwJpooY5A3GxJR",
+      "id": "2roYKk0xtwJpooY5A3GxJR",
+      "is_local": false,
+      "name": "Song to Make You Fall in Love With Me",
+      "popularity": 8,
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2roYKk0xtwJpooY5A3GxJR"
     },
     {
       "album": {
@@ -14255,156 +14255,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-        },
-        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
-        "id": "0csxZuCz56owUfU6dC7Dth",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
-            "width": 64
-          }
-        ],
-        "name": "You and Me and Everything",
-        "release_date": "2021-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 287335,
-      "explicit": true,
-      "external_ids": { "isrc": "USWEX2000269" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0S4INFPPP9Wyxjwag9lPqp"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0S4INFPPP9Wyxjwag9lPqp",
-      "id": "0S4INFPPP9Wyxjwag9lPqp",
-      "is_local": false,
-      "name": "The Driving",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 12,
-      "type": "track",
-      "uri": "spotify:track:0S4INFPPP9Wyxjwag9lPqp"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
-        },
-        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
-        "id": "0ScMgxAPoP0EiJCXzOAsiG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
-            "width": 64
-          }
-        ],
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "release_date": "2019-05-10",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 207387,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX1800335" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1TYWN8WPb2R2RCu8ghESEC"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1TYWN8WPb2R2RCu8ghESEC",
-      "id": "1TYWN8WPb2R2RCu8ghESEC",
-      "is_local": false,
-      "name": "Sentientiment",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 9,
-      "type": "track",
-      "uri": "spotify:track:1TYWN8WPb2R2RCu8ghESEC"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
             },
             "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
@@ -14651,6 +14501,81 @@
         ],
         "available_markets": [],
         "external_urls": {
+          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+        },
+        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
+        "id": "0csxZuCz56owUfU6dC7Dth",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "width": 64
+          }
+        ],
+        "name": "You and Me and Everything",
+        "release_date": "2021-04-30",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 287335,
+      "explicit": true,
+      "external_ids": { "isrc": "USWEX2000269" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0S4INFPPP9Wyxjwag9lPqp"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0S4INFPPP9Wyxjwag9lPqp",
+      "id": "0S4INFPPP9Wyxjwag9lPqp",
+      "is_local": false,
+      "name": "The Driving",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:0S4INFPPP9Wyxjwag9lPqp"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
           "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
         },
         "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
@@ -14693,21 +14618,21 @@
       ],
       "available_markets": [],
       "disc_number": 1,
-      "duration_ms": 267356,
+      "duration_ms": 207387,
       "explicit": false,
-      "external_ids": { "isrc": "USWEX1800334" },
+      "external_ids": { "isrc": "USWEX1800335" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/4jaMg1HgvoIqX9tNYJP3xR"
+        "spotify": "https://open.spotify.com/track/1TYWN8WPb2R2RCu8ghESEC"
       },
-      "href": "https://api.spotify.com/v1/tracks/4jaMg1HgvoIqX9tNYJP3xR",
-      "id": "4jaMg1HgvoIqX9tNYJP3xR",
+      "href": "https://api.spotify.com/v1/tracks/1TYWN8WPb2R2RCu8ghESEC",
+      "id": "1TYWN8WPb2R2RCu8ghESEC",
       "is_local": false,
-      "name": "Guts to Fly",
+      "name": "Sentientiment",
       "popularity": 0,
       "preview_url": null,
-      "track_number": 8,
+      "track_number": 9,
       "type": "track",
-      "uri": "spotify:track:4jaMg1HgvoIqX9tNYJP3xR"
+      "uri": "spotify:track:1TYWN8WPb2R2RCu8ghESEC"
     },
     {
       "album": {
@@ -15185,6 +15110,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0ScMgxAPoP0EiJCXzOAsiG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0ScMgxAPoP0EiJCXzOAsiG",
+        "id": "0ScMgxAPoP0EiJCXzOAsiG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f55071f3177ce928ed52524a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f55071f3177ce928ed52524a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f55071f3177ce928ed52524a",
+            "width": 64
+          }
+        ],
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "release_date": "2019-05-10",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:0ScMgxAPoP0EiJCXzOAsiG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 267356,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX1800334" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4jaMg1HgvoIqX9tNYJP3xR"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4jaMg1HgvoIqX9tNYJP3xR",
+      "id": "4jaMg1HgvoIqX9tNYJP3xR",
+      "is_local": false,
+      "name": "Guts to Fly",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:4jaMg1HgvoIqX9tNYJP3xR"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
             },
             "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
@@ -15408,7 +15408,7 @@
       "id": "75vW355BVk8wNjOqfrjfjo",
       "is_local": false,
       "name": "Children of the Empire",
-      "popularity": 49,
+      "popularity": 48,
       "preview_url": "https://p.scdn.co/mp3-preview/1748bf3b2964aa4d9a6ffef0c7337cadcc7b2ae6?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
@@ -16969,86 +16969,11 @@
       "id": "2zgpMaaXfVJqUJoMbjmfH2",
       "is_local": false,
       "name": "Fire Flower",
-      "popularity": 51,
+      "popularity": 50,
       "preview_url": "https://p.scdn.co/mp3-preview/e8cd13ad438e49fb4aa9a620e595625201527e12?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:2zgpMaaXfVJqUJoMbjmfH2"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-            },
-            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-            "id": "02nqs3YdfX7Th3gYTYFrqc",
-            "name": "Tōth",
-            "type": "artist",
-            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
-        },
-        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
-        "id": "0csxZuCz56owUfU6dC7Dth",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
-            "width": 64
-          }
-        ],
-        "name": "You and Me and Everything",
-        "release_date": "2021-04-30",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-          },
-          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-          "id": "02nqs3YdfX7Th3gYTYFrqc",
-          "name": "Tōth",
-          "type": "artist",
-          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 71000,
-      "explicit": false,
-      "external_ids": { "isrc": "USWEX2000270" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2szxFUKVZ7WnGn7Bv5QIkb"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2szxFUKVZ7WnGn7Bv5QIkb",
-      "id": "2szxFUKVZ7WnGn7Bv5QIkb",
-      "is_local": false,
-      "name": "You and Me and Everything",
-      "popularity": 3,
-      "preview_url": null,
-      "track_number": 7,
-      "type": "track",
-      "uri": "spotify:track:2szxFUKVZ7WnGn7Bv5QIkb"
     },
     {
       "album": {
@@ -18930,6 +18855,316 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+            },
+            "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+            "id": "3Uqu1mEdkUJxPe7s31n1M9",
+            "name": "Weyes Blood",
+            "type": "artist",
+            "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        },
+        "href": "https://api.spotify.com/v1/albums/1hngVRZt95TrqPqXoJzQ4A",
+        "id": "1hngVRZt95TrqPqXoJzQ4A",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273db8ab490bcedb6e518c37e6e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02db8ab490bcedb6e518c37e6e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851db8ab490bcedb6e518c37e6e",
+            "width": 64
+          }
+        ],
+        "name": "And In The Darkness, Hearts Aglow",
+        "release_date": "2022-11-18",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          },
+          "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+          "id": "3Uqu1mEdkUJxPe7s31n1M9",
+          "name": "Weyes Blood",
+          "type": "artist",
+          "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 262400,
+      "explicit": false,
+      "external_ids": { "isrc": "USSUB2248507" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2HZasNmIAzprwJjFLPoSGM",
+      "id": "2HZasNmIAzprwJjFLPoSGM",
+      "is_local": false,
+      "name": "Twin Flame",
+      "popularity": 53,
+      "preview_url": "https://p.scdn.co/mp3-preview/74244e78087bd1353436ff68c3c20dc201b808aa?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2HZasNmIAzprwJjFLPoSGM"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+            },
+            "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+            "id": "02nqs3YdfX7Th3gYTYFrqc",
+            "name": "Tōth",
+            "type": "artist",
+            "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
+        },
+        "href": "https://api.spotify.com/v1/albums/0csxZuCz56owUfU6dC7Dth",
+        "id": "0csxZuCz56owUfU6dC7Dth",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f6adb5aab7463bb4d4c63671",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f6adb5aab7463bb4d4c63671",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f6adb5aab7463bb4d4c63671",
+            "width": 64
+          }
+        ],
+        "name": "You and Me and Everything",
+        "release_date": "2021-04-30",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0csxZuCz56owUfU6dC7Dth"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          },
+          "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+          "id": "02nqs3YdfX7Th3gYTYFrqc",
+          "name": "Tōth",
+          "type": "artist",
+          "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 71000,
+      "explicit": false,
+      "external_ids": { "isrc": "USWEX2000270" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2szxFUKVZ7WnGn7Bv5QIkb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2szxFUKVZ7WnGn7Bv5QIkb",
+      "id": "2szxFUKVZ7WnGn7Bv5QIkb",
+      "is_local": false,
+      "name": "You and Me and Everything",
+      "popularity": 3,
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:2szxFUKVZ7WnGn7Bv5QIkb"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
             },
             "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
@@ -19218,21 +19453,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 262400,
+      "duration_ms": 349213,
       "explicit": false,
-      "external_ids": { "isrc": "USSUB2248507" },
+      "external_ids": { "isrc": "USSUB2248505" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
+        "spotify": "https://open.spotify.com/track/1FcUc6un64dEBZ53iFuO6M"
       },
-      "href": "https://api.spotify.com/v1/tracks/2HZasNmIAzprwJjFLPoSGM",
-      "id": "2HZasNmIAzprwJjFLPoSGM",
+      "href": "https://api.spotify.com/v1/tracks/1FcUc6un64dEBZ53iFuO6M",
+      "id": "1FcUc6un64dEBZ53iFuO6M",
       "is_local": false,
-      "name": "Twin Flame",
-      "popularity": 53,
-      "preview_url": "https://p.scdn.co/mp3-preview/74244e78087bd1353436ff68c3c20dc201b808aa?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 7,
+      "name": "Hearts Aglow",
+      "popularity": 47,
+      "preview_url": "https://p.scdn.co/mp3-preview/869347cce733fde2add4d90e0cc4d2a87561246a?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:2HZasNmIAzprwJjFLPoSGM"
+      "uri": "spotify:track:1FcUc6un64dEBZ53iFuO6M"
     },
     {
       "album": {
@@ -19308,241 +19543,6 @@
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:1T5ZbNxkrFS9ufsHyhE9Gk"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-            },
-            "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-            "id": "3Uqu1mEdkUJxPe7s31n1M9",
-            "name": "Weyes Blood",
-            "type": "artist",
-            "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-        },
-        "href": "https://api.spotify.com/v1/albums/1hngVRZt95TrqPqXoJzQ4A",
-        "id": "1hngVRZt95TrqPqXoJzQ4A",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273db8ab490bcedb6e518c37e6e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02db8ab490bcedb6e518c37e6e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851db8ab490bcedb6e518c37e6e",
-            "width": 64
-          }
-        ],
-        "name": "And In The Darkness, Hearts Aglow",
-        "release_date": "2022-11-18",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-          },
-          "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-          "id": "3Uqu1mEdkUJxPe7s31n1M9",
-          "name": "Weyes Blood",
-          "type": "artist",
-          "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 349213,
-      "explicit": false,
-      "external_ids": { "isrc": "USSUB2248505" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1FcUc6un64dEBZ53iFuO6M"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1FcUc6un64dEBZ53iFuO6M",
-      "id": "1FcUc6un64dEBZ53iFuO6M",
-      "is_local": false,
-      "name": "Hearts Aglow",
-      "popularity": 47,
-      "preview_url": "https://p.scdn.co/mp3-preview/869347cce733fde2add4d90e0cc4d2a87561246a?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 5,
-      "type": "track",
-      "uri": "spotify:track:1FcUc6un64dEBZ53iFuO6M"
     }
   ]
 }
