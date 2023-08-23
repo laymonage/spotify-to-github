@@ -837,7 +837,7 @@
         }
       ],
       "name": "Paul Cherry",
-      "popularity": 36,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
     },
@@ -1343,7 +1343,7 @@
         }
       ],
       "name": "FLEECE",
-      "popularity": 40,
+      "popularity": 39,
       "type": "artist",
       "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
     },
@@ -2527,7 +2527,7 @@
         }
       ],
       "name": "Beach House",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
@@ -2692,6 +2692,36 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:6PL8FkAt5nOZwYpPIhuAJg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "pov: indie", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
+      "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517402fcc327683d53bea9583c69",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17802fcc327683d53bea9583c69",
+          "width": 160
+        }
+      ],
+      "name": "Djo",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
     },
     {
       "external_urls": {
@@ -3144,41 +3174,6 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "easy listening", "lounge"],
-      "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
-      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-      "images": [
-        {
-          "height": 650,
-          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-          "width": 999
-        },
-        {
-          "height": 416,
-          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
-          "width": 640
-        },
-        {
-          "height": 130,
-          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
-          "width": 200
-        },
-        {
-          "height": 42,
-          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
-          "width": 64
-        }
-      ],
-      "name": "Frank Sinatra",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     }
   ]
 }
