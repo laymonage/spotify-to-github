@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/be79a2b7183095e624c4697b5fce46b535f6c7e3",
+      "description": "From the astonishing evolutionary advances of the Cambrian explosion to our present-day computing revolution, the trend of dramatic growth after periods of stability can be explained through the theory of the \"adjacent possible,\" says theoretical biologist Stuart Kauffman. Tracing the arc of human history through the tools and technologies we've invented, he explains the impact human ingenuity has had on the planet -- and calls for a shift towards more protection for all life on Earth.",
+      "duration_ms": 746748,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6QLgUrOlpyZqVRWx9WM3rr"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6QLgUrOlpyZqVRWx9WM3rr",
+      "html_description": "From the astonishing evolutionary advances of the Cambrian explosion to our present-day computing revolution, the trend of dramatic growth after periods of stability can be explained through the theory of the &#34;adjacent possible,&#34; says theoretical biologist Stuart Kauffman. Tracing the arc of human history through the tools and technologies we&#39;ve invented, he explains the impact human ingenuity has had on the planet -- and calls for a shift towards more protection for all life on Earth.",
+      "id": "6QLgUrOlpyZqVRWx9WM3rr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a8107c8dfb82b0a08aa1ba9ca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f8107c8dfb82b0a08aa1ba9ca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d8107c8dfb82b0a08aa1ba9ca",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The \"adjacent possible\" -- and how it explains human innovation | Stuart Kauffman",
+      "release_date": "2023-08-25",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6QLgUrOlpyZqVRWx9WM3rr"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/65cae7ea7b80af1175205b886eb6c69ebecc02cf",
       "description": "With data as his paintbrush, media artist Refik Anadol trains AI algorithms to visualize the disappearing wonders of nature. He gives a beautiful tour of his recent work -- imagery of artificial coral reefs, flowers, rainforests -- and ponders: Can we use AI to preserve our memories of the fading natural world?",
       "duration_ms": 366612,
@@ -7263,45 +7302,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2slIl2GzRocxSw3BvPneNs"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/2469b85a20780cb821e6ed35963f6dc603ffa52e",
-      "description": "Going to school in a refugee camp can be complicated: students encounter crowded classrooms, rigid curricula and limited access to teachers. Joel Baraka, who grew up in the Kyangwali refugee camp in Uganda, is determined to change that for the better. He shows how educational board games can be a fun and effective way to improve access to learning and help kids thrive in and out of school.",
-      "duration_ms": 779455,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0iBDca5vy3xxEejPriaeoX"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0iBDca5vy3xxEejPriaeoX",
-      "html_description": "Going to school in a refugee camp can be complicated: students encounter crowded classrooms, rigid curricula and limited access to teachers. Joel Baraka, who grew up in the Kyangwali refugee camp in Uganda, is determined to change that for the better. He shows how educational board games can be a fun and effective way to improve access to learning and help kids thrive in and out of school.",
-      "id": "0iBDca5vy3xxEejPriaeoX",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a17e9fb73bf19338981c99639",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f17e9fb73bf19338981c99639",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d17e9fb73bf19338981c99639",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The board game getting kids excited about school | Joel Baraka",
-      "release_date": "2022-12-20",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0iBDca5vy3xxEejPriaeoX"
     }
   ]
 }
