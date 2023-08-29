@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/f8932bfd1ded22247a534035d3327daeb9f34cd8",
+      "description": "Technologist Yat Siu believes the \"open metaverse\" -- a decentralized version of the internet also known as web3 -- is laying the foundation for a freer, fairer, more prosperous society. In a future-focused talk, he explores the transformative possibilities of web3, from enabling digital ownership and the creator economy to providing a much-needed update to capitalism.",
+      "duration_ms": 721284,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5E0Hw5uyy1VUVLNn9F4TvD"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5E0Hw5uyy1VUVLNn9F4TvD",
+      "html_description": "Technologist Yat Siu believes the &#34;open metaverse&#34; -- a decentralized version of the internet also known as web3 -- is laying the foundation for a freer, fairer, more prosperous society. In a future-focused talk, he explores the transformative possibilities of web3, from enabling digital ownership and the creator economy to providing a much-needed update to capitalism.",
+      "id": "5E0Hw5uyy1VUVLNn9F4TvD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a4352a5b4fb9130b201f65b4d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f4352a5b4fb9130b201f65b4d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d4352a5b4fb9130b201f65b4d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The dream of digital ownership, powered by the metaverse | Yat Siu",
+      "release_date": "2023-08-28",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5E0Hw5uyy1VUVLNn9F4TvD"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/be79a2b7183095e624c4697b5fce46b535f6c7e3",
       "description": "From the astonishing evolutionary advances of the Cambrian explosion to our present-day computing revolution, the trend of dramatic growth after periods of stability can be explained through the theory of the \"adjacent possible,\" says theoretical biologist Stuart Kauffman. Tracing the arc of human history through the tools and technologies we've invented, he explains the impact human ingenuity has had on the planet -- and calls for a shift towards more protection for all life on Earth.",
       "duration_ms": 746748,
@@ -7263,45 +7302,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5YJtZnKNJw8VbZrTmACbYz"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/8231124f41777d8e41bd7bce0512f8f691f7aed7",
-      "description": "The internet provides access to knowledge for billions across the world, but how accessible is it really? Website accessibility advocate Clive Loseby sheds light on why many parts of the web are closed off to those with disabilities -- and lays out some steps to make being online better for everyone.",
-      "duration_ms": 750355,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2slIl2GzRocxSw3BvPneNs"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2slIl2GzRocxSw3BvPneNs",
-      "html_description": "The internet provides access to knowledge for billions across the world, but how accessible is it really? Website accessibility advocate Clive Loseby sheds light on why many parts of the web are closed off to those with disabilities -- and lays out some steps to make being online better for everyone.",
-      "id": "2slIl2GzRocxSw3BvPneNs",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8aa4f1c25d7169a2acfe1e1683",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fa4f1c25d7169a2acfe1e1683",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68da4f1c25d7169a2acfe1e1683",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The internet's accessibility problem -- and how to fix it | Clive Loseby",
-      "release_date": "2022-12-21",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2slIl2GzRocxSw3BvPneNs"
     }
   ]
 }
