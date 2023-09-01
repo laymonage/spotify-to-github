@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/241b548e7e547c2c071c68ff79b03bc08061c196",
+      "description": "How is AI changing the nature of human imagination and creativity? Through a mind-bending tour of new techniques he's been tinkering with, creative technologist Bilawal Sidhu shows how anyone can use AI-powered tools -- like 3D scans that let you redesign the physical world in real time -- to expand the possibilities of artistic expression, often within just minutes.",
+      "duration_ms": 424884,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7j3tbxzaPhVCCsMz3XPO3v"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7j3tbxzaPhVCCsMz3XPO3v",
+      "html_description": "How is AI changing the nature of human imagination and creativity? Through a mind-bending tour of new techniques he&#39;s been tinkering with, creative technologist Bilawal Sidhu shows how anyone can use AI-powered tools -- like 3D scans that let you redesign the physical world in real time -- to expand the possibilities of artistic expression, often within just minutes.",
+      "id": "7j3tbxzaPhVCCsMz3XPO3v",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae96a50356f671030fc4ffa1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe96a50356f671030fc4ffa1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de96a50356f671030fc4ffa1f",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The AI-powered tools supercharging your imagination | Bilawal Sidhu",
+      "release_date": "2023-08-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7j3tbxzaPhVCCsMz3XPO3v"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/34b845536979062795697fc5951ba3a7c7b5a50b",
       "description": "What would it take to make global supply chains cleaner and greener? Bo Cerup-Simonsen -- who's helping decarbonize the maritime industry as CEO of the Mærsk Mc-Kinney Møller Center for Zero Carbon Shipping -- discusses why tenacious collaboration is key to orchestrating systemic change. In conversation with TED's Lindsay Levin, he shares important lessons on collective problem-solving and decision-making that could benefit any industry making a green transition.",
       "duration_ms": 585732,
@@ -7029,45 +7068,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5kdC9ipwc120rzCfq6oFlx"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/44e79b700f4d40227f863f4c723e290445b28fe1",
-      "description": "Ever had a hard time doing daily household tasks -- cooking, cleaning, laundry -- and felt like a terrible person for struggling in the first place? Therapist KC Davis is here to flip that negative internalized script with a simple yet perspective-shifting fact that may change your approach to life. Learn a gentler, more practical approach to mental health as Davis shares hard-won wisdom and helpful shortcuts on how to get by when you feel like you've barely got it together.",
-      "duration_ms": 852660,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2JnB76l2N1Ffq6eB3RQgbn"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2JnB76l2N1Ffq6eB3RQgbn",
-      "html_description": "Ever had a hard time doing daily household tasks -- cooking, cleaning, laundry -- and felt like a terrible person for struggling in the first place? Therapist KC Davis is here to flip that negative internalized script with a simple yet perspective-shifting fact that may change your approach to life. Learn a gentler, more practical approach to mental health as Davis shares hard-won wisdom and helpful shortcuts on how to get by when you feel like you&#39;ve barely got it together.",
-      "id": "2JnB76l2N1Ffq6eB3RQgbn",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ad20c66ca37e487e026917051",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fd20c66ca37e487e026917051",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dd20c66ca37e487e026917051",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to do laundry when you're depressed | KC Davis",
-      "release_date": "2023-01-04",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2JnB76l2N1Ffq6eB3RQgbn"
     }
   ]
 }
