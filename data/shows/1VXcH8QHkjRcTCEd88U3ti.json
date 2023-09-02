@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/9661bbf11dcca5bcfda6fd4e17454a9a09761ec4",
+      "description": "From health-tracking wearables to smartphones and beyond, data collection and computer modeling have become a ubiquitous part of everyday life. Advancements in these areas have given birth to \"digital twins,\" or virtual models that evolve alongside real-world data. Aerospace engineer Karen Willcox explores the incredible possibilities these systems offer across engineering, climate studies and medicine, sharing how they could lead to personalized medicine, better decision-making and more.",
+      "duration_ms": 979332,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6dd6mXyLokWloOdUTUeEZM"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6dd6mXyLokWloOdUTUeEZM",
+      "html_description": "From health-tracking wearables to smartphones and beyond, data collection and computer modeling have become a ubiquitous part of everyday life. Advancements in these areas have given birth to &#34;digital twins,&#34; or virtual models that evolve alongside real-world data. Aerospace engineer Karen Willcox explores the incredible possibilities these systems offer across engineering, climate studies and medicine, sharing how they could lead to personalized medicine, better decision-making and more.",
+      "id": "6dd6mXyLokWloOdUTUeEZM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a6f099399c0782927f19463fa",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f6f099399c0782927f19463fa",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d6f099399c0782927f19463fa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How \"digital twins\" could help us predict the future | Karen Willcox",
+      "release_date": "2023-09-01",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6dd6mXyLokWloOdUTUeEZM"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/241b548e7e547c2c071c68ff79b03bc08061c196",
       "description": "How is AI changing the nature of human imagination and creativity? Through a mind-bending tour of new techniques he's been tinkering with, creative technologist Bilawal Sidhu shows how anyone can use AI-powered tools -- like 3D scans that let you redesign the physical world in real time -- to expand the possibilities of artistic expression, often within just minutes.",
       "duration_ms": 424884,
@@ -7029,45 +7068,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1iaeTwMsVpGUXyhT8GOB8Z"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/0c740b4d53afbe2f737c97012e8c1ffb7e58cd77",
-      "description": "Paul Catchlove believes strongly in the power of reflection. Through every career he's held -- from priest to opera singer to senior management consultant -- he's benefitted from a habit of considering and analyzing his goals, needs and performance. Learn more about how a regular practice of reflection can improve your decision-making, career and relationships.",
-      "duration_ms": 738564,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5kdC9ipwc120rzCfq6oFlx"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5kdC9ipwc120rzCfq6oFlx",
-      "html_description": "Paul Catchlove believes strongly in the power of reflection. Through every career he&#39;s held -- from priest to opera singer to senior management consultant -- he&#39;s benefitted from a habit of considering and analyzing his goals, needs and performance. Learn more about how a regular practice of reflection can improve your decision-making, career and relationships.",
-      "id": "5kdC9ipwc120rzCfq6oFlx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ac768a678efb8e4e6896d195f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fc768a678efb8e4e6896d195f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dc768a678efb8e4e6896d195f",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The habit that could improve your career | Paul Catchlove",
-      "release_date": "2023-01-05",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5kdC9ipwc120rzCfq6oFlx"
     }
   ]
 }
