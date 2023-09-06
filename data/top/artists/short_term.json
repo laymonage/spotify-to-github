@@ -1,6 +1,36 @@
 {
-  "total": 61,
+  "total": 59,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+      "id": "1g8HCTiMwBtFtpRR9JXAZR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
+          "width": 64
+        }
+      ],
+      "name": "Fishmans",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
@@ -99,33 +129,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+        "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
-      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-      "id": "1g8HCTiMwBtFtpRR9JXAZR",
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
+      "id": "6i48BaGgUX0ceBv2F0iQH0",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0199a0857e2664b81a36bb0e",
           "width": 640
         },
         {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
-          "width": 300
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740199a0857e2664b81a36bb0e",
+          "width": 320
         },
         {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780199a0857e2664b81a36bb0e",
+          "width": 160
         }
       ],
-      "name": "Fishmans",
-      "popularity": 43,
+      "name": "The Irons",
+      "popularity": 21,
       "type": "artist",
-      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+      "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
     },
     {
       "external_urls": {
@@ -309,36 +339,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
-      "id": "6i48BaGgUX0ceBv2F0iQH0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0199a0857e2664b81a36bb0e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740199a0857e2664b81a36bb0e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780199a0857e2664b81a36bb0e",
-          "width": 160
-        }
-      ],
-      "name": "The Irons",
-      "popularity": 21,
-      "type": "artist",
-      "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
       },
       "followers": { "href": null, "total": 0 },
@@ -501,36 +501,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
       },
       "followers": { "href": null, "total": 0 },
@@ -632,6 +602,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["lounge", "vocal harmony group"],
+      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
+      "id": "5bOsFzuJ6QZMr86ezC4oXY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
+          "width": 64
+        }
+      ],
+      "name": "The Ink Spots",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
       },
       "followers": { "href": null, "total": 0 },
@@ -662,33 +662,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["lounge", "vocal harmony group"],
-      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
-      "id": "5bOsFzuJ6QZMr86ezC4oXY",
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
           "width": 640
         },
         {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
-          "width": 300
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
         },
         {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
-          "width": 64
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
         }
       ],
-      "name": "The Ink Spots",
-      "popularity": 53,
+      "name": "Still Woozy",
+      "popularity": 65,
       "type": "artist",
-      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -782,6 +782,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "adult standards",
+        "swing",
+        "torch song",
+        "vocal harmony group"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
+      "id": "2NCGI6dLTxLdI9XHdv7QfM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
+          "width": 64
+        }
+      ],
+      "name": "The Andrews Sisters",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
       },
       "followers": { "href": null, "total": 0 },
@@ -839,36 +874,6 @@
       "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
-          "width": 160
-        }
-      ],
-      "name": "STRFKR",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
     },
     {
       "external_urls": {
@@ -1187,6 +1192,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6i5PXBtxdTuDi3S6MDCEVH"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6i5PXBtxdTuDi3S6MDCEVH",
+      "id": "6i5PXBtxdTuDi3S6MDCEVH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4e6572106bec00cc3bb9fcee",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744e6572106bec00cc3bb9fcee",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784e6572106bec00cc3bb9fcee",
+          "width": 160
+        }
+      ],
+      "name": "Pine Barons",
+      "popularity": 12,
+      "type": "artist",
+      "uri": "spotify:artist:6i5PXBtxdTuDi3S6MDCEVH"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0TtJkRL3Qzlf0aX5ozf7Vl"
       },
       "followers": { "href": null, "total": 0 },
@@ -1214,101 +1249,6 @@
       "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:0TtJkRL3Qzlf0aX5ozf7Vl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["acoustic punk", "anti-folk", "folk punk", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4IDpDJIDfK96HMLD4Tphyl",
-      "id": "4IDpDJIDfK96HMLD4Tphyl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb02c0f464eae9777866454908",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517402c0f464eae9777866454908",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17802c0f464eae9777866454908",
-          "width": 160
-        }
-      ],
-      "name": "AJJ",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:4IDpDJIDfK96HMLD4Tphyl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "adult standards",
-        "swing",
-        "torch song",
-        "vocal harmony group"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
-      "id": "2NCGI6dLTxLdI9XHdv7QfM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
-          "width": 64
-        }
-      ],
-      "name": "The Andrews Sisters",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
     {
       "external_urls": {
@@ -1347,6 +1287,150 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["acoustic punk", "anti-folk", "folk punk", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4IDpDJIDfK96HMLD4Tphyl",
+      "id": "4IDpDJIDfK96HMLD4Tphyl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb02c0f464eae9777866454908",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517402c0f464eae9777866454908",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17802c0f464eae9777866454908",
+          "width": 160
+        }
+      ],
+      "name": "AJJ",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:4IDpDJIDfK96HMLD4Tphyl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge"],
+      "href": "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
+      "id": "6ZjFtWeHP9XN7FeKSUe80S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0ba8db83b01de120a6f2312c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740ba8db83b01de120a6f2312c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780ba8db83b01de120a6f2312c",
+          "width": 160
+        }
+      ],
+      "name": "Bing Crosby",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "adult standards",
+        "jump blues",
+        "lounge",
+        "swing",
+        "tin pan alley"
+      ],
+      "href": "https://api.spotify.com/v1/artists/52lBOxCxbJg0ttXEW9CQpW",
+      "id": "52lBOxCxbJg0ttXEW9CQpW",
+      "images": [
+        {
+          "height": 1155,
+          "url": "https://i.scdn.co/image/85e8343b215c98ad063417ac2f6b63919557721a",
+          "width": 1000
+        },
+        {
+          "height": 739,
+          "url": "https://i.scdn.co/image/f5cb5a6563460ac7c5bfadccca8cf878193ae247",
+          "width": 640
+        },
+        {
+          "height": 231,
+          "url": "https://i.scdn.co/image/af86486d9fc9a3bc18a88b8e7a3813ffa582db06",
+          "width": 200
+        },
+        {
+          "height": 74,
+          "url": "https://i.scdn.co/image/caffe94c22cbeddaf2ca2bcb56de4bb1e688ed82",
+          "width": 64
+        }
+      ],
+      "name": "Louis Prima",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:52lBOxCxbJg0ttXEW9CQpW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "blues",
+        "blues rock",
+        "classic rock",
+        "rock",
+        "rock-and-roll",
+        "rockabilly",
+        "soul"
+      ],
+      "href": "https://api.spotify.com/v1/artists/293zczrfYafIItmnmM3coR",
+      "id": "293zczrfYafIItmnmM3coR",
+      "images": [
+        {
+          "height": 1198,
+          "url": "https://i.scdn.co/image/d58323616d4f5d22b51e9dfe0ba53aedabe53cd4",
+          "width": 1000
+        },
+        {
+          "height": 766,
+          "url": "https://i.scdn.co/image/7cfff5d03c5f80539eebba8827e8569c71898ea4",
+          "width": 640
+        },
+        {
+          "height": 240,
+          "url": "https://i.scdn.co/image/dd7b763fb49c35b1ebaadf3695156aeb7d9f9ca3",
+          "width": 200
+        },
+        {
+          "height": 77,
+          "url": "https://i.scdn.co/image/127a6c846e601f5201e4e4bc19d43c388da97b99",
+          "width": 64
+        }
+      ],
+      "name": "Chuck Berry",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
       },
       "followers": { "href": null, "total": 0 },
@@ -1378,6 +1462,78 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "classic rock",
+        "folk rock",
+        "mellow gold",
+        "rock-and-roll",
+        "rockabilly",
+        "singer-songwriter"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3wYyutjgII8LJVVOLrGI0D",
+      "id": "3wYyutjgII8LJVVOLrGI0D",
+      "images": [
+        {
+          "height": 1266,
+          "url": "https://i.scdn.co/image/ff6c6ecd90618f5fb0f8fbf51bf8477586c8843b",
+          "width": 1000
+        },
+        {
+          "height": 810,
+          "url": "https://i.scdn.co/image/a6f9cbb13f743c1b397e73e77d564603ea8a7c1a",
+          "width": 640
+        },
+        {
+          "height": 253,
+          "url": "https://i.scdn.co/image/6291c6dce69ccc5bf017a2a348c8b7e507882e0c",
+          "width": 200
+        },
+        {
+          "height": 81,
+          "url": "https://i.scdn.co/image/b187258df5341858dbc1d4c09fc098a9a7aedbab",
+          "width": 64
+        }
+      ],
+      "name": "Buddy Holly",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:3wYyutjgII8LJVVOLrGI0D"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge", "vocal jazz"],
+      "href": "https://api.spotify.com/v1/artists/49e4v89VmlDcFCMyDv9wQ9",
+      "id": "49e4v89VmlDcFCMyDv9wQ9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2c21cafe54e02803fa5705e0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742c21cafe54e02803fa5705e0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782c21cafe54e02803fa5705e0",
+          "width": 160
+        }
+      ],
+      "name": "Dean Martin",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
     {
       "external_urls": {
@@ -1476,6 +1632,142 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "width": 160
+        }
+      ],
+      "name": "STRFKR",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "indietronica",
+        "modern alternative rock",
+        "modern rock",
+        "pov: indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
+      "id": "4j56EQDQu5XnL7R3E9iFJT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517455d7d266173722c1e09968ce",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17855d7d266173722c1e09968ce",
+          "width": 160
+        }
+      ],
+      "name": "Young the Giant",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative rock",
+        "funk metal",
+        "funk rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
+      "id": "0L8ExT028jH3ddEcZwqJJ5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8",
+          "width": 160
+        }
+      ],
+      "name": "Red Hot Chili Peppers",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative pop rock",
+        "modern alternative rock",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
+      "id": "1kDGbuxWknIKx4FlgWxiSp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb065faf07b0343e97bf3fba57",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174065faf07b0343e97bf3fba57",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178065faf07b0343e97bf3fba57",
+          "width": 160
+        }
+      ],
+      "name": "Nothing But Thieves",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
       },
       "followers": { "href": null, "total": 0 },
@@ -1552,116 +1844,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
-      "id": "4j56EQDQu5XnL7R3E9iFJT",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb55d7d266173722c1e09968ce",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517455d7d266173722c1e09968ce",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17855d7d266173722c1e09968ce",
-          "width": 160
-        }
-      ],
-      "name": "Young the Giant",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative dance",
-        "indie rock",
-        "modern rock",
-        "new rave",
-        "rock independant francais"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
-      "id": "1xU878Z1QtBldR7ru9owdU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb722051daeb10119e2e039724",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174722051daeb10119e2e039724",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178722051daeb10119e2e039724",
-          "width": 160
-        }
-      ],
-      "name": "Phoenix",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative dance",
-        "electropop",
-        "indietronica",
-        "neo-synthpop",
-        "swedish electropop",
-        "swedish indie pop",
-        "swedish synthpop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
-      "id": "4l1cKWYW591xnwEGxpUg3J",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5d44d2c9d050e48ee85a806d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745d44d2c9d050e48ee85a806d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785d44d2c9d050e48ee85a806d",
-          "width": 160
-        }
-      ],
-      "name": "Miike Snow",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
       },
       "followers": { "href": null, "total": 0 },
@@ -1689,255 +1871,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:4qWnlmXWuGv2TtuxtIWlJX"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indietronica"],
-      "href": "https://api.spotify.com/v1/artists/57dN52uHvrHOxijzpIgu3E",
-      "id": "57dN52uHvrHOxijzpIgu3E",
-      "images": [
-        {
-          "height": 693,
-          "url": "https://i.scdn.co/image/2f0c6c465a83cd196e651e3d4e7625ba799a6f60",
-          "width": 1000
-        },
-        {
-          "height": 444,
-          "url": "https://i.scdn.co/image/4e3e13c8b993bde9898e49509fb9ae121636e05f",
-          "width": 640
-        },
-        {
-          "height": 139,
-          "url": "https://i.scdn.co/image/dc68dd24b45b74ecce9d4ed486423673d683ced3",
-          "width": 200
-        },
-        {
-          "height": 44,
-          "url": "https://i.scdn.co/image/4e55ca05d4f336a2fa0e3062a7ec9778a201e8bc",
-          "width": 63
-        }
-      ],
-      "name": "Ratatat",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:57dN52uHvrHOxijzpIgu3E"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "baroque pop",
-        "chamber pop",
-        "garage rock",
-        "indie rock",
-        "indietronica",
-        "modern rock",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
-      "id": "5BvJzeQpmsdsFp4HGUYUEx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb44829ac83c4538a8cf7e9f40",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517444829ac83c4538a8cf7e9f40",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17844829ac83c4538a8cf7e9f40",
-          "width": 160
-        }
-      ],
-      "name": "Vampire Weekend",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "funk metal",
-        "funk rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
-      "id": "0L8ExT028jH3ddEcZwqJJ5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8",
-          "width": 160
-        }
-      ],
-      "name": "Red Hot Chili Peppers",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "la indie",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1dWEYMPtNmvSVaDNLgB6NV",
-      "id": "1dWEYMPtNmvSVaDNLgB6NV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1847766714643aee5222dc78",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741847766714643aee5222dc78",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781847766714643aee5222dc78",
-          "width": 160
-        }
-      ],
-      "name": "Saint Motel",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative pop rock",
-        "modern alternative rock",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1kDGbuxWknIKx4FlgWxiSp",
-      "id": "1kDGbuxWknIKx4FlgWxiSp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb065faf07b0343e97bf3fba57",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174065faf07b0343e97bf3fba57",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178065faf07b0343e97bf3fba57",
-          "width": 160
-        }
-      ],
-      "name": "Nothing But Thieves",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "metropopolis",
-        "shimmer pop",
-        "stomp and whittle"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
-      "id": "3LVPGE5jPPwtbGslx07YR0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8152e05472e08bd6a3390c65",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748152e05472e08bd6a3390c65",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788152e05472e08bd6a3390c65",
-          "width": 160
-        }
-      ],
-      "name": "Kishi Bashi",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indie rock",
-        "la indie",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3kVUvbeRdcrqQ3oHk5hPdx",
-      "id": "3kVUvbeRdcrqQ3oHk5hPdx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb212e97916d72380d77a9db17",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174212e97916d72380d77a9db17",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178212e97916d72380d77a9db17",
-          "width": 160
-        }
-      ],
-      "name": "GROUPLOVE",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx"
     },
     {
       "external_urls": {
