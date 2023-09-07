@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/5fb2ac97bea46781d148be6e2ca1d44cb85f1436",
+      "description": "In athletics, in business, in life, everyone sets goals. But that's not the way to excel, according to former NFL player Emmanuel Acho, now an author and TV sports analyst. Here's what he says to do instead.",
+      "duration_ms": 768660,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/43te9IeEv106kWX4xjJtZu"
+      },
+      "href": "https://api.spotify.com/v1/episodes/43te9IeEv106kWX4xjJtZu",
+      "html_description": "In athletics, in business, in life, everyone sets goals. But that&#39;s not the way to excel, according to former NFL player Emmanuel Acho, now an author and TV sports analyst. Here&#39;s what he says to do instead.",
+      "id": "43te9IeEv106kWX4xjJtZu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aba83f5957aeffce971467667",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fba83f5957aeffce971467667",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dba83f5957aeffce971467667",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why you should stop setting goals (yes, really) | Emmanuel Acho",
+      "release_date": "2023-09-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:43te9IeEv106kWX4xjJtZu"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/40c2380ace332173703dae78a0d6e15e15be08af",
       "description": "Have we misunderstood pain? Researcher and physician Amy Baxter unravels the symphony of connections that send pain from your body to your brain, explaining practical neuroscience hacks to quickly block those signals. Her groundbreaking research offers alternatives for immediate pain relief -- without the need for addictive opioids. (Followed by a Q&A with TED current affairs curator Whitney Pennington Rodgers)",
       "duration_ms": 1015500,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6Qlbe8YbQvXhiGQD5BUjNL"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/a713dba15185f608b79a01bad557e05f9ee23054",
-      "description": "What are the planets outside our solar system like? Astrophysicist and TED Fellow Jessie Christiansen has helped find thousands of them (and counting), and the variety is more wonderful and wild than you might imagine. She shares details on the trends emerging from the data -- including the intriguing possibility of \"super-Earths\" -- and what the discovery of exoplanets means for existential questions like: Where do we come from, and how did we get here?",
-      "duration_ms": 418380,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/40FUFjBrSkdm42pv039fpJ"
-      },
-      "href": "https://api.spotify.com/v1/episodes/40FUFjBrSkdm42pv039fpJ",
-      "html_description": "What are the planets outside our solar system like? Astrophysicist and TED Fellow Jessie Christiansen has helped find thousands of them (and counting), and the variety is more wonderful and wild than you might imagine. She shares details on the trends emerging from the data -- including the intriguing possibility of &#34;super-Earths&#34; -- and what the discovery of exoplanets means for existential questions like: Where do we come from, and how did we get here?",
-      "id": "40FUFjBrSkdm42pv039fpJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ad081457e95187e3a52cf2c1b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fd081457e95187e3a52cf2c1b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dd081457e95187e3a52cf2c1b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "What the discovery of exoplanets reveals about the universe | Jessie Christiansen",
-      "release_date": "2023-01-09",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:40FUFjBrSkdm42pv039fpJ"
     }
   ]
 }
