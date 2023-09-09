@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/7bc76980c8bcf57e975fd4d56abfd55633003954",
+      "description": "K Allado-McDowell has co-written three books with AI, so they speak from experience when they say that nurturing a creative relationship with these systems can open minds and make new worlds possible. Before giving the stage over to a performance of \"Song of the Ambassadors\" -- their otherworldly opera, also co-created with AI -- Allado-McDowell presents three principles for a future where machines preserve and even enhance what it means to be human.",
+      "duration_ms": 364644,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/31wqdDXS6T5sluJvId92TO"
+      },
+      "href": "https://api.spotify.com/v1/episodes/31wqdDXS6T5sluJvId92TO",
+      "html_description": "K Allado-McDowell has co-written three books with AI, so they speak from experience when they say that nurturing a creative relationship with these systems can open minds and make new worlds possible. Before giving the stage over to a performance of &#34;Song of the Ambassadors&#34; -- their otherworldly opera, also co-created with AI -- Allado-McDowell presents three principles for a future where machines preserve and even enhance what it means to be human.",
+      "id": "31wqdDXS6T5sluJvId92TO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a34ce7a11b1381d0afa2f53f1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f34ce7a11b1381d0afa2f53f1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d34ce7a11b1381d0afa2f53f1",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Our creative relationship with AI is just beginning | K Allado-McDowell",
+      "release_date": "2023-09-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:31wqdDXS6T5sluJvId92TO"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/351699a96f5b5bd8e894415537d120266950ac62",
       "description": "At its worst, \"business speak\" -- or the particular language we use at work -- can be jargony, confusing and even exclusionary. But it doesn't have to be, says journalist and comedian Bob Wiltfong. Showcasing a smattering of corporate acronyms and phrases that don't make much sense without context (think: \"OKRs\" and \"when pigs fly\"), he gives three tips on how to cut the BS out of business speak so we can all better understand each other at work.",
       "duration_ms": 1182684,
@@ -7068,45 +7107,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7B0Y0wz3ZCsT69V8fdFxaJ"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/9e63f9509a14a4c3a36adf1728379319610a554c",
-      "description": "Nurses represent the front line of health care -- from first breaths to last moments, and everything in between. But there's a vital place nurses are missing in action, says Ben Gran. He makes a compelling case for integrating their invaluable insights and experience into health tech innovation to help make care (and the process of providing it) better for generations to come.",
-      "duration_ms": 1004844,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1b9BJI1gB3p1DcTIzMVmP4"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1b9BJI1gB3p1DcTIzMVmP4",
-      "html_description": "Nurses represent the front line of health care -- from first breaths to last moments, and everything in between. But there&#39;s a vital place nurses are missing in action, says Ben Gran. He makes a compelling case for integrating their invaluable insights and experience into health tech innovation to help make care (and the process of providing it) better for generations to come.",
-      "id": "1b9BJI1gB3p1DcTIzMVmP4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a52ac16dc0f047fca43f0e05a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f52ac16dc0f047fca43f0e05a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d52ac16dc0f047fca43f0e05a",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why nurses are key to medical innovation | Ben Gran",
-      "release_date": "2023-01-11",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1b9BJI1gB3p1DcTIzMVmP4"
     }
   ]
 }
