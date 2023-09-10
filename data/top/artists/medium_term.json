@@ -189,6 +189,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
+      "id": "3M8JKaNdIRChzvxVK1XxKm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
+          "width": 160
+        }
+      ],
+      "name": "FLEECE",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
       "followers": { "href": null, "total": 0 },
@@ -246,36 +276,6 @@
       "popularity": 26,
       "type": "artist",
       "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
-      "id": "3M8JKaNdIRChzvxVK1XxKm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
-          "width": 160
-        }
-      ],
-      "name": "FLEECE",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
     },
     {
       "external_urls": {
@@ -344,6 +344,36 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+      "id": "1g8HCTiMwBtFtpRR9JXAZR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
+          "width": 64
+        }
+      ],
+      "name": "Fishmans",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -441,36 +471,6 @@
       "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
-      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-      "id": "1g8HCTiMwBtFtpRR9JXAZR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
-          "width": 64
-        }
-      ],
-      "name": "Fishmans",
-      "popularity": 43,
-      "type": "artist",
-      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -1143,36 +1143,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["lounge", "vocal harmony group"],
-      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
-      "id": "5bOsFzuJ6QZMr86ezC4oXY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
-          "width": 64
-        }
-      ],
-      "name": "The Ink Spots",
-      "popularity": 53,
-      "type": "artist",
-      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
       },
       "followers": { "href": null, "total": 0 },
@@ -1207,6 +1177,36 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["lounge", "vocal harmony group"],
+      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
+      "id": "5bOsFzuJ6QZMr86ezC4oXY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
+          "width": 64
+        }
+      ],
+      "name": "The Ink Spots",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
     },
     {
       "external_urls": {
@@ -1350,36 +1350,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
-      "id": "3Kthx6vfOdyrwpE1mjsyb8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
-          "width": 160
-        }
-      ],
-      "name": "Good Luck Finding Iris",
-      "popularity": 24,
-      "type": "artist",
-      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1O1r2qVtIFqlTJoB4jsJKd"
       },
       "followers": { "href": null, "total": 0 },
@@ -1407,6 +1377,36 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
+      "id": "3Kthx6vfOdyrwpE1mjsyb8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
+          "width": 160
+        }
+      ],
+      "name": "Good Luck Finding Iris",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
     {
       "external_urls": {
@@ -1739,36 +1739,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["la pop"],
-      "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
-      "id": "1zkHConahaP6T8EBpg8BeE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe37f7ac8337f21ba3d428bdb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e37f7ac8337f21ba3d428bdb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e37f7ac8337f21ba3d428bdb",
-          "width": 160
-        }
-      ],
-      "name": "Ethan Gruska",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
       },
       "followers": { "href": null, "total": 0 },
@@ -1801,6 +1771,36 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["la pop"],
+      "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+      "id": "1zkHConahaP6T8EBpg8BeE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe37f7ac8337f21ba3d428bdb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e37f7ac8337f21ba3d428bdb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e37f7ac8337f21ba3d428bdb",
+          "width": 160
+        }
+      ],
+      "name": "Ethan Gruska",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
     },
     {
       "external_urls": {
@@ -2000,36 +2000,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-      "id": "5YNnmXnEEEJM0ArqHDSyET",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
-          "width": 160
-        }
-      ],
-      "name": "Lonely Benson",
-      "popularity": 24,
-      "type": "artist",
-      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
       },
       "followers": { "href": null, "total": 0 },
@@ -2067,6 +2037,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
+          "width": 160
+        }
+      ],
+      "name": "Lonely Benson",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
     },
     {
       "external_urls": {
@@ -2486,7 +2486,7 @@
         }
       ],
       "name": "Slowdive",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF"
     },
@@ -2616,7 +2616,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 53,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -2646,7 +2646,7 @@
         }
       ],
       "name": "Car Seat Headrest",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
     },
