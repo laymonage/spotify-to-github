@@ -6804,81 +6804,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-            },
-            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-            "id": "6ft7JnxMyZhp7N52qzHymY",
-            "name": "Vansire",
-            "type": "artist",
-            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
-        },
-        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
-        "id": "38h62IjPf3XjZ79ZcgtbEp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
-            "width": 64
-          }
-        ],
-        "name": "After Fillmore County",
-        "release_date": "2020-10-16",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-          "id": "6ft7JnxMyZhp7N52qzHymY",
-          "name": "Vansire",
-          "type": "artist",
-          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221648,
-      "explicit": false,
-      "external_ids": { "isrc": "QZMEM2059261" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
-      "id": "2zNWXaGuC0E9uxGJGauyLP",
-      "is_local": false,
-      "name": "The Latter Teens",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
             },
             "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
@@ -7101,6 +7026,81 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:2frplpedYp8su0AfraebpH"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+            "id": "6ft7JnxMyZhp7N52qzHymY",
+            "name": "Vansire",
+            "type": "artist",
+            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
+        },
+        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
+        "id": "38h62IjPf3XjZ79ZcgtbEp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
+            "width": 64
+          }
+        ],
+        "name": "After Fillmore County",
+        "release_date": "2020-10-16",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+          "id": "6ft7JnxMyZhp7N52qzHymY",
+          "name": "Vansire",
+          "type": "artist",
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221648,
+      "explicit": false,
+      "external_ids": { "isrc": "QZMEM2059261" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
+      "id": "2zNWXaGuC0E9uxGJGauyLP",
+      "is_local": false,
+      "name": "The Latter Teens",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
     },
     {
       "album": {
@@ -7406,7 +7406,7 @@
       "id": "777zXDJpBufzttU4AJ2dGO",
       "is_local": false,
       "name": "I Don't Want To Set The World On Fire",
-      "popularity": 68,
+      "popularity": 69,
       "preview_url": "https://p.scdn.co/mp3-preview/9369f3f0c38e043d2b96702c7012dbd494c0953a?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
@@ -8117,6 +8117,235 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/71AeJ94t2Wtk1OIHxeOfJD"
+        },
+        "href": "https://api.spotify.com/v1/albums/71AeJ94t2Wtk1OIHxeOfJD",
+        "id": "71AeJ94t2Wtk1OIHxeOfJD",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732c65632a8ac4ed9e0b17da43",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022c65632a8ac4ed9e0b17da43",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512c65632a8ac4ed9e0b17da43",
+            "width": 64
+          }
+        ],
+        "name": "Rainbow Valley",
+        "release_date": "2018-11-02",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:71AeJ94t2Wtk1OIHxeOfJD"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+          },
+          "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+          "id": "7CIW23FQUXPc1zebnO1TDG",
+          "name": "Matt Corby",
+          "type": "artist",
+          "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 226072,
+      "explicit": false,
+      "external_ids": { "isrc": "AUUM71800928" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ZUOsvkD29LHGUsfjTMazn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6ZUOsvkD29LHGUsfjTMazn",
+      "id": "6ZUOsvkD29LHGUsfjTMazn",
+      "is_local": false,
+      "name": "All That I See",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/21d2d917b35259eb9f18ffbdec814e388a142792?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:6ZUOsvkD29LHGUsfjTMazn"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
             },
             "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
@@ -8345,235 +8574,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3LlzsDGunYpcU4OF8dnLRN"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/71AeJ94t2Wtk1OIHxeOfJD"
-        },
-        "href": "https://api.spotify.com/v1/albums/71AeJ94t2Wtk1OIHxeOfJD",
-        "id": "71AeJ94t2Wtk1OIHxeOfJD",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732c65632a8ac4ed9e0b17da43",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022c65632a8ac4ed9e0b17da43",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512c65632a8ac4ed9e0b17da43",
-            "width": 64
-          }
-        ],
-        "name": "Rainbow Valley",
-        "release_date": "2018-11-02",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:71AeJ94t2Wtk1OIHxeOfJD"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-          },
-          "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-          "id": "7CIW23FQUXPc1zebnO1TDG",
-          "name": "Matt Corby",
-          "type": "artist",
-          "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 226072,
-      "explicit": false,
-      "external_ids": { "isrc": "AUUM71800928" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6ZUOsvkD29LHGUsfjTMazn"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6ZUOsvkD29LHGUsfjTMazn",
-      "id": "6ZUOsvkD29LHGUsfjTMazn",
-      "is_local": false,
-      "name": "All That I See",
-      "popularity": 30,
-      "preview_url": "https://p.scdn.co/mp3-preview/21d2d917b35259eb9f18ffbdec814e388a142792?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:6ZUOsvkD29LHGUsfjTMazn"
     },
     {
       "album": {
@@ -10453,7 +10453,7 @@
       "id": "1M8UgsN87My4qFPsjqIJSO",
       "is_local": false,
       "name": "Elements",
-      "popularity": 24,
+      "popularity": 25,
       "preview_url": "https://p.scdn.co/mp3-preview/f15f51e66552637696c6c53fde17e71fe769d27c?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 10,
       "type": "track",
@@ -14505,7 +14505,7 @@
       "id": "6Seg3FdKHGyHa5pd5lrAfw",
       "is_local": false,
       "name": "Another Piece of the Cake",
-      "popularity": 34,
+      "popularity": 33,
       "preview_url": "https://p.scdn.co/mp3-preview/494b378d85a821d13d2f23fedfb458130ef7b18b?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 4,
       "type": "track",
@@ -15508,7 +15508,7 @@
       "id": "5uKH4nY6ALq8jGNZ0BYlBH",
       "is_local": false,
       "name": "I Might Be",
-      "popularity": 10,
+      "popularity": 9,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
