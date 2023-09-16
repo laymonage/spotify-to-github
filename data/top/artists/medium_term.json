@@ -39,36 +39,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-      "id": "02nqs3YdfX7Th3gYTYFrqc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
-          "width": 160
-        }
-      ],
-      "name": "Tōth",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -96,6 +66,36 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+      "id": "02nqs3YdfX7Th3gYTYFrqc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
+          "width": 160
+        }
+      ],
+      "name": "Tōth",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
     },
     {
       "external_urls": {
@@ -556,6 +556,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
+          "width": 160
+        }
+      ],
+      "name": "Matt Corby",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
       },
       "followers": { "href": null, "total": 0 },
@@ -714,36 +744,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian indie"],
-      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-      "id": "7CIW23FQUXPc1zebnO1TDG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
-          "width": 160
-        }
-      ],
-      "name": "Matt Corby",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -1465,7 +1465,7 @@
         }
       ],
       "name": "The Humble Cheaters",
-      "popularity": 15,
+      "popularity": 16,
       "type": "artist",
       "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
@@ -1525,7 +1525,7 @@
         }
       ],
       "name": "Young Mister",
-      "popularity": 36,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:4NuiDXtUaaclXGNEPQYBBx"
     },

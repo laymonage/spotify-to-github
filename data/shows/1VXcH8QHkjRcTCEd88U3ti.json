@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/b9fa3c1f9e6eca4dba3daf6d66ffa84be6b6e525",
+      "description": "It's not just you: the weather is getting worse. And if there's one person who would know, it's \"America's weatherman,\" Al Roker, who's spent decades reporting live from some of the worst storms and natural disasters in history. He explains how we can each take action to address climate change and work towards a more sustainable, hopeful future for generations to come.",
+      "duration_ms": 603084,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4l9J8gZVq5wamLNexIyufi"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4l9J8gZVq5wamLNexIyufi",
+      "html_description": "It&#39;s not just you: the weather is getting worse. And if there&#39;s one person who would know, it&#39;s &#34;America&#39;s weatherman,&#34; Al Roker, who&#39;s spent decades reporting live from some of the worst storms and natural disasters in history. He explains how we can each take action to address climate change and work towards a more sustainable, hopeful future for generations to come.",
+      "id": "4l9J8gZVq5wamLNexIyufi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a1667f446c3b9cd51b53f775a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f1667f446c3b9cd51b53f775a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d1667f446c3b9cd51b53f775a",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "An extreme weather report from America's weatherman | Al Roker",
+      "release_date": "2023-09-15",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4l9J8gZVq5wamLNexIyufi"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/bda0559a739c66900b4b1b2f77ae2c58466c2651",
       "description": "Sometimes the world's biggest issues can seem so intractable that meaningful change feels impossible. But what if the answer has been right in front of us all along? What if the answer is actually throwing money at the problems? In this thought-provoking talk, philanthropic advisor Natalie Cargill shares what might happen if we came together to spend 3.5 trillion dollars on fixing the world. And, yes, she also has a plan for where to get the money from. (Followed by a Q&A with Anna Verghese, executive director of The Audacious Project.)",
       "duration_ms": 1039620,
@@ -6990,45 +7029,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2OGUyRHfsmrVEcYkHwNlCl"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/b8e6aff1d5e8c6f28ebaee25a09f6197293660ef",
-      "description": "Several crises are set to define the next century -- but journalist Aaron Bastani believes we have the technological ability to meet our biggest challenges and create unprecedented levels of prosperity for all. He shows how we could get there by ditching capitalism as the world's economic operating system and adopting \"universal basic services,\" where governments would freely provide life essentials like housing, health care, education and transport. (Followed by Q&A with head of TED Chris Anderson and public finance expert Maja Bosnic)",
-      "duration_ms": 1222620,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2xep5fwJB5K17m2CzbMadD"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2xep5fwJB5K17m2CzbMadD",
-      "html_description": "Several crises are set to define the next century -- but journalist Aaron Bastani believes we have the technological ability to meet our biggest challenges and create unprecedented levels of prosperity for all. He shows how we could get there by ditching capitalism as the world&#39;s economic operating system and adopting &#34;universal basic services,&#34; where governments would freely provide life essentials like housing, health care, education and transport. (Followed by Q&amp;A with head of TED Chris Anderson and public finance expert Maja Bosnic)",
-      "id": "2xep5fwJB5K17m2CzbMadD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a3e9f86700be878d2530facb5",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f3e9f86700be878d2530facb5",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d3e9f86700be878d2530facb5",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A socialist perspective on the pursuit of happiness | Aaron Bastani",
-      "release_date": "2023-01-20",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2xep5fwJB5K17m2CzbMadD"
     }
   ]
 }
