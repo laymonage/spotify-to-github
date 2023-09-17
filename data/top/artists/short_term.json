@@ -1,5 +1,5 @@
 {
-  "total": 46,
+  "total": 45,
   "artists": [
     {
       "external_urls": {
@@ -90,6 +90,36 @@
       "popularity": 21,
       "type": "artist",
       "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
+          "width": 160
+        }
+      ],
+      "name": "Matt Corby",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -281,36 +311,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian indie"],
-      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-      "id": "7CIW23FQUXPc1zebnO1TDG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
-          "width": 160
-        }
-      ],
-      "name": "Matt Corby",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -627,8 +627,7 @@
         "indie folk",
         "indie rock",
         "indietronica",
-        "modern rock",
-        "stomp and holler"
+        "modern rock"
       ],
       "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
       "id": "2cCUtGK9sDU2EoElnk0GNB",
@@ -650,7 +649,7 @@
         }
       ],
       "name": "The National",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
     },
@@ -862,8 +861,7 @@
         "garage rock",
         "indie rock",
         "indietronica",
-        "modern rock",
-        "stomp and holler"
+        "modern rock"
       ],
       "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
       "id": "5BvJzeQpmsdsFp4HGUYUEx",
@@ -923,36 +921,6 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1ztTVMgVpMa4gESKeL60xU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["chicago indie"],
-      "href": "https://api.spotify.com/v1/artists/1ztTVMgVpMa4gESKeL60xU",
-      "id": "1ztTVMgVpMa4gESKeL60xU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0c732c07f58081cfb1da153c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740c732c07f58081cfb1da153c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780c732c07f58081cfb1da153c",
-          "width": 160
-        }
-      ],
-      "name": "Blah Blah Blah",
-      "popularity": 27,
-      "type": "artist",
-      "uri": "spotify:artist:1ztTVMgVpMa4gESKeL60xU"
     },
     {
       "external_urls": {
@@ -1354,7 +1322,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
@@ -1384,7 +1352,7 @@
         }
       ],
       "name": "The Brook & The Bluff",
-      "popularity": 51,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
