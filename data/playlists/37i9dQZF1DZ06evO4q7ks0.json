@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q7ks0"
   },
-  "followers": { "href": null, "total": 433517 },
+  "followers": { "href": null, "total": 433657 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4q7ks0",
   "id": "37i9dQZF1DZ06evO4q7ks0",
   "images": [
@@ -25,12 +25,12 @@
   },
   "primary_color": null,
   "public": false,
-  "snapshot_id": "MjgyNDc4NzcsMDAwMDAwMDBjZWQwMTEzZGE1M2Y4NzZkYWJjOWQ1MjZiZTNmMTgxMQ==",
+  "snapshot_id": "MjgyNDkxODcsMDAwMDAwMDA4Y2JjN2ViZmZkZWI5YmU5ZGE4YTYzMmJkM2M4YWE4NA==",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4q7ks0",
   "tracks": [
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -488,7 +488,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -934,7 +934,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -1394,7 +1394,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -1844,7 +1844,7 @@
         "id": "3J58Ccc5iTbCRnYx2xjo6d",
         "is_local": false,
         "name": "Animal Instinct",
-        "popularity": 66,
+        "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/ab9e3c6d0b24bc8b4529a2c36c16dc57bdf89d00?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -1854,7 +1854,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -1866,7 +1866,7 @@
       "primary_color": null,
       "track": {
         "album": {
-          "album_type": "compilation",
+          "album_type": "album",
           "artists": [
             {
               "external_urls": {
@@ -1958,7 +1958,6 @@
             "LB",
             "JO",
             "PS",
-            "IN",
             "BY",
             "KZ",
             "MD",
@@ -2066,33 +2065,33 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
+            "spotify": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
           },
-          "href": "https://api.spotify.com/v1/albums/1JXjYl5WVr3wFgV3DMIHMl",
-          "id": "1JXjYl5WVr3wFgV3DMIHMl",
+          "href": "https://api.spotify.com/v1/albums/0iBRl2CMi7gbt17WfdVI2r",
+          "id": "0iBRl2CMi7gbt17WfdVI2r",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d0000b273d28b05126ae5467e8d0c236c",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d00001e02d28b05126ae5467e8d0c236c",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d00004851d28b05126ae5467e8d0c236c",
               "width": 64
             }
           ],
-          "name": "Stars: The Best Of The Cranberries 1992-2002",
-          "release_date": "2002-09-16",
+          "name": "Something Else",
+          "release_date": "2017-04-28",
           "release_date_precision": "day",
-          "total_tracks": 20,
+          "total_tracks": 13,
           "type": "album",
-          "uri": "spotify:album:1JXjYl5WVr3wFgV3DMIHMl"
+          "uri": "spotify:album:0iBRl2CMi7gbt17WfdVI2r"
         },
         "artists": [
           {
@@ -2185,7 +2184,6 @@
           "LB",
           "JO",
           "PS",
-          "IN",
           "BY",
           "KZ",
           "MD",
@@ -2293,28 +2291,28 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 232200,
+        "duration_ms": 241560,
         "episode": false,
         "explicit": false,
-        "external_ids": { "isrc": "USIR29600117" },
+        "external_ids": { "isrc": "GB5KW1700211" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
+          "spotify": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
         },
-        "href": "https://api.spotify.com/v1/tracks/2Qdnk7tbc4onLOIPd1eSNE",
-        "id": "2Qdnk7tbc4onLOIPd1eSNE",
+        "href": "https://api.spotify.com/v1/tracks/1qylvO4iCIZZcqc4TqSjTZ",
+        "id": "1qylvO4iCIZZcqc4TqSjTZ",
         "is_local": false,
-        "name": "When You're Gone",
+        "name": "Zombie - Acoustic Version",
         "popularity": 65,
-        "preview_url": "https://p.scdn.co/mp3-preview/c648b893789886b98894425b8bd237b413ce6324?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/bda24256b366a20428942c2cb6b347524e09bf92?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
-        "track_number": 9,
+        "track_number": 5,
         "type": "track",
-        "uri": "spotify:track:2Qdnk7tbc4onLOIPd1eSNE"
+        "uri": "spotify:track:1qylvO4iCIZZcqc4TqSjTZ"
       },
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -2760,7 +2758,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -3220,7 +3218,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -3232,7 +3230,7 @@
       "primary_color": null,
       "track": {
         "album": {
-          "album_type": "album",
+          "album_type": "compilation",
           "artists": [
             {
               "external_urls": {
@@ -3324,6 +3322,7 @@
             "LB",
             "JO",
             "PS",
+            "IN",
             "BY",
             "KZ",
             "MD",
@@ -3431,33 +3430,33 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r"
+            "spotify": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
           },
-          "href": "https://api.spotify.com/v1/albums/0iBRl2CMi7gbt17WfdVI2r",
-          "id": "0iBRl2CMi7gbt17WfdVI2r",
+          "href": "https://api.spotify.com/v1/albums/1JXjYl5WVr3wFgV3DMIHMl",
+          "id": "1JXjYl5WVr3wFgV3DMIHMl",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d28b05126ae5467e8d0c236c",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d28b05126ae5467e8d0c236c",
+              "url": "https://i.scdn.co/image/ab67616d00001e026c4efca9f5e949a2f9cc3ac4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d28b05126ae5467e8d0c236c",
+              "url": "https://i.scdn.co/image/ab67616d000048516c4efca9f5e949a2f9cc3ac4",
               "width": 64
             }
           ],
-          "name": "Something Else",
-          "release_date": "2017-04-28",
+          "name": "Stars: The Best Of The Cranberries 1992-2002",
+          "release_date": "2002-09-16",
           "release_date_precision": "day",
-          "total_tracks": 13,
+          "total_tracks": 20,
           "type": "album",
-          "uri": "spotify:album:0iBRl2CMi7gbt17WfdVI2r"
+          "uri": "spotify:album:1JXjYl5WVr3wFgV3DMIHMl"
         },
         "artists": [
           {
@@ -3550,6 +3549,7 @@
           "LB",
           "JO",
           "PS",
+          "IN",
           "BY",
           "KZ",
           "MD",
@@ -3657,28 +3657,28 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 241560,
+        "duration_ms": 232200,
         "episode": false,
         "explicit": false,
-        "external_ids": { "isrc": "GB5KW1700211" },
+        "external_ids": { "isrc": "USIR29600117" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"
+          "spotify": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
         },
-        "href": "https://api.spotify.com/v1/tracks/1qylvO4iCIZZcqc4TqSjTZ",
-        "id": "1qylvO4iCIZZcqc4TqSjTZ",
+        "href": "https://api.spotify.com/v1/tracks/2Qdnk7tbc4onLOIPd1eSNE",
+        "id": "2Qdnk7tbc4onLOIPd1eSNE",
         "is_local": false,
-        "name": "Zombie - Acoustic Version",
+        "name": "When You're Gone",
         "popularity": 65,
-        "preview_url": "https://p.scdn.co/mp3-preview/bda24256b366a20428942c2cb6b347524e09bf92?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c648b893789886b98894425b8bd237b413ce6324?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
-        "track_number": 5,
+        "track_number": 9,
         "type": "track",
-        "uri": "spotify:track:1qylvO4iCIZZcqc4TqSjTZ"
+        "uri": "spotify:track:2Qdnk7tbc4onLOIPd1eSNE"
       },
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -4128,7 +4128,7 @@
         "id": "0f0k0OJ9VbaLHX4J1t2qUy",
         "is_local": false,
         "name": "Just My Imagination",
-        "popularity": 64,
+        "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/b3cd47408cbe4d8ae2533138d62e8c03b25dd617?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -4138,7 +4138,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -4598,7 +4598,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -5058,7 +5058,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -5516,7 +5516,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -5976,7 +5976,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -6422,7 +6422,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -6882,7 +6882,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -7342,7 +7342,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -7802,7 +7802,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -8248,7 +8248,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -8708,7 +8708,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -9168,7 +9168,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -9628,7 +9628,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -10074,7 +10074,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -10534,7 +10534,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -10994,7 +10994,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -11444,7 +11444,7 @@
         "id": "4LdpVdSxtwWQRe7OYnGM66",
         "is_local": false,
         "name": "Never Grow Old",
-        "popularity": 46,
+        "popularity": 45,
         "preview_url": "https://p.scdn.co/mp3-preview/5d8987b7b718b1f0f536a59703a3da5c7bb27f7d?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -11454,7 +11454,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -11890,7 +11890,7 @@
         "id": "4qeRLhbW4CszknXMSUYrS4",
         "is_local": false,
         "name": "Ridiculous Thoughts",
-        "popularity": 52,
+        "popularity": 51,
         "preview_url": "https://p.scdn.co/mp3-preview/1458d4a81a70cf471b81d452f62ef1558834c9b6?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -11900,7 +11900,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -12358,7 +12358,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -12818,7 +12818,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -13268,7 +13268,7 @@
         "id": "6FdVdYNgEbbWbtIyQh8fPL",
         "is_local": false,
         "name": "Schizophrenic Playboy",
-        "popularity": 47,
+        "popularity": 46,
         "preview_url": "https://p.scdn.co/mp3-preview/8dd71211c646b85810def4c4d8a197525c812314?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -13278,7 +13278,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -13738,7 +13738,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -14164,7 +14164,7 @@
         "id": "4jMEymCdvlhqCYZdzLO0JM",
         "is_local": false,
         "name": "Analyse",
-        "popularity": 45,
+        "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/0ea0b7f217b1b2e6771aca4c7756fc92c2b9d1af?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -14174,7 +14174,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -14632,7 +14632,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -15092,7 +15092,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -15550,7 +15550,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -16010,7 +16010,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -16468,7 +16468,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -16918,7 +16918,7 @@
         "id": "2JGBWLN1e3FXTQfIZRkIeH",
         "is_local": false,
         "name": "I'm Still Remembering",
-        "popularity": 43,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/5ea94b10e0ff600db806ea3b5e0332bc90367065?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -16928,7 +16928,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -17380,7 +17380,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -17838,7 +17838,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -18298,7 +18298,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -18758,7 +18758,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -19208,7 +19208,7 @@
         "id": "7rExM1JfHUgEyIPLot5CZL",
         "is_local": false,
         "name": "Cordell",
-        "popularity": 41,
+        "popularity": 40,
         "preview_url": "https://p.scdn.co/mp3-preview/7222c7ebbf6f3da2a1b7e071fe3f7e8fb55a3185?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -19218,7 +19218,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -19676,7 +19676,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -20136,7 +20136,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -20596,7 +20596,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -21032,7 +21032,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -21480,7 +21480,7 @@
         "id": "5uMHnkSFTkYV764nfjoGKM",
         "is_local": false,
         "name": "The Pressure",
-        "popularity": 42,
+        "popularity": 41,
         "preview_url": "https://p.scdn.co/mp3-preview/9b34e981242d178419f151c745b60d7319e5e0cc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -21490,7 +21490,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -21948,7 +21948,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -22408,7 +22408,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-16T13:57:35Z",
+      "added_at": "2023-09-17T11:47:30Z",
       "added_by": {
         "external_urls": { "spotify": "https://open.spotify.com/user/" },
         "href": "https://api.spotify.com/v1/users/",
@@ -22862,466 +22862,6 @@
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:6z11fdXJnPit4DEhdFHBOm"
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2023-09-16T13:57:35Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-              },
-              "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
-              "id": "7t0rwkOPGlDPEhaOcVtOt9",
-              "name": "The Cranberries",
-              "type": "artist",
-              "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU"
-          },
-          "href": "https://api.spotify.com/v1/albums/6re8Qh8GMzxH92LO1xj2jU",
-          "id": "6re8Qh8GMzxH92LO1xj2jU",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27368df5df5c6797daca7464586",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0268df5df5c6797daca7464586",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485168df5df5c6797daca7464586",
-              "width": 64
-            }
-          ],
-          "name": "To The Faithful Departed (The Complete Sessions 1996-1997)",
-          "release_date": "1996-04-30",
-          "release_date_precision": "day",
-          "total_tracks": 19,
-          "type": "album",
-          "uri": "spotify:album:6re8Qh8GMzxH92LO1xj2jU"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-            },
-            "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
-            "id": "7t0rwkOPGlDPEhaOcVtOt9",
-            "name": "The Cranberries",
-            "type": "artist",
-            "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
-          }
-        ],
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "disc_number": 1,
-        "duration_ms": 214733,
-        "episode": false,
-        "explicit": false,
-        "external_ids": { "isrc": "USMC10200063" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4WfAVW7C9ddUj3j5761NJA"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4WfAVW7C9ddUj3j5761NJA",
-        "id": "4WfAVW7C9ddUj3j5761NJA",
-        "is_local": false,
-        "name": "God Be With You - The Devil's Own/Soundtrack Version",
-        "popularity": 37,
-        "preview_url": "https://p.scdn.co/mp3-preview/59b63eeb0ce7b15e7ad3483d8a892dbe7b0d1a36?cid=c73100e39ab6406dae4c4479ff75d174",
-        "track": true,
-        "track_number": 19,
-        "type": "track",
-        "uri": "spotify:track:4WfAVW7C9ddUj3j5761NJA"
       },
       "video_thumbnail": { "url": null }
     }

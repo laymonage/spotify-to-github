@@ -591,36 +591,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["melbourne indie"],
-      "href": "https://api.spotify.com/v1/artists/6Vf4rmMsQbAwiCG00YeEI7",
-      "id": "6Vf4rmMsQbAwiCG00YeEI7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7fbbf512c6d2b03a0a32ddb9",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747fbbf512c6d2b03a0a32ddb9",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787fbbf512c6d2b03a0a32ddb9",
-          "width": 160
-        }
-      ],
-      "name": "RICEWINE",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:6Vf4rmMsQbAwiCG00YeEI7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
       },
       "followers": { "href": null, "total": 0 },
@@ -678,6 +648,36 @@
       "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["melbourne indie"],
+      "href": "https://api.spotify.com/v1/artists/6Vf4rmMsQbAwiCG00YeEI7",
+      "id": "6Vf4rmMsQbAwiCG00YeEI7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7fbbf512c6d2b03a0a32ddb9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747fbbf512c6d2b03a0a32ddb9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787fbbf512c6d2b03a0a32ddb9",
+          "width": 160
+        }
+      ],
+      "name": "RICEWINE",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:6Vf4rmMsQbAwiCG00YeEI7"
     },
     {
       "external_urls": {
@@ -1074,7 +1074,7 @@
         "spotify": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [],
+      "genres": ["chill r&b"],
       "href": "https://api.spotify.com/v1/artists/31SBgHxc8eqZUk9MdveH42",
       "id": "31SBgHxc8eqZUk9MdveH42",
       "images": [
@@ -1371,7 +1371,7 @@
         }
       ],
       "name": "Fishmans",
-      "popularity": 43,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
@@ -2258,7 +2258,7 @@
         }
       ],
       "name": "Saint Motel",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
     },
@@ -3187,7 +3187,7 @@
         }
       ],
       "name": "Oh Papa",
-      "popularity": 14,
+      "popularity": 15,
       "type": "artist",
       "uri": "spotify:artist:0Mfgu7MOEz6iAaSnQWerjJ"
     }
