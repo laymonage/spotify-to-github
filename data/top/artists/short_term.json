@@ -1,5 +1,5 @@
 {
-  "total": 45,
+  "total": 43,
   "artists": [
     {
       "external_urls": {
@@ -30,6 +30,36 @@
       "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
+          "width": 160
+        }
+      ],
+      "name": "Matt Corby",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -90,36 +120,6 @@
       "popularity": 21,
       "type": "artist",
       "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian indie"],
-      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-      "id": "7CIW23FQUXPc1zebnO1TDG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
-          "width": 160
-        }
-      ],
-      "name": "Matt Corby",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -284,6 +284,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "rochester mn indie"],
+      "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+      "id": "6ft7JnxMyZhp7N52qzHymY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9310cf18c564e55d8220f9d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749310cf18c564e55d8220f9d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789310cf18c564e55d8220f9d3",
+          "width": 160
+        }
+      ],
+      "name": "Vansire",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
       },
       "followers": { "href": null, "total": 0 },
@@ -341,36 +371,6 @@
       "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "rochester mn indie"],
-      "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-      "id": "6ft7JnxMyZhp7N52qzHymY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9310cf18c564e55d8220f9d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749310cf18c564e55d8220f9d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789310cf18c564e55d8220f9d3",
-          "width": 160
-        }
-      ],
-      "name": "Vansire",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
     },
     {
       "external_urls": {
@@ -434,36 +434,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
-      "id": "3Da81tOAhG3gdust5MNI2s",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
-          "width": 160
-        }
-      ],
-      "name": "The Humble Cheaters",
-      "popularity": 16,
-      "type": "artist",
-      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
       },
       "followers": { "href": null, "total": 0 },
@@ -491,41 +461,6 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "adult standards",
-        "swing",
-        "torch song",
-        "vocal harmony group"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
-      "id": "2NCGI6dLTxLdI9XHdv7QfM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
-          "width": 64
-        }
-      ],
-      "name": "The Andrews Sisters",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
     {
       "external_urls": {
@@ -586,102 +521,6 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["lounge", "vocal harmony group"],
-      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
-      "id": "5bOsFzuJ6QZMr86ezC4oXY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
-          "width": 64
-        }
-      ],
-      "name": "The Ink Spots",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "indie folk",
-        "indie rock",
-        "indietronica",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
-      "id": "2cCUtGK9sDU2EoElnk0GNB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9699c00213f43700d61c0dbf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749699c00213f43700d61c0dbf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789699c00213f43700d61c0dbf",
-          "width": 160
-        }
-      ],
-      "name": "The National",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -924,6 +763,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "adult standards",
+        "swing",
+        "torch song",
+        "vocal harmony group"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
+      "id": "2NCGI6dLTxLdI9XHdv7QfM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
+          "width": 64
+        }
+      ],
+      "name": "The Andrews Sisters",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
       },
       "followers": { "href": null, "total": 0 },
@@ -1052,6 +926,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["lounge", "vocal harmony group"],
+      "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
+      "id": "5bOsFzuJ6QZMr86ezC4oXY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273383811a9b3081023c612fb7b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02383811a9b3081023c612fb7b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851383811a9b3081023c612fb7b",
+          "width": 64
+        }
+      ],
+      "name": "The Ink Spots",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
       },
       "followers": { "href": null, "total": 0 },
@@ -1109,6 +1013,36 @@
       "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:0TtJkRL3Qzlf0aX5ozf7Vl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
+      "id": "3Da81tOAhG3gdust5MNI2s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
+          "width": 160
+        }
+      ],
+      "name": "The Humble Cheaters",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
     {
       "external_urls": {
