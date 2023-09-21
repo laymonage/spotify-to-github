@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 146,
+  "total_episodes": 147,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/6a3ccd62bd3a757b4a6567747f4920afa77ea998",
+      "description": "Django 5.0 alpha 1Don’t create .gitkeep filesNew book, Boost Your Git DXSpeed Up Your Django Tests bookDjangoCon Europe 2023 | Good form: How Django’s form rendering improved during the 4.x seriesFossil Versus GitSet up a global .gitignore fileSupport the ShowLearnDjango.comButtonDjango News",
+      "duration_ms": 3100029,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3mH8hxhoXuITjF0Ligwo0A"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3mH8hxhoXuITjF0Ligwo0A",
+      "html_description": "<ul><li><a href=\"https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/\" rel=\"nofollow\">Django 5.0 alpha 1</a></li><li><a href=\"https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/\" rel=\"nofollow\">Don’t create .gitkeep files</a></li><li>New book, <a href=\"https://adamchainz.gumroad.com/l/bygdx\" rel=\"nofollow\">Boost Your Git DX</a></li><li><a href=\"https://adamchainz.gumroad.com/l/suydt\" rel=\"nofollow\">Speed Up Your Django Tests book</a></li><li><a href=\"https://youtu.be/tEDMHWDMMUI?si&#61;e9BqQUBPvLZYNoBA\" rel=\"nofollow\">DjangoCon Europe 2023 | Good form: How Django’s form rendering improved during the 4.x series</a></li><li><a href=\"https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki\" rel=\"nofollow\">Fossil Versus Git</a></li><li><a href=\"https://adamj.eu/tech/2022/11/06/git-set-up-a-global-ignore-file/\" rel=\"nofollow\">Set up a global .gitignore file</a></li></ul><p>Support the Show</p><ul><li><a href=\"https://learndjango.com\" rel=\"nofollow\">LearnDjango.com</a></li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News</a></li></ul>",
+      "id": "3mH8hxhoXuITjF0Ligwo0A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Git and Django 5.0 - Adam Johnson",
+      "release_date": "2023-09-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3mH8hxhoXuITjF0Ligwo0A"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/2ad8296096f76054c9df8eb395da320baf2c3edb",
       "description": "David Smith on Twitterdjango-crispy-formsdjangobenchDiátaxis FrameworkAirspeed Velocity (ASV)DSF Triage & Review TeamVictor Stinner’s Notes on Benchmarking PythonSupport the ShowLearnDjango.comButtonDjango News",

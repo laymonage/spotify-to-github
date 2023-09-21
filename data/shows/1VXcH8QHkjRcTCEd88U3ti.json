@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/0cf1c8b7142112f2f2ba650918dcabfec8ee87b2",
+      "description": "\"AI can be a transformational tool in our fight against climate change,\" says Sims Witherspoon, a leader at the AI research lab Google DeepMind. Using wind power as her case study, she explains how powerful neural networks can help us better predict Earth's changing ecosystems and accelerate the breakthrough science needed to create a carbon-free energy supply.",
+      "duration_ms": 810756,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/47vFdEIWjeDimlKJ5Z9cu5"
+      },
+      "href": "https://api.spotify.com/v1/episodes/47vFdEIWjeDimlKJ5Z9cu5",
+      "html_description": "&#34;AI can be a transformational tool in our fight against climate change,&#34; says Sims Witherspoon, a leader at the AI research lab Google DeepMind. Using wind power as her case study, she explains how powerful neural networks can help us better predict Earth&#39;s changing ecosystems and accelerate the breakthrough science needed to create a carbon-free energy supply.",
+      "id": "47vFdEIWjeDimlKJ5Z9cu5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a075ea3233f82f36adc532bb7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f075ea3233f82f36adc532bb7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d075ea3233f82f36adc532bb7",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Can AI help solve the climate crisis? | Sims Witherspoon",
+      "release_date": "2023-09-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:47vFdEIWjeDimlKJ5Z9cu5"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/471530f78e39bae67c4d6bc94d6003a330eaeba3",
       "description": "The power sector generates the electricity that sustains modern life -- but it's also the number one contributor to climate change. We need a swift and equitable shift to renewable energy, says 2023 Audacious Project grantee and ReNew2030 executive director Rebecca Collyer. In conversation with TED's David Biello, she introduces a new coalition of governments, businesses and communities that aims to drastically scale wind and solar capacity in the 30 highest-emitting countries. Learn more about their plan -- and why Collyer has hope for a greener, more equitable future. (This ambitious idea is part of the Audacious Project, TED's initiative to inspire and fund global change.)",
       "duration_ms": 421860,
@@ -6951,45 +6990,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:71iShXL2GT0jkb1fPGP5DL"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/781e68129f1a01a995565e849fbfa383bb897bdd",
-      "description": "By mastering the Eskista, an ancient Ethiopian dance, TED Fellow Melaku Belay survived a childhood on the streets and became a voice for his country. He shares how traditional dances can connect the wisdom of the past to the energy of the future -- and, after the talk, delivers a thrilling performance of Eskista accompanied by a free-jazz ensemble. (In Amharic with consecutive English translation by filmmaker Mehret Mandefro)",
-      "duration_ms": 586236,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6Jbk27QeIgF4wMDO5huT4e"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6Jbk27QeIgF4wMDO5huT4e",
-      "html_description": "By mastering the Eskista, an ancient Ethiopian dance, TED Fellow Melaku Belay survived a childhood on the streets and became a voice for his country. He shares how traditional dances can connect the wisdom of the past to the energy of the future -- and, after the talk, delivers a thrilling performance of Eskista accompanied by a free-jazz ensemble. (In Amharic with consecutive English translation by filmmaker Mehret Mandefro)",
-      "id": "6Jbk27QeIgF4wMDO5huT4e",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a6baecac4be947328e08f156a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f6baecac4be947328e08f156a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d6baecac4be947328e08f156a",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The ecstasy of Eskista, an ancient Ethiopian dance | Melaku Belay",
-      "release_date": "2023-01-26",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6Jbk27QeIgF4wMDO5huT4e"
     }
   ]
 }
