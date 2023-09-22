@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "Stuff You Should Know",
   "publisher": "iHeartPodcasts",
-  "total_episodes": 2198,
+  "total_episodes": 2199,
   "type": "show",
   "uri": "spotify:show:0ofXAdFIQQRsCYj9754UFx",
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/7fd9f46525e16680a26821a72a826fc4f44e3163",
+      "description": "Kombucha is pretty popular right now. But what is it exactly and where did it come from? The answers await you!See omnystudio.com/listener for privacy information.",
+      "duration_ms": 3309296,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2Kb7AiXMyTPkIION89XdGo"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2Kb7AiXMyTPkIION89XdGo",
+      "html_description": "<p>Kombucha is pretty popular right now. But what is it exactly and where did it come from? The answers await you!</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
+      "id": "2Kb7AiXMyTPkIION89XdGo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a863cc2d69ef7958af5cca4b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f863cc2d69ef7958af5cca4b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d863cc2d69ef7958af5cca4b5",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Kombucha: Fizzy Goodness",
+      "release_date": "2023-09-21",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2Kb7AiXMyTPkIION89XdGo"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/9cce4aac2e1d6cc703d0919984a9c725ab382922",
       "description": "Have you ever stopped mid-pencil mark and realized to your astonishment where the plus sign came from? Then this one’s for you.See omnystudio.com/listener for privacy information.",
@@ -6025,7 +6064,7 @@
         "spotify": "https://open.spotify.com/episode/6TjqRnCcA0TASQWt7mBYGK"
       },
       "href": "https://api.spotify.com/v1/episodes/6TjqRnCcA0TASQWt7mBYGK",
-      "html_description": "<p>Today Josh and Chuck delve into the wreck of the Edmund Fitzgerald. Not the song, but the maritime accident. Though the song makes an appearance.</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
+      "html_description": "",
       "id": "6TjqRnCcA0TASQWt7mBYGK",
       "images": [
         {
@@ -45051,7 +45090,6 @@
       "name": "The Harriet Tubman Story",
       "release_date": "2018-02-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7kBZdVllwDqip3C7Civs9q"
     },
@@ -45090,7 +45128,6 @@
       "name": "How Pompeii Worked",
       "release_date": "2018-02-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2v1RMzWM4qsysE5csaQIWv"
     },
@@ -45129,7 +45166,6 @@
       "name": "SYSK Selects: How Narco States Work",
       "release_date": "2018-02-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6QutnRJ2RsDH0g5PhdHw5K"
     },
@@ -45168,7 +45204,6 @@
       "name": "The Mystery of The Grand Canyon Newlyweds",
       "release_date": "2018-02-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2oalOfT7hGnbQeiFUa0aZw"
     },
@@ -45207,7 +45242,6 @@
       "name": "What is a Mold-A-Rama?",
       "release_date": "2018-02-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0XgaTAqFqwbpskaySIcXUq"
     },
@@ -45246,7 +45280,6 @@
       "name": "SYSK Selects: How Lion Taming Works",
       "release_date": "2018-02-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4LSNvXmhJnhJsAOgBGmpVN"
     },
@@ -45285,7 +45318,6 @@
       "name": "Marijuana Vs. Alcohol: Which Is Worse For You?",
       "release_date": "2018-02-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2fJZxOhAgBvRCIUhPURJau"
     },
@@ -45324,7 +45356,6 @@
       "name": "The Manson Family Murders Part II",
       "release_date": "2018-01-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2e3Edk5ez9ILl8K2vCpLT3"
     },
@@ -45363,7 +45394,6 @@
       "name": "SYSK Selects: Prisons - Not as Fun as You'd Think",
       "release_date": "2018-01-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1CmhKkEJUbj0W52aG3BXfu"
     },
@@ -45402,7 +45432,6 @@
       "name": "The Manson Family Murders Part I",
       "release_date": "2018-01-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0bQDQ1XX59OEZ4M0Rcu2hM"
     },
@@ -45441,7 +45470,6 @@
       "name": "How Hoarding Works",
       "release_date": "2018-01-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6QHRFQIwzJZOchYS49XCG0"
     },
@@ -45480,7 +45508,6 @@
       "name": "SYSK Selects: Lab-grown meat: Order up!",
       "release_date": "2018-01-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4FGHmLPBLGIVScVbXSzQv4"
     },
@@ -45519,7 +45546,6 @@
       "name": "How Hang Gliding Works",
       "release_date": "2018-01-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2eWWzCpqLRAntdiXvHgkYf"
     },
@@ -45558,7 +45584,6 @@
       "name": "How Removing Public Monuments Work",
       "release_date": "2018-01-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Fl1cpGJIQe4oAad8iTbKY"
     },
@@ -45597,7 +45622,6 @@
       "name": "SYSK Selects: The Wind Cries Typhoid Mary",
       "release_date": "2018-01-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:67wr9oxufWonmxlRY0sWJp"
     },
@@ -45636,7 +45660,6 @@
       "name": "What is an invasive species?",
       "release_date": "2018-01-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3QazWXHU60WDxOQVLkLss4"
     },
@@ -45675,7 +45698,6 @@
       "name": "The Mystery of the Mary Celeste",
       "release_date": "2018-01-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2MiIZojULHdFWSpRX8MuXM"
     },
@@ -45714,7 +45736,6 @@
       "name": "SYSK Selects: What Makes a One-hit Wonder?",
       "release_date": "2018-01-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7dAG25avcYMYK7mf2Be2H8"
     },
@@ -45753,7 +45774,6 @@
       "name": "How Impeachment Works",
       "release_date": "2018-01-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2J6QyonGmRh9fLsAprqya3"
     },
@@ -45792,7 +45812,6 @@
       "name": "How Orchids Work",
       "release_date": "2018-01-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1YnPWxdWkDlsgd9sPUEN8S"
     },
@@ -45831,7 +45850,6 @@
       "name": "SYSK Selects: How Willpower Works",
       "release_date": "2017-12-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:06StX5E4QX82HrFOkV1Z5y"
     },
@@ -45870,7 +45888,6 @@
       "name": "How the Seven Wonders of the Ancient World Works, Part II",
       "release_date": "2017-12-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2oyZt0cjeR8BUKEMyJlzZw"
     },
@@ -45909,7 +45926,6 @@
       "name": "How the Seven Wonders of the Ancient World Works, Part I",
       "release_date": "2017-12-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5LAitGPPdsAjvGOStFfVf7"
     },
@@ -45948,7 +45964,6 @@
       "name": "SYSK Selects: The Star Wars Holiday Special of 1978",
       "release_date": "2017-12-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3zzmn5YA5nHUJcS8K8BN8e"
     },
@@ -45987,7 +46002,6 @@
       "name": "The 2017 SYSK Christmas Extravaganza!",
       "release_date": "2017-12-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Xx7rytzyzMLCfTUo5wkP8"
     },
@@ -46026,7 +46040,6 @@
       "name": "Narcissism: But what about me?",
       "release_date": "2017-12-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1TDQR1akLSiFobKnKl6hFm"
     },
@@ -46065,7 +46078,6 @@
       "name": "SYSK Selects: How Population Works",
       "release_date": "2017-12-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4eQlCE2zJCRod5NidkC9z0"
     },
@@ -46104,7 +46116,6 @@
       "name": "How the Globe of Death Works",
       "release_date": "2017-12-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0yxeLT4JI09zlO8xt2VvqK"
     },
@@ -46143,7 +46154,6 @@
       "name": "The Deal With Doulas",
       "release_date": "2017-12-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5IKC1QagLoYvBUWPFLtMLd"
     },
@@ -46182,7 +46192,6 @@
       "name": "SYSK Selects: How much money is there in the world?​",
       "release_date": "2017-12-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:36m4M8TXu8twUy1EWOJRUY"
     },
@@ -46221,7 +46230,6 @@
       "name": "How Flight Attendants Work",
       "release_date": "2017-12-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7AJ5lyNmdmjFW0vSyBMALe"
     },
@@ -46260,7 +46268,6 @@
       "name": "How Vomit Phobia Works",
       "release_date": "2017-12-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2En3NussNTi2HEtPUvseHm"
     },
@@ -46299,7 +46306,6 @@
       "name": "SYSK Selects: How Crime Scene Cleanup Works",
       "release_date": "2017-12-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3euFi2rvRCV074SzsLJOaQ"
     },
@@ -46338,7 +46344,6 @@
       "name": "Cake: So Great. So, So Great",
       "release_date": "2017-11-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0Z7Aerw1e3eN9fK1nvUb1d"
     },
@@ -46377,7 +46382,6 @@
       "name": "How Toy Testing Works",
       "release_date": "2017-11-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3z4S85HgY2K97HVnOj8pAy"
     },
@@ -46416,7 +46420,6 @@
       "name": "SYSK Selects: How Organ Donation Works",
       "release_date": "2017-11-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1xfs5bPnNawutKLqPHbwQx"
     },
@@ -46455,7 +46458,6 @@
       "name": "What is nuclear forensics?",
       "release_date": "2017-11-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2yLk3CMqMeLDHg9Kjq7puh"
     },
@@ -46494,7 +46496,6 @@
       "name": "Bath Salts: Steer Clear",
       "release_date": "2017-11-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0xEG7gWF2TncE0TX5KvrDx"
     },
@@ -46533,7 +46534,6 @@
       "name": "SYSK Selects: How Daylight Saving Time Works",
       "release_date": "2017-11-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3IQTgKhuw0nlhPItRiY4y2"
     },
@@ -46572,7 +46572,6 @@
       "name": "Can movies be cursed?",
       "release_date": "2017-11-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2m1I42Ltrfh2CbQzFwefpO"
     },
@@ -46611,7 +46610,6 @@
       "name": "How the Flu Works",
       "release_date": "2017-11-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6xh4lV16VKnNXrEnD0PFEQ"
     },
@@ -46650,7 +46648,6 @@
       "name": "SYSK Selects: How Silly Putty Works",
       "release_date": "2017-11-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:44u7R7hotBmRhVdY3mOSLZ"
     },
@@ -46689,7 +46686,6 @@
       "name": "What's permaculture all about?",
       "release_date": "2017-11-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Kt3ptNQB8ZXFdF9y08K4x"
     },
@@ -46728,7 +46724,6 @@
       "name": "How Restaurant Health Inspections Work",
       "release_date": "2017-11-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:53Q29Yjlew5maqGQEdvMkB"
     },
@@ -46767,7 +46762,6 @@
       "name": "SYSK Selects: How Exorcism Works",
       "release_date": "2017-11-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0Xffdhdwke5xm3aKqJDzOY"
     },
@@ -46806,7 +46800,6 @@
       "name": "Movie Crush: Tig Notaro on Mask",
       "release_date": "2017-11-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0kDnfLZNEzUyuGP1i82G4l"
     },
@@ -46845,7 +46838,6 @@
       "name": "Movie Crush: Janet Varney on Tron",
       "release_date": "2017-11-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0mdNYfI1inZdhZ6dnSWbQk"
     },
@@ -46884,7 +46876,6 @@
       "name": "How Global Warming Works",
       "release_date": "2017-11-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1SdHtkpcisDPYyTxw02cWq"
     },
@@ -46923,7 +46914,6 @@
       "name": "SYSK's 2017 Super Spooktacular!",
       "release_date": "2017-10-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0gCyfYDc7pyHht6lpPUscD"
     },
@@ -46962,7 +46952,6 @@
       "name": "SYSK Selects: How SPAM Works",
       "release_date": "2017-10-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0VeRlxN4diq7mgE97ua6V1"
     },
@@ -47001,7 +46990,6 @@
       "name": "Episode 1,000: The Simpsons Spectacular Part II",
       "release_date": "2017-10-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3LDkjOZHXld4nOyBPFVCoE"
     },
@@ -47040,7 +47028,6 @@
       "name": "Episode 999: The Simpsons Spectacular Part I",
       "release_date": "2017-10-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1QRpN0UUh8fnjHknRlXFtt"
     },
@@ -47079,7 +47066,6 @@
       "name": "SYSK Selects: The Cheesiest SYSK Episode Ever",
       "release_date": "2017-10-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0lr29Iancw1zzaYVJn1DcE"
     },
@@ -47118,7 +47104,6 @@
       "name": "How Internships Work",
       "release_date": "2017-10-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5mwEQwvNJCqAUu5YgMP9QC"
     },
@@ -47157,7 +47142,6 @@
       "name": "SYSK Live: The DB Cooper Heist",
       "release_date": "2017-10-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7JeJQLWBpEgFOQ13ldUJcx"
     },
@@ -47196,7 +47180,6 @@
       "name": "SYSK Selects: Is there such a thing as a truth serum?",
       "release_date": "2017-10-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0PHvb5TTTqSEtaimn6Arqd"
     },
@@ -47235,7 +47218,6 @@
       "name": "How Buildering Works",
       "release_date": "2017-10-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5rcQFW8tyo5ixCeIDMtRH4"
     },
@@ -47274,7 +47256,6 @@
       "name": "How the Rolling Jubilee Works",
       "release_date": "2017-10-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:05KDToXXgWQ9P7ULAcMJ1Y"
     },
@@ -47313,7 +47294,6 @@
       "name": "SYSK Selects: Did a cow start the Great Chicago Fire?",
       "release_date": "2017-10-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Px1ZWdE1HAKJJlDI3TeQe"
     },
@@ -47352,7 +47332,6 @@
       "name": "How Giraffes Work",
       "release_date": "2017-10-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5M5gQh7QVbAaeijCe0K51O"
     },
@@ -47391,7 +47370,6 @@
       "name": "How Police Body Cameras Work",
       "release_date": "2017-10-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0lYFhLgtF4kDi8N1cskud1"
     },
@@ -47430,7 +47408,6 @@
       "name": "SYSK Selects: What was the most peaceful time in history?",
       "release_date": "2017-09-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7IfynSg1d6UwPWwvNhQfAc"
     },
@@ -47469,7 +47446,6 @@
       "name": "How Nude Beaches Work",
       "release_date": "2017-09-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:16jtR2MQOJJjuIdRW6SIuk"
     },
@@ -47508,7 +47484,6 @@
       "name": "How FOIA Works",
       "release_date": "2017-09-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5OfbTp2vs7Je0bObNpm8vH"
     },
@@ -47547,7 +47522,6 @@
       "name": "SYSK Selects: Fecal Transplants: You Gonna Drink That Poop?",
       "release_date": "2017-09-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6P1vOawamdeRcvgS3cUhie"
     },
@@ -47586,7 +47560,6 @@
       "name": "A Nostalgic Look at Crayons",
       "release_date": "2017-09-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5WdgLrkOMmUDcIooZ59XnY"
     },
@@ -47625,7 +47598,6 @@
       "name": "How Frogs Work",
       "release_date": "2017-09-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:18ALo0IyFxApwyCEWbu0ut"
     },
@@ -47664,7 +47636,6 @@
       "name": "SYSK Selects: How Handwriting Analysis Works",
       "release_date": "2017-09-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1quYUKrFqyUdEW7lthJi5Z"
     },
@@ -47703,7 +47674,6 @@
       "name": "How the Secret Service Works",
       "release_date": "2017-09-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:08aWBXQCarwI2sAvepc5CU"
     },
@@ -47742,7 +47712,6 @@
       "name": "How Psychopaths Work",
       "release_date": "2017-09-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:08NP4mzGsiU9YZswzSopcF"
     },
@@ -47781,7 +47750,6 @@
       "name": "SYSK Selects: How Hip-hop Works",
       "release_date": "2017-09-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4SvBE0GoR31NDQdVm57CLb"
     },
@@ -47820,7 +47788,6 @@
       "name": "Are crickets the future of food?",
       "release_date": "2017-09-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3xpTyS8n9ssWsIziIQrbqP"
     },
@@ -47859,7 +47826,6 @@
       "name": "The Baffling Case of the Body On Somerton Beach",
       "release_date": "2017-09-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3K5bgTvxx0GNRFcuKN6niS"
     },
@@ -47898,7 +47864,6 @@
       "name": "SYSK Selects: How Shrunken Heads Work",
       "release_date": "2017-09-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4iedkhPzMgTP7ZvS7yO4rx"
     },
@@ -47937,7 +47902,6 @@
       "name": "How Satanism Works",
       "release_date": "2017-08-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1M8vpxnuOvcsUgehtcYYjs"
     },
@@ -47976,7 +47940,6 @@
       "name": "A Lip-Smacking Look at Barbecue",
       "release_date": "2017-08-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0yBu0bWtk5RhD4Hv9YmuCS"
     },
@@ -48015,7 +47978,6 @@
       "name": "SYSK Selects: Is Stockholm Syndrome real?",
       "release_date": "2017-08-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5T1d860MHSL9WqxkjwAyyh"
     },
@@ -48054,7 +48016,6 @@
       "name": "How Personality Tests Work",
       "release_date": "2017-08-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6rif5WnFBWVenRcOwWRLvq"
     },
@@ -48093,7 +48054,6 @@
       "name": "Is the Uncanny Valley Real?",
       "release_date": "2017-08-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4pVXqp3bgo4P2Z2dztwCSg"
     },
@@ -48132,7 +48092,6 @@
       "name": "SYSK Selects: How Exploitation Films Work",
       "release_date": "2017-08-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5bugzsLVziITIICKlIoetj"
     },
@@ -48171,7 +48130,6 @@
       "name": "What's the deal with accents?",
       "release_date": "2017-08-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:00i43fkxvSSSjCEabGPwHa"
     },
@@ -48210,7 +48168,6 @@
       "name": "How Stuttering Works",
       "release_date": "2017-08-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1IWgInxToXBeokLjSbqb3J"
     },
@@ -48249,7 +48206,6 @@
       "name": "SYSK Selects: How McCarthyism Works",
       "release_date": "2017-08-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7CFUGBw26iZzVzUUsXuOmz"
     },
@@ -48288,7 +48244,6 @@
       "name": "How Bioarchaeology Works",
       "release_date": "2017-08-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1jgVUPJHGydBCmDs3JzMSC"
     },
@@ -48327,7 +48282,6 @@
       "name": "Do motivational speakers motivate people?",
       "release_date": "2017-08-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6gcCpuZdjKa7SW9U7XO86D"
     },
@@ -48366,7 +48320,6 @@
       "name": "SYSK Selects: Why do men have nipples?",
       "release_date": "2017-08-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0V6Xq7j2UulhhWvITiqYUl"
     },
@@ -48405,7 +48358,6 @@
       "name": "Who Committed the 1912 Villisca Ax Murders?",
       "release_date": "2017-08-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4QDj8IgeR5qN5Orsln6Bqk"
     },
@@ -48444,7 +48396,6 @@
       "name": "How Public Broadcasting Works",
       "release_date": "2017-08-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1L5z4ox81KaEy4mCbuB5Av"
     },
@@ -48483,7 +48434,6 @@
       "name": "SYSK Selects: How Disco Works",
       "release_date": "2017-07-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0uq8Ukg7BQ835U49kj5a0x"
     },
@@ -48522,7 +48472,6 @@
       "name": "A Dry Look at Toilet Paper",
       "release_date": "2017-07-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0QbE4pmERdpFJRXfHY1kXp"
     },
@@ -48561,7 +48510,6 @@
       "name": "What is Ghost Fishing?",
       "release_date": "2017-07-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4mSfjyX2mfruJiRHFBDL0K"
     },
@@ -48600,7 +48548,6 @@
       "name": "SYSK Selects: How the Sun Works",
       "release_date": "2017-07-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7vVoO3Kf8mKgwYiOla5cwk"
     },
@@ -48639,7 +48586,6 @@
       "name": "All We Know About Guessing",
       "release_date": "2017-07-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:33BwwboV76NsnZKiIL50bN"
     },
@@ -48678,7 +48624,6 @@
       "name": "Sunburn, Suntans and Sunscreen",
       "release_date": "2017-07-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5s7UsMyRlUuEqp3Pgc6OxW"
     },
@@ -48717,7 +48662,6 @@
       "name": "SYSK Selects: Why can't we find Amelia Earhart?",
       "release_date": "2017-07-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:40UctazxDulqx2nawZcmPk"
     },
@@ -48756,7 +48700,6 @@
       "name": "How Fever Dreams Work",
       "release_date": "2017-07-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3QioTB96eyIJIJWCNzKmFa"
     },
@@ -48795,7 +48738,6 @@
       "name": "Why is There a Battle Over Net Neutrality?",
       "release_date": "2017-07-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6urMgqyem20Q0JDXNKdlqW"
     },
@@ -48834,7 +48776,6 @@
       "name": "SYSK Selects: How HeLa Cells Work",
       "release_date": "2017-07-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0steGzUR1HOxQhl1VKjiGV"
     },
@@ -48873,7 +48814,6 @@
       "name": "Josh and Chuck's List of Horror Movies that Changed the Genre",
       "release_date": "2017-07-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2KKoGvPdQ52Ovg9PGfHkPl"
     },
@@ -48912,7 +48852,6 @@
       "name": "What exactly is stoicism?",
       "release_date": "2017-07-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4ETL4W3Kjmkxyf4ZtnmApc"
     },
@@ -50901,7 +50840,6 @@
       "name": "How Famines Work",
       "release_date": "2017-02-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7qimkPzEi2wlbz3vOSmavl"
     },
@@ -50940,7 +50878,6 @@
       "name": "The ins and outs of the DEATH TAX",
       "release_date": "2017-02-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:75tW5iI1NA1vDBfUoJiPGB"
     },
@@ -50979,7 +50916,6 @@
       "name": "The Black Panther Party",
       "release_date": "2017-02-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3RJKw8xP97UTmcMoCv9zuc"
     },
@@ -51018,7 +50954,6 @@
       "name": "Tardigrades: Nature's Cuddly, Indestructible Microanimal",
       "release_date": "2017-02-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5WKdQmQfoKkRsA5PBnEUpR"
     },
@@ -51057,7 +50992,6 @@
       "name": "Live from San Francisco: How Malls Work",
       "release_date": "2017-02-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:04yZ5FkfWMh2lgvapyiSWc"
     },
@@ -51096,7 +51030,6 @@
       "name": "The Quinoa Revolution!",
       "release_date": "2017-02-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6L55M5jHtyawspEEpXskxM"
     },
@@ -51135,7 +51068,6 @@
       "name": "What's the future of virtual sex?",
       "release_date": "2017-02-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5lWLYIX33DhnHo91rdyVc8"
     },
@@ -51174,7 +51106,6 @@
       "name": "Elastics: Where God and Science Smooch",
       "release_date": "2017-01-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1AZLuxsk7ZnCMBh2KSqKpU"
     },
@@ -51213,7 +51144,6 @@
       "name": "How Pacifism Works (And Could It?)",
       "release_date": "2017-01-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:44iFv3Q7JscARzIbh5zgsc"
     },
@@ -51252,7 +51182,6 @@
       "name": "How Dictators Work",
       "release_date": "2017-01-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4QjvrcoPyjafT7aPNG4dZE"
     },
@@ -51291,7 +51220,6 @@
       "name": "How Soylent Works",
       "release_date": "2017-01-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5OVXBr5SFZvgk2C3aK6qNj"
     },
@@ -51330,7 +51258,6 @@
       "name": "Are Artificial Sweeteners Really Bad For You?",
       "release_date": "2017-01-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6EE2EOISeR4Q30Pfa9Sw6G"
     },
@@ -51369,7 +51296,6 @@
       "name": "How Watersheds Work",
       "release_date": "2017-01-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:05I1mkJdZWrMTCe6Qt4nDu"
     },
@@ -51408,7 +51334,6 @@
       "name": "What's the deal with Baby Boomers?",
       "release_date": "2017-01-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6kZU38XWdTKYCZcfvTNrZk"
     },
@@ -51447,7 +51372,6 @@
       "name": "How Feeding Babies Works: The Bottle",
       "release_date": "2017-01-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0bU0LJiNUVlOFjDG8ETLX6"
     },
@@ -51486,7 +51410,6 @@
       "name": "How Feeding Babies Works: The Breast",
       "release_date": "2017-01-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3hDv4v0fDtSiSowZehMxjd"
     },
@@ -51525,7 +51448,6 @@
       "name": "Human Blockheads: A Real Thing",
       "release_date": "2016-12-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:352IcCg39xXfvYJLhWKmnJ"
     },
@@ -51564,7 +51486,6 @@
       "name": "Can you live without a bank account?",
       "release_date": "2016-12-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:10z6hECd6EWJRHSAVASFwN"
     },
@@ -51603,7 +51524,6 @@
       "name": "The Stuff You Should Know 2016 Christmas Extravaganza in 3-D!",
       "release_date": "2016-12-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6XxT6uDbPgvCugRfZ4rUbB"
     },
@@ -51642,7 +51562,6 @@
       "name": "The Golden Age of Grave Robbing: Stuff You Should Know Live in London",
       "release_date": "2016-12-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4T8Fu8Tx70mgl1MMpmDGxZ"
     },
@@ -51681,7 +51600,6 @@
       "name": "How Porta-Potties Work",
       "release_date": "2016-12-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:26xtrx7RLkaUP9Sqd5G3YI"
     },
@@ -51720,7 +51638,6 @@
       "name": "Will We Find Evidence of Aliens by Their Engineering Projects?",
       "release_date": "2016-12-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6KcVzCseDjRqoPmsudpDHb"
     },
@@ -51759,7 +51676,6 @@
       "name": "Is computer addiction a thing?",
       "release_date": "2016-12-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0uPx0uUMQxccR6njMVAyjg"
     },
@@ -51798,7 +51714,6 @@
       "name": "Horoscopes: Written in the Stars?",
       "release_date": "2016-12-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:21AaH3R2jPd0mWBUdUP7a3"
     },
@@ -51837,7 +51752,6 @@
       "name": "How a Flea Circus Works",
       "release_date": "2016-12-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:50FxScuxgKyxio6ZiR2vS7"
     },
@@ -51876,7 +51790,6 @@
       "name": "Frostbite: Yeeeow!",
       "release_date": "2016-11-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3mhvBGG1zawCCqDwmgfPHs"
     },
@@ -51915,7 +51828,6 @@
       "name": "Should Advertising to Kids Be Banned?",
       "release_date": "2016-11-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6LUIBkAhEQmxKfr40yZ5nm"
     },
@@ -51954,7 +51866,6 @@
       "name": "The Kitty Genovese Story",
       "release_date": "2016-11-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3suKaQQvVEDvW1NcOiVXVx"
     },
@@ -51993,7 +51904,6 @@
       "name": "What's the Deal with Chronic Traumatic Encephalopathy?",
       "release_date": "2016-11-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6oXS7vKhkoCnFRbm76POcp"
     },
@@ -52032,7 +51942,6 @@
       "name": "How Fireplaces Work",
       "release_date": "2016-11-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1zuEzCRcCqWCFvH5DZO5aZ"
     },
@@ -52071,7 +51980,6 @@
       "name": "How Monty Python Worked: SYSK Live from LA Podfest",
       "release_date": "2016-11-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:39OEqOfyk25ySwCunTZ8iq"
     },
@@ -52110,7 +52018,6 @@
       "name": "Do sin taxes work?",
       "release_date": "2016-11-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3rdRZqlXBFVqVESScKO7gH"
     },
@@ -52149,7 +52056,6 @@
       "name": "A Partial History of Action Figures",
       "release_date": "2016-11-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:67OrM71DmDIyMgsELkYoF3"
     },
@@ -52188,7 +52094,6 @@
       "name": "Ham Radio and the Hams Who Use Them",
       "release_date": "2016-11-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6msq5G2TPw8hxBnlRawTHW"
     },
@@ -52227,7 +52132,6 @@
       "name": "SYSK The Podcast: Special Halloween Bonus Episode 2016, The Sequel – From Hell",
       "release_date": "2016-10-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3xxqEKMcmM5YOAhl1uU4UE"
     },
@@ -52266,7 +52170,6 @@
       "name": "The Hinterkaifeck Axe Murders",
       "release_date": "2016-10-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3g64ERy9ZygwqjhwI3lzEZ"
     },
@@ -52305,7 +52208,6 @@
       "name": "How Sleep Paralysis Works, or The Worst Thing That Can Happen While You're Sleeping",
       "release_date": "2016-10-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2ZFeh1sg1oNRHNWrlH5UoZ"
     },
@@ -52344,7 +52246,6 @@
       "name": "Living Underground in Beijing",
       "release_date": "2016-10-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2I7Mkn79riU7TUb2ZpHQlG"
     },
@@ -52383,7 +52284,6 @@
       "name": "What's the What with Fish Fraud?",
       "release_date": "2016-10-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2dBCP5K1oJpgEVYvPOso0h"
     },
@@ -52422,7 +52322,6 @@
       "name": "How the Census Works",
       "release_date": "2016-10-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7bjuwZVRyljLhmbx0Lr0FH"
     },
@@ -52461,7 +52360,6 @@
       "name": "Hibernation: Not a Snooze",
       "release_date": "2016-10-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2rvp1BSHHvg2oeR7YUJ1Zb"
     },
@@ -52500,7 +52398,6 @@
       "name": "Why Did Easter Island's Civilization Collapse?",
       "release_date": "2016-10-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4ouGxDG19ZqFFBdmJ72c4P"
     },
@@ -52539,7 +52436,6 @@
       "name": "The Amazing History of Soda",
       "release_date": "2016-10-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Yr9rienpj2BRuix3eOoZU"
     },
@@ -52578,7 +52474,6 @@
       "name": "How Polar Bears Work",
       "release_date": "2016-09-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:719vDyRkI94wGwNRjU8hPh"
     },
@@ -52617,7 +52512,6 @@
       "name": "How Ice Ages Work",
       "release_date": "2016-09-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0l0B7kGA8owtYbDoX3Q2lW"
     },
@@ -52656,7 +52550,6 @@
       "name": "All we know about Zika so far...",
       "release_date": "2016-09-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:28IAjVzVjAsSVdG1LBGgrt"
     },
@@ -52695,7 +52588,6 @@
       "name": "How Cerebral Palsy Works",
       "release_date": "2016-09-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6AmCuVTVbRw4K10xTRPrIk"
     },
@@ -52734,7 +52626,6 @@
       "name": "What's the deal with Stradivarius violins?",
       "release_date": "2016-09-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:49HKFQRqKaYTfbqaNWyesu"
     },
@@ -52773,7 +52664,6 @@
       "name": "Alexander Hamilton: Most Influential American?",
       "release_date": "2016-09-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2gaDn6BNxMNQEM93tvCest"
     },
@@ -52812,7 +52702,6 @@
       "name": "Do Animals Have Natural Rights?",
       "release_date": "2016-09-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7wAmCydfUFEsAunA2F3Auv"
     },
@@ -52851,7 +52740,6 @@
       "name": "How Animal Testing Works",
       "release_date": "2016-09-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0A76krTBKdl3KVei6aNzB0"
     },
@@ -52890,7 +52778,6 @@
       "name": "How the Negro Leagues Worked",
       "release_date": "2016-09-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:678XUotBGoMrI9onLAJ0Kr"
     },
@@ -52929,7 +52816,6 @@
       "name": "How Food Tasters Work",
       "release_date": "2016-08-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6Lc8YtTJxabeXiRVnOAzZi"
     },
@@ -52968,7 +52854,6 @@
       "name": "This Custom of Customs",
       "release_date": "2016-08-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:01khevURsFWzUEq2Xhlh9d"
     },
@@ -53007,7 +52892,6 @@
       "name": "Jellyfish: Even Cooler than Octopi?",
       "release_date": "2016-08-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2QA30BH3n8VCCWvBZ0yKPS"
     },
@@ -53046,7 +52930,6 @@
       "name": "The Delightful History of Steam Technology",
       "release_date": "2016-08-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7GGK2DmQf2O8KfRrzAinET"
     },
@@ -53085,7 +52968,6 @@
       "name": "How Woolly Mammoths Worked",
       "release_date": "2016-08-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3GZUcCUFgdmz8InudSP9E0"
     },
@@ -53124,7 +53006,6 @@
       "name": "Evel Knievel Part II",
       "release_date": "2016-08-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3J8830i8OmFAlJ79ZjEAAg"
     },
@@ -53163,7 +53044,6 @@
       "name": "Evel Knievel Part I",
       "release_date": "2016-08-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6SBvkQkvujAEtWfUD6OvoR"
     },
@@ -53202,7 +53082,6 @@
       "name": "Mermaids: Not a real thing",
       "release_date": "2016-08-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5j8k71BM4ETChGQ5spj7KO"
     },
@@ -53241,7 +53120,6 @@
       "name": "How Night Terrors Work",
       "release_date": "2016-08-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0dgCgNrxPoEZ7c3ilG4ViF"
     },
@@ -53280,7 +53158,6 @@
       "name": "What is exploding head syndrome?",
       "release_date": "2016-07-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0Hf7myi31LYPImv7verhHm"
     },
@@ -53319,7 +53196,6 @@
       "name": "How Triage Works",
       "release_date": "2016-07-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4UyLjb1GCCDFjj894uNfWW"
     },
@@ -53358,7 +53234,6 @@
       "name": "How the Moonwalk Works",
       "release_date": "2016-07-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3upfmHDFHHaXXfH8LcRMBt"
     },
@@ -53397,7 +53272,6 @@
       "name": "How Chaos Theory Changed the Universe",
       "release_date": "2016-07-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3lIDlulK4372fsgytJ02Jk"
     },
@@ -53436,7 +53310,6 @@
       "name": "The Gettysburg Address: Short and Sweet",
       "release_date": "2016-07-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1BiRN1jv2krF6WgsZx73YA"
     },
@@ -53475,7 +53348,6 @@
       "name": "How Radiation Sickness Works",
       "release_date": "2016-07-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2k2KDsWP4JMoNTDzHhDPxZ"
     },
@@ -53514,7 +53386,6 @@
       "name": "What's with this \"Internet of Things\"?",
       "release_date": "2016-07-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2yrENiAevaQFBaIImaGFkC"
     },
@@ -53553,7 +53424,6 @@
       "name": "Research tips from SYSK",
       "release_date": "2016-07-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:57Ar30e2moKUSv1zPSRVnw"
     },
@@ -53592,7 +53462,6 @@
       "name": "How Lighthouses Work",
       "release_date": "2016-06-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7oVKOOk5WS6LSbrgy0Xgm8"
     },
@@ -53631,7 +53500,6 @@
       "name": "How Underground Mining Works",
       "release_date": "2016-06-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:08F8FJ1XlM7uHgjHXsrRf1"
     },
@@ -53670,7 +53538,6 @@
       "name": "What's the misery index?",
       "release_date": "2016-06-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1RcKY3IKbxvXMGfhlFrJMK"
     },
@@ -53709,7 +53576,6 @@
       "name": "How Space Stations Work",
       "release_date": "2016-06-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6I6l0lwVCAc2vkimjSVBT0"
     },
@@ -53748,7 +53614,6 @@
       "name": "How Steadicams Work",
       "release_date": "2016-06-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2bmkNkIUNnvHLQHlcet4BR"
     },
@@ -53787,7 +53652,6 @@
       "name": "Why Are So Many Disembodied Feet Washing Ashore In British Columbia?",
       "release_date": "2016-06-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:04uCgm2G0IfwGb2Rps7JNz"
     },
@@ -53826,7 +53690,6 @@
       "name": "What's the deal with controlled burns?",
       "release_date": "2016-06-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1QWiiexFaAVQitMyH42hkg"
     },
@@ -53865,7 +53728,6 @@
       "name": "How Motion Sickness Works",
       "release_date": "2016-06-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4LO341AuQWh9hgRhKoF4Pa"
     },
@@ -53904,7 +53766,6 @@
       "name": "How Gene Editing Works",
       "release_date": "2016-06-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0yvj962ZiEXthzqCXJzjiS"
     },
@@ -53943,7 +53804,6 @@
       "name": "How SuperBalls Work",
       "release_date": "2016-05-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0dR82l18tHp81L2zW9MeyW"
     },
@@ -53982,7 +53842,6 @@
       "name": "How Crumple Zones Work",
       "release_date": "2016-05-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:68XBH4KB72UYaRJzJnUCe6"
     },
@@ -54021,7 +53880,6 @@
       "name": "Chiggers: The Phantom Menace",
       "release_date": "2016-05-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4FADcaq5ues5TQan3pn3Wf"
     },
@@ -54060,7 +53918,6 @@
       "name": "The Unsolved Mystery Disappearance of the Sodder Children",
       "release_date": "2016-05-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:41VC7m9sPJEhfFQO4QE83v"
     },
@@ -54099,7 +53956,6 @@
       "name": "How Bonsai Works",
       "release_date": "2016-05-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:08lgEersbzC0uSsSF2KBYP"
     },
@@ -54138,7 +53994,6 @@
       "name": "True stories of survival cannibalism!",
       "release_date": "2016-05-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0tkxzL56gbBHmGB5JWcIHQ"
     },
@@ -54177,7 +54032,6 @@
       "name": "How Snake Handlers Work",
       "release_date": "2016-05-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6No93cF3kjQsxeXbCbGtY8"
     },
@@ -54216,7 +54070,6 @@
       "name": "How LSD Works",
       "release_date": "2016-05-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4KhCfEJJEEM2gKS1sUmOlx"
     },
@@ -54255,7 +54108,6 @@
       "name": "How Megalodon Worked",
       "release_date": "2016-05-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5eGeSfwBUd3oGYZBjJ4rCe"
     },
@@ -54294,7 +54146,6 @@
       "name": "What was Operation Plowshare?",
       "release_date": "2016-04-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6ArEENtVujgmALh00PzzyM"
     },
@@ -54333,7 +54184,6 @@
       "name": "Myths and Truths About Tornadoes",
       "release_date": "2016-04-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6YA4dCclIubI3tkPiiQnfl"
     },
@@ -54372,7 +54222,6 @@
       "name": "Does Kin Selection Explain Altruism?",
       "release_date": "2016-04-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1U1bsBsySmqpslGhPm1xGU"
     },
@@ -54411,7 +54260,6 @@
       "name": "What Makes Lead So Poisonous?",
       "release_date": "2016-04-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6xBRN4SigYCvFBpYH1GqsP"
     },
@@ -54450,7 +54298,6 @@
       "name": "How Big Bang Theory Works, with Neil deGrasse Tyson",
       "release_date": "2016-04-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6uDgRuFOZrpv8oi1kwz79M"
     },
@@ -54489,7 +54336,6 @@
       "name": "How the Gender Pay Gap Works",
       "release_date": "2016-04-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:10v2BntjAeItCmt6VUpKXO"
     },
@@ -54528,7 +54374,6 @@
       "name": "How Labor Strikes Work",
       "release_date": "2016-04-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:63Jd8prbMeFAgaehRBQebO"
     },
@@ -54567,7 +54412,6 @@
       "name": "Our cats episode - right here, right meow",
       "release_date": "2016-04-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4NuRsfY5Ar5TKCU5la1V2w"
     },
@@ -54606,7 +54450,6 @@
       "name": "Nostalgia is not the most toxic impulse",
       "release_date": "2016-03-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4QqRDwlZECgssyACl3bjAl"
     },
@@ -54645,7 +54488,6 @@
       "name": "What Was the Deal With the Hatfields and McCoys?",
       "release_date": "2016-03-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Xd9V6EpTLti8JwFRUpZ3R"
     },
@@ -54684,7 +54526,6 @@
       "name": "How TED Talks Work: Featuring Roman Mars",
       "release_date": "2016-03-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4m4ChPDqdPp4m8kj7UPNUX"
     },
@@ -54723,7 +54564,6 @@
       "name": "Who Gets to Name Continents?",
       "release_date": "2016-03-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0uhTncWxWC7WXDkv5PtClo"
     },
@@ -54762,7 +54602,6 @@
       "name": "How Makeup Works",
       "release_date": "2016-03-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:61l7malEpYWxdm8e2jgduA"
     },
@@ -56751,7 +56590,6 @@
       "name": "Geothermal Energy: Earth's Gift to Mankind",
       "release_date": "2015-09-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:38fuDLtGJBNrueFc98aCZ8"
     },
@@ -56790,7 +56628,6 @@
       "name": "How Cult Deprogramming Worked",
       "release_date": "2015-09-22",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Ib0LZzS0n6B784BUaLMnj"
     },
@@ -56829,7 +56666,6 @@
       "name": "The Great Nuclear Winter Debate of 1983",
       "release_date": "2015-09-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3y6t2xF8FfFWeUSR07zpOK"
     },
@@ -56868,7 +56704,6 @@
       "name": "How Publicists Work",
       "release_date": "2015-09-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:06Ihy3ixS0nKp8xMUjrfgB"
     },
@@ -56907,7 +56742,6 @@
       "name": "How Chili Peppers Work",
       "release_date": "2015-09-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4jUYDJIZvMapP1VOwuoPQs"
     },
@@ -56946,7 +56780,6 @@
       "name": "How Police Dogs Work",
       "release_date": "2015-09-08",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3xlFi8p7wUadRIrXgHA6EF"
     },
@@ -56985,7 +56818,6 @@
       "name": "How Alcoholism Works",
       "release_date": "2015-09-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3u4zFZbhZR17ItuQ9obfo6"
     },
@@ -57024,7 +56856,6 @@
       "name": "How to Donate Your Body to Science",
       "release_date": "2015-09-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:48mFjuUf5BLtWHyuV4f1YI"
     },
@@ -57063,7 +56894,6 @@
       "name": "Nirvana: Not The Band",
       "release_date": "2015-08-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7sYb9AyN9D46BL5LcwXBdA"
     },
@@ -57102,7 +56932,6 @@
       "name": "How Hot Air Balloons Work",
       "release_date": "2015-08-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:33yz1dT1IZ5NyGXE5tsBj4"
     },
@@ -57141,7 +56970,6 @@
       "name": "How Umami Works!",
       "release_date": "2015-08-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:25gyV1AjpwVHCK9WZ4ZAwH"
     },
@@ -57180,7 +57008,6 @@
       "name": "Pigeons: Homing, Passenger, Carrier and Otherwise",
       "release_date": "2015-08-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:06wKwqhgOxEYTdkfZHSQ7n"
     },
@@ -57219,7 +57046,6 @@
       "name": "Hula-Hoops: The Toy That's A Shape",
       "release_date": "2015-08-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0zPty7vzFUbUf476GEVB6C"
     },
@@ -57258,7 +57084,6 @@
       "name": "How Auto-Tune Works",
       "release_date": "2015-08-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2ADoWi0tdd3lsZAaurX3an"
     },
@@ -57297,7 +57122,6 @@
       "name": "How Droughts Work",
       "release_date": "2015-08-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1AqazdTkPQKWigIpLYgmKK"
     },
@@ -57336,7 +57160,6 @@
       "name": "How Earth-Like Planets Work",
       "release_date": "2015-08-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1ldbanvmZT6zPGS7m9Ccbd"
     },
@@ -57375,7 +57198,6 @@
       "name": "How Bats Work",
       "release_date": "2015-07-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6oOYwf4e7mcDz9KdVFqC2w"
     },
@@ -57414,7 +57236,6 @@
       "name": "How Profiling Works",
       "release_date": "2015-07-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0vxUGm4U9pvpd05kS47QTA"
     },
@@ -57453,7 +57274,6 @@
       "name": "Road Rage: GRRRR!!!",
       "release_date": "2015-07-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1AqArzeEySDeTjkF29xjyw"
     },
@@ -57492,7 +57312,6 @@
       "name": "How Citizen's Arrests Work",
       "release_date": "2015-07-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1g9zNsAYxFD1G5BRKpDw6f"
     },
@@ -57531,7 +57350,6 @@
       "name": "The Time Nazis Invaded Florida",
       "release_date": "2015-07-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5LStKPEktC4iDfbrRzDcP9"
     },
@@ -57570,7 +57388,6 @@
       "name": "How the Terracotta Army Works",
       "release_date": "2015-07-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3R3dNwd3kxN9NNtDeuTuav"
     },
@@ -57609,7 +57426,6 @@
       "name": "How Brickfilm Works",
       "release_date": "2015-07-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5ZdJ1MJ2aWMHXDPHvv58rb"
     },
@@ -57648,7 +57464,6 @@
       "name": "How Egypt's Pyramids Work",
       "release_date": "2015-07-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0PEMzeziDqmzbjYB2QB4rH"
     },
@@ -57687,7 +57502,6 @@
       "name": "How Circus Families Work",
       "release_date": "2015-07-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1b54M1sfkww97FhoP2hjot"
     },
@@ -57726,7 +57540,6 @@
       "name": "How Audience Testing Works",
       "release_date": "2015-06-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:78xKVP4GUJEZh3L3zCogs8"
     },
@@ -57765,7 +57578,6 @@
       "name": "Mosquitoes: The Worst",
       "release_date": "2015-06-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:20Lynj0LEeJbYgA9lKBoLq"
     },
@@ -57804,7 +57616,6 @@
       "name": "How Landfills Work",
       "release_date": "2015-06-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4spDDxshdI2bJsfMJY5Zrx"
     },
@@ -57843,7 +57654,6 @@
       "name": "Are You My Mother?: How Animal Imprinting Works",
       "release_date": "2015-06-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1pgEJyzMyj1lvpUk2Wl1ZI"
     },
@@ -57882,7 +57692,6 @@
       "name": "How BASE Jumping Works",
       "release_date": "2015-06-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3m3PhRzyfb3taPXjPVfB7d"
     },
@@ -57921,7 +57730,6 @@
       "name": "Bridges: Nature Abhors Them",
       "release_date": "2015-06-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0qaFkKTnmSwUHWlUmS6EzI"
     },
@@ -57960,7 +57768,6 @@
       "name": "How the Wow! Signal Works",
       "release_date": "2015-06-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7JXExQckXK7kqslhisCtsb"
     },
@@ -57999,7 +57806,6 @@
       "name": "How Ocean Currents Work",
       "release_date": "2015-06-04",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3y4DbbSbdE2urCN8U4fMEb"
     },
@@ -58038,7 +57844,6 @@
       "name": "How Street Gangs Work",
       "release_date": "2015-06-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:18mZ2XIrcx93I5vg8teD0T"
     },
@@ -58077,7 +57882,6 @@
       "name": "How Tupperware Works",
       "release_date": "2015-05-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5QTQVdvHVBGXvYlpvdViiA"
     },
@@ -58116,7 +57920,6 @@
       "name": "How Junk Food Works",
       "release_date": "2015-05-26",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7lICGShL25w6vWylGTqF3L"
     },
@@ -58155,7 +57958,6 @@
       "name": "How Color Works",
       "release_date": "2015-05-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4B5ioeD0p3d0kIGgVWWMQq"
     },
@@ -58194,7 +57996,6 @@
       "name": "How Internet Censorship Works",
       "release_date": "2015-05-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1B8tTdBVy5s91lCJxt93Yg"
     },
@@ -58233,7 +58034,6 @@
       "name": "How Pinewood Derbies Work",
       "release_date": "2015-05-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7jN1NneGAt7Sc17UFAqKXv"
     },
@@ -58272,7 +58072,6 @@
       "name": "Does the FDA Protect Americans?",
       "release_date": "2015-05-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2DlHG64s3hEN6GEEMfMA8A"
     },
@@ -58311,7 +58110,6 @@
       "name": "Josh and Chuck Make It Through Male Puberty",
       "release_date": "2015-05-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1F2RRW5QGAvJSnLtxC2r5N"
     },
@@ -58350,7 +58148,6 @@
       "name": "How Therapeutic Hypothermia Works",
       "release_date": "2015-05-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7DBDQSgqj7xeaKLRqjGnp6"
     },
@@ -58389,7 +58186,6 @@
       "name": "How Spiders Work",
       "release_date": "2015-04-30",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1URh50mtpE1ZncGSEhOetr"
     },
@@ -58428,7 +58224,6 @@
       "name": "How Water Slides Work",
       "release_date": "2015-04-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2z6HfDTbZMfGBiauZGBzlE"
     },
@@ -58467,7 +58262,6 @@
       "name": "Oh No, Snakes!",
       "release_date": "2015-04-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4xXZduk8EjrbhWFGFbi1mo"
     },
@@ -58506,7 +58300,6 @@
       "name": "How Clowns Work",
       "release_date": "2015-04-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6EygbwrOj9Jam5DZZDplFi"
     },
@@ -58545,7 +58338,6 @@
       "name": "How Zero Population Growth Works",
       "release_date": "2015-04-16",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3rs2KpSpdqWmkdhSE358j5"
     },
@@ -58584,7 +58376,6 @@
       "name": "How Slinky Works",
       "release_date": "2015-04-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7zWUX7Lcj0CkdVPRA0xVw6"
     },
@@ -58623,7 +58414,6 @@
       "name": "What's the deal with blood types?",
       "release_date": "2015-04-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0zTqmuQuaub5RsaCDT3NQy"
     },
@@ -58662,7 +58452,6 @@
       "name": "Polyamory: When two just won't do",
       "release_date": "2015-04-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5lh33ewplgryANI50LXU9B"
     },
@@ -58740,6 +58529,7 @@
       "name": "Does the body replace itself?",
       "release_date": "2015-03-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0396yMzIyv5O8ESKe86zSl"
     },
@@ -58778,6 +58568,7 @@
       "name": "How Desalination Works",
       "release_date": "2015-03-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5qmdJZm0o9UhQMH7lOIfOQ"
     },
@@ -58816,6 +58607,7 @@
       "name": "10 Bizarre Medical Treatments",
       "release_date": "2015-03-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1mNMfAVlcCwIa49rctRIq5"
     },
@@ -58854,6 +58646,7 @@
       "name": "Earwax: Live With It",
       "release_date": "2015-03-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5JJRkchxTC3vN2paMGNGzl"
     },
@@ -58892,6 +58685,7 @@
       "name": "How Anesthesia Works",
       "release_date": "2015-03-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1zKUHO75WV6Xglsjw3C5Gt"
     },
@@ -58930,6 +58724,7 @@
       "name": "How Tea Works",
       "release_date": "2015-03-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2WhSEuGNUbc9geoRaDZ05H"
     },
@@ -58968,6 +58763,7 @@
       "name": "How Fleas Work",
       "release_date": "2015-03-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2vbe6An3A6MJ1ALo4JpqQs"
     },
@@ -59006,6 +58802,7 @@
       "name": "How Stonehenge Works",
       "release_date": "2015-03-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7fvDieuCQ2bdvH0iOcekin"
     },
@@ -59044,6 +58841,7 @@
       "name": "How ESP Works(?)",
       "release_date": "2015-03-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3jW8IoJ1JxDeLZDmvErIHv"
     },
@@ -59082,6 +58880,7 @@
       "name": "Some Movies That Changed Filmmaking",
       "release_date": "2015-02-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6DZvA07REP7jZpg0uqygJA"
     },
@@ -59120,6 +58919,7 @@
       "name": "Why Do Lefties Exist?",
       "release_date": "2015-02-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1Qp3uyBLnFATHDb2wkilwS"
     },
@@ -59158,6 +58958,7 @@
       "name": "How Perfume Works",
       "release_date": "2015-02-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:38w336uQol1DRZ0fKklDD9"
     },
@@ -59196,6 +58997,7 @@
       "name": "Is there treasure on Oak Island?",
       "release_date": "2015-02-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6Yme14qVGZl26tEgxZPuuA"
     },
@@ -59234,6 +59036,7 @@
       "name": "What is folklore?",
       "release_date": "2015-02-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2gZeTHM6fadpPsQLL7Pb93"
     },
@@ -59272,6 +59075,7 @@
       "name": "How Feng Shui Works",
       "release_date": "2015-02-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4d0IQPDLi7LRRxoGJ5JsA0"
     },
@@ -59310,6 +59114,7 @@
       "name": "How Ice Cream Works",
       "release_date": "2015-02-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6ItMGv9Thvj3nzkRJtD38r"
     },
@@ -59348,6 +59153,7 @@
       "name": "Rainbows: Delighting humanity since forever",
       "release_date": "2015-02-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6piYVnrwqqRAxtQygfr8VA"
     },
@@ -59386,6 +59192,7 @@
       "name": "How Hot Wheels Work",
       "release_date": "2015-01-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Hcw0KMHFqPAUSRGeoLrRW"
     },
@@ -59424,6 +59231,7 @@
       "name": "How Poison Ivy Works",
       "release_date": "2015-01-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2mhpXWjd46gFJXmNvZhrIj"
     },
@@ -59462,6 +59270,7 @@
       "name": "Nostradamus: Predictor of the future? Not so much.",
       "release_date": "2015-01-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3IG0rhtG8kWXxwFd8L8eQn"
     },
@@ -59500,6 +59309,7 @@
       "name": "How the March on Washington Worked",
       "release_date": "2015-01-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6hdrGADCl9oGQkoD4ypcdQ"
     },
@@ -59538,6 +59348,7 @@
       "name": "Juggling: What the Heck",
       "release_date": "2015-01-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7CBjeQBDD1PIWTPzDqxeAd"
     },
@@ -59576,6 +59387,7 @@
       "name": "How the Scientific Method Works",
       "release_date": "2015-01-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:51Ir7ZqF7Lu0S1i1c0Z6Yf"
     },
@@ -59614,6 +59426,7 @@
       "name": "How Online Gambling Works",
       "release_date": "2015-01-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5hzz91SDM8Rw11h7S6yYJQ"
     },
@@ -59652,6 +59465,7 @@
       "name": "How Jim Henson Worked",
       "release_date": "2015-01-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3zd9rJGqPGkkMCY93Ugpi5"
     },
@@ -59690,6 +59504,7 @@
       "name": "SYSK Live: How Bars Work",
       "release_date": "2015-01-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0ow62PobhTIq8yPJCV9gqJ"
     },
@@ -59728,6 +59543,7 @@
       "name": "How Sea Monsters Work",
       "release_date": "2014-12-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2mtInnT0ZmjwAzzzFrnWnV"
     },
@@ -59766,6 +59582,7 @@
       "name": "Josh and Chuck's 2014 Christmas Extravaganza!",
       "release_date": "2014-12-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3uulPJxFeE4mlPmHDAWlEc"
     },
@@ -59804,6 +59621,7 @@
       "name": "How the GED Test Works",
       "release_date": "2014-12-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0OWBWYcrwVcXSVVyKjAhAc"
     },
@@ -59842,6 +59660,7 @@
       "name": "How Cinnamon Works",
       "release_date": "2014-12-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5ziu4sIB2X0XmCzfSJFOII"
     },
@@ -59880,6 +59699,7 @@
       "name": "Boomerangs: Magic Sticks of Physics",
       "release_date": "2014-12-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7zoeIdCW0ANSj9aJlS4Jul"
     },
@@ -59918,6 +59738,7 @@
       "name": "Homeschooling: Not Just For Hippies and Religious People Anymore",
       "release_date": "2014-12-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0hVjMZbSdCzq4TrBp13lLx"
     },
@@ -59956,6 +59777,7 @@
       "name": "How The Hum Works",
       "release_date": "2014-12-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3uPNaWN5b1J1swomaz7LTL"
     },
@@ -59994,6 +59816,7 @@
       "name": "How X-Rays Work",
       "release_date": "2014-12-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7bMG9DBr4fb6bZNydrhhzE"
     },
@@ -60032,6 +59855,7 @@
       "name": "How Leper Colonies Worked",
       "release_date": "2014-12-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7dZponeK8GwZM4M7daqgGT"
     },
@@ -60070,6 +59894,7 @@
       "name": "How Terraforming Will Work",
       "release_date": "2014-11-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:28xhySxyWEpVm3exDR5STc"
     },
@@ -60108,6 +59933,7 @@
       "name": "How Kickstarter Works",
       "release_date": "2014-11-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1MEsiKBafWkkPpAHseYN4e"
     },
@@ -60146,6 +59972,7 @@
       "name": "What is Collective Hysteria?",
       "release_date": "2014-11-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4NYDl3J3EKZyutwFwZ8Jse"
     },
@@ -60184,6 +60011,7 @@
       "name": "How the Enlightenment Works",
       "release_date": "2014-11-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1gazT7XKUQXNBfdaA79bIy"
     },
@@ -60222,6 +60050,7 @@
       "name": "What's the deal with crop circles?",
       "release_date": "2014-11-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2voPen1Q8PkPLKqxizZc7W"
     },
@@ -60260,6 +60089,7 @@
       "name": "How Patents Work",
       "release_date": "2014-11-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4pvCubhCDAZgp3Xly1bAoE"
     },
@@ -60298,6 +60128,7 @@
       "name": "How Limousines Work",
       "release_date": "2014-11-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7zgnyfE5xEqlRhz54G78vR"
     },
@@ -60336,6 +60167,7 @@
       "name": "Can Nuclear Fusion Reactors Save The World?",
       "release_date": "2014-11-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2TxyDmSF7GYaiWJnl6R9i6"
     },
@@ -60374,6 +60206,7 @@
       "name": "SYSK's Halloween Scare Fest",
       "release_date": "2014-10-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3lcTCazxNYaIqPvhtydgrD"
     },
@@ -60412,6 +60245,7 @@
       "name": "How Haunted House Attractions Work",
       "release_date": "2014-10-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4m5pHRcwqcWXGx8Q4ARQbq"
     },
@@ -60450,6 +60284,7 @@
       "name": "Is there a disease that kills by preventing sleep?",
       "release_date": "2014-10-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4cp0gncpHLwMM4yvKOWg2U"
     },
@@ -60488,6 +60323,7 @@
       "name": "How Animal Camouflage Works",
       "release_date": "2014-10-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6rvLbR454P0SHnGsLJ0TPY"
     },
@@ -60526,6 +60362,7 @@
       "name": "How Extinction Works",
       "release_date": "2014-10-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Fwoq2vkxf6gqBBkDfEJnR"
     },
@@ -60564,6 +60401,7 @@
       "name": "How The Great Train Robbery Worked",
       "release_date": "2014-10-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5Y5XzADrDyfR1Yggn2MeUw"
     },
@@ -60602,6 +60440,7 @@
       "name": "Virus Talk with Josh and Chuck",
       "release_date": "2014-10-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Q2WtLIa16NI10DAqG45mW"
     },
@@ -60640,6 +60479,7 @@
       "name": "How Skywriting Works",
       "release_date": "2014-10-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6bkOU3UrirIXQL80kbnWoj"
     },
@@ -60678,6 +60518,7 @@
       "name": "How Karate Works",
       "release_date": "2014-10-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5SFSkOaPtvJHgyZXtLsgsq"
     },
@@ -60716,6 +60557,7 @@
       "name": "How Panic Attacks Work",
       "release_date": "2014-10-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1vvY4Qrcw6kUpeVRGHydRJ"
     },
@@ -60754,6 +60596,7 @@
       "name": "How Rogue Waves Work",
       "release_date": "2014-09-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0u9pbkuBx9db6BXVuaTk9I"
     },
@@ -60792,6 +60635,7 @@
       "name": "How Animal Domestication Works",
       "release_date": "2014-09-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2tX5BYEmcshpQIcR6L0YDx"
     },
@@ -60830,6 +60674,7 @@
       "name": "How Police Interrogation Works",
       "release_date": "2014-09-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1V19BDf9AZN7GMD9rOHh7J"
     },
@@ -60868,6 +60713,7 @@
       "name": "How Currency Works",
       "release_date": "2014-09-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6UM39pcDIMy1IOK4uwceA8"
     },
@@ -60906,6 +60752,7 @@
       "name": "How Socialism Works",
       "release_date": "2014-09-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7w9JSAivjdyIUMGRU56L24"
     },
@@ -60944,6 +60791,7 @@
       "name": "How Stem Cells Work",
       "release_date": "2014-09-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1TelXykHplfMn19J1AvFwC"
     },
@@ -60982,6 +60830,7 @@
       "name": "How TV Ratings Work",
       "release_date": "2014-09-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2HMnRaE0EUyAKchSk5z8r8"
     },
@@ -61020,6 +60869,7 @@
       "name": "How Pinball Works",
       "release_date": "2014-09-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0LR7W1QEg5RGr8CHTjQzS0"
     },
@@ -61058,6 +60908,7 @@
       "name": "How Blimps Work",
       "release_date": "2014-08-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0b3lmhm9yPCjOdghAkSM94"
     },
@@ -61096,6 +60947,7 @@
       "name": "What's the deal with headstones?",
       "release_date": "2014-08-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4PrRTh5tTAt0hEJCuOgk07"
     },
@@ -61134,6 +60986,7 @@
       "name": "How the Berlin Wall Worked",
       "release_date": "2014-08-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0vC27gaRICspacI29HOhz2"
     },
@@ -61172,6 +61025,7 @@
       "name": "Going Up: Elevators",
       "release_date": "2014-08-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2LD6VouC4rS0qJ4VPp7c9Y"
     },
@@ -61210,6 +61064,7 @@
       "name": "How Ebola Works",
       "release_date": "2014-08-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3GqswCHjC6lqCkTUliazzU"
     },
@@ -61248,6 +61103,7 @@
       "name": "How the NSA Works",
       "release_date": "2014-08-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1z0fMzvYRw4DUbcNOxYRkT"
     },
@@ -61286,6 +61142,7 @@
       "name": "What is a Numbers Station?",
       "release_date": "2014-08-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4c7QfumJPK2iOxWFK1Q8ZW"
     },
@@ -61324,6 +61181,7 @@
       "name": "How Play-Doh Works",
       "release_date": "2014-08-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:48jtlFYSH9PJpUC9OeFaF1"
     },
@@ -61362,6 +61220,7 @@
       "name": "How Morgellons Disease Works",
       "release_date": "2014-07-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2HTLY39Q4byBhbiaqIrZ2t"
     },
@@ -61400,6 +61259,7 @@
       "name": "Is there a dark side of the moon?",
       "release_date": "2014-07-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0drb06MUgdVUi7vPNAlDuf"
     },
@@ -61438,6 +61298,7 @@
       "name": "The Skinny on Probiotics",
       "release_date": "2014-07-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:02x8GV7PlZjL9KHMXO9b3m"
     },
@@ -61476,6 +61337,7 @@
       "name": "How Trickle-Down Economics Works",
       "release_date": "2014-07-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Vhlg3cUSmHV7Mgz9R7PV2"
     },
@@ -61514,6 +61376,7 @@
       "name": "How In Vitro Fertlization Works",
       "release_date": "2014-07-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5uHd61HV0A93v27IVsfzzC"
     },
@@ -61552,6 +61415,7 @@
       "name": "How Sushi Works",
       "release_date": "2014-07-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4gro7BBnWhqWkDbDcOhY82"
     },
@@ -61590,6 +61454,7 @@
       "name": "How Grass Works? Yes, How Grass Works",
       "release_date": "2014-07-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4fieLmjT93lF89xMgNebWi"
     },
@@ -61628,6 +61493,7 @@
       "name": "Is brain size related to intelligence?",
       "release_date": "2014-07-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0EHvQJBK5TAycuJOVMJxmQ"
     },
@@ -61666,6 +61532,7 @@
       "name": "How Monopoly Works",
       "release_date": "2014-07-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:49lbMBrXgLJ2uSxbgWOawa"
     },
@@ -61704,6 +61571,7 @@
       "name": "How The Louvre Works",
       "release_date": "2014-07-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5G0ezTToIT1ghRr4Ewa7Eg"
     },
@@ -61742,6 +61610,7 @@
       "name": "How the MPAA Works",
       "release_date": "2014-06-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:65R2wm2jrOfgMXiYQLYIYo"
     },
@@ -61780,6 +61649,7 @@
       "name": "How the La Brea Tar Pits Work",
       "release_date": "2014-06-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2UTiBQBHc6qvWGTwVLskxA"
     },
@@ -61818,6 +61688,7 @@
       "name": "How Soccer Works",
       "release_date": "2014-06-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:33HOmqxVBYhMXa6iBkMEZh"
     },
@@ -61856,6 +61727,7 @@
       "name": "Is your employer spying on you?",
       "release_date": "2014-06-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:404p7Ub60HWVIu2Iv7W8Ue"
     },
@@ -61894,6 +61766,7 @@
       "name": "Sugar: It Powers the Earth",
       "release_date": "2014-06-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6ZAC7WMuOejFVsGCw8OznW"
     },
@@ -61932,6 +61805,7 @@
       "name": "How the Placebo Effect Works",
       "release_date": "2014-06-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6mhGbS7HwhoQ8HasPNlqHM"
     },
@@ -61970,6 +61844,7 @@
       "name": "How the Space Race Worked",
       "release_date": "2014-06-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Edua6pmFLILEopiDb7VkZ"
     },
@@ -62008,6 +61883,7 @@
       "name": "Why is Venice so wet?",
       "release_date": "2014-06-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1dbj9Z5fxghLJSuv5smyzO"
     },
@@ -62046,6 +61922,7 @@
       "name": "Archaeology in a Nutshell",
       "release_date": "2014-05-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:618Nui4JHMsWJlGULRppgp"
     },
@@ -62084,6 +61961,7 @@
       "name": "How Temper Tantrums Work",
       "release_date": "2014-05-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:04BHDj5iC4IQKyTaLtyMvC"
     },
@@ -62122,6 +62000,7 @@
       "name": "How Avalanches Work",
       "release_date": "2014-05-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4G2NPsentBO6nwMolV7I1W"
     },
@@ -62160,6 +62039,7 @@
       "name": "8 Reasons Why Your Body Is So Gross",
       "release_date": "2014-05-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7BCuhLK13j04Dyeq3KbvFJ"
     },
@@ -62198,6 +62078,7 @@
       "name": "How the Paleo Diet Works",
       "release_date": "2014-05-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1c95Kj72sYpJsHLNSUMaSa"
     },
@@ -62236,6 +62117,7 @@
       "name": "How the Human Microbiome Project Works",
       "release_date": "2014-05-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1ttYPJByE5pN30jeYpsiu0"
     },
@@ -62274,6 +62156,7 @@
       "name": "How Bipolar Disorder Works",
       "release_date": "2014-05-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:34iqX3kmWSu58yIXMa7xb9"
     },
@@ -62312,6 +62195,7 @@
       "name": "How Gypsies Work",
       "release_date": "2014-05-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:07g3TbMsXTpg5PyOXoGYxQ"
     },
@@ -62350,6 +62234,7 @@
       "name": "How Marijuana Works",
       "release_date": "2014-05-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4scMazYC9B0XLAtNOMtVoR"
     },
@@ -62388,6 +62273,7 @@
       "name": "How the ACLU Works",
       "release_date": "2014-04-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7eNtwn8kdfANCWyfJcpqN2"
     },
@@ -62426,6 +62312,7 @@
       "name": "Halitosis: Worst Smell Ever?",
       "release_date": "2014-04-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1JsjaeSd5PRD9obxcrMIEA"
     },
@@ -62464,6 +62351,7 @@
       "name": "How Mars Works",
       "release_date": "2014-04-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1kJaiVYDiqyAPpwLAKozU6"
     },
@@ -62502,6 +62390,7 @@
       "name": "How Burlesque Works",
       "release_date": "2014-04-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6sXUvov9p52imECooYnCop"
     },
@@ -62540,6 +62429,7 @@
       "name": "How Dissociative Identity Disorder Works",
       "release_date": "2014-04-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6qahHQ8n8mXODfvIDyGvSE"
     },
@@ -62578,6 +62468,7 @@
       "name": "How Natural Selection Works",
       "release_date": "2014-04-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4kfUKsCZbSMjFIVwoExmGS"
     },
@@ -62616,6 +62507,7 @@
       "name": "How Charles Darwin Worked",
       "release_date": "2014-04-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5TAy5egFzxeexnCsoYMsCh"
     },
@@ -62654,6 +62546,7 @@
       "name": "How Income Taxes Work",
       "release_date": "2014-04-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:21Aot1Pi3UhmAkplLPepDc"
     },
@@ -62692,6 +62585,7 @@
       "name": "How 3D Printing Works",
       "release_date": "2014-04-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0xBPnVlg7F8Ycn4ynEHNd4"
     },
@@ -62730,6 +62624,7 @@
       "name": "How Landslides Work",
       "release_date": "2014-03-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3nx7EPQ4vCJH1E2yLH4MMC"
     },
@@ -62768,6 +62663,7 @@
       "name": "How Amnesia Works",
       "release_date": "2014-03-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7pE67dxwMSUGDYAQWdQam2"
     },
@@ -62806,6 +62702,7 @@
       "name": "How Electricity Works",
       "release_date": "2014-03-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1ax9OqAjV9qDBdcF0HC3s7"
     },
@@ -62844,6 +62741,7 @@
       "name": "Tattoos: Not Just For Dirtbags Anymore",
       "release_date": "2014-03-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3x2hq2j4jEAjaA7JBhThFR"
     },
@@ -62882,6 +62780,7 @@
       "name": "How Black Boxes Work",
       "release_date": "2014-03-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0YOmmuqEvfysWmIfTF4acO"
     },
@@ -62920,6 +62819,7 @@
       "name": "How Skateboarding Works",
       "release_date": "2014-03-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1nBIrH71uDUoe2F1TIjqRr"
     },
@@ -62958,6 +62858,7 @@
       "name": "How Online Dating Works",
       "release_date": "2014-03-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:44s2QRLBEj82MjhT15Yq17"
     },
@@ -62996,6 +62897,7 @@
       "name": "How the Spanish Inquisition Worked",
       "release_date": "2014-03-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6RkCGDCzLPA53b7zuAoRed"
     },
@@ -63034,6 +62936,7 @@
       "name": "What happened at Kent State?",
       "release_date": "2014-02-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3nlazreSwrL4z3FoMfJr3J"
     },
@@ -63072,6 +62975,7 @@
       "name": "Termites: They Bore But They Aren't Boring",
       "release_date": "2014-02-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0aARZE3BnYwKAiLevrwCIz"
     },
@@ -63110,6 +63014,7 @@
       "name": "How Amputation Works",
       "release_date": "2014-02-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4b7x9SvmGydUqXpNQOnjss"
     },
@@ -63148,6 +63053,7 @@
       "name": "How Salt Works",
       "release_date": "2014-02-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5oUPTTMoOCYtMjgK6fcLT3"
     },
@@ -63186,6 +63092,7 @@
       "name": "How Cave Dwellers Work",
       "release_date": "2014-02-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1Z7efHVMRHuBkdHhEttYvv"
     },
@@ -63224,6 +63131,7 @@
       "name": "Do objects or experiences make us happier?",
       "release_date": "2014-02-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:01gwbjenoCnq8aUWhaA49m"
     },
@@ -63262,6 +63170,7 @@
       "name": "How Sign Language Works",
       "release_date": "2014-02-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:16thZ8sfLWjSCnrkTtttqI"
     },
@@ -63300,6 +63209,7 @@
       "name": "Will computers replace doctors?",
       "release_date": "2014-02-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3o9fiOtTivw53dtItULcAa"
     },
@@ -63338,6 +63248,7 @@
       "name": "What are crystal skulls?",
       "release_date": "2014-01-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6hhBEG9QaHT2QLczLLWkdK"
     },
@@ -63376,6 +63287,7 @@
       "name": "What's the deal with the debt ceiling?",
       "release_date": "2014-01-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7rta9REQm4qj1oLPrSpvQO"
     },
@@ -63414,6 +63326,7 @@
       "name": "How the Deep Web Works",
       "release_date": "2014-01-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3hZh9Y4vZf5SaVn4PjtRrm"
     },
@@ -63452,6 +63365,7 @@
       "name": "Chuck and Josh Bust a Few Everyday Myths",
       "release_date": "2014-01-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:44HtQgSriKyjQgsMW6aRNb"
     },
@@ -63490,6 +63404,7 @@
       "name": "How Pet Psychics Work",
       "release_date": "2014-01-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1lBcnExSlRr7BamW7w2qHE"
     },
@@ -63528,6 +63443,7 @@
       "name": "Was there a real King Arthur?",
       "release_date": "2014-01-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1fl72YpqkrplqwNQPsuZK4"
     },
@@ -63566,6 +63482,7 @@
       "name": "Your limb is torn off - now what?",
       "release_date": "2014-01-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4SByajMBa6AuIsBtwqwgSa"
     },
@@ -63604,6 +63521,7 @@
       "name": "Could you live without a refrigerator?",
       "release_date": "2014-01-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:07WApERWzZeuvnx7xOxQJ5"
     },
@@ -63642,6 +63560,7 @@
       "name": "Will solar sails take us to the stars?",
       "release_date": "2013-12-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2BI2u45r28x9BuP64GacYL"
     },
@@ -63680,6 +63599,7 @@
       "name": "How Fire Breathing Works",
       "release_date": "2013-12-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4dLv1MqLnB1JAnyhHYGHYX"
     },
@@ -63718,6 +63638,7 @@
       "name": "Josh and Chuck's Warm and Cozy Christmas Extravaganza 2013",
       "release_date": "2013-12-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5utBuMoO7xfDtR2EOYY7SH"
     },
@@ -63756,6 +63677,7 @@
       "name": "Is lethal injection humane?",
       "release_date": "2013-12-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1vqN6kkBglLdmKfVrGp0Lb"
     },
@@ -63794,6 +63716,7 @@
       "name": "How Manhunts Work",
       "release_date": "2013-12-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:65q3Hmt3VOk0dFV8RyabTH"
     },
@@ -63832,6 +63755,7 @@
       "name": "How Underwater Tunnels Work",
       "release_date": "2013-12-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2LrCysJAIZomjZE2maCFwI"
     },
@@ -63870,6 +63794,7 @@
       "name": "How Maglev Trains Work",
       "release_date": "2013-12-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:12ETV3WGCwps9G1oRBpWYJ"
     },
@@ -63908,6 +63833,7 @@
       "name": "How Castration Works",
       "release_date": "2013-12-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:58Y3sXBojRoiBziCkluewf"
     },
@@ -63946,6 +63872,7 @@
       "name": "How Black Friday Works",
       "release_date": "2013-11-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6HMNdo0b6myB8iZu3yMsMd"
     },
@@ -63984,6 +63911,7 @@
       "name": "Is there a scientific formula for funny?",
       "release_date": "2013-11-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1GFNsF8UljmKM5ADrTevy6"
     },
@@ -64022,6 +63950,7 @@
       "name": "Who killed JFK?",
       "release_date": "2013-11-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4YLZ8xKH8Vq47qIlzAgZWI"
     },
@@ -64060,6 +63989,7 @@
       "name": "How Chocolate Works",
       "release_date": "2013-11-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5pCNkELlGOay8ecgxmSXnc"
     },
@@ -64098,6 +64028,7 @@
       "name": "How Werewolves Work",
       "release_date": "2013-11-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:57p0191U2DSwpR427OgPfy"
     },
@@ -64136,6 +64067,7 @@
       "name": "Some Interesting Things You Didn't Know About Stephen Hawking",
       "release_date": "2013-11-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4vgv5rZ5jPcJTO664oxgdk"
     },
@@ -64174,6 +64106,7 @@
       "name": "How Lewis and Clark Worked",
       "release_date": "2013-11-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5nN6s1SwMPSpvxxGCKPccp"
     },
@@ -64212,6 +64145,7 @@
       "name": "How Chess Works",
       "release_date": "2013-11-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5fYqjYUiScpjDwiSzXLbqj"
     },
@@ -64250,6 +64184,7 @@
       "name": "What's with the Winchester Mystery House?",
       "release_date": "2013-10-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5P6iL0xsXnaKM8FCUo7UWO"
     },
@@ -64288,6 +64223,7 @@
       "name": "The Empty House",
       "release_date": "2013-10-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6cytp6fM3VDtqSJXlADNPI"
     },
@@ -64326,6 +64262,7 @@
       "name": "How Ouija Boards Work",
       "release_date": "2013-10-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3DdtSAggdDMCTZveaBFPrm"
     },
@@ -64364,6 +64301,7 @@
       "name": "How Guide Dogs Work",
       "release_date": "2013-10-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5SGQGvfMUSONpLqI9hbCo5"
     },
@@ -66302,6 +66240,7 @@
       "name": "What's the deal with duckbill platypuses?",
       "release_date": "2013-04-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1Zm9lQk6HkRcc0DTtcoy1Z"
     },
@@ -70201,7 +70140,6 @@
       "name": "How Diamonds Work",
       "release_date": "2012-04-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1YssGqm5J41gOKfmZ1AqwA"
     },
@@ -72102,6 +72040,7 @@
       "name": "How Sword Swallowing Works",
       "release_date": "2011-09-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0z5UbLqTCuK66HUYj2clUC"
     },
@@ -72140,6 +72079,7 @@
       "name": "How Family Crests Work",
       "release_date": "2011-09-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7dcR1GOdhydO3Xd09abGYl"
     },
@@ -72178,6 +72118,7 @@
       "name": "How Acne Works",
       "release_date": "2011-09-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5E25Cpho3k0Z6hcuChylII"
     },
@@ -72216,6 +72157,7 @@
       "name": "How the Moon Works",
       "release_date": "2011-09-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3ZLgM3EVCdH9chKG6t60Ei"
     },
@@ -72254,6 +72196,7 @@
       "name": "How Casinos Work",
       "release_date": "2011-09-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5bXSQYXF50ErdwfZ0jI5VJ"
     },
@@ -72292,6 +72235,7 @@
       "name": "How the World Trade Center Memorial Works",
       "release_date": "2011-09-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4GJYFpcP9doEB06L3LkDi5"
     },
@@ -72330,6 +72274,7 @@
       "name": "10  Scientists Who Were Their Own Guinea Pigs",
       "release_date": "2011-09-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0aRxhoarLwnug5OFspbeZz"
     },
@@ -72368,6 +72313,7 @@
       "name": "How Lie Detectors Work",
       "release_date": "2011-09-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5qIXgs9mTYBkDQ92OfoGnU"
     },
@@ -72406,6 +72352,7 @@
       "name": "Cryonics: Hi, Frozen Body!",
       "release_date": "2011-08-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:34MgIhTaDAhZs6E8MEgDHV"
     },
@@ -72444,6 +72391,7 @@
       "name": "How Schizophrenia Works",
       "release_date": "2011-08-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1bwx8FIKdMRo9aq3xOVDqT"
     },
@@ -72482,6 +72430,7 @@
       "name": "How to Land on a Government Watch List",
       "release_date": "2011-08-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3qjBRTLSRfbU9HVumyb0IJ"
     },
@@ -72520,6 +72469,7 @@
       "name": "How Murphy's Law Works, the Redux",
       "release_date": "2011-08-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5vyJvH2QaZgEMXKOwelhVo"
     },
@@ -72558,6 +72508,7 @@
       "name": "Laughter: What's so funny about that?",
       "release_date": "2011-08-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6gDXjAmFdL2U4XVRYRfHjX"
     },
@@ -72596,6 +72547,7 @@
       "name": "What's the future of the internet?",
       "release_date": "2011-08-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5RoivnzH8V3YfuPnBann7d"
     },
@@ -72634,6 +72586,7 @@
       "name": "Ethnobotany: How to Get Drugs from Plants",
       "release_date": "2011-08-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6xmBubxOE8x5Q2sexUYUcp"
     },
@@ -72672,6 +72625,7 @@
       "name": "Can you sweat colors?",
       "release_date": "2011-08-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:04Tyy8Z5VnxIIsiMtDTMWV"
     },
@@ -72710,6 +72664,7 @@
       "name": "How SPAM Works",
       "release_date": "2011-07-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:01zdfnDAR4bxb5mtcSnYJu"
     },
@@ -72748,6 +72703,7 @@
       "name": "How Wildfires Work",
       "release_date": "2011-07-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7uD4QondzoESO7dLGGk4zM"
     },
@@ -72786,6 +72742,7 @@
       "name": "How Karma Works",
       "release_date": "2011-07-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6N4wKs7vsEs6VHCzp6fRB8"
     },
@@ -72824,6 +72781,7 @@
       "name": "Does smiling make you happy?",
       "release_date": "2011-07-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0MfSyQj6HVBHw9KaXyHYOb"
     },
@@ -72862,6 +72820,7 @@
       "name": "Stuff You Should Know July 4th Extravaganza, Part 2: Baseball and Apple Pie",
       "release_date": "2011-07-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4o14vo3eoT5y2czgvrp2W4"
     },
@@ -72900,6 +72859,7 @@
       "name": "Stuff You Should Know July 4th Extravaganza, Part 1: Mom",
       "release_date": "2011-07-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2y7H77N3qmJIv3UUFr25RP"
     },
@@ -72938,6 +72898,7 @@
       "name": "How Human Cannonballs Work",
       "release_date": "2011-07-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6xgZmkaCOPpBAnuBDXI3x7"
     },
@@ -72976,6 +72937,7 @@
       "name": "How Hate Works",
       "release_date": "2011-07-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:15S1qs0N3X0FLV14G1OrVq"
     },
@@ -73014,6 +72976,7 @@
       "name": "Who was America's first murderer?",
       "release_date": "2011-06-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2ZyUrsDQbcFAD40Fo2ppOW"
     },
@@ -73052,6 +73015,7 @@
       "name": "How Asteroid Mining Could Work",
       "release_date": "2011-06-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7sjnGlJCO3tXH4KJvoS3v9"
     },
@@ -73090,6 +73054,7 @@
       "name": "How Suicide Bombers Work",
       "release_date": "2011-06-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6PMvMopWLgutkXNb4nkQwD"
     },
@@ -73128,6 +73093,7 @@
       "name": "How Curiosity Works",
       "release_date": "2011-06-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4f0bd87UW0Fe72TyLu45yZ"
     },
@@ -73166,6 +73132,7 @@
       "name": "How Military Snipers Work",
       "release_date": "2011-06-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1bUwOmgnxI7EGQpreJDbpE"
     },
@@ -73204,6 +73171,7 @@
       "name": "Was Malthus right about carrying capacity?",
       "release_date": "2011-06-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0zK241RP0NhQYdEVJ6Xag4"
     },
@@ -73242,6 +73210,7 @@
       "name": "How the Underground Railroad Worked",
       "release_date": "2011-06-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3CYiPRg0Q5YwJiRyVCWR6W"
     },
@@ -73280,6 +73249,7 @@
       "name": "How Fear Works",
       "release_date": "2011-06-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4vjfH7GiwkGXjDLySU7iEI"
     },
@@ -73318,6 +73288,7 @@
       "name": "How Nicotine Works",
       "release_date": "2011-05-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0XsIYLMjDE8pjSlWHSxe2j"
     },
@@ -73356,6 +73327,7 @@
       "name": "How do I start my own country?",
       "release_date": "2011-05-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3NzCiq4j4cpRZFCNWzffWP"
     },
@@ -73394,6 +73366,7 @@
       "name": "What is terror management theory?",
       "release_date": "2011-05-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3u5osI5RCZsPcdVQRb0TN0"
     },
@@ -73432,6 +73405,7 @@
       "name": "What is parallel evolution?",
       "release_date": "2011-05-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2bRlvWipFuUTrfaKvH5UX1"
     },
@@ -73470,6 +73444,7 @@
       "name": "Can the sun kill you?",
       "release_date": "2011-05-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Lfsm07HDZyh7y1f3MIob5"
     },
@@ -73508,6 +73483,7 @@
       "name": "How Con Artists Work",
       "release_date": "2011-05-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0N7PbcpS29uHxsNttCx1M2"
     },
@@ -73546,6 +73522,7 @@
       "name": "What is mountaintop removal mining?",
       "release_date": "2011-05-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Fz4oh05ZRqd3AyY8QON6c"
     },
@@ -73584,6 +73561,7 @@
       "name": "A Podcast to Remember (How Memory Works)",
       "release_date": "2011-05-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2wf33UFl56o0sh6FAnGDvv"
     },
@@ -73622,6 +73600,7 @@
       "name": "How Parkour Works",
       "release_date": "2011-05-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4nyvaeNHSC1IwJFeS13Gi8"
     },
@@ -73660,6 +73639,7 @@
       "name": "How Rollercoasters Work, Minus the Fun",
       "release_date": "2011-04-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5iMN1dk6dcxlYypOkJEJCK"
     },
@@ -73698,6 +73678,7 @@
       "name": "How Wills Work",
       "release_date": "2011-04-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1oiIP0Q7dslwOdBOXIa5J5"
     },
@@ -73736,6 +73717,7 @@
       "name": "Shoo Fly Don't Bother Me",
       "release_date": "2011-04-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Af4Zai9vZXPqZkeOyTzhV"
     },
@@ -73774,6 +73756,7 @@
       "name": "How Molecular Gastronomy Works",
       "release_date": "2011-04-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1Zsdo2i5tCMsecHMQObjwZ"
     },
@@ -73812,6 +73795,7 @@
       "name": "Does oil speculation increase gas prices?",
       "release_date": "2011-04-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6E3sHIB8DPM446cDK99wIH"
     },
@@ -73850,6 +73834,7 @@
       "name": "Sherpas: Warm, Friendly Living",
       "release_date": "2011-04-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1HozyaQ0F6a7apqfqcbZMA"
     },
@@ -73888,6 +73873,7 @@
       "name": "SYSK Live from SXSW: How UFOs Work",
       "release_date": "2011-03-31",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5MHSgFCWdWz1Iw8ZpHkH96"
     },
@@ -73926,6 +73912,7 @@
       "name": "How Igloos Work",
       "release_date": "2011-03-29",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4J5DcrRMBoPv3SIOuc66AJ"
     },
@@ -73964,6 +73951,7 @@
       "name": "That Dang-old Goat Fell Over",
       "release_date": "2011-03-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0sfZoHEDwSws4vA1EV2WNy"
     },
@@ -74002,6 +73990,7 @@
       "name": "How a Nuclear Meltdown Works",
       "release_date": "2011-03-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7MXACcd2zVx4xRK5TxrWQs"
     },
@@ -79890,6 +79879,7 @@
       "name": "Do zombies really exist?",
       "release_date": "2009-09-24",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4G4GiyVttUozDI0EZDbQ76"
     },
@@ -79928,6 +79918,7 @@
       "name": "President Obama's Health Care Plan: Soup to Nuts",
       "release_date": "2009-09-22",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0WBc9Sa0AIJFBxTy9Um0gi"
     },
@@ -79966,6 +79957,7 @@
       "name": "How do dogs perceive time?",
       "release_date": "2009-09-17",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0CRKqOD56Is6lRE8hidLOL"
     },
@@ -80004,6 +79996,7 @@
       "name": "How Health Care in the United States Works Right Now",
       "release_date": "2009-09-15",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4WKJLcZxMbHCQVvgL5kNOJ"
     },
@@ -80042,6 +80035,7 @@
       "name": "Could microlending develop the world?",
       "release_date": "2009-09-10",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3GnF63FlYJCdDjf3p8C7ux"
     },
@@ -80080,6 +80074,7 @@
       "name": "What is geocaching?",
       "release_date": "2009-09-08",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4EgwN2a1rwWszvU90uBdTH"
     },
@@ -80118,6 +80113,7 @@
       "name": "What is an Ig Nobel Prize?",
       "release_date": "2009-09-03",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:24XRm3NrBCSq8CR7nsaH1y"
     },
@@ -80156,6 +80152,7 @@
       "name": "Why is the U.S. so dependent on cars?",
       "release_date": "2009-09-01",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7GY093WsIi9iAo78U8SWq1"
     },
@@ -80194,6 +80191,7 @@
       "name": "How Muppets Work",
       "release_date": "2009-08-27",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0PlteBsuOw9oEGFNHrjLVe"
     },
@@ -80232,6 +80230,7 @@
       "name": "How easy is it to steal a nuclear bomb?",
       "release_date": "2009-08-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Q3zzCt8C5yUUk2tXIrGNP"
     },
@@ -80270,6 +80269,7 @@
       "name": "Is the Necronomicon real?",
       "release_date": "2009-08-20",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6d0AtLFenrt0j1UceOlNYe"
     },
@@ -80308,6 +80308,7 @@
       "name": "What's sarcopenia and what can you do about it?",
       "release_date": "2009-08-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2EdhiZqAXTJVLKMtGydjae"
     },
@@ -80346,6 +80347,7 @@
       "name": "Is fluoride making us stupid?",
       "release_date": "2009-08-13",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3qGEBgfPlOcegJ38i2LQn4"
     },
@@ -80384,6 +80386,7 @@
       "name": "What are Japanese stragglers?",
       "release_date": "2009-08-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3A54zXd12sZZTyLdVE0AQP"
     },
@@ -80422,6 +80425,7 @@
       "name": "What's up with competitive eating?",
       "release_date": "2009-08-06",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2w5VolovKoWPyeaNUzJ77M"
     },
@@ -80460,6 +80464,7 @@
       "name": "How Agent Orange Worked",
       "release_date": "2009-08-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0Iief7KkI7YGsAZXf00aJp"
     },
@@ -80498,6 +80503,7 @@
       "name": "How Whale Sharks Work",
       "release_date": "2009-07-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2EIe3H3CxvRPs4HdD9jNsS"
     },
@@ -80536,6 +80542,7 @@
       "name": "What are tinnovators?",
       "release_date": "2009-07-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6HAebP8ih8jDnQ8Me2KghL"
     },
@@ -80574,6 +80581,7 @@
       "name": "Three Gross Parasites",
       "release_date": "2009-07-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:45Fuihsm3l6G1PnEijOfoD"
     },
@@ -80612,6 +80620,7 @@
       "name": "Are stupid people happier?",
       "release_date": "2009-07-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0kAATwGwZNQyUE46oKvdJ4"
     },
@@ -80650,6 +80659,7 @@
       "name": "What is a body farm?",
       "release_date": "2009-07-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:30IVO2EZ4ipOKl9VCXZ6bV"
     },
@@ -80688,6 +80698,7 @@
       "name": "How has toxoplasma turned the world into zombies?",
       "release_date": "2009-07-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5VKy0PW1sNIJb9nNW5e1WG"
     },
@@ -80726,6 +80737,7 @@
       "name": "How Twinkies Work",
       "release_date": "2009-07-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3YxqAEFpbx7ytineZuGOGt"
     },
@@ -80764,6 +80776,7 @@
       "name": "Is it possible to brainwash someone?",
       "release_date": "2009-07-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5mubIJQhD9GAZbp8dBeodo"
     },
@@ -80802,6 +80815,7 @@
       "name": "How can hypermiling save you gas?",
       "release_date": "2009-07-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6UI8kXqxPSnk1uIVA3P9Cq"
     },
@@ -80840,6 +80854,7 @@
       "name": "How Earthquakes Work",
       "release_date": "2009-06-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:17fzQ9BuBYawGIvEpQToSy"
     },
@@ -80878,6 +80893,7 @@
       "name": "How Body Dysmorphic Disorder Works",
       "release_date": "2009-06-25",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:00lyhI1rbTFVqUs3DKTokN"
     },
@@ -80916,6 +80932,7 @@
       "name": "Can you control your dreams?",
       "release_date": "2009-06-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:66rIvYNllbfrp0ZVKeWeN6"
     },
@@ -80954,6 +80971,7 @@
       "name": "What exactly is the Peter Principle?",
       "release_date": "2009-06-18",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0QK46bklGEv8XmNz9VYlMs"
     },
@@ -80992,6 +81010,7 @@
       "name": "Three Innovations We Need Right Now",
       "release_date": "2009-06-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1WpocXCiK8iWjYG1kJ2xv2"
     },
@@ -81030,6 +81049,7 @@
       "name": "How Carbon Capture and Storage Works",
       "release_date": "2009-06-11",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5zMqLvtczQoo7XkEwBN0si"
     },
@@ -81068,6 +81088,7 @@
       "name": "How did Nikola Tesla change the way we use energy?",
       "release_date": "2009-06-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6GNfRXcirUIDPs3SlpdPUM"
     },
@@ -81106,6 +81127,7 @@
       "name": "How Biohydrocarbons Work",
       "release_date": "2009-06-04",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5siGi2yfsWwkVABVsHJTR5"
     },
@@ -81144,6 +81166,7 @@
       "name": "What's a brownfield remediation project?",
       "release_date": "2009-06-02",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3AA73Bm4G6graH6hwcLam6"
     },
@@ -81182,6 +81205,7 @@
       "name": "Is spontaneous human combustion real?",
       "release_date": "2009-05-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:22bIB8xwJGO26aJq44D58y"
     },
@@ -81220,6 +81244,7 @@
       "name": "How Propaganda Works",
       "release_date": "2009-05-26",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4S23W6YGYkBOsOkFugluWH"
     },
@@ -81258,6 +81283,7 @@
       "name": "Do animals have a sixth sense?",
       "release_date": "2009-05-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4S7xJbMArTrycznEjHCfLd"
     },
@@ -81296,6 +81322,7 @@
       "name": "How Lobotomies Work",
       "release_date": "2009-05-19",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3X0uGyQdBaNNf6wHrvRTMl"
     },
@@ -81334,6 +81361,7 @@
       "name": "Is it better to buy local or organic food?",
       "release_date": "2009-05-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4zzheDhYVUhRFJvFX8kmZV"
     },
@@ -81372,6 +81400,7 @@
       "name": "What causes rigor mortis?",
       "release_date": "2009-05-12",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6XI14mh60aE8VCR290u8OS"
     },
@@ -81410,6 +81439,7 @@
       "name": "How can a lake explode?",
       "release_date": "2009-05-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5sP9d0EdxnyH8B9eBZwKAM"
     },
@@ -81448,6 +81478,7 @@
       "name": "Why do humans have body hair?",
       "release_date": "2009-05-05",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:12I6JUH72eH5gf2facavK8"
     },
@@ -81486,6 +81517,7 @@
       "name": "How do credit default swaps work?",
       "release_date": "2009-04-30",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:12kR4Zn2y3Vg0IOh7s88F0"
     },
@@ -81524,6 +81556,7 @@
       "name": "Is high fructose corn syrup bad for you?",
       "release_date": "2009-04-28",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6OStGO3abZKqD6dhQbeiUW"
     },
@@ -81562,6 +81595,7 @@
       "name": "How Face Transplants Work",
       "release_date": "2009-04-23",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2kcRurAbvFvkXjhnCWwpvb"
     },
@@ -81600,6 +81634,7 @@
       "name": "How much money do I really need to live?",
       "release_date": "2009-04-21",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2xmKpWlmv1AsL2iowSq7LR"
     },
@@ -81638,6 +81673,7 @@
       "name": "Do toads cause warts?",
       "release_date": "2009-04-16",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Kz9GIXQKvIURwzmYbfiDm"
     },
@@ -81676,6 +81712,7 @@
       "name": "How Money Laundering Works",
       "release_date": "2009-04-14",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6y2052bhhgYBnklTy9JCXP"
     },
@@ -81714,6 +81751,7 @@
       "name": "How Ponzi Schemes Work",
       "release_date": "2009-04-09",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4hhZXFjMme8J7ba9a8ieD4"
     },
@@ -81752,6 +81790,7 @@
       "name": "How can some centenarians lead unhealthy lives?",
       "release_date": "2009-04-07",
       "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3GW0GPY72pSsP6WDLwbNr9"
     },
@@ -83701,7 +83740,6 @@
       "name": "How Cannibalism Works",
       "release_date": "2008-10-09",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0b5FPEtpGbRwSu9vl4tHUo"
     },

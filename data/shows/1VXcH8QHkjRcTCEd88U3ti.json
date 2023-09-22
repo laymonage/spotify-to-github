@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/385cd8c8d077738a7131200b2c5638336a43669c",
+      "description": "Your favorite pair of jeans -- the ones you refuse to throw out -- are actually a part of a global climate solution, says fashion entrepreneur Josephine Philips. When you value your existing clothes instead of chasing the latest trends, you help reduce waste and protect our planet for generations to come. Learn more about the impacts of what you wear -- and the incredible power of repairing your clothes.",
+      "duration_ms": 525804,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2i7T5gZq7XM4KQkD8097tW"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2i7T5gZq7XM4KQkD8097tW",
+      "html_description": "Your favorite pair of jeans -- the ones you refuse to throw out -- are actually a part of a global climate solution, says fashion entrepreneur Josephine Philips. When you value your existing clothes instead of chasing the latest trends, you help reduce waste and protect our planet for generations to come. Learn more about the impacts of what you wear -- and the incredible power of repairing your clothes.",
+      "id": "2i7T5gZq7XM4KQkD8097tW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a78f2e6e90d7a6cfb97e57f2d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f78f2e6e90d7a6cfb97e57f2d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d78f2e6e90d7a6cfb97e57f2d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The simple solution to fast fashion | Josephine Philips",
+      "release_date": "2023-09-21",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2i7T5gZq7XM4KQkD8097tW"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/0cf1c8b7142112f2f2ba650918dcabfec8ee87b2",
       "description": "\"AI can be a transformational tool in our fight against climate change,\" says Sims Witherspoon, a leader at the AI research lab Google DeepMind. Using wind power as her case study, she explains how powerful neural networks can help us better predict Earth's changing ecosystems and accelerate the breakthrough science needed to create a carbon-free energy supply.",
       "duration_ms": 810756,
@@ -6951,45 +6990,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:07BOjQEDxoGWBK6WBNC3s3"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/e34c9ac52b3617b1baf0de5010a99c0547327006",
-      "description": "Indigenous wisdom can help solve the planetary crises that colonialism started, says lawyer Jennifer \"Jing\" Corpuz. Her ancestors, the Kankanaey-Igorot people of the Philippines, are known for creating the Banaue Rice Terraces: centuries-old irrigated mountain terraces that illustrate the magic of humanity living in harmony with nature. Corpuz shares five values that have guided her people as they successfully fought against development aggression and invites everyone to pursue a more just, sustainable world.",
-      "duration_ms": 864348,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/71iShXL2GT0jkb1fPGP5DL"
-      },
-      "href": "https://api.spotify.com/v1/episodes/71iShXL2GT0jkb1fPGP5DL",
-      "html_description": "Indigenous wisdom can help solve the planetary crises that colonialism started, says lawyer Jennifer &#34;Jing&#34; Corpuz. Her ancestors, the Kankanaey-Igorot people of the Philippines, are known for creating the Banaue Rice Terraces: centuries-old irrigated mountain terraces that illustrate the magic of humanity living in harmony with nature. Corpuz shares five values that have guided her people as they successfully fought against development aggression and invites everyone to pursue a more just, sustainable world.",
-      "id": "71iShXL2GT0jkb1fPGP5DL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a1aa3ede3dacebb65c748246a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f1aa3ede3dacebb65c748246a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d1aa3ede3dacebb65c748246a",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "5 values for repairing the harms of colonialism | Jing Corpuz",
-      "release_date": "2023-01-27",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:71iShXL2GT0jkb1fPGP5DL"
     }
   ]
 }
