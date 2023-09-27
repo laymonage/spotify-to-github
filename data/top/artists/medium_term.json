@@ -459,6 +459,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
+      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
+      "id": "54tv11ndFfiqXiR03PwdlB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
+          "width": 160
+        }
+      ],
+      "name": "Adam Melchor",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
       },
       "followers": { "href": null, "total": 0 },
@@ -714,36 +744,6 @@
       "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
-      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
-      "id": "54tv11ndFfiqXiR03PwdlB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
-          "width": 160
-        }
-      ],
-      "name": "Adam Melchor",
-      "popularity": 51,
-      "type": "artist",
-      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
     },
     {
       "external_urls": {
@@ -1785,7 +1785,7 @@
         }
       ],
       "name": "Phoenix",
-      "popularity": 64,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
     },
