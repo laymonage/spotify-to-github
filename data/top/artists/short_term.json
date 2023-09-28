@@ -1,5 +1,5 @@
 {
-  "total": 37,
+  "total": 38,
   "artists": [
     {
       "external_urls": {
@@ -547,17 +547,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
+          "url": "https://i.scdn.co/image/ab67616d0000b27369ab7cefcac9dfde0373fa42",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
+          "url": "https://i.scdn.co/image/ab67616d00001e0269ab7cefcac9dfde0373fa42",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
+          "url": "https://i.scdn.co/image/ab67616d0000485169ab7cefcac9dfde0373fa42",
           "width": 64
         }
       ],
@@ -625,6 +625,36 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
+      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
+      "id": "54tv11ndFfiqXiR03PwdlB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
+          "width": 160
+        }
+      ],
+      "name": "Adam Melchor",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
     },
     {
       "external_urls": {
@@ -798,33 +828,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["indie pop", "modern indie folk", "new jersey indie"],
-      "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
-      "id": "54tv11ndFfiqXiR03PwdlB",
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
+      "id": "3Kthx6vfOdyrwpE1mjsyb8",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03baa60ac3cedbab95f8fb47",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403baa60ac3cedbab95f8fb47",
+          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803baa60ac3cedbab95f8fb47",
+          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
           "width": 160
         }
       ],
-      "name": "Adam Melchor",
-      "popularity": 51,
+      "name": "Good Luck Finding Iris",
+      "popularity": 24,
       "type": "artist",
-      "uri": "spotify:artist:54tv11ndFfiqXiR03PwdlB"
+      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
     {
       "external_urls": {
@@ -996,7 +1026,7 @@
         }
       ],
       "name": "Chuck Berry",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
     },
