@@ -102,7 +102,13 @@
         "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
       "id": "3Uqu1mEdkUJxPe7s31n1M9",
       "images": [
@@ -126,36 +132,6 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
-      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-      "id": "1g8HCTiMwBtFtpRR9JXAZR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
-          "width": 64
-        }
-      ],
-      "name": "Fishmans",
-      "popularity": 44,
-      "type": "artist",
-      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -186,6 +162,36 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+      "id": "02nqs3YdfX7Th3gYTYFrqc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
+          "width": 160
+        }
+      ],
+      "name": "Tōth",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
     },
     {
       "external_urls": {
@@ -251,6 +257,36 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "width": 160
+        }
+      ],
+      "name": "Early Eyes",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -344,33 +380,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-      "id": "02nqs3YdfX7Th3gYTYFrqc",
+      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+      "id": "1g8HCTiMwBtFtpRR9JXAZR",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
+          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
-          "width": 320
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+          "width": 300
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
+          "width": 64
         }
       ],
-      "name": "Tōth",
-      "popularity": 37,
+      "name": "Fishmans",
+      "popularity": 44,
       "type": "artist",
-      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -401,36 +437,6 @@
       "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -501,7 +507,7 @@
         "spotify": "https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["north carolina indie"],
+      "genres": ["hopebeat", "north carolina indie"],
       "href": "https://api.spotify.com/v1/artists/4NuiDXtUaaclXGNEPQYBBx",
       "id": "4NuiDXtUaaclXGNEPQYBBx",
       "images": [
@@ -951,13 +957,7 @@
         "spotify": "https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "adult standards",
-        "jump blues",
-        "lounge",
-        "swing",
-        "tin pan alley"
-      ],
+      "genres": ["adult standards", "jump blues", "lounge", "swing"],
       "href": "https://api.spotify.com/v1/artists/52lBOxCxbJg0ttXEW9CQpW",
       "id": "52lBOxCxbJg0ttXEW9CQpW",
       "images": [

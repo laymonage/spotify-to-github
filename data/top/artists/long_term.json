@@ -184,7 +184,7 @@
         }
       ],
       "name": "The Brook & The Bluff",
-      "popularity": 53,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
@@ -654,7 +654,13 @@
         "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "chamber pop", "experimental folk", "indie pop"],
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
       "id": "3Uqu1mEdkUJxPe7s31n1M9",
       "images": [
@@ -688,9 +694,9 @@
         "chamber pop",
         "indie rock",
         "modern folk rock",
-        "modern rock",
         "philly indie",
         "pov: indie",
+        "seattle indie",
         "stomp and holler"
       ],
       "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
@@ -1104,7 +1110,7 @@
         "spotify": "https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["north carolina indie"],
+      "genres": ["hopebeat", "north carolina indie"],
       "href": "https://api.spotify.com/v1/artists/4NuiDXtUaaclXGNEPQYBBx",
       "id": "4NuiDXtUaaclXGNEPQYBBx",
       "images": [
@@ -1389,6 +1395,8 @@
         "indie rock",
         "modern rock",
         "portland indie",
+        "seattle indie",
+        "shimmer pop",
         "stomp and holler"
       ],
       "href": "https://api.spotify.com/v1/artists/4LG4Bs1Gadht7TCrMytQUO",
@@ -1806,6 +1814,7 @@
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
+        "chillwave",
         "downtempo",
         "electronica",
         "indietronica",
@@ -2075,8 +2084,10 @@
         "alternative dance",
         "indie rock",
         "modern rock",
+        "neo-synthpop",
         "new rave",
-        "rock independant francais"
+        "rock independant francais",
+        "shimmer pop"
       ],
       "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
       "id": "1xU878Z1QtBldR7ru9owdU",
@@ -2726,7 +2737,11 @@
         "spotify": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["classic indonesian rock", "indonesian pop"],
+      "genres": [
+        "classic indonesian rock",
+        "indonesian pop",
+        "indonesian pop rock"
+      ],
       "href": "https://api.spotify.com/v1/artists/6PL8FkAt5nOZwYpPIhuAJg",
       "id": "6PL8FkAt5nOZwYpPIhuAJg",
       "images": [
@@ -3016,6 +3031,7 @@
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
+        "ambeat",
         "chillhop",
         "downtempo",
         "instrumental hip hop",
