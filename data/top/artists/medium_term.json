@@ -255,6 +255,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "width": 160
+        }
+      ],
+      "name": "STRFKR",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
@@ -1016,36 +1046,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
-          "width": 160
-        }
-      ],
-      "name": "STRFKR",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
       },
       "followers": { "href": null, "total": 0 },
@@ -1658,7 +1658,7 @@
         }
       ],
       "name": "Lime Cordiale",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
     },
@@ -1925,17 +1925,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27369ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0269ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485169ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
           "width": 64
         }
       ],
@@ -2115,7 +2115,7 @@
         }
       ],
       "name": "Pink Floyd",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
     },
@@ -2893,7 +2893,7 @@
         }
       ],
       "name": "Mamang Kesbor",
-      "popularity": 27,
+      "popularity": 28,
       "type": "artist",
       "uri": "spotify:artist:0xkHWjERBuLwwxNXCbdSij"
     },
@@ -2953,7 +2953,7 @@
         }
       ],
       "name": "Miracle Musical",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:2FRXiAz5Uz78LLLSwEUhLt"
     },

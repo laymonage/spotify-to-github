@@ -1,5 +1,5 @@
 {
-  "total": 30,
+  "total": 31,
   "artists": [
     {
       "external_urls": {
@@ -66,6 +66,36 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "width": 160
+        }
+      ],
+      "name": "STRFKR",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
     },
     {
       "external_urls": {
@@ -261,36 +291,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -534,33 +534,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
           "width": 160
         }
       ],
-      "name": "STRFKR",
-      "popularity": 57,
+      "name": "Early Eyes",
+      "popularity": 40,
       "type": "artist",
-      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -786,9 +786,39 @@
         }
       ],
       "name": "Pink Floyd",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["alabama indie"],
+      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
+          "width": 160
+        }
+      ],
+      "name": "The Brook & The Bluff",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
     {
       "external_urls": {
@@ -873,17 +903,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27369ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0269ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485169ab7cefcac9dfde0373fa42",
+          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
           "width": 64
         }
       ],
