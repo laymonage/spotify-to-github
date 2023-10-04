@@ -597,36 +597,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-      "id": "5YNnmXnEEEJM0ArqHDSyET",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
-          "width": 160
-        }
-      ],
-      "name": "Lonely Benson",
-      "popularity": 23,
-      "type": "artist",
-      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
       },
       "followers": { "href": null, "total": 0 },
@@ -684,6 +654,36 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
+          "width": 160
+        }
+      ],
+      "name": "Lonely Benson",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
     },
     {
       "external_urls": {
@@ -789,36 +789,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
-      "id": "1xbu7UyVdZxwIiNfLcUKqn",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1789f6afad75ae7cf8fd4935",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741789f6afad75ae7cf8fd4935",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781789f6afad75ae7cf8fd4935",
-          "width": 160
-        }
-      ],
-      "name": "Paul Cherry",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
       "followers": { "href": null, "total": 0 },
@@ -846,6 +816,36 @@
       "popularity": 22,
       "type": "artist",
       "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
+      "id": "1xbu7UyVdZxwIiNfLcUKqn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb1789f6afad75ae7cf8fd4935",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051741789f6afad75ae7cf8fd4935",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1781789f6afad75ae7cf8fd4935",
+          "width": 160
+        }
+      ],
+      "name": "Paul Cherry",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
     },
     {
       "external_urls": {
@@ -1191,7 +1191,7 @@
         }
       ],
       "name": "Miki Fiki",
-      "popularity": 37,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:1O1r2qVtIFqlTJoB4jsJKd"
     },
@@ -1455,42 +1455,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indie rock",
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
-      "id": "3XHO7cRUPCLOr6jwp8vsx5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743fb5214e667e278a20878a6b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783fb5214e667e278a20878a6b",
-          "width": 160
-        }
-      ],
-      "name": "alt-J",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RI4gKUri5aV54E3o5fW8S"
       },
       "followers": { "href": null, "total": 0 },
@@ -1584,6 +1548,42 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "indie rock",
+        "indietronica",
+        "modern alternative rock",
+        "modern rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
+      "id": "3XHO7cRUPCLOr6jwp8vsx5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743fb5214e667e278a20878a6b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783fb5214e667e278a20878a6b",
+          "width": 160
+        }
+      ],
+      "name": "alt-J",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
     },
     {
       "external_urls": {
@@ -2360,6 +2360,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "adult standards",
+        "swing",
+        "torch song",
+        "vocal harmony group"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
+      "id": "2NCGI6dLTxLdI9XHdv7QfM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
+          "width": 64
+        }
+      ],
+      "name": "The Andrews Sisters",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/32fNbCzrzfsTbMHjznvm4S"
       },
       "followers": { "href": null, "total": 0 },
@@ -2422,41 +2457,6 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "adult standards",
-        "swing",
-        "torch song",
-        "vocal harmony group"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2NCGI6dLTxLdI9XHdv7QfM",
-      "id": "2NCGI6dLTxLdI9XHdv7QfM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273197fb3191dc8bd1c37d55831",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02197fb3191dc8bd1c37d55831",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851197fb3191dc8bd1c37d55831",
-          "width": 64
-        }
-      ],
-      "name": "The Andrews Sisters",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
     {
       "external_urls": {
@@ -2598,6 +2598,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge"],
+      "href": "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
+      "id": "6ZjFtWeHP9XN7FeKSUe80S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0ba8db83b01de120a6f2312c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740ba8db83b01de120a6f2312c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780ba8db83b01de120a6f2312c",
+          "width": 160
+        }
+      ],
+      "name": "Bing Crosby",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge", "vocal jazz"],
+      "href": "https://api.spotify.com/v1/artists/49e4v89VmlDcFCMyDv9wQ9",
+      "id": "49e4v89VmlDcFCMyDv9wQ9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2c21cafe54e02803fa5705e0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742c21cafe54e02803fa5705e0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782c21cafe54e02803fa5705e0",
+          "width": 160
+        }
+      ],
+      "name": "Dean Martin",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
       },
       "followers": { "href": null, "total": 0 },
@@ -2637,42 +2697,13 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "easy listening", "lounge"],
-      "href": "https://api.spotify.com/v1/artists/6ZjFtWeHP9XN7FeKSUe80S",
-      "id": "6ZjFtWeHP9XN7FeKSUe80S",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0ba8db83b01de120a6f2312c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740ba8db83b01de120a6f2312c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780ba8db83b01de120a6f2312c",
-          "width": 160
-        }
-      ],
-      "name": "Bing Crosby",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
         "alternative metal",
         "alternative rock",
+        "classic rock",
         "grunge",
         "permanent wave",
         "rock"
@@ -2700,36 +2731,6 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:1w5Kfo2jwwIPruYS2UWh56"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "easy listening", "lounge", "vocal jazz"],
-      "href": "https://api.spotify.com/v1/artists/49e4v89VmlDcFCMyDv9wQ9",
-      "id": "49e4v89VmlDcFCMyDv9wQ9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2c21cafe54e02803fa5705e0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742c21cafe54e02803fa5705e0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782c21cafe54e02803fa5705e0",
-          "width": 160
-        }
-      ],
-      "name": "Dean Martin",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
     {
       "external_urls": {
@@ -3095,6 +3096,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["blues", "rock-and-roll", "rockabilly", "soul"],
+      "href": "https://api.spotify.com/v1/artists/4xls23Ye9WR9yy3yYMpAMm",
+      "id": "4xls23Ye9WR9yy3yYMpAMm",
+      "images": [
+        {
+          "height": 596,
+          "url": "https://i.scdn.co/image/8482a715712ad99032f35870bd2430b9b71b7283",
+          "width": 477
+        },
+        {
+          "height": 250,
+          "url": "https://i.scdn.co/image/0d374a6e20f8bb052cbe2a73f90f2dadfd46c7bc",
+          "width": 200
+        },
+        {
+          "height": 80,
+          "url": "https://i.scdn.co/image/f399df3b8c85af0054b31a2118fa39f20fe77cde",
+          "width": 64
+        }
+      ],
+      "name": "Little Richard",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:4xls23Ye9WR9yy3yYMpAMm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
       },
       "followers": { "href": null, "total": 0 },
@@ -3171,36 +3202,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0Mfgu7MOEz6iAaSnQWerjJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["sheffield indie"],
-      "href": "https://api.spotify.com/v1/artists/0Mfgu7MOEz6iAaSnQWerjJ",
-      "id": "0Mfgu7MOEz6iAaSnQWerjJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4fce09b35cc1c15966ce1e1a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744fce09b35cc1c15966ce1e1a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784fce09b35cc1c15966ce1e1a",
-          "width": 160
-        }
-      ],
-      "name": "Oh Papa",
-      "popularity": 15,
-      "type": "artist",
-      "uri": "spotify:artist:0Mfgu7MOEz6iAaSnQWerjJ"
     }
   ]
 }
