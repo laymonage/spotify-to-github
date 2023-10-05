@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 147,
+  "total_episodes": 148,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/e45e936e3c1dc38ef321765f58cc56d4ea5772ba",
+      "description": "Personal siteBlog MastodonDjango FeedsDjango BlogsImpressKitSwitch Buddy Gaming Buddy Support the ShowLearnDjango.comButtonDjango News newsletter",
+      "duration_ms": 2998961,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5b2YvqI7qRp8m9MUr3lbdQ"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5b2YvqI7qRp8m9MUr3lbdQ",
+      "html_description": "<ul><li><a href=\"https://filipnemecek.com/\" rel=\"nofollow\">Personal site</a></li><li><a href=\"https://nemecek.be/\" rel=\"nofollow\">Blog</a> </li><li><a href=\"https://iosdev.space/&#64;nemecek_f\" rel=\"nofollow\">Mastodon</a></li><li><a href=\"https://djangofeeds.com/\" rel=\"nofollow\">Django Feeds</a></li><li><a href=\"https://djangoblogs.com/\" rel=\"nofollow\">Django Blogs</a></li><li><a href=\"https://impresskit.net/\" rel=\"nofollow\">ImpressKit</a></li><li><a href=\"https://switchbuddy.app/\" rel=\"nofollow\">Switch Buddy</a> </li><li><a href=\"https://apps.apple.com/us/app/id6447783408\" rel=\"nofollow\">Gaming Buddy</a> </li></ul><h3>Support the Show</h3><ul><li>LearnDjango.com</li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News newsletter</a></li></ul>",
+      "id": "5b2YvqI7qRp8m9MUr3lbdQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django and iOS - Filip Němeček",
+      "release_date": "2023-10-04",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5b2YvqI7qRp8m9MUr3lbdQ"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/6a3ccd62bd3a757b4a6567747f4920afa77ea998",
       "description": "Django 5.0 alpha 1Don’t create .gitkeep filesNew book, Boost Your Git DXSpeed Up Your Django Tests bookDjangoCon Europe 2023 | Good form: How Django’s form rendering improved during the 4.x seriesFossil Versus GitSet up a global .gitignore fileGit: How to enable autocorrectSupport the ShowLearnDjango.comButtonDjango News",
