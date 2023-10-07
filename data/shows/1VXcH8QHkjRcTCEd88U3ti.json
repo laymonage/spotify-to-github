@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/fcaa32b0ecbd8bcb0defd03af036c6e3cf0a9cfb",
+      "description": "From the field to your closet, your clothes go on a long journey before they enter your life. Designer Amy Powney explores the fashion industry's brutal impact on the environment and human health, modeling what ethical, planet-friendly clothing can look like — and inviting us all to think beyond the label.",
+      "duration_ms": 624948,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3EnKrHWUZt7z18av9DHchC"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3EnKrHWUZt7z18av9DHchC",
+      "html_description": "From the field to your closet, your clothes go on a long journey before they enter your life. Designer Amy Powney explores the fashion industry&#39;s brutal impact on the environment and human health, modeling what ethical, planet-friendly clothing can look like — and inviting us all to think beyond the label.",
+      "id": "3EnKrHWUZt7z18av9DHchC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8abf42491a3b6923d1514f2cfd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fbf42491a3b6923d1514f2cfd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dbf42491a3b6923d1514f2cfd",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to fix fashion and protect the planet | Amy Powney",
+      "release_date": "2023-10-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3EnKrHWUZt7z18av9DHchC"
+    },
+    {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/1169da7cfc3fdef9b96d8dc4d0ab774ec369f5e5",
       "description": "Conceptual artist Tavares Strachan creates the kinds of projects that make you stop in your tracks, like a 4.5-ton block of Arctic ice he brought back to his birthplace in the Bahamas or a gold, Egyptian-inspired sculpture he launched into orbit around the Earth. Now he presents his latest creation, the Encyclopedia of Invisibility: a 3,000-page tome filled with more than 17,000 entries on people, places and events often left out of the history books -- and encourages us all to unearth hidden stories before they disappear to the passage of time.",
       "duration_ms": 643116,
@@ -6795,45 +6834,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:51StkG3w7BItgcsY8L9MDu"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/c593f739ea615fdcb7b028f0e9b6060f35227864",
-      "description": "A few words can change the course of a life; they have the power to shrink, expand or transform someone's identity -- even your own. Social psychologist Mesmin Destin explores how everyday interactions and experiences play a powerful part in who we become, sharing the key moments and messages that can inspire us to grow into our best selves.",
-      "duration_ms": 1065204,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/16CEYqcM5eK5DaA8bH9Va5"
-      },
-      "href": "https://api.spotify.com/v1/episodes/16CEYqcM5eK5DaA8bH9Va5",
-      "html_description": "A few words can change the course of a life; they have the power to shrink, expand or transform someone&#39;s identity -- even your own. Social psychologist Mesmin Destin explores how everyday interactions and experiences play a powerful part in who we become, sharing the key moments and messages that can inspire us to grow into our best selves.",
-      "id": "16CEYqcM5eK5DaA8bH9Va5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a2a6259d62111bfc126641fec",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f2a6259d62111bfc126641fec",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d2a6259d62111bfc126641fec",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How everyday interactions shape your future | Mesmin Destin",
-      "release_date": "2023-02-15",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:16CEYqcM5eK5DaA8bH9Va5"
     }
   ]
 }
