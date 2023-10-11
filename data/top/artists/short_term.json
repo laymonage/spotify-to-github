@@ -486,6 +486,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian city pop", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
+      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id": "7pXu47GoqSYRajmBCjxdD6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
+          "width": 160
+        }
+      ],
+      "name": "Vulfpeck",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
       },
       "followers": { "href": null, "total": 0 },
@@ -618,36 +678,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
       },
       "followers": { "href": null, "total": 0 },
@@ -672,39 +702,9 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 56,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian city pop", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
-          "width": 160
-        }
-      ],
-      "name": "Chrisye",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
     {
       "external_urls": {
@@ -899,7 +899,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },

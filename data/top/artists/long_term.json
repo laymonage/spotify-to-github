@@ -729,66 +729,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "bedroom soul"],
-      "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-      "id": "0ubGY2CcC0tvR0eE6hJaT8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf40de62d5f9f3640f0245b5c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f40de62d5f9f3640f0245b5c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f40de62d5f9f3640f0245b5c",
-          "width": 160
-        }
-      ],
-      "name": "Charlie Burg",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-      "id": "5YNnmXnEEEJM0ArqHDSyET",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
-          "width": 160
-        }
-      ],
-      "name": "Lonely Benson",
-      "popularity": 23,
-      "type": "artist",
-      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
       "followers": { "href": null, "total": 0 },
@@ -849,6 +789,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
+          "width": 160
+        }
+      ],
+      "name": "Lonely Benson",
+      "popularity": 23,
+      "type": "artist",
+      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
       },
       "followers": { "href": null, "total": 0 },
@@ -873,9 +843,39 @@
         }
       ],
       "name": "meija",
-      "popularity": 38,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+      "id": "0ubGY2CcC0tvR0eE6hJaT8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf40de62d5f9f3640f0245b5c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f40de62d5f9f3640f0245b5c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f40de62d5f9f3640f0245b5c",
+          "width": 160
+        }
+      ],
+      "name": "Charlie Burg",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
     {
       "external_urls": {
@@ -1100,43 +1100,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "baroque pop",
-        "chamber pop",
-        "garage rock",
-        "indie rock",
-        "indietronica",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
-      "id": "5BvJzeQpmsdsFp4HGUYUEx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb44829ac83c4538a8cf7e9f40",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517444829ac83c4538a8cf7e9f40",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17844829ac83c4538a8cf7e9f40",
-          "width": 160
-        }
-      ],
-      "name": "Vampire Weekend",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx"
       },
       "followers": { "href": null, "total": 0 },
@@ -1290,6 +1253,43 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "baroque pop",
+        "chamber pop",
+        "garage rock",
+        "indie rock",
+        "indietronica",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+      "id": "5BvJzeQpmsdsFp4HGUYUEx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb44829ac83c4538a8cf7e9f40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517444829ac83c4538a8cf7e9f40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17844829ac83c4538a8cf7e9f40",
+          "width": 160
+        }
+      ],
+      "name": "Vampire Weekend",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
     },
     {
       "external_urls": {
@@ -1587,6 +1587,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
+      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id": "7pXu47GoqSYRajmBCjxdD6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
+          "width": 160
+        }
+      ],
+      "name": "Vulfpeck",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -1617,42 +1647,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "album rock",
-        "classic rock",
-        "rock",
-        "soft rock",
-        "yacht rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
-      "id": "08GQAI4eElDnROBrJRGE0X",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8",
-          "width": 160
-        }
-      ],
-      "name": "Fleetwood Mac",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
       },
       "followers": { "href": null, "total": 0 },
@@ -1680,36 +1674,6 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:7jOY91ZU7kn86slH3fBbaD"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
     {
       "external_urls": {
@@ -1747,6 +1711,42 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "album rock",
+        "classic rock",
+        "rock",
+        "soft rock",
+        "yacht rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+      "id": "08GQAI4eElDnROBrJRGE0X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c8752dd511cda8c31e9daee8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8",
+          "width": 160
+        }
+      ],
+      "name": "Fleetwood Mac",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
     },
     {
       "external_urls": {
@@ -2622,7 +2622,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 56,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -2652,7 +2652,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
