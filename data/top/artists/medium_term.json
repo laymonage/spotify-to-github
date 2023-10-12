@@ -318,7 +318,12 @@
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "genres": [
+        "classic j-rock",
+        "j-rock",
+        "japanese dream pop",
+        "shibuya-kei"
+      ],
       "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
       "id": "1g8HCTiMwBtFtpRR9JXAZR",
       "images": [
@@ -375,36 +380,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
-      "id": "6i48BaGgUX0ceBv2F0iQH0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0199a0857e2664b81a36bb0e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740199a0857e2664b81a36bb0e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780199a0857e2664b81a36bb0e",
-          "width": 160
-        }
-      ],
-      "name": "The Irons",
-      "popularity": 22,
-      "type": "artist",
-      "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
       },
       "followers": { "href": null, "total": 0 },
@@ -432,6 +407,36 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
+      "id": "6i48BaGgUX0ceBv2F0iQH0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0199a0857e2664b81a36bb0e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740199a0857e2664b81a36bb0e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780199a0857e2664b81a36bb0e",
+          "width": 160
+        }
+      ],
+      "name": "The Irons",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
     },
     {
       "external_urls": {
@@ -465,36 +470,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alabama indie"],
-      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-      "id": "4dWtsQvuME6tCWFycaTvO7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
-          "width": 160
-        }
-      ],
-      "name": "The Brook & The Bluff",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
       },
       "followers": { "href": null, "total": 0 },
@@ -522,6 +497,36 @@
       "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["alabama indie"],
+      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
+          "width": 160
+        }
+      ],
+      "name": "The Brook & The Bluff",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
     {
       "external_urls": {
@@ -645,36 +650,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["taiwan indie"],
-      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
-      "id": "7BqRcZsHYYQeqMAOp7e532",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
-          "width": 160
-        }
-      ],
-      "name": "落日飛車 Sunset Rollercoaster",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
       },
       "followers": { "href": null, "total": 0 },
@@ -711,6 +686,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["taiwan indie"],
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbd7bcf2eb1f73e4378ed5364",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bd7bcf2eb1f73e4378ed5364",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bd7bcf2eb1f73e4378ed5364",
+          "width": 160
+        }
+      ],
+      "name": "落日飛車 Sunset Rollercoaster",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
       },
       "followers": { "href": null, "total": 0 },
@@ -742,6 +747,36 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
+      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id": "7pXu47GoqSYRajmBCjxdD6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
+          "width": 160
+        }
+      ],
+      "name": "Vulfpeck",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
     {
       "external_urls": {
@@ -852,36 +887,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
       },
       "followers": { "href": null, "total": 0 },
@@ -942,7 +947,7 @@
         }
       ],
       "name": "The xx",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
     },
@@ -2738,7 +2743,7 @@
         }
       ],
       "name": "Twenty One Pilots",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
@@ -2994,7 +2999,7 @@
         }
       ],
       "name": "The Who",
-      "popularity": 68,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:67ea9eGLXYMsO2eYQRui3w"
     },
@@ -3024,39 +3029,9 @@
         }
       ],
       "name": "Louie Zong",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:7jOY91ZU7kn86slH3fBbaD"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["soft rock"],
-      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
-      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79bedf7da0a906b84128f3af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479bedf7da0a906b84128f3af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af",
-          "width": 160
-        }
-      ],
-      "name": "Air Supply",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
     },
     {
       "external_urls": {
@@ -3160,6 +3135,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["soft rock"],
+      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
+      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb79bedf7da0a906b84128f3af",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517479bedf7da0a906b84128f3af",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af",
+          "width": 160
+        }
+      ],
+      "name": "Air Supply",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
     },
     {
       "external_urls": {

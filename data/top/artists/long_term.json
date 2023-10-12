@@ -819,36 +819,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/5Uc38SFcTd4bzDk3hhvRu1",
-      "id": "5Uc38SFcTd4bzDk3hhvRu1",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0a82a077e37ffa92f39381d5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740a82a077e37ffa92f39381d5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780a82a077e37ffa92f39381d5",
-          "width": 160
-        }
-      ],
-      "name": "meija",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
       },
       "followers": { "href": null, "total": 0 },
@@ -942,6 +912,36 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5Uc38SFcTd4bzDk3hhvRu1",
+      "id": "5Uc38SFcTd4bzDk3hhvRu1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0a82a077e37ffa92f39381d5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740a82a077e37ffa92f39381d5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780a82a077e37ffa92f39381d5",
+          "width": 160
+        }
+      ],
+      "name": "meija",
+      "popularity": 38,
+      "type": "artist",
+      "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
     },
     {
       "external_urls": {
@@ -1428,7 +1428,12 @@
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "genres": [
+        "classic j-rock",
+        "j-rock",
+        "japanese dream pop",
+        "shibuya-kei"
+      ],
       "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
       "id": "1g8HCTiMwBtFtpRR9JXAZR",
       "images": [
@@ -1452,6 +1457,36 @@
       "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
+      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
+      "id": "7pXu47GoqSYRajmBCjxdD6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
+          "width": 160
+        }
+      ],
+      "name": "Vulfpeck",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
     {
       "external_urls": {
@@ -1587,36 +1622,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -1671,9 +1676,39 @@
         }
       ],
       "name": "Louie Zong",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:7jOY91ZU7kn86slH3fBbaD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "pov: indie", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
+      "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517402fcc327683d53bea9583c69",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17802fcc327683d53bea9583c69",
+          "width": 160
+        }
+      ],
+      "name": "Djo",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
     },
     {
       "external_urls": {
@@ -1747,36 +1782,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie pop", "pov: indie", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
-      "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517402fcc327683d53bea9583c69",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17802fcc327683d53bea9583c69",
-          "width": 160
-        }
-      ],
-      "name": "Djo",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
     },
     {
       "external_urls": {
@@ -2234,7 +2239,7 @@
         }
       ],
       "name": "The xx",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
     },
