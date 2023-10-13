@@ -33,36 +33,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian indie"],
-      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-      "id": "7CIW23FQUXPc1zebnO1TDG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
-          "width": 160
-        }
-      ],
-      "name": "Matt Corby",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       },
       "followers": { "href": null, "total": 0 },
@@ -132,6 +102,36 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2efd20e0855b5d19ab5efa9c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742efd20e0855b5d19ab5efa9c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782efd20e0855b5d19ab5efa9c",
+          "width": 160
+        }
+      ],
+      "name": "Matt Corby",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -820,7 +820,7 @@
         }
       ],
       "name": "Julien Chang",
-      "popularity": 26,
+      "popularity": 25,
       "type": "artist",
       "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
     },
