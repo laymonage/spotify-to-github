@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 169,
+  "total_episodes": 168,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/ab81ce4a7bdd3b70781eaddbbb3bbdaaa3f972d3",
+      "description": "Dasha Navalnaya is the daughter of Alexey Navalny, the politician and leader of the Russian opposition to Vladimir Putin. Sharing the story of her father's poisoning, persecution and current imprisonment, she details what it was like growing up under the watchful eye of government surveillance as her father led a decade-long investigation into the corruption of Putin's regime — and shows why paying attention to what happens in Russia matters to everyone, everywhere.",
+      "duration_ms": 689196,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3GmJXa8igotQnw0WJv6WLZ"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3GmJXa8igotQnw0WJv6WLZ",
+      "html_description": "Dasha Navalnaya is the daughter of Alexey Navalny, the politician and leader of the Russian opposition to Vladimir Putin. Sharing the story of her father&#39;s poisoning, persecution and current imprisonment, she details what it was like growing up under the watchful eye of government surveillance as her father led a decade-long investigation into the corruption of Putin&#39;s regime — and shows why paying attention to what happens in Russia matters to everyone, everywhere.",
+      "id": "3GmJXa8igotQnw0WJv6WLZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a8887b8b8fdd11aa9068ce384",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f8887b8b8fdd11aa9068ce384",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d8887b8b8fdd11aa9068ce384",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Lessons from my father, Alexey Navalny | Dasha Navalnaya",
+      "release_date": "2023-10-13",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3GmJXa8igotQnw0WJv6WLZ"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/24d6cbfd6fb53b4b965d307b2e9400d4fad3794f",
       "description": "How is the US going to reach net zero by 2050? That's the question Asmeret Asefaw Berhe, director of the Office of Science for the US Department of Energy, is urgently trying to answer. She shares the thinking behind what her team is calling \"Energy Earthshots\" — projects designed to accelerate innovation in the fight against climate change, from nature-based solutions in the soil to the creation of brand-new technologies — and calls for innovative, equitable policies backed by science.",
@@ -6717,84 +6756,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:768IyCOfVNZ5hQuTyG0i4Y"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/52ffb86c7cb505790033295614ed46cc3ff9e3ff",
-      "description": "Some days, it's hard to be optimistic. But cynicism -- the idea that people are inherently selfish, greedy and dishonest -- is making humanity lonelier and more divided, says psychologist Jamil Zaki. Presenting fascinating research on cooperation, empathy and trust, Zaki makes the scientific case for optimism and shows us how to break out of the cynicism trap.",
-      "duration_ms": 799860,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6hdyAs4Hd942latayegwQ3"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6hdyAs4Hd942latayegwQ3",
-      "html_description": "Some days, it&#39;s hard to be optimistic. But cynicism -- the idea that people are inherently selfish, greedy and dishonest -- is making humanity lonelier and more divided, says psychologist Jamil Zaki. Presenting fascinating research on cooperation, empathy and trust, Zaki makes the scientific case for optimism and shows us how to break out of the cynicism trap.",
-      "id": "6hdyAs4Hd942latayegwQ3",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a8dea1e40579b7eb08b7d323b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f8dea1e40579b7eb08b7d323b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d8dea1e40579b7eb08b7d323b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to escape the cynicism trap | Jamil Zaki",
-      "release_date": "2023-03-02",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6hdyAs4Hd942latayegwQ3"
-    },
-    {
-      "audio_preview_url": "https://p.scdn.co/mp3-preview/2e9c488e6e80289f50797979a92cdf4ebb31cd5c",
-      "description": "Scientist Saad Bhamla is on a mission to answer a question most people don't think to ask: How do insects pee? Taking inspiration from the incredible \"butt flickers\" of the glassy-winged sharpshooter, Bhamla presents a fascinating study of the physics behind how bugs take care of business and invites us to be more curious about the seemingly mundane.",
-      "duration_ms": 567348,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5WkkgU9SjLncSxeIbToy5J"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5WkkgU9SjLncSxeIbToy5J",
-      "html_description": "Scientist Saad Bhamla is on a mission to answer a question most people don&#39;t think to ask: How do insects pee? Taking inspiration from the incredible &#34;butt flickers&#34; of the glassy-winged sharpshooter, Bhamla presents a fascinating study of the physics behind how bugs take care of business and invites us to be more curious about the seemingly mundane.",
-      "id": "5WkkgU9SjLncSxeIbToy5J",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a6c7d0876ce244b67a8655ff1",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f6c7d0876ce244b67a8655ff1",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d6c7d0876ce244b67a8655ff1",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The fascinating physics of insect pee | Saad Bhamla",
-      "release_date": "2023-02-28",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5WkkgU9SjLncSxeIbToy5J"
     }
   ]
 }
