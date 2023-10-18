@@ -39,36 +39,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
-      "id": "0tMnuEXTeJeHbslcV8OybJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
-          "width": 160
-        }
-      ],
-      "name": "Drugdealer",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
       },
       "followers": { "href": null, "total": 0 },
@@ -102,6 +72,36 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -410,36 +410,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
-      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
-          "width": 160
-        }
-      ],
-      "name": "Julien Chang",
-      "popularity": 25,
-      "type": "artist",
-      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
       "followers": { "href": null, "total": 0 },
@@ -524,9 +494,39 @@
         }
       ],
       "name": "The Brook & The Bluff",
-      "popularity": 54,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
+      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
+          "width": 160
+        }
+      ],
+      "name": "Julien Chang",
+      "popularity": 25,
+      "type": "artist",
+      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
     },
     {
       "external_urls": {
@@ -620,36 +620,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
-      "id": "3M8JKaNdIRChzvxVK1XxKm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
-          "width": 160
-        }
-      ],
-      "name": "FLEECE",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
       },
       "followers": { "href": null, "total": 0 },
@@ -710,7 +680,7 @@
         }
       ],
       "name": "落日飛車 Sunset Rollercoaster",
-      "popularity": 54,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
     },
@@ -852,6 +822,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
+      "id": "3M8JKaNdIRChzvxVK1XxKm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb30990e2fe2d6b1904aeaeac5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517430990e2fe2d6b1904aeaeac5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17830990e2fe2d6b1904aeaeac5",
+          "width": 160
+        }
+      ],
+      "name": "FLEECE",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
       },
       "followers": { "href": null, "total": 0 },
@@ -990,6 +990,7 @@
         "chamber pop",
         "indie rock",
         "modern folk rock",
+        "modern rock",
         "philly indie",
         "pov: indie",
         "seattle indie",
@@ -1015,7 +1016,7 @@
         }
       ],
       "name": "Dr. Dog",
-      "popularity": 62,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
     },
@@ -1205,7 +1206,7 @@
         }
       ],
       "name": "Mustard Service",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
     },
@@ -1445,41 +1446,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4hSeosKw3pr72gC10igZow"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["folktronica"],
-      "href": "https://api.spotify.com/v1/artists/4hSeosKw3pr72gC10igZow",
-      "id": "4hSeosKw3pr72gC10igZow",
-      "images": [
-        {
-          "height": 639,
-          "url": "https://i.scdn.co/image/e0eb3b0e77d64175825fba287d9a1798136e0e2f",
-          "width": 1000
-        },
-        {
-          "height": 409,
-          "url": "https://i.scdn.co/image/56852cfbf8c7a2f762f6aea5c7d34508878c3c3b",
-          "width": 640
-        },
-        {
-          "height": 128,
-          "url": "https://i.scdn.co/image/8eb5a104bb03a5bfc7dd9c39a53907076dabc8b2",
-          "width": 200
-        },
-        {
-          "height": 41,
-          "url": "https://i.scdn.co/image/ede6c16b077c84e209abb51d61d0d2bc1078a49d",
-          "width": 64
-        }
-      ],
-      "name": "Szymon",
-      "popularity": 48,
-      "type": "artist",
-      "uri": "spotify:artist:4hSeosKw3pr72gC10igZow"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
       },
       "followers": { "href": null, "total": 0 },
@@ -1581,7 +1547,7 @@
         }
       ],
       "name": "Trash Panda",
-      "popularity": 37,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
@@ -1661,17 +1627,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1847766714643aee5222dc78",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5478cee704c5bc4078f49ab7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741847766714643aee5222dc78",
+          "url": "https://i.scdn.co/image/ab676161000051745478cee704c5bc4078f49ab7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781847766714643aee5222dc78",
+          "url": "https://i.scdn.co/image/ab6761610000f1785478cee704c5bc4078f49ab7",
           "width": 160
         }
       ],
@@ -1744,6 +1710,41 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4hSeosKw3pr72gC10igZow"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["folktronica"],
+      "href": "https://api.spotify.com/v1/artists/4hSeosKw3pr72gC10igZow",
+      "id": "4hSeosKw3pr72gC10igZow",
+      "images": [
+        {
+          "height": 639,
+          "url": "https://i.scdn.co/image/e0eb3b0e77d64175825fba287d9a1798136e0e2f",
+          "width": 1000
+        },
+        {
+          "height": 409,
+          "url": "https://i.scdn.co/image/56852cfbf8c7a2f762f6aea5c7d34508878c3c3b",
+          "width": 640
+        },
+        {
+          "height": 128,
+          "url": "https://i.scdn.co/image/8eb5a104bb03a5bfc7dd9c39a53907076dabc8b2",
+          "width": 200
+        },
+        {
+          "height": 41,
+          "url": "https://i.scdn.co/image/ede6c16b077c84e209abb51d61d0d2bc1078a49d",
+          "width": 64
+        }
+      ],
+      "name": "Szymon",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:4hSeosKw3pr72gC10igZow"
     },
     {
       "external_urls": {
@@ -1931,22 +1932,22 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1789f6afad75ae7cf8fd4935",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe881b2b6ad6ea45c975f0ced",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741789f6afad75ae7cf8fd4935",
+          "url": "https://i.scdn.co/image/ab67616100005174e881b2b6ad6ea45c975f0ced",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781789f6afad75ae7cf8fd4935",
+          "url": "https://i.scdn.co/image/ab6761610000f178e881b2b6ad6ea45c975f0ced",
           "width": 160
         }
       ],
       "name": "Paul Cherry",
-      "popularity": 38,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
     },
@@ -1976,7 +1977,7 @@
         }
       ],
       "name": "The Jungle Giants",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:6wFwvxJkurQPU2UdeD4qVt"
     },
@@ -2899,7 +2900,7 @@
         }
       ],
       "name": "Mamang Kesbor",
-      "popularity": 28,
+      "popularity": 27,
       "type": "artist",
       "uri": "spotify:artist:0xkHWjERBuLwwxNXCbdSij"
     },
@@ -2929,7 +2930,7 @@
         }
       ],
       "name": "Delicate Steve",
-      "popularity": 43,
+      "popularity": 42,
       "type": "artist",
       "uri": "spotify:artist:1bNgeTuV3MlkAq64Ybvcq5"
     },
@@ -3241,7 +3242,7 @@
         }
       ],
       "name": "Chuck Berry",
-      "popularity": 65,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
     }
