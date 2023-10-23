@@ -2878,7 +2878,7 @@
       "id": "3zS4cG8asFcKRpWC3OR33o",
       "is_local": false,
       "name": "Into You",
-      "popularity": 18,
+      "popularity": 19,
       "preview_url": "https://p.scdn.co/mp3-preview/9ecf8d491c12f8762c021f61d32a0b8840b9fe74?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
@@ -7268,81 +7268,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-            },
-            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-            "id": "6ft7JnxMyZhp7N52qzHymY",
-            "name": "Vansire",
-            "type": "artist",
-            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
-        },
-        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
-        "id": "38h62IjPf3XjZ79ZcgtbEp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
-            "width": 64
-          }
-        ],
-        "name": "After Fillmore County",
-        "release_date": "2020-10-16",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-          "id": "6ft7JnxMyZhp7N52qzHymY",
-          "name": "Vansire",
-          "type": "artist",
-          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221648,
-      "explicit": false,
-      "external_ids": { "isrc": "QZMEM2059261" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
-      "id": "2zNWXaGuC0E9uxGJGauyLP",
-      "is_local": false,
-      "name": "The Latter Teens",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
             },
             "href": "https://api.spotify.com/v1/artists/5bOsFzuJ6QZMr86ezC4oXY",
@@ -7646,6 +7571,81 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0CrwP01XIpTfoidvXl8h6H"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+            "id": "6ft7JnxMyZhp7N52qzHymY",
+            "name": "Vansire",
+            "type": "artist",
+            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
+        },
+        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
+        "id": "38h62IjPf3XjZ79ZcgtbEp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
+            "width": 64
+          }
+        ],
+        "name": "After Fillmore County",
+        "release_date": "2020-10-16",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+          "id": "6ft7JnxMyZhp7N52qzHymY",
+          "name": "Vansire",
+          "type": "artist",
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221648,
+      "explicit": false,
+      "external_ids": { "isrc": "QZMEM2059261" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
+      "id": "2zNWXaGuC0E9uxGJGauyLP",
+      "is_local": false,
+      "name": "The Latter Teens",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
     },
     {
       "album": {
@@ -8419,7 +8419,7 @@
       "id": "70Hl6QYIJGmrR7NBl666Y6",
       "is_local": false,
       "name": "Into Each Life Some Rain Must Fall - Single Version",
-      "popularity": 57,
+      "popularity": 58,
       "preview_url": "https://p.scdn.co/mp3-preview/4cbb90e1153f3b7921c1d5382b8c325047c4ca9c?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 8,
       "type": "track",
@@ -10145,241 +10145,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-            },
-            "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-            "id": "5YNnmXnEEEJM0ArqHDSyET",
-            "name": "Lonely Benson",
-            "type": "artist",
-            "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4BCxoWO4Iczud3TyqPWYO1"
-        },
-        "href": "https://api.spotify.com/v1/albums/4BCxoWO4Iczud3TyqPWYO1",
-        "id": "4BCxoWO4Iczud3TyqPWYO1",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a605f05e7bf436d8d767c3c4",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a605f05e7bf436d8d767c3c4",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a605f05e7bf436d8d767c3c4",
-            "width": 64
-          }
-        ],
-        "name": "Lonely Benson",
-        "release_date": "2018-04-10",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:4BCxoWO4Iczud3TyqPWYO1"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-          },
-          "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-          "id": "5YNnmXnEEEJM0ArqHDSyET",
-          "name": "Lonely Benson",
-          "type": "artist",
-          "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 226346,
-      "explicit": false,
-      "external_ids": { "isrc": "TCADO1800582" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4LWJjG3EC0TWgwgVZz0MSX"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4LWJjG3EC0TWgwgVZz0MSX",
-      "id": "4LWJjG3EC0TWgwgVZz0MSX",
-      "is_local": false,
-      "name": "Peculiar Paradise",
-      "popularity": 23,
-      "preview_url": "https://p.scdn.co/mp3-preview/ebd98d23cb0a76d29cb3626e8299f0fcb72b747e?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:4LWJjG3EC0TWgwgVZz0MSX"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
             },
             "href": "https://api.spotify.com/v1/artists/54tv11ndFfiqXiR03PwdlB",
@@ -11222,6 +10987,241 @@
       "track_number": 7,
       "type": "track",
       "uri": "spotify:track:3b2MRzUXBTjFghEE7gaDVG"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+            },
+            "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+            "id": "5YNnmXnEEEJM0ArqHDSyET",
+            "name": "Lonely Benson",
+            "type": "artist",
+            "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4BCxoWO4Iczud3TyqPWYO1"
+        },
+        "href": "https://api.spotify.com/v1/albums/4BCxoWO4Iczud3TyqPWYO1",
+        "id": "4BCxoWO4Iczud3TyqPWYO1",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a605f05e7bf436d8d767c3c4",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a605f05e7bf436d8d767c3c4",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a605f05e7bf436d8d767c3c4",
+            "width": 64
+          }
+        ],
+        "name": "Lonely Benson",
+        "release_date": "2018-04-10",
+        "release_date_precision": "day",
+        "total_tracks": 13,
+        "type": "album",
+        "uri": "spotify:album:4BCxoWO4Iczud3TyqPWYO1"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+          },
+          "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+          "id": "5YNnmXnEEEJM0ArqHDSyET",
+          "name": "Lonely Benson",
+          "type": "artist",
+          "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 226346,
+      "explicit": false,
+      "external_ids": { "isrc": "TCADO1800582" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4LWJjG3EC0TWgwgVZz0MSX"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4LWJjG3EC0TWgwgVZz0MSX",
+      "id": "4LWJjG3EC0TWgwgVZz0MSX",
+      "is_local": false,
+      "name": "Peculiar Paradise",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/ebd98d23cb0a76d29cb3626e8299f0fcb72b747e?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4LWJjG3EC0TWgwgVZz0MSX"
     },
     {
       "album": {
@@ -14029,7 +14029,7 @@
       "id": "0bZq2EECbloVhk2Hwcgp4v",
       "is_local": false,
       "name": "I CHOOSE YOU",
-      "popularity": 19,
+      "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/2d92300cf666db2424cf3cf28f59fe6e8597b800?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
