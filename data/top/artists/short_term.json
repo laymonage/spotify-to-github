@@ -229,36 +229,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
-      "id": "3Kthx6vfOdyrwpE1mjsyb8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
-          "width": 160
-        }
-      ],
-      "name": "Good Luck Finding Iris",
-      "popularity": 24,
-      "type": "artist",
-      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
       "followers": { "href": null, "total": 0 },
@@ -388,6 +358,36 @@
       "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
+      "id": "3Kthx6vfOdyrwpE1mjsyb8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
+          "width": 160
+        }
+      ],
+      "name": "Good Luck Finding Iris",
+      "popularity": 24,
+      "type": "artist",
+      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
     {
       "external_urls": {
@@ -665,7 +665,7 @@
         }
       ],
       "name": "Julien Chang",
-      "popularity": 25,
+      "popularity": 24,
       "type": "artist",
       "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
     },

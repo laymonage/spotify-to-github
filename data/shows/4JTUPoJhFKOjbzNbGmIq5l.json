@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 149,
+  "total_episodes": 150,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/63lWO7hkAxyG3s56YXZd5z/clip_174156_234156.mp3",
+      "description": "Djangonaut Space - 2024 Session 1 ApplicationWelcome our new Fellow - Natalia BidartEiffelDjango security releases issued: 4.2.6, 4.1.12, and 3.2.22 Django 5.0 Alpha Release NotesSupport the ShowLearnDjango.comButtonDjango News newsletter",
+      "duration_ms": 3828192,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3vHYWDUVXLEBesFhawcfE1"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3vHYWDUVXLEBesFhawcfE1",
+      "html_description": "<ul><li><a href=\"https://djangonaut.space/\" rel=\"nofollow\">Djangonaut Space - 2024 Session 1 Application</a></li><li><a href=\"https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/\" rel=\"nofollow\">Welcome our new Fellow - Natalia Bidart</a></li><li><a href=\"https://en.wikipedia.org/wiki/Eiffel_%28programming_language%29\" rel=\"nofollow\">Eiffel</a></li><li><a href=\"https://www.djangoproject.com/weblog/2023/oct/04/security-releases/\" rel=\"nofollow\">Django security releases issued: 4.2.6, 4.1.12, and 3.2.22</a> </li><li><a href=\"https://docs.djangoproject.com/en/dev/releases/5.0/\" rel=\"nofollow\">Django 5.0 Alpha Release Notes</a></li></ul><h3>Support the Show</h3><ul><li>LearnDjango.com</li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News newsletter</a></li></ul>",
+      "id": "3vHYWDUVXLEBesFhawcfE1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Becoming a Django Fellow - Natalia Bidart",
+      "release_date": "2023-10-25",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3vHYWDUVXLEBesFhawcfE1"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/16GHCos9vjYcRZNmtEYruz/clip_615892_675892.mp3",
       "description": "PyCharm JetBrains JetBrains Fleethttps://htmx.org/essays/right-click-view-source/ Django Chat #88: PyCharm with Paul Everitt & Aleksei Kniazev2023 Django Developers Survey django-microframework Badass: Making Users Awesome book Django Views the Right Way by Luke Plant Django Testing Tutorial The #ViewSource Affordance Support the ShowLearnDjango.comButtonDjango News newsletter",
@@ -6014,6 +6053,7 @@
       "resume_point": { "fully_played": true, "resume_position_ms": 40000 },
       "type": "episode",
       "uri": "spotify:episode:740GUKXl3jpwYTiOTHdbm0"
-    }
+    },
+    null
   ]
 }
