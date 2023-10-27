@@ -1,5 +1,5 @@
 {
-  "total": 24,
+  "total": 26,
   "artists": [
     {
       "external_urls": {
@@ -105,36 +105,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-      "id": "02nqs3YdfX7Th3gYTYFrqc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
-          "width": 160
-        }
-      ],
-      "name": "Tōth",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -162,36 +132,6 @@
       "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 40,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -226,6 +166,66 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+      "id": "02nqs3YdfX7Th3gYTYFrqc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
+          "width": 160
+        }
+      ],
+      "name": "Tōth",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "width": 160
+        }
+      ],
+      "name": "Early Eyes",
+      "popularity": 40,
+      "type": "artist",
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -328,6 +328,41 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "classic j-rock",
+        "j-rock",
+        "japanese dream pop",
+        "shibuya-kei"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+      "id": "1g8HCTiMwBtFtpRR9JXAZR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
+          "width": 64
+        }
+      ],
+      "name": "Fishmans",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -740,6 +775,36 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["ann arbor indie", "bedroom soul"],
+      "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+      "id": "0ubGY2CcC0tvR0eE6hJaT8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf40de62d5f9f3640f0245b5c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f40de62d5f9f3640f0245b5c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f40de62d5f9f3640f0245b5c",
+          "width": 160
+        }
+      ],
+      "name": "Charlie Burg",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
     {
       "external_urls": {

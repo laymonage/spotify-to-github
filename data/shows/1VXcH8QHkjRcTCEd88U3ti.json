@@ -206,15 +206,54 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1WOqaqYIL64gx7y4665ITz/clip_0_60000.mp3",
+      "description": "When technologist Luis von Ahn was building the popular language-learning platform Duolingo, he faced a big problem: Could an app designed to teach you something ever compete with addictive platforms like Instagram and TikTok? He explains how Duolingo harnesses the psychological techniques of social media and mobile games to get you excited to learn — all while spreading access to education across the world.",
+      "duration_ms": 831780,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3cvwgY7IsAC7lOlPdXKRVA"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3cvwgY7IsAC7lOlPdXKRVA",
+      "html_description": "When technologist Luis von Ahn was building the popular language-learning platform Duolingo, he faced a big problem: Could an app designed to teach you something ever compete with addictive platforms like Instagram and TikTok? He explains how Duolingo harnesses the psychological techniques of social media and mobile games to get you excited to learn — all while spreading access to education across the world.",
+      "id": "3cvwgY7IsAC7lOlPdXKRVA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae8b3aaf5ed512ebea9cd98ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe8b3aaf5ed512ebea9cd98ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de8b3aaf5ed512ebea9cd98ec",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to make learning as addictive as social media | Luis von Ahn",
+      "release_date": "2023-10-26",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3cvwgY7IsAC7lOlPdXKRVA"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0xy4FcwVafw6WCVvCzVKRs/clip_0_60000.mp3",
-      "description": "For some of us it's easy to lose ourselves in our work.  But a lack of boundaries between your personal and work life is something mental wellness educator Gloria Chan Packer would warn you twice about. Gloria speaks about the perils of gaining your sense of self-worth from your job, discusses her experience with burnout and stress and shares empowering insights on how to shift our perspectives to create – and maintain – a healthy distance. This is an episode of the podcast How to Be a Better Human, another podcast from the TED Audio Collective. Listen to How to Be a Better Human wherever you are listening to this. For the full text transcript, visit go.ted.com/BHTranscripts",
+      "description": "For some of us it's easy to lose ourselves in our work. But a lack of boundaries between your personal and work life is something mental wellness educator Gloria Chan Packer would warn you about twice. In conversation with host Chris Duffy, she speaks about the perils of gaining your sense of self-worth from your job, discusses her experience with burnout and stress and shares empowering insights on how to shift your perspective to create — and maintain — a healthy distance. This is an episode of How to Be a Better Human, another podcast from the TED Audio Collective. Listen to How to Be a Better Human wherever you're listening to this.",
       "duration_ms": 2081795,
       "explicit": false,
       "external_urls": {
         "spotify": "https://open.spotify.com/episode/4Rfm5WwJvZ4W7tNEs7Gqk3"
       },
       "href": "https://api.spotify.com/v1/episodes/4Rfm5WwJvZ4W7tNEs7Gqk3",
-      "html_description": "For some of us it&#39;s easy to lose ourselves in our work.  But a lack of boundaries between your personal and work life is something mental wellness educator Gloria Chan Packer would warn you twice about. Gloria speaks about the perils of gaining your sense of self-worth from your job, discusses her experience with burnout and stress and shares empowering insights on how to shift our perspectives to create – and maintain – a healthy distance. This is an episode of the podcast How to Be a Better Human, another podcast from the TED Audio Collective. Listen to How to Be a Better Human wherever you are listening to this. For the full text transcript, visit go.ted.com/BHTranscripts",
+      "html_description": "For some of us it&#39;s easy to lose ourselves in our work. But a lack of boundaries between your personal and work life is something mental wellness educator Gloria Chan Packer would warn you about twice. In conversation with host Chris Duffy, she speaks about the perils of gaining your sense of self-worth from your job, discusses her experience with burnout and stress and shares empowering insights on how to shift your perspective to create — and maintain — a healthy distance. This is an episode of How to Be a Better Human, another podcast from the TED Audio Collective. Listen to How to Be a Better Human wherever you&#39;re listening to this.",
       "id": "4Rfm5WwJvZ4W7tNEs7Gqk3",
       "images": [
         {
@@ -237,7 +276,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "How to stop finding your self-worth through your job (w/ Gloria Chan Packer) | How to Be a Better Human",
+      "name": "How to stop finding your self-worth through your job | How to Be a Better Human",
       "release_date": "2023-10-25",
       "release_date_precision": "day",
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
@@ -6756,45 +6795,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:41kjElOLmJDlcSEY7ox6aw"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4oDFAuSecdklayP7BFxL3l/clip_0_60000.mp3",
-      "description": "What comes to mind when you think about the most fun moments of your life? Science journalist Catherine Price asked thousands of people across the world this question, and their answers led her to a new definition of \"true\" fun: a special confluence of playfulness, connection and flow. Hear her thoughts on why having fun is good for your mental and physical health and how to identify the tell-tale signs of \"fake\" fun -- as well as actionable tips for identifying what brings you joy. (This conversation, hosted by TED science curator David Biello, was part of an exclusive TED Membership event. Visit ted.com/membership to become a TED Member.)",
-      "duration_ms": 1296492,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/43mrcwANCegwQYliog3K1P"
-      },
-      "href": "https://api.spotify.com/v1/episodes/43mrcwANCegwQYliog3K1P",
-      "html_description": "What comes to mind when you think about the most fun moments of your life? Science journalist Catherine Price asked thousands of people across the world this question, and their answers led her to a new definition of &#34;true&#34; fun: a special confluence of playfulness, connection and flow. Hear her thoughts on why having fun is good for your mental and physical health and how to identify the tell-tale signs of &#34;fake&#34; fun -- as well as actionable tips for identifying what brings you joy. (This conversation, hosted by TED science curator David Biello, was part of an exclusive TED Membership event. Visit ted.com/membership to become a TED Member.)",
-      "id": "43mrcwANCegwQYliog3K1P",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af505a68c54af9ea668d60130",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff505a68c54af9ea668d60130",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df505a68c54af9ea668d60130",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "3 elements of true fun -- and how to have more of it | Catherine Price",
-      "release_date": "2023-03-13",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:43mrcwANCegwQYliog3K1P"
     }
   ]
 }
