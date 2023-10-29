@@ -1,5 +1,5 @@
 {
-  "total": 27,
+  "total": 28,
   "artists": [
     {
       "external_urls": {
@@ -360,12 +360,7 @@
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "classic j-rock",
-        "j-rock",
-        "japanese dream pop",
-        "shibuya-kei"
-      ],
+      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
       "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
       "id": "1g8HCTiMwBtFtpRR9JXAZR",
       "images": [
@@ -446,39 +441,39 @@
         }
       ],
       "name": "Good Luck Finding Iris",
-      "popularity": 24,
+      "popularity": 23,
       "type": "artist",
       "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["alabama indie"],
-      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba4bcd5516b2b68cab1cf8743",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
+          "url": "https://i.scdn.co/image/ab67616100005174a4bcd5516b2b68cab1cf8743",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
+          "url": "https://i.scdn.co/image/ab6761610000f178a4bcd5516b2b68cab1cf8743",
           "width": 160
         }
       ],
-      "name": "The Brook & The Bluff",
-      "popularity": 53,
+      "name": "Matt Corby",
+      "popularity": 56,
       "type": "artist",
-      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
     },
     {
       "external_urls": {
@@ -865,6 +860,41 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:6PL8FkAt5nOZwYpPIhuAJg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["irish rock", "pop rock", "rock"],
+      "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id": "7t0rwkOPGlDPEhaOcVtOt9",
+      "images": [
+        {
+          "height": 667,
+          "url": "https://i.scdn.co/image/143c01f407ed64a4b3bcbc92d24c05ef80981251",
+          "width": 1000
+        },
+        {
+          "height": 427,
+          "url": "https://i.scdn.co/image/a82245ec62ee9606ab456d787f1f7fcd788e6a10",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/3a0e3d6f957d3d713a386aeedd028a8e8a1d8803",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/95b4d133c1e6a19efb05e4becf0f9c46e0894845",
+          "width": 64
+        }
+      ],
+      "name": "The Cranberries",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
     }
   ]
 }
