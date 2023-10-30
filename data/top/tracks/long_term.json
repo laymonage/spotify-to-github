@@ -4918,6 +4918,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
+            "id": "1cRqb8cQsGX8pgAceSWI7d",
+            "name": "Tigers in the Sky",
+            "type": "artist",
+            "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6vLBM7H79kEi198mNYSdLG"
+        },
+        "href": "https://api.spotify.com/v1/albums/6vLBM7H79kEi198mNYSdLG",
+        "id": "6vLBM7H79kEi198mNYSdLG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c750f7a035bb0d77699e8adc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c750f7a035bb0d77699e8adc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c750f7a035bb0d77699e8adc",
+            "width": 64
+          }
+        ],
+        "name": "Golden Lights",
+        "release_date": "2015-03-30",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:6vLBM7H79kEi198mNYSdLG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
+          "id": "1cRqb8cQsGX8pgAceSWI7d",
+          "name": "Tigers in the Sky",
+          "type": "artist",
+          "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 173226,
+      "explicit": false,
+      "external_ids": { "isrc": "QM5MX1500001" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1XZkp1rKR0SeIFobNGNgu2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1XZkp1rKR0SeIFobNGNgu2",
+      "id": "1XZkp1rKR0SeIFobNGNgu2",
+      "is_local": false,
+      "name": "Another State",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1XZkp1rKR0SeIFobNGNgu2"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
             },
             "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
@@ -5026,81 +5101,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:1N4LYJbmGi1WRnciG1cteH"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
-            },
-            "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
-            "id": "1cRqb8cQsGX8pgAceSWI7d",
-            "name": "Tigers in the Sky",
-            "type": "artist",
-            "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6vLBM7H79kEi198mNYSdLG"
-        },
-        "href": "https://api.spotify.com/v1/albums/6vLBM7H79kEi198mNYSdLG",
-        "id": "6vLBM7H79kEi198mNYSdLG",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c750f7a035bb0d77699e8adc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c750f7a035bb0d77699e8adc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c750f7a035bb0d77699e8adc",
-            "width": 64
-          }
-        ],
-        "name": "Golden Lights",
-        "release_date": "2015-03-30",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:6vLBM7H79kEi198mNYSdLG"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
-          },
-          "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
-          "id": "1cRqb8cQsGX8pgAceSWI7d",
-          "name": "Tigers in the Sky",
-          "type": "artist",
-          "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 173226,
-      "explicit": false,
-      "external_ids": { "isrc": "QM5MX1500001" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1XZkp1rKR0SeIFobNGNgu2"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1XZkp1rKR0SeIFobNGNgu2",
-      "id": "1XZkp1rKR0SeIFobNGNgu2",
-      "is_local": false,
-      "name": "Another State",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1XZkp1rKR0SeIFobNGNgu2"
     },
     {
       "album": {
@@ -5331,7 +5331,7 @@
       "id": "5qspeKX1xBacLJMm2t3Yc0",
       "is_local": false,
       "name": "A Lot's Gonna Change",
-      "popularity": 62,
+      "popularity": 61,
       "preview_url": "https://p.scdn.co/mp3-preview/a901ddf97be474f5fa6a60674897fd573f2478ad?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 1,
       "type": "track",
@@ -8099,7 +8099,7 @@
       "id": "4d7ifHr1zrli3fOi9aIHax",
       "is_local": false,
       "name": "Misnomer",
-      "popularity": 15,
+      "popularity": 14,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -9371,241 +9371,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-            },
-            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-            "id": "3MATPJ9tYbcMhw5VOZrRU6",
-            "name": "Summer Salt",
-            "type": "artist",
-            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
-        },
-        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
-        "id": "7Ahoh0X48HbYRJzPQvoIer",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
-            "width": 64
-          }
-        ],
-        "name": "Favorite Holiday, Vol. 1",
-        "release_date": "2019-12-24",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-          },
-          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-          "id": "3MATPJ9tYbcMhw5VOZrRU6",
-          "name": "Summer Salt",
-          "type": "artist",
-          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 217636,
-      "explicit": false,
-      "external_ids": { "isrc": "QZARB1862370" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4qEW8QgybJTgA3bKgqVpSM"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4qEW8QgybJTgA3bKgqVpSM",
-      "id": "4qEW8QgybJTgA3bKgqVpSM",
-      "is_local": false,
-      "name": "One Last Time",
-      "popularity": 56,
-      "preview_url": "https://p.scdn.co/mp3-preview/ed3ca89dc5ec375774bf1bfd9ad87bf6b9fdac41?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:4qEW8QgybJTgA3bKgqVpSM"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
             },
             "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
@@ -9669,7 +9434,7 @@
       "id": "3awBLJoDSXa3TjQeDNhGlq",
       "is_local": false,
       "name": "Misnomer",
-      "popularity": 48,
+      "popularity": 47,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -10138,6 +9903,241 @@
       "track_number": 13,
       "type": "track",
       "uri": "spotify:track:6jSOQzZ92aPKN0p2m09y2n"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+            "id": "3MATPJ9tYbcMhw5VOZrRU6",
+            "name": "Summer Salt",
+            "type": "artist",
+            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+        },
+        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
+        "id": "7Ahoh0X48HbYRJzPQvoIer",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
+            "width": 64
+          }
+        ],
+        "name": "Favorite Holiday, Vol. 1",
+        "release_date": "2019-12-24",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+          "id": "3MATPJ9tYbcMhw5VOZrRU6",
+          "name": "Summer Salt",
+          "type": "artist",
+          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 217636,
+      "explicit": false,
+      "external_ids": { "isrc": "QZARB1862370" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4qEW8QgybJTgA3bKgqVpSM"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4qEW8QgybJTgA3bKgqVpSM",
+      "id": "4qEW8QgybJTgA3bKgqVpSM",
+      "is_local": false,
+      "name": "One Last Time",
+      "popularity": 56,
+      "preview_url": "https://p.scdn.co/mp3-preview/ed3ca89dc5ec375774bf1bfd9ad87bf6b9fdac41?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4qEW8QgybJTgA3bKgqVpSM"
     },
     {
       "album": {
@@ -11446,7 +11446,7 @@
       "id": "4wHGTUz4Q5IXiiJxL3jNKL",
       "is_local": false,
       "name": "Monday",
-      "popularity": 41,
+      "popularity": 40,
       "preview_url": "https://p.scdn.co/mp3-preview/87c56015725a73871c2b1b27f1ce6eec1c755f4b?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
@@ -12153,241 +12153,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-            },
-            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-            "id": "3MATPJ9tYbcMhw5VOZrRU6",
-            "name": "Summer Salt",
-            "type": "artist",
-            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
-        },
-        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
-        "id": "7Ahoh0X48HbYRJzPQvoIer",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
-            "width": 64
-          }
-        ],
-        "name": "Favorite Holiday, Vol. 1",
-        "release_date": "2019-12-24",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-          },
-          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-          "id": "3MATPJ9tYbcMhw5VOZrRU6",
-          "name": "Summer Salt",
-          "type": "artist",
-          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 170844,
-      "explicit": false,
-      "external_ids": { "isrc": "QM24S1913926" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/6RXTcOK5lmroSojferc3eZ"
-      },
-      "href": "https://api.spotify.com/v1/tracks/6RXTcOK5lmroSojferc3eZ",
-      "id": "6RXTcOK5lmroSojferc3eZ",
-      "is_local": false,
-      "name": "My Lucky Egg",
-      "popularity": 32,
-      "preview_url": "https://p.scdn.co/mp3-preview/268e1c225dff4312dde547eb01f8fea3caa94a45?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:6RXTcOK5lmroSojferc3eZ"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -13085,21 +12850,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 135676,
+      "duration_ms": 170844,
       "explicit": false,
-      "external_ids": { "isrc": "QM24S1926319" },
+      "external_ids": { "isrc": "QM24S1913926" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6Seg3FdKHGyHa5pd5lrAfw"
+        "spotify": "https://open.spotify.com/track/6RXTcOK5lmroSojferc3eZ"
       },
-      "href": "https://api.spotify.com/v1/tracks/6Seg3FdKHGyHa5pd5lrAfw",
-      "id": "6Seg3FdKHGyHa5pd5lrAfw",
+      "href": "https://api.spotify.com/v1/tracks/6RXTcOK5lmroSojferc3eZ",
+      "id": "6RXTcOK5lmroSojferc3eZ",
       "is_local": false,
-      "name": "Another Piece of the Cake",
-      "popularity": 33,
-      "preview_url": "https://p.scdn.co/mp3-preview/494b378d85a821d13d2f23fedfb458130ef7b18b?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 4,
+      "name": "My Lucky Egg",
+      "popularity": 32,
+      "preview_url": "https://p.scdn.co/mp3-preview/268e1c225dff4312dde547eb01f8fea3caa94a45?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 3,
       "type": "track",
-      "uri": "spotify:track:6Seg3FdKHGyHa5pd5lrAfw"
+      "uri": "spotify:track:6RXTcOK5lmroSojferc3eZ"
     },
     {
       "album": {
@@ -13794,7 +13559,7 @@
       "id": "0bZq2EECbloVhk2Hwcgp4v",
       "is_local": false,
       "name": "I CHOOSE YOU",
-      "popularity": 20,
+      "popularity": 19,
       "preview_url": "https://p.scdn.co/mp3-preview/2d92300cf666db2424cf3cf28f59fe6e8597b800?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 2,
       "type": "track",
@@ -14436,33 +14201,33 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5Aj6dbpCHryCIB9n2pqmwG"
+          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
         },
-        "href": "https://api.spotify.com/v1/albums/5Aj6dbpCHryCIB9n2pqmwG",
-        "id": "5Aj6dbpCHryCIB9n2pqmwG",
+        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
+        "id": "7Ahoh0X48HbYRJzPQvoIer",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d3f12993a820865791b73722",
+            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d3f12993a820865791b73722",
+            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d3f12993a820865791b73722",
+            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
             "width": 64
           }
         ],
-        "name": "Happy Camper",
-        "release_date": "2018-09-28",
+        "name": "Favorite Holiday, Vol. 1",
+        "release_date": "2019-12-24",
         "release_date_precision": "day",
-        "total_tracks": 12,
+        "total_tracks": 7,
         "type": "album",
-        "uri": "spotify:album:5Aj6dbpCHryCIB9n2pqmwG"
+        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
       },
       "artists": [
         {
@@ -14558,256 +14323,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 205680,
+      "duration_ms": 135676,
       "explicit": false,
-      "external_ids": { "isrc": "USEP41837001" },
+      "external_ids": { "isrc": "QM24S1926319" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/00Lk99fwdWL0sA0Gj0y77y"
+        "spotify": "https://open.spotify.com/track/6Seg3FdKHGyHa5pd5lrAfw"
       },
-      "href": "https://api.spotify.com/v1/tracks/00Lk99fwdWL0sA0Gj0y77y",
-      "id": "00Lk99fwdWL0sA0Gj0y77y",
+      "href": "https://api.spotify.com/v1/tracks/6Seg3FdKHGyHa5pd5lrAfw",
+      "id": "6Seg3FdKHGyHa5pd5lrAfw",
       "is_local": false,
-      "name": "Heart and My Car",
-      "popularity": 43,
-      "preview_url": "https://p.scdn.co/mp3-preview/4fc07fe8dcc28e16fda96e377380c6d284176714?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 1,
+      "name": "Another Piece of the Cake",
+      "popularity": 33,
+      "preview_url": "https://p.scdn.co/mp3-preview/494b378d85a821d13d2f23fedfb458130ef7b18b?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 4,
       "type": "track",
-      "uri": "spotify:track:00Lk99fwdWL0sA0Gj0y77y"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-            },
-            "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-            "id": "5YNnmXnEEEJM0ArqHDSyET",
-            "name": "Lonely Benson",
-            "type": "artist",
-            "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4BCxoWO4Iczud3TyqPWYO1"
-        },
-        "href": "https://api.spotify.com/v1/albums/4BCxoWO4Iczud3TyqPWYO1",
-        "id": "4BCxoWO4Iczud3TyqPWYO1",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a605f05e7bf436d8d767c3c4",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a605f05e7bf436d8d767c3c4",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a605f05e7bf436d8d767c3c4",
-            "width": 64
-          }
-        ],
-        "name": "Lonely Benson",
-        "release_date": "2018-04-10",
-        "release_date_precision": "day",
-        "total_tracks": 13,
-        "type": "album",
-        "uri": "spotify:album:4BCxoWO4Iczud3TyqPWYO1"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-          },
-          "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-          "id": "5YNnmXnEEEJM0ArqHDSyET",
-          "name": "Lonely Benson",
-          "type": "artist",
-          "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 226346,
-      "explicit": false,
-      "external_ids": { "isrc": "TCADO1800582" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4LWJjG3EC0TWgwgVZz0MSX"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4LWJjG3EC0TWgwgVZz0MSX",
-      "id": "4LWJjG3EC0TWgwgVZz0MSX",
-      "is_local": false,
-      "name": "Peculiar Paradise",
-      "popularity": 22,
-      "preview_url": "https://p.scdn.co/mp3-preview/ebd98d23cb0a76d29cb3626e8299f0fcb72b747e?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:4LWJjG3EC0TWgwgVZz0MSX"
+      "uri": "spotify:track:6Seg3FdKHGyHa5pd5lrAfw"
     },
     {
       "album": {
@@ -16324,33 +15854,33 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+          "spotify": "https://open.spotify.com/album/5Aj6dbpCHryCIB9n2pqmwG"
         },
-        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
-        "id": "7Ahoh0X48HbYRJzPQvoIer",
+        "href": "https://api.spotify.com/v1/albums/5Aj6dbpCHryCIB9n2pqmwG",
+        "id": "5Aj6dbpCHryCIB9n2pqmwG",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d0000b273d3f12993a820865791b73722",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d00001e02d3f12993a820865791b73722",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d00004851d3f12993a820865791b73722",
             "width": 64
           }
         ],
-        "name": "Favorite Holiday, Vol. 1",
-        "release_date": "2019-12-24",
+        "name": "Happy Camper",
+        "release_date": "2018-09-28",
         "release_date_precision": "day",
-        "total_tracks": 7,
+        "total_tracks": 12,
         "type": "album",
-        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
+        "uri": "spotify:album:5Aj6dbpCHryCIB9n2pqmwG"
       },
       "artists": [
         {
@@ -16446,21 +15976,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 177735,
+      "duration_ms": 205680,
       "explicit": false,
-      "external_ids": { "isrc": "QZ9Y21788662" },
+      "external_ids": { "isrc": "USEP41837001" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/7JcBDiissYuMSR3cpMwwtI"
+        "spotify": "https://open.spotify.com/track/00Lk99fwdWL0sA0Gj0y77y"
       },
-      "href": "https://api.spotify.com/v1/tracks/7JcBDiissYuMSR3cpMwwtI",
-      "id": "7JcBDiissYuMSR3cpMwwtI",
+      "href": "https://api.spotify.com/v1/tracks/00Lk99fwdWL0sA0Gj0y77y",
+      "id": "00Lk99fwdWL0sA0Gj0y77y",
       "is_local": false,
-      "name": "Favorite Holiday",
-      "popularity": 29,
-      "preview_url": "https://p.scdn.co/mp3-preview/077d728ea85ade30c30ffa4bb67fa043db992e31?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 5,
+      "name": "Heart and My Car",
+      "popularity": 43,
+      "preview_url": "https://p.scdn.co/mp3-preview/4fc07fe8dcc28e16fda96e377380c6d284176714?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:7JcBDiissYuMSR3cpMwwtI"
+      "uri": "spotify:track:00Lk99fwdWL0sA0Gj0y77y"
     },
     {
       "album": {
@@ -17080,13 +16610,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+              "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
             },
-            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-            "id": "3MATPJ9tYbcMhw5VOZrRU6",
-            "name": "Summer Salt",
+            "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+            "id": "5YNnmXnEEEJM0ArqHDSyET",
+            "name": "Lonely Benson",
             "type": "artist",
-            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+            "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
           }
         ],
         "available_markets": [
@@ -17171,44 +16701,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+          "spotify": "https://open.spotify.com/album/4BCxoWO4Iczud3TyqPWYO1"
         },
-        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
-        "id": "7Ahoh0X48HbYRJzPQvoIer",
+        "href": "https://api.spotify.com/v1/albums/4BCxoWO4Iczud3TyqPWYO1",
+        "id": "4BCxoWO4Iczud3TyqPWYO1",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d0000b273a605f05e7bf436d8d767c3c4",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d00001e02a605f05e7bf436d8d767c3c4",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
+            "url": "https://i.scdn.co/image/ab67616d00004851a605f05e7bf436d8d767c3c4",
             "width": 64
           }
         ],
-        "name": "Favorite Holiday, Vol. 1",
-        "release_date": "2019-12-24",
+        "name": "Lonely Benson",
+        "release_date": "2018-04-10",
         "release_date_precision": "day",
-        "total_tracks": 7,
+        "total_tracks": 13,
         "type": "album",
-        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
+        "uri": "spotify:album:4BCxoWO4Iczud3TyqPWYO1"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+            "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
           },
-          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
-          "id": "3MATPJ9tYbcMhw5VOZrRU6",
-          "name": "Summer Salt",
+          "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+          "id": "5YNnmXnEEEJM0ArqHDSyET",
+          "name": "Lonely Benson",
           "type": "artist",
-          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+          "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
         }
       ],
       "available_markets": [
@@ -17293,21 +16823,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 213296,
+      "duration_ms": 226346,
       "explicit": false,
-      "external_ids": { "isrc": "QZAPG1765069" },
+      "external_ids": { "isrc": "TCADO1800582" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/6FxePNJtG6vxjUL006FYXy"
+        "spotify": "https://open.spotify.com/track/4LWJjG3EC0TWgwgVZz0MSX"
       },
-      "href": "https://api.spotify.com/v1/tracks/6FxePNJtG6vxjUL006FYXy",
-      "id": "6FxePNJtG6vxjUL006FYXy",
+      "href": "https://api.spotify.com/v1/tracks/4LWJjG3EC0TWgwgVZz0MSX",
+      "id": "4LWJjG3EC0TWgwgVZz0MSX",
       "is_local": false,
-      "name": "Abominable Snowman",
-      "popularity": 30,
-      "preview_url": "https://p.scdn.co/mp3-preview/1fe671b400fdc4dcde2b1eebbd61c1fc9570c07e?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 7,
+      "name": "Peculiar Paradise",
+      "popularity": 22,
+      "preview_url": "https://p.scdn.co/mp3-preview/ebd98d23cb0a76d29cb3626e8299f0fcb72b747e?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:6FxePNJtG6vxjUL006FYXy"
+      "uri": "spotify:track:4LWJjG3EC0TWgwgVZz0MSX"
     },
     {
       "album": {
@@ -17528,21 +17058,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 173719,
+      "duration_ms": 177735,
       "explicit": false,
-      "external_ids": { "isrc": "QM24S1843993" },
+      "external_ids": { "isrc": "QZ9Y21788662" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/1hlQ2ctGpUISDk5rWljHK2"
+        "spotify": "https://open.spotify.com/track/7JcBDiissYuMSR3cpMwwtI"
       },
-      "href": "https://api.spotify.com/v1/tracks/1hlQ2ctGpUISDk5rWljHK2",
-      "id": "1hlQ2ctGpUISDk5rWljHK2",
+      "href": "https://api.spotify.com/v1/tracks/7JcBDiissYuMSR3cpMwwtI",
+      "id": "7JcBDiissYuMSR3cpMwwtI",
       "is_local": false,
-      "name": "Harvest Fair",
-      "popularity": 33,
-      "preview_url": "https://p.scdn.co/mp3-preview/bed923a25d72130d697e0492ce5f4ae908066502?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 6,
+      "name": "Favorite Holiday",
+      "popularity": 29,
+      "preview_url": "https://p.scdn.co/mp3-preview/077d728ea85ade30c30ffa4bb67fa043db992e31?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 5,
       "type": "track",
-      "uri": "spotify:track:1hlQ2ctGpUISDk5rWljHK2"
+      "uri": "spotify:track:7JcBDiissYuMSR3cpMwwtI"
     },
     {
       "album": {
@@ -18158,6 +17688,476 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+            "id": "3MATPJ9tYbcMhw5VOZrRU6",
+            "name": "Summer Salt",
+            "type": "artist",
+            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+        },
+        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
+        "id": "7Ahoh0X48HbYRJzPQvoIer",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
+            "width": 64
+          }
+        ],
+        "name": "Favorite Holiday, Vol. 1",
+        "release_date": "2019-12-24",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+          "id": "3MATPJ9tYbcMhw5VOZrRU6",
+          "name": "Summer Salt",
+          "type": "artist",
+          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 213296,
+      "explicit": false,
+      "external_ids": { "isrc": "QZAPG1765069" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6FxePNJtG6vxjUL006FYXy"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6FxePNJtG6vxjUL006FYXy",
+      "id": "6FxePNJtG6vxjUL006FYXy",
+      "is_local": false,
+      "name": "Abominable Snowman",
+      "popularity": 30,
+      "preview_url": "https://p.scdn.co/mp3-preview/1fe671b400fdc4dcde2b1eebbd61c1fc9570c07e?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6FxePNJtG6vxjUL006FYXy"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+            },
+            "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+            "id": "3MATPJ9tYbcMhw5VOZrRU6",
+            "name": "Summer Salt",
+            "type": "artist",
+            "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer"
+        },
+        "href": "https://api.spotify.com/v1/albums/7Ahoh0X48HbYRJzPQvoIer",
+        "id": "7Ahoh0X48HbYRJzPQvoIer",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a166d6923a8ca1d862ccda7b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a166d6923a8ca1d862ccda7b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a166d6923a8ca1d862ccda7b",
+            "width": 64
+          }
+        ],
+        "name": "Favorite Holiday, Vol. 1",
+        "release_date": "2019-12-24",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:7Ahoh0X48HbYRJzPQvoIer"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          },
+          "href": "https://api.spotify.com/v1/artists/3MATPJ9tYbcMhw5VOZrRU6",
+          "id": "3MATPJ9tYbcMhw5VOZrRU6",
+          "name": "Summer Salt",
+          "type": "artist",
+          "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 173719,
+      "explicit": false,
+      "external_ids": { "isrc": "QM24S1843993" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hlQ2ctGpUISDk5rWljHK2"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1hlQ2ctGpUISDk5rWljHK2",
+      "id": "1hlQ2ctGpUISDk5rWljHK2",
+      "is_local": false,
+      "name": "Harvest Fair",
+      "popularity": 33,
+      "preview_url": "https://p.scdn.co/mp3-preview/bed923a25d72130d697e0492ce5f4ae908066502?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:1hlQ2ctGpUISDk5rWljHK2"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
             },
             "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
@@ -18455,121 +18455,6 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:2HKGSswGICUkJ4oTW8emNm"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-            },
-            "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
-            "id": "7BqRcZsHYYQeqMAOp7e532",
-            "name": "落日飛車 Sunset Rollercoaster",
-            "type": "artist",
-            "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
-          }
-        ],
-        "available_markets": [
-          "AE",
-          "BH",
-          "HK",
-          "ID",
-          "IL",
-          "IN",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "MY",
-          "OM",
-          "PH",
-          "QA",
-          "SA",
-          "SG",
-          "TH",
-          "TW",
-          "VN"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/22AUTK02WtnB1jRKxSoCJb"
-        },
-        "href": "https://api.spotify.com/v1/albums/22AUTK02WtnB1jRKxSoCJb",
-        "id": "22AUTK02WtnB1jRKxSoCJb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273cf8dd17b117818fee58f03f6",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02cf8dd17b117818fee58f03f6",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851cf8dd17b117818fee58f03f6",
-            "width": 64
-          }
-        ],
-        "name": "SOFT STORM",
-        "release_date": "2020-10-30",
-        "release_date_precision": "day",
-        "total_tracks": 9,
-        "type": "album",
-        "uri": "spotify:album:22AUTK02WtnB1jRKxSoCJb"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-          },
-          "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
-          "id": "7BqRcZsHYYQeqMAOp7e532",
-          "name": "落日飛車 Sunset Rollercoaster",
-          "type": "artist",
-          "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "available_markets": [
-        "AE",
-        "BH",
-        "HK",
-        "ID",
-        "IL",
-        "IN",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "MY",
-        "OM",
-        "PH",
-        "QA",
-        "SA",
-        "SG",
-        "TH",
-        "TW",
-        "VN"
-      ],
-      "disc_number": 1,
-      "duration_ms": 227397,
-      "explicit": false,
-      "external_ids": { "isrc": "TWCR72000103" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2uSYrhAHtVDBdsnkLqdJOO"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2uSYrhAHtVDBdsnkLqdJOO",
-      "id": "2uSYrhAHtVDBdsnkLqdJOO",
-      "is_local": false,
-      "name": "Under the Skin",
-      "popularity": 40,
-      "preview_url": "https://p.scdn.co/mp3-preview/25bed73f234433b421fe8fe31cbf4438bba45e75?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 3,
-      "type": "track",
-      "uri": "spotify:track:2uSYrhAHtVDBdsnkLqdJOO"
     },
     {
       "album": {
@@ -20049,6 +19934,241 @@
       "track_number": 11,
       "type": "track",
       "uri": "spotify:track:0BRvjLhMa3Qie8LMnRtY4f"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+            "id": "1zkHConahaP6T8EBpg8BeE",
+            "name": "Ethan Gruska",
+            "type": "artist",
+            "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
+        },
+        "href": "https://api.spotify.com/v1/albums/2lgquOKqwJNvCg7UwvsjJy",
+        "id": "2lgquOKqwJNvCg7UwvsjJy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aac965b52ad3622bd7da4b16",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aac965b52ad3622bd7da4b16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aac965b52ad3622bd7da4b16",
+            "width": 64
+          }
+        ],
+        "name": "En Garde",
+        "release_date": "2020-01-24",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:2lgquOKqwJNvCg7UwvsjJy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+          "id": "1zkHConahaP6T8EBpg8BeE",
+          "name": "Ethan Gruska",
+          "type": "artist",
+          "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 173778,
+      "explicit": false,
+      "external_ids": { "isrc": "USWB11902600" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2d7IkDS1sFRtCyS5tMY5BA"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2d7IkDS1sFRtCyS5tMY5BA",
+      "id": "2d7IkDS1sFRtCyS5tMY5BA",
+      "is_local": false,
+      "name": "Event Horizon",
+      "popularity": 23,
+      "preview_url": "https://p.scdn.co/mp3-preview/bfbb483141189d6e242f28e0f6521cebf0821379?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2d7IkDS1sFRtCyS5tMY5BA"
     }
   ]
 }
