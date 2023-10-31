@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 169,
+  "total_episodes": 170,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4UEpLkczMsHeAM5dI6ij5X/clip_0_60000.mp3",
+      "description": "There's a saying that comedy is tragedy plus time. Perhaps that's why some of our biggest problems feel easiest to manage with a dose of humor. Comedian, journalist and actor Roy Wood Jr. has spent his career finding the silly in the serious and using this tactic to influence real change. Listen in to learn how you can tap into the powers of humor in your own life. (This conversation, hosted by comedian Chris Duffy, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.)",
+      "duration_ms": 2262516,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/08o5Qds6VxGbVZA8N4YRV2"
+      },
+      "href": "https://api.spotify.com/v1/episodes/08o5Qds6VxGbVZA8N4YRV2",
+      "html_description": "There&#39;s a saying that comedy is tragedy plus time. Perhaps that&#39;s why some of our biggest problems feel easiest to manage with a dose of humor. Comedian, journalist and actor Roy Wood Jr. has spent his career finding the silly in the serious and using this tactic to influence real change. Listen in to learn how you can tap into the powers of humor in your own life. (This conversation, hosted by comedian Chris Duffy, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.)",
+      "id": "08o5Qds6VxGbVZA8N4YRV2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a6dc8d5875fa5ec0595c3e5a2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f6dc8d5875fa5ec0595c3e5a2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d6dc8d5875fa5ec0595c3e5a2",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How comedy helps us deal with hard truths | Roy Wood Jr.",
+      "release_date": "2023-10-30",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:08o5Qds6VxGbVZA8N4YRV2"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2anNeiGdfjU5QckyjKkOeV/clip_0_60000.mp3",
       "description": "US Congresswoman Lucy McBath has made it her mission to seek bipartisan solutions for gun safety, leading the way in sponsoring so-called \"red flag\" laws that prevent gun violence and mass shootings. In a searing and timely talk, she shares the personal story that led her to this work — and a message for why comprehensive, common-sense gun legislation in the US is more urgent than ever.",
