@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/03QqtBUVSucjusi9f07E4Y/clip_0_60000.mp3",
+      "description": "When it comes to technology, we're often presented with two contrasting visions of the future: one where technology fulfills all our desires, and another where it leads to chaos and conflict. Sociologist Ruha Benjamin is here with a more radical vision of the future — one where humanity isn't saved or slayed by technology, but rather uses it to uplift ordinary people and make things like health care and housing for all a reality.",
+      "duration_ms": 783036,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1cwm9jPceThMw4rhyBmNTI"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1cwm9jPceThMw4rhyBmNTI",
+      "html_description": "When it comes to technology, we&#39;re often presented with two contrasting visions of the future: one where technology fulfills all our desires, and another where it leads to chaos and conflict. Sociologist Ruha Benjamin is here with a more radical vision of the future — one where humanity isn&#39;t saved or slayed by technology, but rather uses it to uplift ordinary people and make things like health care and housing for all a reality.",
+      "id": "1cwm9jPceThMw4rhyBmNTI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a39da70e135be65072d3f71d5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f39da70e135be65072d3f71d5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d39da70e135be65072d3f71d5",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Is technology our savior — or our slayer? | Ruha Benjamin",
+      "release_date": "2023-11-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1cwm9jPceThMw4rhyBmNTI"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3pQUnOig7yTCNv1UZTJfSU/clip_0_60000.mp3",
       "description": "A frog and a mockingbird changed Paul Hawken's life, kindling a devotion to protect and restore nature. Now, as one of the world's preeminent environmentalists, he advocates for regeneration — a calling and action plan for the world to come together to end the climate crisis in one generation and put life at the center of every decision we make.",
       "duration_ms": 750900,
@@ -237,7 +276,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "Regenerative living can restore a broken world | Paul Hawken",
+      "name": "Regeneration can restore a broken world | Paul Hawken",
       "release_date": "2023-11-03",
       "release_date_precision": "day",
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
@@ -6717,45 +6756,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Hq2SQ2wdgq2nuQxuG15Ie"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6TMHuPyJJ1v1AhbqMbpa42/clip_0_60000.mp3",
-      "description": "Canine cognition expert Alexandra Horowitz offers a peek inside the mind of your dog, sharing solutions to common \"misbehaviors\" that are often simply the result of a pup's attempt to communicate in a world that's very different from their own. Hear about the evolution and psychology behind your dog's actions -- and how to give them a happier, healthier life.",
-      "duration_ms": 1913364,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7ChuAXUcbt0wJVMqUAzYmV"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7ChuAXUcbt0wJVMqUAzYmV",
-      "html_description": "Canine cognition expert Alexandra Horowitz offers a peek inside the mind of your dog, sharing solutions to common &#34;misbehaviors&#34; that are often simply the result of a pup&#39;s attempt to communicate in a world that&#39;s very different from their own. Hear about the evolution and psychology behind your dog&#39;s actions -- and how to give them a happier, healthier life.",
-      "id": "7ChuAXUcbt0wJVMqUAzYmV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ae604eb2dc4858e241caa7b50",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fe604eb2dc4858e241caa7b50",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68de604eb2dc4858e241caa7b50",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why all dogs are good dogs | Alexandra Horowitz",
-      "release_date": "2023-03-24",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7ChuAXUcbt0wJVMqUAzYmV"
     }
   ]
 }

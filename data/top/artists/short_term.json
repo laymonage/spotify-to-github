@@ -1,5 +1,5 @@
 {
-  "total": 39,
+  "total": 35,
   "artists": [
     {
       "external_urls": {
@@ -37,72 +37,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "chicago indie",
-        "countrygaze",
-        "indie pop",
-        "indie rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
-      "id": "32aUoW94mJ7xTJI7fG0V1G",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
-          "width": 160
-        }
-      ],
-      "name": "Whitney",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie pop", "pov: indie", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
-      "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517402fcc327683d53bea9583c69",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17802fcc327683d53bea9583c69",
-          "width": 160
-        }
-      ],
-      "name": "Djo",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
     },
     {
       "external_urls": {
@@ -170,36 +104,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
-      "id": "0tMnuEXTeJeHbslcV8OybJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
-          "width": 160
-        }
-      ],
-      "name": "Drugdealer",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
       },
       "followers": { "href": null, "total": 0 },
@@ -232,6 +136,102 @@
       "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "pov: indie", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
+      "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517402fcc327683d53bea9583c69",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17802fcc327683d53bea9583c69",
+          "width": 160
+        }
+      ],
+      "name": "Djo",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "chicago indie",
+        "countrygaze",
+        "indie pop",
+        "indie rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
+      "id": "32aUoW94mJ7xTJI7fG0V1G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
+          "width": 160
+        }
+      ],
+      "name": "Whitney",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
     },
     {
       "external_urls": {
@@ -372,36 +372,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
-      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
-          "width": 160
-        }
-      ],
-      "name": "Julien Chang",
-      "popularity": 22,
-      "type": "artist",
-      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
@@ -492,6 +462,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
+      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
+          "width": 160
+        }
+      ],
+      "name": "Julien Chang",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
       },
       "followers": { "href": null, "total": 0 },
@@ -552,96 +552,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["hawaiian indie"],
-      "href": "https://api.spotify.com/v1/artists/1cRqb8cQsGX8pgAceSWI7d",
-      "id": "1cRqb8cQsGX8pgAceSWI7d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb87f12cb15b7db54018f553e5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517487f12cb15b7db54018f553e5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17887f12cb15b7db54018f553e5",
-          "width": 160
-        }
-      ],
-      "name": "Tigers in the Sky",
-      "popularity": 28,
-      "type": "artist",
-      "uri": "spotify:artist:1cRqb8cQsGX8pgAceSWI7d"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["ann arbor indie", "funk rock", "instrumental funk"],
-      "href": "https://api.spotify.com/v1/artists/7pXu47GoqSYRajmBCjxdD6",
-      "id": "7pXu47GoqSYRajmBCjxdD6",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3f8c36a57018e5221c8c458c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743f8c36a57018e5221c8c458c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783f8c36a57018e5221c8c458c",
-          "width": 160
-        }
-      ],
-      "name": "Vulfpeck",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "rochester mn indie"],
-      "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-      "id": "6ft7JnxMyZhp7N52qzHymY",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9310cf18c564e55d8220f9d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749310cf18c564e55d8220f9d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789310cf18c564e55d8220f9d3",
-          "width": 160
-        }
-      ],
-      "name": "Vansire",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
       },
       "followers": { "href": null, "total": 0 },
@@ -669,36 +579,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 38,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -760,7 +640,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 53,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -801,36 +681,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian city pop", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
-          "width": 160
-        }
-      ],
-      "name": "Chrisye",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
       },
       "followers": { "href": null, "total": 0 },
@@ -861,9 +711,39 @@
         }
       ],
       "name": "Cage The Elephant",
-      "popularity": 71,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian city pop", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
     {
       "external_urls": {
