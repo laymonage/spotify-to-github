@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 167,
+  "total_episodes": 168,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1JGJMUCtsBfpQnUWfgnPFj/clip_0_60000.mp3",
+      "description": "Material scientist Anna Maria Coclite unveils \"smart skin\" — artificial skin technology that responds to touch, temperature and humidity like your very own. (It's actually even more sensitive than human skin!) From helping burn victims to paving the way to smarter, safer humanoid robots, Coclite highlights the broad-ranging potential of this innovation.",
+      "duration_ms": 595764,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6v3S2DlPTwmSnH0w0cupqc"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6v3S2DlPTwmSnH0w0cupqc",
+      "html_description": "Material scientist Anna Maria Coclite unveils &#34;smart skin&#34; — artificial skin technology that responds to touch, temperature and humidity like your very own. (It&#39;s actually even more sensitive than human skin!) From helping burn victims to paving the way to smarter, safer humanoid robots, Coclite highlights the broad-ranging potential of this innovation.",
+      "id": "6v3S2DlPTwmSnH0w0cupqc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad4a3b7d9e7d93529b39eff60",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd4a3b7d9e7d93529b39eff60",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd4a3b7d9e7d93529b39eff60",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Artificial skin? We made it — here's why | Anna Maria Coclite",
+      "release_date": "2023-11-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6v3S2DlPTwmSnH0w0cupqc"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Jut5ffqa5sE4Rm0X7w6Zc/clip_0_60000.mp3",
       "description": "Artist Doris Mitsch invites us to revel in the wonders of nature through her dazzling photography: stacked images of starlings in flight, hawks surfing thermal updrafts, bats echolocating through the night sky and more. Revealing the hidden trails created by creatures in flight, her work offers unique insight into the intelligence behind nature's invisible rhythms.",

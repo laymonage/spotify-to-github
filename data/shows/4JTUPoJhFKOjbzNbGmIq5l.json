@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 150,
+  "total_episodes": 151,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4PpQMm9GeiCybXQ5eia4IS/clip_1245560_1286880.mp3",
+      "description": "Sarah Boyce on GitHub Django Triage & Review TeamDjangonaut.Space PyDev of the Week: Sarah Boyce Django Discord Channel Support the ShowLearnDjango.comButtonDjango News newsletter",
+      "duration_ms": 3236728,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4CzUHyLCr5nlOXmEARmSzy"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4CzUHyLCr5nlOXmEARmSzy",
+      "html_description": "<ul><li><a href=\"https://github.com/sarahboyce\" rel=\"nofollow\">Sarah Boyce on GitHub</a> </li><li><a href=\"https://www.djangoproject.com/foundation/teams/#triage-review-team\" rel=\"nofollow\">Django Triage &amp; Review Team</a></li><li><a href=\"https://djangonaut.space/\" rel=\"nofollow\">Djangonaut.Space</a> </li><li><a href=\"https://www.blog.pythonlibrary.org/2023/10/02/pydev-of-the-week-sarah-boyce/\" rel=\"nofollow\">PyDev of the Week: Sarah Boyce</a> </li><li><a href=\"https://discord.com/invite/xcRH6mN4fa\" rel=\"nofollow\">Django Discord Channel</a> </li></ul><h3>Support the Show</h3><ul><li>LearnDjango.com</li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News newsletter</a></li></ul>",
+      "id": "4CzUHyLCr5nlOXmEARmSzy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Contributing to Django - Sarah Boyce",
+      "release_date": "2023-11-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4CzUHyLCr5nlOXmEARmSzy"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/63lWO7hkAxyG3s56YXZd5z/clip_174156_234156.mp3",
       "description": "Djangonaut Space - 2024 Session 1 ApplicationWelcome our new Fellow - Natalia BidartEiffelDjango security releases issued: 4.2.6, 4.1.12, and 3.2.22 Django 5.0 Alpha Release NotesSupport the ShowLearnDjango.comButtonDjango News newsletter",
@@ -6053,7 +6092,6 @@
       "resume_point": { "fully_played": true, "resume_position_ms": 40000 },
       "type": "episode",
       "uri": "spotify:episode:740GUKXl3jpwYTiOTHdbm0"
-    },
-    null
+    }
   ]
 }

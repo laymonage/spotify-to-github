@@ -3,43 +3,6 @@
   "artists": [
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "chamber pop",
-        "dream pop",
-        "experimental folk",
-        "experimental pop",
-        "indie pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
       "followers": { "href": null, "total": 0 },
@@ -101,6 +64,43 @@
       "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:0k7JGk03ntbFvfURT2hWmu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "dream pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -166,36 +166,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:5p9HO3XC5P3BLxJs5Mtrhm"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
-      "id": "0tMnuEXTeJeHbslcV8OybJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
-          "width": 160
-        }
-      ],
-      "name": "Drugdealer",
-      "popularity": 46,
-      "type": "artist",
-      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -402,36 +372,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
-      "id": "3Kthx6vfOdyrwpE1mjsyb8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
-          "width": 160
-        }
-      ],
-      "name": "Good Luck Finding Iris",
-      "popularity": 22,
-      "type": "artist",
-      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
       },
       "followers": { "href": null, "total": 0 },
@@ -489,6 +429,36 @@
       "popularity": 22,
       "type": "artist",
       "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -719,6 +689,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "la indie",
+        "modern alternative rock",
+        "modern rock",
+        "pov: indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1dWEYMPtNmvSVaDNLgB6NV",
+      "id": "1dWEYMPtNmvSVaDNLgB6NV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26d66c5483bedb75ab3fb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409d26d66c5483bedb75ab3fb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809d26d66c5483bedb75ab3fb",
+          "width": 160
+        }
+      ],
+      "name": "Saint Motel",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
       },
       "followers": { "href": null, "total": 0 },
@@ -752,41 +757,6 @@
       "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "la indie",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/1dWEYMPtNmvSVaDNLgB6NV",
-      "id": "1dWEYMPtNmvSVaDNLgB6NV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26d66c5483bedb75ab3fb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409d26d66c5483bedb75ab3fb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809d26d66c5483bedb75ab3fb",
-          "width": 160
-        }
-      ],
-      "name": "Saint Motel",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
     },
     {
       "external_urls": {
@@ -1061,36 +1031,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern rock", "pop", "pov: indie", "rock"],
-      "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
-      "id": "3YQKmKGau1PzlVlkL1iodx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174196972172c37d934d9ca8093",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093",
-          "width": 160
-        }
-      ],
-      "name": "Twenty One Pilots",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -1118,6 +1058,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern rock", "pop", "pov: indie", "rock"],
+      "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+      "id": "3YQKmKGau1PzlVlkL1iodx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174196972172c37d934d9ca8093",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093",
+          "width": 160
+        }
+      ],
+      "name": "Twenty One Pilots",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
     {
       "external_urls": {
@@ -1157,6 +1127,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative rock",
+        "indie rock",
+        "indietronica",
+        "modern rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
+      "id": "0SwO7SWeDHJijQ3XNS7xEE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749dccdc8f4087cbe2bdedc9d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3",
+          "width": 160
+        }
+      ],
+      "name": "MGMT",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
       },
       "followers": { "href": null, "total": 0 },
@@ -1192,6 +1198,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["experimental pop", "indie garage rock"],
+      "href": "https://api.spotify.com/v1/artists/2gzxBoK71ohENPlxlshHV7",
+      "id": "2gzxBoK71ohENPlxlshHV7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4db6cd4a1864b0a203f95c7a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744db6cd4a1864b0a203f95c7a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784db6cd4a1864b0a203f95c7a",
+          "width": 160
+        }
+      ],
+      "name": "Jerry Paper",
+      "popularity": 33,
+      "type": "artist",
+      "uri": "spotify:artist:2gzxBoK71ohENPlxlshHV7"
     },
     {
       "external_urls": {
@@ -1359,42 +1395,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "indie rock",
-        "indietronica",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-      "id": "0SwO7SWeDHJijQ3XNS7xEE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749dccdc8f4087cbe2bdedc9d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3",
-          "width": 160
-        }
-      ],
-      "name": "MGMT",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
       },
       "followers": { "href": null, "total": 0 },
@@ -1438,36 +1438,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["experimental pop", "indie garage rock"],
-      "href": "https://api.spotify.com/v1/artists/2gzxBoK71ohENPlxlshHV7",
-      "id": "2gzxBoK71ohENPlxlshHV7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4db6cd4a1864b0a203f95c7a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744db6cd4a1864b0a203f95c7a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784db6cd4a1864b0a203f95c7a",
-          "width": 160
-        }
-      ],
-      "name": "Jerry Paper",
-      "popularity": 33,
-      "type": "artist",
-      "uri": "spotify:artist:2gzxBoK71ohENPlxlshHV7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/33B8YdHEKqpNbbKVkQueoF"
       },
       "followers": { "href": null, "total": 0 },
@@ -1495,6 +1465,36 @@
       "popularity": 34,
       "type": "artist",
       "uri": "spotify:artist:33B8YdHEKqpNbbKVkQueoF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/38osEo6ebgNhOrlD5Xi4iZ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["lo-fi beats", "lo-fi rap"],
+      "href": "https://api.spotify.com/v1/artists/38osEo6ebgNhOrlD5Xi4iZ",
+      "id": "38osEo6ebgNhOrlD5Xi4iZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe7c8a8de06274832760cc966",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e7c8a8de06274832760cc966",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e7c8a8de06274832760cc966",
+          "width": 160
+        }
+      ],
+      "name": "Ibrahim",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:38osEo6ebgNhOrlD5Xi4iZ"
     },
     {
       "external_urls": {
