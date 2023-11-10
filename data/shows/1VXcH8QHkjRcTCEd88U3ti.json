@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 168,
+  "total_episodes": 167,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7472BTc7BkUxG9a3xOcFug/clip_0_60000.mp3",
+      "description": "Irina Karamanos Adrian didn't plan on becoming Chile's First Lady — but she set out to transform the role all the same. She shares how she's fighting gender stereotypes and protecting democracy by shifting political power back to where it belongs: to people who were actually elected.",
+      "duration_ms": 844836,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3zv9WxxS6PnzGyXfNXehVB"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3zv9WxxS6PnzGyXfNXehVB",
+      "html_description": "Irina Karamanos Adrian didn&#39;t plan on becoming Chile&#39;s First Lady — but she set out to transform the role all the same. She shares how she&#39;s fighting gender stereotypes and protecting democracy by shifting political power back to where it belongs: to people who were actually elected.",
+      "id": "3zv9WxxS6PnzGyXfNXehVB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a514683f3adfa2c56225f9de8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f514683f3adfa2c56225f9de8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d514683f3adfa2c56225f9de8",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "It's time to rethink the position of First Lady | Irina Karamanos Adrian",
+      "release_date": "2023-11-09",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3zv9WxxS6PnzGyXfNXehVB"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1JGJMUCtsBfpQnUWfgnPFj/clip_0_60000.mp3",
       "description": "Material scientist Anna Maria Coclite unveils \"smart skin\" — artificial skin technology that responds to touch, temperature and humidity like your very own. (It's actually even more sensitive than human skin!) From helping burn victims to paving the way to smarter, safer humanoid robots, Coclite highlights the broad-ranging potential of this innovation.",
@@ -6678,84 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:11pS3bdoFM3jzosMwwOTeM"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59GO2Ss0lhqzeOpnCo5Qoi/clip_0_60000.mp3",
-      "description": "Is AI as smart as it seems? Exploring the \"brain\" behind machine learning, neural networker Alona Fyshe delves into the language processing abilities of talkative tech (like the groundbreaking chatbot and internet obsession ChatGPT) and explains how different it is from your own brain -- even though it can sound convincingly human.",
-      "duration_ms": 716412,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6E2aJ3yMpc3T8PwklFCQIo"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6E2aJ3yMpc3T8PwklFCQIo",
-      "html_description": "Is AI as smart as it seems? Exploring the &#34;brain&#34; behind machine learning, neural networker Alona Fyshe delves into the language processing abilities of talkative tech (like the groundbreaking chatbot and internet obsession ChatGPT) and explains how different it is from your own brain -- even though it can sound convincingly human.",
-      "id": "6E2aJ3yMpc3T8PwklFCQIo",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a030298953a5910c7a71e92e6",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f030298953a5910c7a71e92e6",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d030298953a5910c7a71e92e6",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Does AI actually understand us? | Alona Fyshe",
-      "release_date": "2023-03-30",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6E2aJ3yMpc3T8PwklFCQIo"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4hMUdXVmbDO1NUzzm2jwAt/clip_0_60000.mp3",
-      "description": "Ever wished you could stop procrastinating and just be as efficient as a machine? Since you're a human, that's not going to happen -- but that's OK, says entrepreneur Dan Shipper. Here's how you can use awareness, observation and experimentation to clear your own way to getting more done.",
-      "duration_ms": 524076,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/4Qa9f3T79DV0i6rV1xj2yQ"
-      },
-      "href": "https://api.spotify.com/v1/episodes/4Qa9f3T79DV0i6rV1xj2yQ",
-      "html_description": "Ever wished you could stop procrastinating and just be as efficient as a machine? Since you&#39;re a human, that&#39;s not going to happen -- but that&#39;s OK, says entrepreneur Dan Shipper. Here&#39;s how you can use awareness, observation and experimentation to clear your own way to getting more done.",
-      "id": "4Qa9f3T79DV0i6rV1xj2yQ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ae67a178ef2e7c2370b7de056",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fe67a178ef2e7c2370b7de056",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68de67a178ef2e7c2370b7de056",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The unexpected key to boosting your productivity  | Dan Shipper",
-      "release_date": "2023-03-29",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:4Qa9f3T79DV0i6rV1xj2yQ"
     }
   ]
 }
