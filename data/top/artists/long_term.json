@@ -1252,36 +1252,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
-      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-      "id": "1g8HCTiMwBtFtpRR9JXAZR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
-          "width": 64
-        }
-      ],
-      "name": "Fishmans",
-      "popularity": 42,
-      "type": "artist",
-      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
       },
       "followers": { "href": null, "total": 0 },
@@ -1318,33 +1288,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+        "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
+      "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+      "id": "1g8HCTiMwBtFtpRR9JXAZR",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "url": "https://i.scdn.co/image/ab67616d0000b2735015ae782258977ea551406a",
           "width": 640
         },
         {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
-          "width": 320
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025015ae782258977ea551406a",
+          "width": 300
         },
         {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
-          "width": 160
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515015ae782258977ea551406a",
+          "width": 64
         }
       ],
-      "name": "Lonely Benson",
-      "popularity": 20,
+      "name": "Fishmans",
+      "popularity": 42,
       "type": "artist",
-      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
+      "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
@@ -1439,7 +1409,7 @@
         }
       ],
       "name": "Vulfpeck",
-      "popularity": 55,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
@@ -1478,6 +1448,36 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
+          "width": 160
+        }
+      ],
+      "name": "Lonely Benson",
+      "popularity": 20,
+      "type": "artist",
+      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
     },
     {
       "external_urls": {
@@ -1942,7 +1942,7 @@
         }
       ],
       "name": "BANNERS",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:4qWnlmXWuGv2TtuxtIWlJX"
     },
@@ -2827,7 +2827,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
