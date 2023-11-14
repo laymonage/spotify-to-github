@@ -1,6 +1,42 @@
 {
-  "total": 48,
+  "total": 49,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
@@ -64,42 +100,6 @@
       "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:0k7JGk03ntbFvfURT2hWmu"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "chamber pop",
-        "experimental folk",
-        "experimental pop",
-        "indie pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -584,6 +584,36 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "mellow gold", "soft rock"],
+      "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
+      "id": "1eEfMU2AhEo7XnKgL7c304",
+      "images": [
+        {
+          "height": 493,
+          "url": "https://i.scdn.co/image/ed45f575339b044d7168780a15ff457b85be851a",
+          "width": 500
+        },
+        {
+          "height": 197,
+          "url": "https://i.scdn.co/image/6d1f554e76304a29b8baa3f61213a88702c0f599",
+          "width": 200
+        },
+        {
+          "height": 63,
+          "url": "https://i.scdn.co/image/53a2c2a3d9f4c61f20b04d95936fadc83b7b08b5",
+          "width": 64
+        }
+      ],
+      "name": "Carpenters",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
     },
     {
       "external_urls": {
@@ -1541,7 +1571,8 @@
         "la indie",
         "modern alternative rock",
         "modern rock",
-        "pov: indie"
+        "pov: indie",
+        "stomp and holler"
       ],
       "href": "https://api.spotify.com/v1/artists/3kVUvbeRdcrqQ3oHk5hPdx",
       "id": "3kVUvbeRdcrqQ3oHk5hPdx",
