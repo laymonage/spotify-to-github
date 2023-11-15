@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1BFgwt4XddXWyrwFzAOHl4/clip_0_60000.mp3",
+      "description": "In the US, people spend the overwhelming majority of their time inside buildings that burn fossil fuels, which are bad for both the environment and human health. (Think: breathing in air pollution from gas stoves, furnaces and water heaters.) If we're going to fix this problem, we need to retrofit millions of buildings with all-electric equipment, says energy upgrader Donnel Baird. Hear about his ambitious plan to rip the fossil fuel infrastructure out of aging buildings and upgrade it with smarter, cleaner, healthier technology.",
+      "duration_ms": 677196,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4HaJQVokBy978ww14OtUsw"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4HaJQVokBy978ww14OtUsw",
+      "html_description": "In the US, people spend the overwhelming majority of their time inside buildings that burn fossil fuels, which are bad for both the environment and human health. (Think: breathing in air pollution from gas stoves, furnaces and water heaters.) If we&#39;re going to fix this problem, we need to retrofit millions of buildings with all-electric equipment, says energy upgrader Donnel Baird. Hear about his ambitious plan to rip the fossil fuel infrastructure out of aging buildings and upgrade it with smarter, cleaner, healthier technology.",
+      "id": "4HaJQVokBy978ww14OtUsw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aab19d16757f0e916f315713b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fab19d16757f0e916f315713b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dab19d16757f0e916f315713b",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why you should ditch deadly fossil-fuel appliances | Donnel Baird",
+      "release_date": "2023-11-14",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4HaJQVokBy978ww14OtUsw"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4HZDPvWTWWCid3blRAKIjQ/clip_0_60000.mp3",
       "description": "With some of the highest energy bills in Southeast Asia and extreme weather to match, the Philippines experiences the climate crisis -- and climate activism -- as a part of daily life. Clean energy advocate Kala Constantino highlights how people across the country are coming together to transform policies, power and the economy as the island nation maps out its green revolution.",
       "duration_ms": 377052,
@@ -6639,45 +6678,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1VYGtXxMCmgNJYaz8yChoP"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/26wJpwgy2sGWB6BZcIpRIo/clip_0_60000.mp3",
-      "description": "When it comes to cost, clean energy is bound to beat out fossil fuels, says technologist Ramez Naam. But the hesitancy to build amid the prevalence of \"not in my backyard\" campaigns is preventing the creation of our sustainable future. Naam outlines the changes we need to make to get out of our own way and create a stronger, more reliable renewable energy grid. \"It is time for us to build,\" he says.",
-      "duration_ms": 955932,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2cqk8qdsDmpCdx3euVcW15"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2cqk8qdsDmpCdx3euVcW15",
-      "html_description": "When it comes to cost, clean energy is bound to beat out fossil fuels, says technologist Ramez Naam. But the hesitancy to build amid the prevalence of &#34;not in my backyard&#34; campaigns is preventing the creation of our sustainable future. Naam outlines the changes we need to make to get out of our own way and create a stronger, more reliable renewable energy grid. &#34;It is time for us to build,&#34; he says.",
-      "id": "2cqk8qdsDmpCdx3euVcW15",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a667d85585ad39c5b48129da0",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f667d85585ad39c5b48129da0",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d667d85585ad39c5b48129da0",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A faster way to get to a clean energy future | Ramez Naam",
-      "release_date": "2023-04-04",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2cqk8qdsDmpCdx3euVcW15"
     }
   ]
 }

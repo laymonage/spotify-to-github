@@ -234,17 +234,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1a89a996bfd6f575a1e2170e",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaaa0cd5a1c9f9d076c09a563",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741a89a996bfd6f575a1e2170e",
+          "url": "https://i.scdn.co/image/ab67616100005174aaa0cd5a1c9f9d076c09a563",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781a89a996bfd6f575a1e2170e",
+          "url": "https://i.scdn.co/image/ab6761610000f178aaa0cd5a1c9f9d076c09a563",
           "width": 160
         }
       ],
@@ -1485,36 +1485,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
-      "id": "5YNnmXnEEEJM0ArqHDSyET",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
-          "width": 160
-        }
-      ],
-      "name": "Lonely Benson",
-      "popularity": 20,
-      "type": "artist",
-      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
       },
       "followers": { "href": null, "total": 0 },
@@ -1542,6 +1512,36 @@
       "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5YNnmXnEEEJM0ArqHDSyET"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/5YNnmXnEEEJM0ArqHDSyET",
+      "id": "5YNnmXnEEEJM0ArqHDSyET",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1a522e265bcb5f2afcc6912",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1a522e265bcb5f2afcc6912",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1a522e265bcb5f2afcc6912",
+          "width": 160
+        }
+      ],
+      "name": "Lonely Benson",
+      "popularity": 20,
+      "type": "artist",
+      "uri": "spotify:artist:5YNnmXnEEEJM0ArqHDSyET"
     },
     {
       "external_urls": {
@@ -2677,7 +2677,11 @@
         "spotify": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["classic indonesian rock", "indonesian pop"],
+      "genres": [
+        "classic indonesian rock",
+        "indonesian pop",
+        "indonesian pop rock"
+      ],
       "href": "https://api.spotify.com/v1/artists/6PL8FkAt5nOZwYpPIhuAJg",
       "id": "6PL8FkAt5nOZwYpPIhuAJg",
       "images": [
@@ -2765,7 +2769,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -3023,7 +3027,7 @@
         }
       ],
       "name": "Cage The Elephant",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
     },
