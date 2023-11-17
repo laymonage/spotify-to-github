@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2KjKxHlMjRHrwpuLl3V92t/clip_0_60000.mp3",
+      "description": "Racial inequality provokes passionate opinions and varied ideas of how to build a fair, equitable society. One topic that's been contentiously debated for generations is color blindness: the concept that we should look beyond race when thinking about equity. In this talk, writer and podcast host Coleman Hughes makes a case in favor of the idea, sharing why he thinks the key to reducing inequality and easing racial tensions is replacing race-based policies with class-based ones.",
+      "duration_ms": 873084,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/04wm43o0aLFep9xHZHodVh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/04wm43o0aLFep9xHZHodVh",
+      "html_description": "Racial inequality provokes passionate opinions and varied ideas of how to build a fair, equitable society. One topic that&#39;s been contentiously debated for generations is color blindness: the concept that we should look beyond race when thinking about equity. In this talk, writer and podcast host Coleman Hughes makes a case in favor of the idea, sharing why he thinks the key to reducing inequality and easing racial tensions is replacing race-based policies with class-based ones.",
+      "id": "04wm43o0aLFep9xHZHodVh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a6e9563862661765468153fa8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f6e9563862661765468153fa8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d6e9563862661765468153fa8",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "A case for color blindness | Coleman Hughes",
+      "release_date": "2023-11-16",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:04wm43o0aLFep9xHZHodVh"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6qzcei7ZyCMoRGPthtSvIg/clip_0_60000.mp3",
       "description": "The vast majority of our time at work is spent trudging through redundant and outdated workflows, says operations visionary Salvatore Cali. Laying out the most common time-wasting pitfalls, he urges policy leaders and businesses to reevaluate what they ask of both employees and consumers. \"By rethinking the true purpose of each task, you will discover what is waste and what is the real gold of your company: the creation of value,\" says Cali.",
       "duration_ms": 761580,
@@ -6639,45 +6678,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4wlRJt9ue6l6zLOiwDAjC9"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7rkVDQiPQTj3ewiot2VtpX/clip_0_60000.mp3",
-      "description": "Fasten your seat belt as software engineer Alex Koster takes us on a journey in what he calls the \"software dream car\" of the future. He breaks down how massive technological shifts are transforming the automotive industry and paints a vivid picture of where cars are headed -- from AI drivers to interiors and exteriors shaped by augmented and virtual reality.",
-      "duration_ms": 777084,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/26kOKT9NPxM372egZp3YIJ"
-      },
-      "href": "https://api.spotify.com/v1/episodes/26kOKT9NPxM372egZp3YIJ",
-      "html_description": "Fasten your seat belt as software engineer Alex Koster takes us on a journey in what he calls the &#34;software dream car&#34; of the future. He breaks down how massive technological shifts are transforming the automotive industry and paints a vivid picture of where cars are headed -- from AI drivers to interiors and exteriors shaped by augmented and virtual reality.",
-      "id": "26kOKT9NPxM372egZp3YIJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a5faa4f6a0c26894fa1e4bc33",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f5faa4f6a0c26894fa1e4bc33",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d5faa4f6a0c26894fa1e4bc33",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "What will the dream car of the future be like? | Alex Koster",
-      "release_date": "2023-04-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:26kOKT9NPxM372egZp3YIJ"
     }
   ]
 }
