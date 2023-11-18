@@ -39,6 +39,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
       "followers": { "href": null, "total": 0 },
@@ -126,42 +162,6 @@
       "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "chamber pop",
-        "experimental folk",
-        "experimental pop",
-        "indie pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -375,36 +375,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
-      "id": "3hSFS64223jyO9Ck66rLOf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
-          "width": 160
-        }
-      ],
-      "name": "Okey Dokey",
-      "popularity": 34,
-      "type": "artist",
-      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1cRqb8cQsGX8pgAceSWI7d"
       },
       "followers": { "href": null, "total": 0 },
@@ -462,6 +432,36 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
+      "id": "3hSFS64223jyO9Ck66rLOf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
+          "width": 160
+        }
+      ],
+      "name": "Okey Dokey",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
     {
       "external_urls": {
@@ -1062,7 +1062,7 @@
         }
       ],
       "name": "Tame Impala",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -1168,7 +1168,7 @@
         }
       ],
       "name": "Beach House",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY"
     },
@@ -1488,7 +1488,6 @@
         "modern rock",
         "portland indie",
         "seattle indie",
-        "shimmer pop",
         "stomp and holler"
       ],
       "href": "https://api.spotify.com/v1/artists/4LG4Bs1Gadht7TCrMytQUO",
@@ -1579,36 +1578,6 @@
       "popularity": 16,
       "type": "artist",
       "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["atlanta indie"],
-      "href": "https://api.spotify.com/v1/artists/5D9DTI3Knr64lYa3zDCpB7",
-      "id": "5D9DTI3Knr64lYa3zDCpB7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb951599b4fac22157c01c7b67",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174951599b4fac22157c01c7b67",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178951599b4fac22157c01c7b67",
-          "width": 160
-        }
-      ],
-      "name": "Trash Panda",
-      "popularity": 34,
-      "type": "artist",
-      "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
     {
       "external_urls": {
@@ -2156,6 +2125,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["atlanta indie"],
+      "href": "https://api.spotify.com/v1/artists/5D9DTI3Knr64lYa3zDCpB7",
+      "id": "5D9DTI3Knr64lYa3zDCpB7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb951599b4fac22157c01c7b67",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174951599b4fac22157c01c7b67",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178951599b4fac22157c01c7b67",
+          "width": 160
+        }
+      ],
+      "name": "Trash Panda",
+      "popularity": 34,
+      "type": "artist",
+      "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
       },
       "followers": { "href": null, "total": 0 },
@@ -2444,7 +2443,7 @@
         }
       ],
       "name": "The Beatles",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
     },
@@ -3191,7 +3190,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
