@@ -8099,7 +8099,7 @@
       "id": "4d7ifHr1zrli3fOi9aIHax",
       "is_local": false,
       "name": "Misnomer",
-      "popularity": 9,
+      "popularity": 8,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -10844,81 +10844,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-            },
-            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-            "id": "6ft7JnxMyZhp7N52qzHymY",
-            "name": "Vansire",
-            "type": "artist",
-            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
-        },
-        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
-        "id": "38h62IjPf3XjZ79ZcgtbEp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
-            "width": 64
-          }
-        ],
-        "name": "After Fillmore County",
-        "release_date": "2020-10-16",
-        "release_date_precision": "day",
-        "total_tracks": 7,
-        "type": "album",
-        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-          },
-          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-          "id": "6ft7JnxMyZhp7N52qzHymY",
-          "name": "Vansire",
-          "type": "artist",
-          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 221648,
-      "explicit": false,
-      "external_ids": { "isrc": "QZMEM2059261" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
-      "id": "2zNWXaGuC0E9uxGJGauyLP",
-      "is_local": false,
-      "name": "The Latter Teens",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
             },
             "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
@@ -11451,6 +11376,81 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:4wHGTUz4Q5IXiiJxL3jNKL"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+            "id": "6ft7JnxMyZhp7N52qzHymY",
+            "name": "Vansire",
+            "type": "artist",
+            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/38h62IjPf3XjZ79ZcgtbEp"
+        },
+        "href": "https://api.spotify.com/v1/albums/38h62IjPf3XjZ79ZcgtbEp",
+        "id": "38h62IjPf3XjZ79ZcgtbEp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b4920fd6677062b905d3bddc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b4920fd6677062b905d3bddc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b4920fd6677062b905d3bddc",
+            "width": 64
+          }
+        ],
+        "name": "After Fillmore County",
+        "release_date": "2020-10-16",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:38h62IjPf3XjZ79ZcgtbEp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+          },
+          "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+          "id": "6ft7JnxMyZhp7N52qzHymY",
+          "name": "Vansire",
+          "type": "artist",
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 221648,
+      "explicit": false,
+      "external_ids": { "isrc": "QZMEM2059261" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zNWXaGuC0E9uxGJGauyLP"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zNWXaGuC0E9uxGJGauyLP",
+      "id": "2zNWXaGuC0E9uxGJGauyLP",
+      "is_local": false,
+      "name": "The Latter Teens",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2zNWXaGuC0E9uxGJGauyLP"
     },
     {
       "album": {
@@ -16598,7 +16598,7 @@
       "id": "7JcBDiissYuMSR3cpMwwtI",
       "is_local": false,
       "name": "Favorite Holiday",
-      "popularity": 29,
+      "popularity": 28,
       "preview_url": "https://p.scdn.co/mp3-preview/077d728ea85ade30c30ffa4bb67fa043db992e31?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 5,
       "type": "track",
@@ -17601,7 +17601,7 @@
       "id": "7LYVDh003mW2jl5D1UBPhR",
       "is_local": false,
       "name": "Valleys (My Love)",
-      "popularity": 53,
+      "popularity": 52,
       "preview_url": "https://p.scdn.co/mp3-preview/eac2872fe684f98c5c8d969a369f66012351590d?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 5,
       "type": "track",
