@@ -375,7 +375,7 @@
         }
       ],
       "name": "The Ink Spots",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:5bOsFzuJ6QZMr86ezC4oXY"
     },
@@ -651,7 +651,7 @@
         }
       ],
       "name": "Charlie Burg",
-      "popularity": 52,
+      "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
     },
@@ -1509,7 +1509,7 @@
         }
       ],
       "name": "meija",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
     },
@@ -1706,6 +1706,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chillwave",
+        "downtempo",
+        "electronica",
+        "indietronica",
+        "intelligent dance music"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+      "id": "5oOhM2DFWab8XhSdQiITry",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4dc28dcee5516d2e89690525",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744dc28dcee5516d2e89690525",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784dc28dcee5516d2e89690525",
+          "width": 160
+        }
+      ],
+      "name": "Tycho",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
       },
       "followers": { "href": null, "total": 0 },
@@ -1806,42 +1842,6 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:5FxD8fkQZ6KcsSYupDVoSO"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chillwave",
-        "downtempo",
-        "electronica",
-        "indietronica",
-        "intelligent dance music"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
-      "id": "5oOhM2DFWab8XhSdQiITry",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4dc28dcee5516d2e89690525",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744dc28dcee5516d2e89690525",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784dc28dcee5516d2e89690525",
-          "width": 160
-        }
-      ],
-      "name": "Tycho",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
     },
     {
       "external_urls": {
@@ -2903,13 +2903,7 @@
         "spotify": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "dream pop",
-        "nu gaze",
-        "reading indie",
-        "shoegaze"
-      ],
+      "genres": ["alternative rock", "dream pop", "reading indie", "shoegaze"],
       "href": "https://api.spotify.com/v1/artists/72X6FHxaShda0XeQw3vbeF",
       "id": "72X6FHxaShda0XeQw3vbeF",
       "images": [
@@ -2930,7 +2924,7 @@
         }
       ],
       "name": "Slowdive",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF"
     },
@@ -2960,7 +2954,7 @@
         }
       ],
       "name": "Hard Car Kids",
-      "popularity": 22,
+      "popularity": 23,
       "type": "artist",
       "uri": "spotify:artist:6oLj5SonG9BHYVJurbEri8"
     },
