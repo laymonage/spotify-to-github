@@ -3658,7 +3658,7 @@
       "id": "0iJe81g5tUhKEjpc7Rfcq9",
       "is_local": false,
       "name": "Giving Up",
-      "popularity": 47,
+      "popularity": 46,
       "preview_url": "https://p.scdn.co/mp3-preview/e9c102b1999f0f9a452e89520e527d4350713db3?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 1,
       "type": "track",
@@ -4140,81 +4140,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-            },
-            "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-            "id": "4dWtsQvuME6tCWFycaTvO7",
-            "name": "The Brook & The Bluff",
-            "type": "artist",
-            "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
-        },
-        "href": "https://api.spotify.com/v1/albums/5SMIvs45B5BN5ES3qqiblH",
-        "id": "5SMIvs45B5BN5ES3qqiblH",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732ac9afb222b3f9f0268237f1",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022ac9afb222b3f9f0268237f1",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512ac9afb222b3f9f0268237f1",
-            "width": 64
-          }
-        ],
-        "name": "First Place",
-        "release_date": "2019-10-25",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:5SMIvs45B5BN5ES3qqiblH"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-          },
-          "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-          "id": "4dWtsQvuME6tCWFycaTvO7",
-          "name": "The Brook & The Bluff",
-          "type": "artist",
-          "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 85498,
-      "explicit": false,
-      "external_ids": { "isrc": "QZ93L1964768" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/1agXHe3ygv5C9pPBESBOr0"
-      },
-      "href": "https://api.spotify.com/v1/tracks/1agXHe3ygv5C9pPBESBOr0",
-      "id": "1agXHe3ygv5C9pPBESBOr0",
-      "is_local": false,
-      "name": "First Place",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:1agXHe3ygv5C9pPBESBOr0"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
             },
             "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
@@ -4441,6 +4366,81 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+            "id": "4dWtsQvuME6tCWFycaTvO7",
+            "name": "The Brook & The Bluff",
+            "type": "artist",
+            "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5SMIvs45B5BN5ES3qqiblH"
+        },
+        "href": "https://api.spotify.com/v1/albums/5SMIvs45B5BN5ES3qqiblH",
+        "id": "5SMIvs45B5BN5ES3qqiblH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732ac9afb222b3f9f0268237f1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022ac9afb222b3f9f0268237f1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512ac9afb222b3f9f0268237f1",
+            "width": 64
+          }
+        ],
+        "name": "First Place",
+        "release_date": "2019-10-25",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:5SMIvs45B5BN5ES3qqiblH"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+          "id": "4dWtsQvuME6tCWFycaTvO7",
+          "name": "The Brook & The Bluff",
+          "type": "artist",
+          "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 85498,
+      "explicit": false,
+      "external_ids": { "isrc": "QZ93L1964768" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1agXHe3ygv5C9pPBESBOr0"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1agXHe3ygv5C9pPBESBOr0",
+      "id": "1agXHe3ygv5C9pPBESBOr0",
+      "is_local": false,
+      "name": "First Place",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1agXHe3ygv5C9pPBESBOr0"
     },
     {
       "album": {
@@ -4683,241 +4683,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-            },
-            "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
-            "id": "1zkHConahaP6T8EBpg8BeE",
-            "name": "Ethan Gruska",
-            "type": "artist",
-            "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
-        },
-        "href": "https://api.spotify.com/v1/albums/2lgquOKqwJNvCg7UwvsjJy",
-        "id": "2lgquOKqwJNvCg7UwvsjJy",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273aac965b52ad3622bd7da4b16",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02aac965b52ad3622bd7da4b16",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851aac965b52ad3622bd7da4b16",
-            "width": 64
-          }
-        ],
-        "name": "En Garde",
-        "release_date": "2020-01-24",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:2lgquOKqwJNvCg7UwvsjJy"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-          },
-          "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
-          "id": "1zkHConahaP6T8EBpg8BeE",
-          "name": "Ethan Gruska",
-          "type": "artist",
-          "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 243987,
-      "explicit": false,
-      "external_ids": { "isrc": "USWB11902599" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/4dry9L9GCVDkZccpIQ81LH"
-      },
-      "href": "https://api.spotify.com/v1/tracks/4dry9L9GCVDkZccpIQ81LH",
-      "id": "4dry9L9GCVDkZccpIQ81LH",
-      "is_local": false,
-      "name": "Maybe I'll Go Nowhere",
-      "popularity": 33,
-      "preview_url": "https://p.scdn.co/mp3-preview/6d163058c0296c7aff19fc0aa7c8c16a41c48cad?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:4dry9L9GCVDkZccpIQ81LH"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
             },
             "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
@@ -5146,6 +4911,241 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:5qspeKX1xBacLJMm2t3Yc0"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+            },
+            "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+            "id": "1zkHConahaP6T8EBpg8BeE",
+            "name": "Ethan Gruska",
+            "type": "artist",
+            "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
+        },
+        "href": "https://api.spotify.com/v1/albums/2lgquOKqwJNvCg7UwvsjJy",
+        "id": "2lgquOKqwJNvCg7UwvsjJy",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aac965b52ad3622bd7da4b16",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aac965b52ad3622bd7da4b16",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aac965b52ad3622bd7da4b16",
+            "width": 64
+          }
+        ],
+        "name": "En Garde",
+        "release_date": "2020-01-24",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:2lgquOKqwJNvCg7UwvsjJy"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+          },
+          "href": "https://api.spotify.com/v1/artists/1zkHConahaP6T8EBpg8BeE",
+          "id": "1zkHConahaP6T8EBpg8BeE",
+          "name": "Ethan Gruska",
+          "type": "artist",
+          "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 243987,
+      "explicit": false,
+      "external_ids": { "isrc": "USWB11902599" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dry9L9GCVDkZccpIQ81LH"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4dry9L9GCVDkZccpIQ81LH",
+      "id": "4dry9L9GCVDkZccpIQ81LH",
+      "is_local": false,
+      "name": "Maybe I'll Go Nowhere",
+      "popularity": 33,
+      "preview_url": "https://p.scdn.co/mp3-preview/6d163058c0296c7aff19fc0aa7c8c16a41c48cad?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4dry9L9GCVDkZccpIQ81LH"
     },
     {
       "album": {
@@ -8099,7 +8099,7 @@
       "id": "4d7ifHr1zrli3fOi9aIHax",
       "is_local": false,
       "name": "Misnomer",
-      "popularity": 8,
+      "popularity": 7,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -9594,7 +9594,7 @@
       "id": "3awBLJoDSXa3TjQeDNhGlq",
       "is_local": false,
       "name": "Misnomer",
-      "popularity": 39,
+      "popularity": 38,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -10832,7 +10832,7 @@
       "id": "689aaDyPbD6NhAUpeczgSQ",
       "is_local": false,
       "name": "Rainbow Valley",
-      "popularity": 26,
+      "popularity": 25,
       "preview_url": "https://p.scdn.co/mp3-preview/b81ed6ab3e5b34c2c2ecde5b79b083ac64e83b7a?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 11,
       "type": "track",
@@ -11916,7 +11916,7 @@
       "id": "14iERgfj0sV3dasJsEGWLY",
       "is_local": false,
       "name": "Penelope",
-      "popularity": 17,
+      "popularity": 16,
       "preview_url": "https://p.scdn.co/mp3-preview/24e1647e830c201859d49fa32baeb5a01124af27?cid=c73100e39ab6406dae4c4479ff75d174",
       "track_number": 1,
       "type": "track",
