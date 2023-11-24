@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "All of BANNERS&#x27; song so far.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/6jhfDSL2ZC1v15MFRHutBX"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/6jhfDSL2ZC1v15MFRHutBX",
+  "href": "https://api.spotify.com/v1/playlists/6jhfDSL2ZC1v15MFRHutBX?acceptLanguage=*",
   "id": "6jhfDSL2ZC1v15MFRHutBX",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84c478c4f34d362f20f2d41a8d",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc478c4f34d362f20f2d41a8d",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "BANNERS",
+  "description": "All of BANNERS&#x27; song so far.",
+  "type": "playlist",
+  "uri": "spotify:playlist:6jhfDSL2ZC1v15MFRHutBX",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MzcsYjhiY2Q1NzlmMmRkYjM0NWQ0NWJmNmNmZDc3NDdmMGUzMmMwNTY5Yg==",
-  "type": "playlist",
-  "uri": "spotify:playlist:6jhfDSL2ZC1v15MFRHutBX",
   "tracks": [
     {
       "added_at": "2023-02-07T14:12:48Z",
@@ -2792,7 +2792,7 @@
         "id": "3tbXh9DSdveGBT5F33o6oY",
         "is_local": false,
         "name": "Miles Away",
-        "popularity": 37,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/16a3e0fd3ebc1b4fd229aa0627deed83c4900c07?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,

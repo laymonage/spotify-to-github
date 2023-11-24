@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Tastebreakers 2018 result.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/39Cs0oSJOUNvwIZHxKRMv5"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/39Cs0oSJOUNvwIZHxKRMv5",
+  "href": "https://api.spotify.com/v1/playlists/39Cs0oSJOUNvwIZHxKRMv5?acceptLanguage=*",
   "id": "39Cs0oSJOUNvwIZHxKRMv5",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da8401eebe7b784865ce216122b0",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb01eebe7b784865ce216122b0",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Brokentaste",
+  "description": "Tastebreakers 2018 result.",
+  "type": "playlist",
+  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MjksNjNiYWRjZDM5MTE1ODFkOTE5ZGNlNGY2YzUxN2ViY2NmMzk0NzlkYg==",
-  "type": "playlist",
-  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "tracks": [
     {
       "added_at": "2018-12-30T16:51:06Z",
@@ -2880,7 +2880,7 @@
         "id": "5h3MfjJrSPqKTZ7F4wyHg9",
         "is_local": false,
         "name": "Margery, My First Car",
-        "popularity": 35,
+        "popularity": 34,
         "preview_url": "https://p.scdn.co/mp3-preview/7709a58a74ec0909704b3062c26cceff4755432c?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,
@@ -3342,7 +3342,7 @@
         "id": "1DrlLvlYd1FIjNavRm6NdX",
         "is_local": false,
         "name": "Back Pocket",
-        "popularity": 66,
+        "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/f86e48fc454e583a1954873a4819629219748c47?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,

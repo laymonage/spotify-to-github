@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "one from (almost) every artist",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7zDfPLf2gzL46Ju3zh9wYI"
   },
   "followers": { "href": null, "total": 1 },
-  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI",
+  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI?acceptLanguage=*",
   "id": "7zDfPLf2gzL46Ju3zh9wYI",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84d99200ffa20c9ca7d7676147",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd99200ffa20c9ca7d7676147",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "assorted",
+  "description": "one from (almost) every artist",
+  "type": "playlist",
+  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTU2LDNiYWJiMjM5N2M4ZGMzMTE3OWNkZjcwOWFmYjIzYzdmNjk2ZjU0MTE=",
-  "type": "playlist",
-  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "tracks": [
     {
       "added_at": "2019-08-13T07:46:06Z",
@@ -112,7 +112,7 @@
         "id": "1v0KdOaCqAejvmhzdXsgY2",
         "is_local": false,
         "name": "Busbeat",
-        "popularity": 14,
+        "popularity": 13,
         "preview_url": null,
         "track": true,
         "track_number": 6,
@@ -10814,7 +10814,7 @@
         "id": "1yYoPm5wj4KQFJ68NR5hUM",
         "is_local": false,
         "name": "Golden",
-        "popularity": 20,
+        "popularity": 19,
         "preview_url": "https://p.scdn.co/mp3-preview/004d6563a0eeaf5956b2be08de936f6ac5bcd629?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -13958,7 +13958,7 @@
         "id": "1mvyqSb1tOvtVP1qfWEyPa",
         "is_local": false,
         "name": "1901",
-        "popularity": 25,
+        "popularity": 24,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -15474,7 +15474,7 @@
         "id": "7Ba3ntj3B7ebRfLpspn7Dh",
         "is_local": false,
         "name": "Dreams - 2002 Remaster",
-        "popularity": 40,
+        "popularity": 39,
         "preview_url": "https://p.scdn.co/mp3-preview/cc9e6257eae6f4d9af67b5c6297ffcbacbbb3d41?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcPNTHJwc78rm"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm?acceptLanguage=*",
   "id": "37i9dQZEVXcPNTHJwc78rm",
   "images": [
     {
-      "height": null,
       "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/JeFiPIKMPvP_MxvBrrFUTYB8TSsoq_wMEKMjsTZJrluX_GsrmGDnZXBKKVqYT5HzEKGew2fbTCIMwU4GQs_1TAx5OqHucJ5hQvYjPTSapSg=/NzU6OTE6NTFUNDAtMjEtMw==",
+      "height": null,
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Discover Weekly",
+  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
-  "snapshot_id": "MCwwMDAwMDAwMGU5MDQwODJmODdjMGQ0YmM0NDNjMTY1NDIyMjAwNTc5",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
+  "public": true,
+  "snapshot_id": "MCwwMDAwMDAwMDYyNTE2YzQ3Y2U1MDIwODNiNjVjYjQ0NDA2MTEyMWUy",
   "tracks": [
     {
       "added_at": "2023-11-19T17:00:00Z",
@@ -8520,7 +8520,7 @@
         "id": "6TqhDmvgBmBRIdXxhPwHzO",
         "is_local": false,
         "name": "Orinoco",
-        "popularity": 34,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/44b38f2656f214bdcd4eb4f660de32cd41fdf3f2?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,

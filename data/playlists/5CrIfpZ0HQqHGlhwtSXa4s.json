@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "dream pop and stuff",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5CrIfpZ0HQqHGlhwtSXa4s"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5CrIfpZ0HQqHGlhwtSXa4s",
+  "href": "https://api.spotify.com/v1/playlists/5CrIfpZ0HQqHGlhwtSXa4s?acceptLanguage=*",
   "id": "5CrIfpZ0HQqHGlhwtSXa4s",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84e7810c4fe35c541ea07c60cf",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe7810c4fe35c541ea07c60cf",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "dreamy",
+  "description": "dream pop and stuff",
+  "type": "playlist",
+  "uri": "spotify:playlist:5CrIfpZ0HQqHGlhwtSXa4s",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MjEsMGZmMzkwYmQ0YjU3MDYzY2E1NTllMzQ3OGJkODllMDFkNjY1MDAwMQ==",
-  "type": "playlist",
-  "uri": "spotify:playlist:5CrIfpZ0HQqHGlhwtSXa4s",
   "tracks": [
     {
       "added_at": "2019-03-16T01:58:37Z",
@@ -492,7 +492,7 @@
         "id": "7l47dRm8jw7NMs0OFoQrrK",
         "is_local": false,
         "name": "dreamgurl",
-        "popularity": 21,
+        "popularity": 20,
         "preview_url": "https://p.scdn.co/mp3-preview/26fa97522ae3bd5c3cdf79b9c0ec71782a29cd10?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -5212,7 +5212,7 @@
         "id": "4cJOLN346rtOty3UPACsao",
         "is_local": false,
         "name": "I Don't Know You",
-        "popularity": 39,
+        "popularity": 38,
         "preview_url": null,
         "track": true,
         "track_number": 1,

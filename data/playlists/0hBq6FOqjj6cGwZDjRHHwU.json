@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "A copy of my &quot;Your Top Songs 2022&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0hBq6FOqjj6cGwZDjRHHwU"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/0hBq6FOqjj6cGwZDjRHHwU",
+  "href": "https://api.spotify.com/v1/playlists/0hBq6FOqjj6cGwZDjRHHwU?acceptLanguage=*",
   "id": "0hBq6FOqjj6cGwZDjRHHwU",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84e9932f14e744f38b7e413280",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe9932f14e744f38b7e413280",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": " Y̶o̶u̶r̶ My Top Songs 2022",
+  "description": "A copy of my &quot;Your Top Songs 2022&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
+  "type": "playlist",
+  "uri": "spotify:playlist:0hBq6FOqjj6cGwZDjRHHwU",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "Nyw4OThlNGI3YWU1MDZkNTZkZjllYjQxNmVjZGJhYjhhYzcyMDkyM2Zm",
-  "type": "playlist",
-  "uri": "spotify:playlist:0hBq6FOqjj6cGwZDjRHHwU",
   "tracks": [
     {
       "added_at": "2023-07-16T14:26:38Z",
@@ -8350,7 +8350,7 @@
         "id": "777zXDJpBufzttU4AJ2dGO",
         "is_local": false,
         "name": "I Don't Want To Set The World On Fire",
-        "popularity": 69,
+        "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/9369f3f0c38e043d2b96702c7012dbd494c0953a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -10198,7 +10198,7 @@
         "id": "0BRvjLhMa3Qie8LMnRtY4f",
         "is_local": false,
         "name": "I'm Beginning To See The Light",
-        "popularity": 51,
+        "popularity": 50,
         "preview_url": "https://p.scdn.co/mp3-preview/1ba003ac119570c632cd2c4ed51c24a7ce1463cb?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,
@@ -29414,7 +29414,7 @@
         "id": "7bNJTBAtOPderJwRsJpDVm",
         "is_local": false,
         "name": "Don’t Go Slippin’ Away",
-        "popularity": 28,
+        "popularity": 27,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -40314,7 +40314,7 @@
         "id": "0eu6Ismb2aSdyIHc2Mtx23",
         "is_local": false,
         "name": "Bryn Mawr All-Stars",
-        "popularity": 35,
+        "popularity": 34,
         "preview_url": "https://p.scdn.co/mp3-preview/7fd8af0d473afd429eaefbb89d3efddc50d2a7f3?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,

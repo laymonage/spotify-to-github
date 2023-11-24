@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "A copy of my &quot;Your Top Songs 2021&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/11xCD3FlZRTxA9nl4cn0QZ"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/11xCD3FlZRTxA9nl4cn0QZ",
+  "href": "https://api.spotify.com/v1/playlists/11xCD3FlZRTxA9nl4cn0QZ?acceptLanguage=*",
   "id": "11xCD3FlZRTxA9nl4cn0QZ",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da844a89d3a12b9349ab8e230e6c",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb4a89d3a12b9349ab8e230e6c",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": " Y̶o̶u̶r̶ My Top Songs 2021",
+  "description": "A copy of my &quot;Your Top Songs 2021&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
+  "type": "playlist",
+  "uri": "spotify:playlist:11xCD3FlZRTxA9nl4cn0QZ",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "OSw1NjRhZTUwZTQzYmIyMjVjMWM3NWMzYjQ5YmVlNmEyODY1NDdkMGRl",
-  "type": "playlist",
-  "uri": "spotify:playlist:11xCD3FlZRTxA9nl4cn0QZ",
   "tracks": [
     {
       "added_at": "2023-07-16T14:20:25Z",
@@ -4320,7 +4320,7 @@
         "id": "5PNW9XO3kIYoPP5CHofKkG",
         "is_local": false,
         "name": "Don’t Go Slippin’ Away",
-        "popularity": 11,
+        "popularity": 10,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -25956,7 +25956,7 @@
         "id": "3npsesZRXscMdbzJhOCTG1",
         "is_local": false,
         "name": "Overlove",
-        "popularity": 33,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/4653c8acfb2c669ccc0643ef0152b4313f21c9d8?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,

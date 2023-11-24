@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "a trilogy by the blue wave boi",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1RQ3IoLTAon4eRG6f0ahOV"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/1RQ3IoLTAon4eRG6f0ahOV",
+  "href": "https://api.spotify.com/v1/playlists/1RQ3IoLTAon4eRG6f0ahOV?acceptLanguage=*",
   "id": "1RQ3IoLTAon4eRG6f0ahOV",
   "images": [
     {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273890b039661a24af2cd704385",
-      "width": 640
+      "url": "https://i.scdn.co/image/ab67616d00001e02890b039661a24af2cd704385",
+      "height": null,
+      "width": null
     }
   ],
+  "primary_color": null,
   "name": "blue wave",
+  "description": "a trilogy by the blue wave boi",
+  "type": "playlist",
+  "uri": "spotify:playlist:1RQ3IoLTAon4eRG6f0ahOV",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "OSxmYWIyYjQyYTg4ZWE3ZjNmNGI2YzcwYWRmMTZlNDE3MWM0NjA0YmRk",
-  "type": "playlist",
-  "uri": "spotify:playlist:1RQ3IoLTAon4eRG6f0ahOV",
   "tracks": [
     {
       "added_at": "2018-12-23T11:11:31Z",
@@ -1164,7 +1164,7 @@
         "id": "3DWEn047JNtUoJKLmCzFty",
         "is_local": false,
         "name": "Did Something Change?",
-        "popularity": 8,
+        "popularity": 7,
         "preview_url": null,
         "track": true,
         "track_number": 5,
@@ -1256,7 +1256,7 @@
         "id": "1v0KdOaCqAejvmhzdXsgY2",
         "is_local": false,
         "name": "Busbeat",
-        "popularity": 14,
+        "popularity": 13,
         "preview_url": null,
         "track": true,
         "track_number": 6,

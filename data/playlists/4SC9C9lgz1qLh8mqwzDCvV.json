@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "some glowy bedroom stuff",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4SC9C9lgz1qLh8mqwzDCvV"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/4SC9C9lgz1qLh8mqwzDCvV",
+  "href": "https://api.spotify.com/v1/playlists/4SC9C9lgz1qLh8mqwzDCvV?acceptLanguage=*",
   "id": "4SC9C9lgz1qLh8mqwzDCvV",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da845a63d8cd4997fc47c76f356a",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5a63d8cd4997fc47c76f356a",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "bedroom",
+  "description": "some glowy bedroom stuff",
+  "type": "playlist",
+  "uri": "spotify:playlist:4SC9C9lgz1qLh8mqwzDCvV",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "NDQsNDEwZjk2ZGY3MTc5OWU0YmI4MDNiZjI5MDcxZDIwZmU5NjkyYWY5ZA==",
-  "type": "playlist",
-  "uri": "spotify:playlist:4SC9C9lgz1qLh8mqwzDCvV",
   "tracks": [
     {
       "added_at": "2019-05-22T17:42:10Z",
@@ -8948,7 +8948,7 @@
         "id": "4cJOLN346rtOty3UPACsao",
         "is_local": false,
         "name": "I Don't Know You",
-        "popularity": 39,
+        "popularity": 38,
         "preview_url": null,
         "track": true,
         "track_number": 1,
