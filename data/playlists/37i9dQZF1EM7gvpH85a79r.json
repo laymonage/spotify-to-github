@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1EM7gvpH85a79r"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM7gvpH85a79r?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM7gvpH85a79r",
   "id": "37i9dQZF1EM7gvpH85a79r",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/wrapped-2020-top100_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Your Top Songs 2020",
-  "description": "The songs you loved most this year, all wrapped up.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1EM7gvpH85a79r",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
+  "primary_color": null,
+  "public": false,
   "snapshot_id": "MjY3NzQ2NTgsMDAwMDAwMDBmNmRkOTUyMmM2ZGQ0NzQ3NzNmNWQxYzY2ZDkxN2JmOA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1EM7gvpH85a79r",
   "tracks": [
     {
       "added_at": "2020-11-27T12:18:46Z",
@@ -2944,7 +2944,7 @@
         "id": "7iTLtSajuKrAB6f65Y5HtW",
         "is_local": false,
         "name": "Strawberry Afternoons",
-        "popularity": 38,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/bfd61a94bc58f072a731b81881667aec11caf306?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -9384,7 +9384,7 @@
         "id": "7B3rodrG7edKZaRY9rfUKY",
         "is_local": false,
         "name": "When It's Ready for You",
-        "popularity": 8,
+        "popularity": 7,
         "preview_url": "https://p.scdn.co/mp3-preview/aff64975948b029af3c90ae1d0e47a52e6380453?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,
@@ -10288,7 +10288,7 @@
         "id": "0jEwURQp1732PyLugWSPNj",
         "is_local": false,
         "name": "Let It Go",
-        "popularity": 8,
+        "popularity": 7,
         "preview_url": "https://p.scdn.co/mp3-preview/3c2dd1218a18ba476752bf24285c0927b9c6fba1?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -10838,7 +10838,7 @@
         "id": "7KP2CSXWvVW6rMKSksZM3Y",
         "is_local": false,
         "name": "Hurled Up",
-        "popularity": 5,
+        "popularity": 4,
         "preview_url": "https://p.scdn.co/mp3-preview/e3eb95eb349d0bd7ca950a75a81d394fdc173b81?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 7,
@@ -26304,7 +26304,7 @@
         "id": "18vu0Yh3nio1TtVPI1ZFLc",
         "is_local": false,
         "name": "Leaves (Reboot)",
-        "popularity": 18,
+        "popularity": 17,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -27760,7 +27760,7 @@
         "id": "40Q1BPn4TPv0tEKgsa5kKD",
         "is_local": false,
         "name": "June",
-        "popularity": 29,
+        "popularity": 28,
         "preview_url": null,
         "track": true,
         "track_number": 3,

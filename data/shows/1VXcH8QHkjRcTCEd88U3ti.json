@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 163,
+  "total_episodes": 164,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/43VHpq8ykytHfxf1wjm2n9/clip_0_60000.mp3",
+      "description": "Are you actually bored, or is something else going on? Educator Kevin H. Gary shares three practical takeaways to deal with the doldrums, so you can take control of your attention, figure out which feelings to trust and name the real problem.",
+      "duration_ms": 724332,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7dtKDu4wYEZ6psByHjDd1F"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7dtKDu4wYEZ6psByHjDd1F",
+      "html_description": "Are you actually bored, or is something else going on? Educator Kevin H. Gary shares three practical takeaways to deal with the doldrums, so you can take control of your attention, figure out which feelings to trust and name the real problem.",
+      "id": "7dtKDu4wYEZ6psByHjDd1F",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ac38c64055372e306bcc3cb1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fc38c64055372e306bcc3cb1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dc38c64055372e306bcc3cb1f",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why you shouldn't trust boredom | Kevin H. Gary",
+      "release_date": "2023-11-24",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7dtKDu4wYEZ6psByHjDd1F"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0M8wcnHT1gdYNNP1iw7q8P/clip_0_60000.mp3",
       "description": "Just weeks before the management shakeup at OpenAI rocked Silicon Valley and made international news, the company's cofounder and chief scientist Ilya Sutskever explored the transformative potential of artificial general intelligence (AGI), highlighting how it could surpass human intelligence and profoundly transform every aspect of life. Hear his take on the promises and perils of AGI — and his optimistic case for how unprecedented collaboration will ensure its safe and beneficial development.",

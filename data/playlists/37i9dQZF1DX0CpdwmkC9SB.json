@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "The biggest festival of the year - this is Glastonbury 2023.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0CpdwmkC9SB"
   },
-  "followers": { "href": null, "total": 124805 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB?acceptLanguage=*",
+  "followers": { "href": null, "total": 124807 },
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB",
   "id": "37i9dQZF1DX0CpdwmkC9SB",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706f000000025bda12f38294767d4210f9f2",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706f000000035bda12f38294767d4210f9f2",
       "width": null
     }
   ],
-  "primary_color": "#ffffff",
   "name": "Glastonbury 2023",
-  "description": "The biggest festival of the year - this is Glastonbury 2023.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
-  "snapshot_id": "MTY4NjkxOTI2NCwwMDAwMDAwMDEwOWE4ZDIyMmRmNzlkZjlmZjMxM2JhMDFlMGJhOWNj",
+  "primary_color": "#ffffff",
+  "public": false,
+  "snapshot_id": "MCxkYmNiNTNmOGEwMjYxZGJhYTcxMmJlMjZkOWExYmIwMWIzYjI0ZTE1",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "tracks": [
     {
       "added_at": "2023-05-30T14:39:42Z",
@@ -478,7 +478,7 @@
         "id": "0NdTUS4UiNYCNn5FgVqKQY",
         "is_local": false,
         "name": "Snap Out Of It",
-        "popularity": 82,
+        "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/f2ab7daa4bbd9ad5889c0dda818c40fe60b66406?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -938,7 +938,7 @@
         "id": "3gdewACMIVMEWVbyb8O9sY",
         "is_local": false,
         "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-        "popularity": 84,
+        "popularity": 83,
         "preview_url": "https://p.scdn.co/mp3-preview/c7316d016815fab0bb5ecb309da33e57d4da69c5?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -5958,7 +5958,7 @@
         "id": "5dAauIxGC3TyZRGIsOwWDu",
         "is_local": false,
         "name": "Millionaire",
-        "popularity": 57,
+        "popularity": 58,
         "preview_url": "https://p.scdn.co/mp3-preview/85b52635b3652e2f8612c7f16f31cc5af1553f1f?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,
@@ -15232,7 +15232,7 @@
         "id": "4PTG3Z6ehGkBFwjybzWkR8",
         "is_local": false,
         "name": "Never Gonna Give You Up",
-        "popularity": 69,
+        "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/b4c682084c3fd05538726d0a126b7e14b6e92c83?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -16150,7 +16150,7 @@
         "id": "7kXmJwrZGIhDaLT9sNo3ut",
         "is_local": false,
         "name": "Hey Boy Hey Girl",
-        "popularity": 68,
+        "popularity": 67,
         "preview_url": "https://p.scdn.co/mp3-preview/e499b55c4c7593ce09379b8c180a79c72628d111?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -23168,7 +23168,7 @@
         "id": "3WbVnXG3EaWAWkcyAThXm5",
         "is_local": false,
         "name": "Digging Deeper",
-        "popularity": 36,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/2d2897986a5e535fdf9f25c7428ac644869e0fb1?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -26724,7 +26724,7 @@
         "id": "3bIdWXtBtDqES9h21vls42",
         "is_local": false,
         "name": "Oceans Of Emotions",
-        "popularity": 47,
+        "popularity": 46,
         "preview_url": "https://p.scdn.co/mp3-preview/599429dbdd2377c154f1248584a82a9472e65131?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -28112,7 +28112,7 @@
         "id": "58VF5ob7qRB3yUzOYEAhyf",
         "is_local": false,
         "name": "Lost The Breakup",
-        "popularity": 67,
+        "popularity": 66,
         "preview_url": "https://p.scdn.co/mp3-preview/a43373884336b969f3c0affaae0b1f20c9ea4686?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,
@@ -29486,7 +29486,7 @@
         "id": "1YYK8zYkBKxVaANQ7CkgYu",
         "is_local": false,
         "name": "Leader of the Pack",
-        "popularity": 53,
+        "popularity": 52,
         "preview_url": "https://p.scdn.co/mp3-preview/98c40095605c67f1607a915a568fbd6361818522?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -31574,17 +31574,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734333a8c19a64f9e0e12712d7",
+              "url": "https://i.scdn.co/image/ab67616d0000b273123baf784d69e7d462eb4bca",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024333a8c19a64f9e0e12712d7",
+              "url": "https://i.scdn.co/image/ab67616d00001e02123baf784d69e7d462eb4bca",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514333a8c19a64f9e0e12712d7",
+              "url": "https://i.scdn.co/image/ab67616d00004851123baf784d69e7d462eb4bca",
               "width": 64
             }
           ],
@@ -43500,7 +43500,7 @@
         "id": "79FEKK0AZpiQoC2KejLQ4k",
         "is_local": false,
         "name": "Falling",
-        "popularity": 58,
+        "popularity": 57,
         "preview_url": "https://p.scdn.co/mp3-preview/5b0ed7d526daa6e2b22d3cb85697e53d92f1edf6?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,
@@ -44878,7 +44878,7 @@
         "id": "7G6NU3cp3ufNMEFCI2l90X",
         "is_local": false,
         "name": "It's Not Just Me, It's Everybody",
-        "popularity": 56,
+        "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/b6ebd7d2690a3e6e39c37f16be36b2dc999a4bac?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

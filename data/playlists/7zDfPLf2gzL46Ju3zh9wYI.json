@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "one from (almost) every artist",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7zDfPLf2gzL46Ju3zh9wYI"
   },
   "followers": { "href": null, "total": 1 },
-  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI",
   "id": "7zDfPLf2gzL46Ju3zh9wYI",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84d99200ffa20c9ca7d7676147",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd99200ffa20c9ca7d7676147",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "assorted",
-  "description": "one from (almost) every artist",
-  "type": "playlist",
-  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTU2LDNiYWJiMjM5N2M4ZGMzMTE3OWNkZjcwOWFmYjIzYzdmNjk2ZjU0MTE=",
+  "type": "playlist",
+  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "tracks": [
     {
       "added_at": "2019-08-13T07:46:06Z",
@@ -18796,7 +18796,7 @@
         "id": "3d9DChrdc6BOeFsbrZ3Is0",
         "is_local": false,
         "name": "Under the Bridge",
-        "popularity": 87,
+        "popularity": 86,
         "preview_url": "https://p.scdn.co/mp3-preview/46b0229c06712c5b5e143724c0617e51a9b6e432?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,
@@ -23064,7 +23064,7 @@
         "id": "5cTER4cYSVP7jQJvngrYri",
         "is_local": false,
         "name": "Wallflower",
-        "popularity": 21,
+        "popularity": 20,
         "preview_url": null,
         "track": true,
         "track_number": 4,
@@ -23988,7 +23988,7 @@
         "id": "7froDBThNq228ZEEfB6MXn",
         "is_local": false,
         "name": "Sunday Afternoon",
-        "popularity": 32,
+        "popularity": 33,
         "preview_url": "https://p.scdn.co/mp3-preview/39edb44a06a9d6f99ed02aa08f22bfae390b747a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

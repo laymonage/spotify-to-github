@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcPNTHJwc78rm"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm",
   "id": "37i9dQZEVXcPNTHJwc78rm",
   "images": [
     {
-      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/JeFiPIKMPvP_MxvBrrFUTYB8TSsoq_wMEKMjsTZJrluX_GsrmGDnZXBKKVqYT5HzEKGew2fbTCIMwU4GQs_1TAx5OqHucJ5hQvYjPTSapSg=/NzU6OTE6NTFUNDAtMjEtMw==",
       "height": null,
+      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/7JFCrPOrwdjmXemv3V2riKQLrdcQuzJ3phJBK8auml9bILZChTRjw7PWhoJ0-0JCtNCynF8PcgcNgncmpCvqHKTTFrv1R7LWRBOXexE512g=/NzU6NzE6NTFUNDAtMjEtMw==",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Discover Weekly",
-  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDYyNTE2YzQ3Y2U1MDIwODNiNjVjYjQ0NDA2MTEyMWUy",
+  "primary_color": null,
+  "public": false,
+  "snapshot_id": "MCwwMDAwMDAwMDUzZDEzNDE5NTYwZDJlMjA4OTcwYjIyY2FmM2ZjNWNj",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "tracks": [
     {
       "added_at": "2023-11-19T17:00:00Z",

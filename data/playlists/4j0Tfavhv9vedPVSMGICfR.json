@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4j0Tfavhv9vedPVSMGICfR"
   },
   "followers": { "href": null, "total": 2 },
-  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR",
   "id": "4j0Tfavhv9vedPVSMGICfR",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84ff7c8d2905689355efc3f236",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbff7c8d2905689355efc3f236",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Best of Mafia II Soundtrack (extended)",
-  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
-  "type": "playlist",
-  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTEwLDg5Y2FlNzU2NDY2OTE3MWE5M2MzMTNiOTM0NDYwOTc1YzY4MjE0YmU=",
+  "type": "playlist",
+  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "tracks": [
     {
       "added_at": "2018-04-15T02:55:03Z",
@@ -3728,7 +3728,7 @@
         "id": "60anOYdDXqPVhIssU2ZRKx",
         "is_local": false,
         "name": "I Haven't Time to Be a Millionaire (From \"If I Had My Way\")",
-        "popularity": 17,
+        "popularity": 18,
         "preview_url": "https://p.scdn.co/mp3-preview/a70b1713033496b302f81bb791665b2c99647bd5?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -11394,7 +11394,7 @@
         "id": "5PTiZNhdidMaRZOjSI2xks",
         "is_local": false,
         "name": "That's Amore - Remastered",
-        "popularity": 49,
+        "popularity": 48,
         "preview_url": "https://p.scdn.co/mp3-preview/45c67448defe82090395546560ff8f71fe52ba35?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -11578,7 +11578,7 @@
         "id": "3RlNEndXglHlPOhHnrE1oV",
         "is_local": false,
         "name": "C’Mon Everybody",
-        "popularity": 0,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -15694,7 +15694,7 @@
         "id": "4dDDIBakoMg9VlgxPZlGIN",
         "is_local": false,
         "name": "Stood Up - Remastered",
-        "popularity": 0,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 13,

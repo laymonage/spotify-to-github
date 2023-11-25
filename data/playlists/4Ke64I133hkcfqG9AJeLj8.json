@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "for some high school nostalgia",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4Ke64I133hkcfqG9AJeLj8"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8",
   "id": "4Ke64I133hkcfqG9AJeLj8",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67616d00001e02b22bbf5ada4099cfd4cc5a73",
-      "height": null,
-      "width": null
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b22bbf5ada4099cfd4cc5a73",
+      "width": 640
     }
   ],
-  "primary_color": null,
   "name": "doors",
-  "description": "for some high school nostalgia",
-  "type": "playlist",
-  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTUsYWE2NmYwYmNmZDNlMDQ2M2E2MDJjMTE0NzNkOWQyZDJlNTkxYWQ3Nw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "tracks": [
     {
       "added_at": "2020-06-19T06:05:34Z",
@@ -5636,7 +5636,7 @@
         "id": "7deq3ggYaiGp9FL3Cyg7hO",
         "is_local": false,
         "name": "Love Street",
-        "popularity": 23,
+        "popularity": 22,
         "preview_url": "https://p.scdn.co/mp3-preview/d0d312e093d94b338a2a7a7248e3d817df1a0a65?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -8228,7 +8228,7 @@
         "id": "4UHbMkSeKsCkiaQ2XDMh3G",
         "is_local": false,
         "name": "Yes, the River Knows",
-        "popularity": 16,
+        "popularity": 15,
         "preview_url": "https://p.scdn.co/mp3-preview/528bd4971c342be8aba4cd88a40ee4decefe143a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -9092,7 +9092,7 @@
         "id": "24i8bseOBKjWI0c8BDk1jt",
         "is_local": false,
         "name": "Shaman's Blues",
-        "popularity": 16,
+        "popularity": 15,
         "preview_url": "https://p.scdn.co/mp3-preview/8f879d14ee21cb5be4f635bf9facf3d26420b1ad?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,

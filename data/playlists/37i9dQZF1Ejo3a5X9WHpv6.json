@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1Ejo3a5X9WHpv6"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ejo3a5X9WHpv6?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ejo3a5X9WHpv6",
   "id": "37i9dQZF1Ejo3a5X9WHpv6",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/your-top-songs-2018_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/your-top-songs-2018_LARGE-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Your Top Songs 2018",
-  "description": "The songs you loved most this year, all wrapped up.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1Ejo3a5X9WHpv6",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
+  "primary_color": null,
+  "public": false,
   "snapshot_id": "MjU3NjA5NjEsMDAwMDAwMDA5NTJkYzY0NDdlN2MwNmEwOWE1NzI5NDVmMTExZDhiNw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1Ejo3a5X9WHpv6",
   "tracks": [
     {
       "added_at": "2018-12-24T13:21:03Z",
@@ -11644,7 +11644,7 @@
         "id": "0JQqJ4BbSBL0Kz7GHaajtY",
         "is_local": false,
         "name": "Slow Dive",
-        "popularity": 31,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/d17a6cd3a9407b06d222b41fbb37722cf7bb2150?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -12628,7 +12628,7 @@
         "id": "5IzGDVmi0oAb71kuTrIRbI",
         "is_local": false,
         "name": "Local Long Distance Relationship (LA2NY)",
-        "popularity": 41,
+        "popularity": 40,
         "preview_url": "https://p.scdn.co/mp3-preview/a4673525a8ab8d985ee681f55ad444aedfeaf849?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,

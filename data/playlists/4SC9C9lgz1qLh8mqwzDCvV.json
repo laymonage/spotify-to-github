@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "some glowy bedroom stuff",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4SC9C9lgz1qLh8mqwzDCvV"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/4SC9C9lgz1qLh8mqwzDCvV?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/4SC9C9lgz1qLh8mqwzDCvV",
   "id": "4SC9C9lgz1qLh8mqwzDCvV",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da845a63d8cd4997fc47c76f356a",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5a63d8cd4997fc47c76f356a",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "bedroom",
-  "description": "some glowy bedroom stuff",
-  "type": "playlist",
-  "uri": "spotify:playlist:4SC9C9lgz1qLh8mqwzDCvV",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NDQsNDEwZjk2ZGY3MTc5OWU0YmI4MDNiZjI5MDcxZDIwZmU5NjkyYWY5ZA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:4SC9C9lgz1qLh8mqwzDCvV",
   "tracks": [
     {
       "added_at": "2019-05-22T17:42:10Z",
@@ -2532,7 +2532,7 @@
         "id": "5OuJTtNve7FxUX82eEBupN",
         "is_local": false,
         "name": "Tommy's Party",
-        "popularity": 65,
+        "popularity": 64,
         "preview_url": "https://p.scdn.co/mp3-preview/06fb932773017ee04c4d36dde42f7c18d82b7943?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -6232,7 +6232,7 @@
         "id": "0KyAGiNGUytG5JLxJu4F6l",
         "is_local": false,
         "name": "Pretty Girl",
-        "popularity": 76,
+        "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/9dfa6eaf9492ac2bf1cb507b69a1792ad7850328?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1CyYZy6hRqMXqD"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD",
   "id": "37i9dQZF1CyYZy6hRqMXqD",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/your-top-songs-2016_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/your-top-songs-2016_LARGE-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Your Top Songs 2016",
-  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
+  "primary_color": null,
+  "public": false,
   "snapshot_id": "MjQ2Nzg3MjAsMDAwMDAwMDBlOTJkZDRjMjQyZWRiMWExNGY2ZjlkNmJiOTcwYTA4Mg==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "tracks": [
     {
       "added_at": "2016-12-03T00:00:00Z",
@@ -19390,7 +19390,7 @@
         "id": "3d9DChrdc6BOeFsbrZ3Is0",
         "is_local": false,
         "name": "Under the Bridge",
-        "popularity": 87,
+        "popularity": 86,
         "preview_url": "https://p.scdn.co/mp3-preview/46b0229c06712c5b5e143724c0617e51a9b6e432?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,

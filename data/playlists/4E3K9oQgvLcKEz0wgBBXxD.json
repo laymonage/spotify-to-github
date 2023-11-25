@@ -1,35 +1,35 @@
 {
   "collaborative": false,
+  "description": "The most played Cranberries tracks on Spotify right now, including Tracks from the Grammy Nominated: Best Rock Album “In the End”, out now. <a href=\"https://cranberries.lnk.to/InTheEndSp\">Click here to buy</a>.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4E3K9oQgvLcKEz0wgBBXxD"
   },
   "followers": { "href": null, "total": 61922 },
-  "href": "https://api.spotify.com/v1/playlists/4E3K9oQgvLcKEz0wgBBXxD?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/4E3K9oQgvLcKEz0wgBBXxD",
   "id": "4E3K9oQgvLcKEz0wgBBXxD",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84cf808fa64b5ad5e12dbdb5c4",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcf808fa64b5ad5e12dbdb5c4",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "The Cranberries Best Of",
-  "description": "The most played Cranberries tracks on Spotify right now, including Tracks from the Grammy Nominated: Best Rock Album “In the End”, out now. <a href=\"https://cranberries.lnk.to/InTheEndSp\">Click here to buy</a>.",
-  "type": "playlist",
-  "uri": "spotify:playlist:4E3K9oQgvLcKEz0wgBBXxD",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/cranberriesofficial",
-    "id": "cranberriesofficial",
-    "type": "user",
-    "uri": "spotify:user:cranberriesofficial",
     "display_name": "The Cranberries",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/cranberriesofficial"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/cranberriesofficial",
+    "id": "cranberriesofficial",
+    "type": "user",
+    "uri": "spotify:user:cranberriesofficial"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTAxLDVkZWQxY2M0ZmM1M2E0NDYyZGE1Y2U0NDc0OWNjZmY0M2I0YmY1YjQ=",
+  "type": "playlist",
+  "uri": "spotify:playlist:4E3K9oQgvLcKEz0wgBBXxD",
   "tracks": [
     {
       "added_at": "2020-08-14T09:29:20Z",
@@ -1130,7 +1130,7 @@
         "id": "5uMHnkSFTkYV764nfjoGKM",
         "is_local": false,
         "name": "The Pressure",
-        "popularity": 35,
+        "popularity": 34,
         "preview_url": null,
         "track": true,
         "track_number": 10,
@@ -2330,7 +2330,7 @@
         "id": "6ZoJ8bgGyCuGQ8shhKGkeg",
         "is_local": false,
         "name": "Lost",
-        "popularity": 36,
+        "popularity": 35,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -2514,7 +2514,7 @@
         "id": "6z11fdXJnPit4DEhdFHBOm",
         "is_local": false,
         "name": "A Place I Know",
-        "popularity": 29,
+        "popularity": 28,
         "preview_url": null,
         "track": true,
         "track_number": 4,
@@ -9714,7 +9714,7 @@
         "id": "0KtJ0y5Q2xS9UAjucbkcH2",
         "is_local": false,
         "name": "Summer Song",
-        "popularity": 22,
+        "popularity": 21,
         "preview_url": null,
         "track": true,
         "track_number": 9,
