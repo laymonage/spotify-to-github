@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 164,
+  "total_episodes": 165,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2BcUfIskqwnZyfZDzjXybh/clip_0_60000.mp3",
+      "description": "Does confidence equal competence? Not quite. In a talk that will make you better aware of yourself, experimental psychologist Robin Kramer delves into the Dunning-Kruger effect — which argues that those who are least capable often overestimate their skills the most — and explores just how good you are at judging your own abilities.",
+      "duration_ms": 613332,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6TJph1Bg4gfkIso8B2Ah0a"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6TJph1Bg4gfkIso8B2Ah0a",
+      "html_description": "Does confidence equal competence? Not quite. In a talk that will make you better aware of yourself, experimental psychologist Robin Kramer delves into the Dunning-Kruger effect — which argues that those who are least capable often overestimate their skills the most — and explores just how good you are at judging your own abilities.",
+      "id": "6TJph1Bg4gfkIso8B2Ah0a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a67c320eaf43f5255be913c9e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f67c320eaf43f5255be913c9e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d67c320eaf43f5255be913c9e",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Are you really as good at something as you think? | Robin Kramer",
+      "release_date": "2023-11-25",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6TJph1Bg4gfkIso8B2Ah0a"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/43VHpq8ykytHfxf1wjm2n9/clip_0_60000.mp3",
       "description": "Are you actually bored, or is something else going on? Educator Kevin H. Gary shares three practical takeaways to deal with the doldrums, so you can take control of your attention, figure out which feelings to trust and name the real problem.",
