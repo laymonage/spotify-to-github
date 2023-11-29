@@ -1,5 +1,5 @@
 {
-  "total": 60,
+  "total": 59,
   "artists": [
     {
       "external_urls": {
@@ -39,6 +39,43 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "acid rock",
+        "album rock",
+        "classic rock",
+        "hard rock",
+        "psychedelic rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/22WZ7M8sxp5THdruNY3gXt",
+      "id": "22WZ7M8sxp5THdruNY3gXt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb440959e022afc20e819050bd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174440959e022afc20e819050bd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178440959e022afc20e819050bd",
+          "width": 160
+        }
+      ],
+      "name": "The Doors",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -69,38 +106,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indie rock",
-        "indietronica",
-        "modern alternative rock",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
-      "id": "4kI8Ie27vjvonwaB2ePh8T",
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
+      "id": "3Kthx6vfOdyrwpE1mjsyb8",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe20c61457ea3c2fdef20c326",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
+          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e20c61457ea3c2fdef20c326",
+          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
           "width": 160
         }
       ],
-      "name": "Portugal. The Man",
-      "popularity": 65,
+      "name": "Good Luck Finding Iris",
+      "popularity": 22,
       "type": "artist",
-      "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
     },
     {
       "external_urls": {
@@ -170,36 +202,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
-      "id": "3Kthx6vfOdyrwpE1mjsyb8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb424c505b6d447930c9bb91bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174424c505b6d447930c9bb91bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178424c505b6d447930c9bb91bf",
-          "width": 160
-        }
-      ],
-      "name": "Good Luck Finding Iris",
-      "popularity": 21,
-      "type": "artist",
-      "uri": "spotify:artist:3Kthx6vfOdyrwpE1mjsyb8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
       "followers": { "href": null, "total": 0 },
@@ -227,6 +229,36 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie"],
+      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
+      "id": "5Vd6nIpBPLzJDQDcvILQu4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "width": 160
+        }
+      ],
+      "name": "Early Eyes",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
     },
     {
       "external_urls": {
@@ -297,7 +329,7 @@
         }
       ],
       "name": "The Alan Parsons Project",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
     },
@@ -437,7 +469,7 @@
         }
       ],
       "name": "Okey Dokey",
-      "popularity": 34,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
@@ -733,7 +765,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
@@ -769,36 +801,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
-      "id": "3M8JKaNdIRChzvxVK1XxKm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc125c8e7f549ee9ab0308a4a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c125c8e7f549ee9ab0308a4a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c125c8e7f549ee9ab0308a4a",
-          "width": 160
-        }
-      ],
-      "name": "FLEECE",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
       },
       "followers": { "href": null, "total": 0 },
@@ -829,36 +831,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie"],
-      "href": "https://api.spotify.com/v1/artists/5Vd6nIpBPLzJDQDcvILQu4",
-      "id": "5Vd6nIpBPLzJDQDcvILQu4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
-          "width": 160
-        }
-      ],
-      "name": "Early Eyes",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:5Vd6nIpBPLzJDQDcvILQu4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
       },
       "followers": { "href": null, "total": 0 },
@@ -883,7 +855,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 71,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -961,7 +933,7 @@
         }
       ],
       "name": "Chuck Berry",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:293zczrfYafIItmnmM3coR"
     },
@@ -1033,7 +1005,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 72,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
@@ -1069,37 +1041,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+        "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "australian reggae fusion",
-        "australian surf rock",
-        "reggae fusion"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3ZGr7nQBXDU2WhyXgRVbt0",
-      "id": "3ZGr7nQBXDU2WhyXgRVbt0",
+      "genres": ["bedroom pop", "rochester mn indie"],
+      "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+      "id": "6ft7JnxMyZhp7N52qzHymY",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb21ebb7e4085f6c9765fbe9a5",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9310cf18c564e55d8220f9d3",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517421ebb7e4085f6c9765fbe9a5",
+          "url": "https://i.scdn.co/image/ab676161000051749310cf18c564e55d8220f9d3",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17821ebb7e4085f6c9765fbe9a5",
+          "url": "https://i.scdn.co/image/ab6761610000f1789310cf18c564e55d8220f9d3",
           "width": 160
         }
       ],
-      "name": "Sticky Fingers",
-      "popularity": 62,
+      "name": "Vansire",
+      "popularity": 65,
       "type": "artist",
-      "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
+      "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
     },
     {
       "external_urls": {
@@ -1542,7 +1510,7 @@
         }
       ],
       "name": "Jerry Paper",
-      "popularity": 34,
+      "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:2gzxBoK71ohENPlxlshHV7"
     },
@@ -1956,6 +1924,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "indie rock",
+        "indietronica",
+        "modern alternative rock",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
+      "id": "4kI8Ie27vjvonwaB2ePh8T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe20c61457ea3c2fdef20c326",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e20c61457ea3c2fdef20c326",
+          "width": 160
+        }
+      ],
+      "name": "Portugal. The Man",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
       },
       "followers": { "href": null, "total": 0 },
@@ -1983,41 +1986,6 @@
       "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:7HjjdBLZHCZEIjlLbGVLi0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["irish rock", "pop rock", "rock"],
-      "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
-      "id": "7t0rwkOPGlDPEhaOcVtOt9",
-      "images": [
-        {
-          "height": 667,
-          "url": "https://i.scdn.co/image/143c01f407ed64a4b3bcbc92d24c05ef80981251",
-          "width": 1000
-        },
-        {
-          "height": 427,
-          "url": "https://i.scdn.co/image/a82245ec62ee9606ab456d787f1f7fcd788e6a10",
-          "width": 640
-        },
-        {
-          "height": 133,
-          "url": "https://i.scdn.co/image/3a0e3d6f957d3d713a386aeedd028a8e8a1d8803",
-          "width": 200
-        },
-        {
-          "height": 43,
-          "url": "https://i.scdn.co/image/95b4d133c1e6a19efb05e4becf0f9c46e0894845",
-          "width": 64
-        }
-      ],
-      "name": "The Cranberries",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
     }
   ]
 }
