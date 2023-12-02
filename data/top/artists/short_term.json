@@ -1,5 +1,5 @@
 {
-  "total": 59,
+  "total": 58,
   "artists": [
     {
       "external_urls": {
@@ -90,17 +90,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09d26d66c5483bedb75ab3fb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3313086b74b926b6dc347768",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409d26d66c5483bedb75ab3fb",
+          "url": "https://i.scdn.co/image/ab676161000051743313086b74b926b6dc347768",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809d26d66c5483bedb75ab3fb",
+          "url": "https://i.scdn.co/image/ab6761610000f1783313086b74b926b6dc347768",
           "width": 160
         }
       ],
@@ -327,6 +327,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chillwave",
+        "downtempo",
+        "electronica",
+        "indietronica",
+        "intelligent dance music"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+      "id": "5oOhM2DFWab8XhSdQiITry",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4dc28dcee5516d2e89690525",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744dc28dcee5516d2e89690525",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784dc28dcee5516d2e89690525",
+          "width": 160
+        }
+      ],
+      "name": "Tycho",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
       },
       "followers": { "href": null, "total": 0 },
@@ -444,42 +480,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chillwave",
-        "downtempo",
-        "electronica",
-        "indietronica",
-        "intelligent dance music"
-      ],
-      "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
-      "id": "5oOhM2DFWab8XhSdQiITry",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4dc28dcee5516d2e89690525",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744dc28dcee5516d2e89690525",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784dc28dcee5516d2e89690525",
-          "width": 160
-        }
-      ],
-      "name": "Tycho",
-      "popularity": 54,
-      "type": "artist",
-      "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
       "followers": { "href": null, "total": 0 },
@@ -576,36 +576,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["edmonton indie", "lo-fi indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
-      "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3cef7752073cbbd2cc04c6f0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743cef7752073cbbd2cc04c6f0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783cef7752073cbbd2cc04c6f0",
-          "width": 160
-        }
-      ],
-      "name": "Mac DeMarco",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
       },
       "followers": { "href": null, "total": 0 },
@@ -633,6 +603,36 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["edmonton indie", "lo-fi indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3cef7752073cbbd2cc04c6f0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743cef7752073cbbd2cc04c6f0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783cef7752073cbbd2cc04c6f0",
+          "width": 160
+        }
+      ],
+      "name": "Mac DeMarco",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM"
     },
     {
       "external_urls": {
@@ -800,7 +800,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
@@ -1106,6 +1106,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "indietronica",
+        "modern alternative rock",
+        "modern rock",
+        "pov: indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
+      "id": "4j56EQDQu5XnL7R3E9iFJT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f29db93f7f6a72cbf5f96b59",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f29db93f7f6a72cbf5f96b59",
+          "width": 160
+        }
+      ],
+      "name": "Young the Giant",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
       },
       "followers": { "href": null, "total": 0 },
@@ -1171,39 +1207,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
-      "id": "4j56EQDQu5XnL7R3E9iFJT",
+      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
           "width": 160
         }
       ],
-      "name": "Young the Giant",
-      "popularity": 65,
+      "name": "Tame Impala",
+      "popularity": 77,
       "type": "artist",
-      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
     {
       "external_urls": {
@@ -1248,72 +1278,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
-        "alternative dance",
-        "electropop",
         "indietronica",
-        "neo-synthpop",
-        "shimmer pop",
-        "swedish electropop",
-        "swedish indie pop",
-        "swedish synthpop"
+        "modern alternative rock",
+        "modern rock",
+        "rock"
       ],
-      "href": "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
-      "id": "4l1cKWYW591xnwEGxpUg3J",
+      "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
+      "id": "7gP3bB2nilZXLfPHJhMdvc",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5d44d2c9d050e48ee85a806d",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb5a3c9a9ca40824e0f44ea78",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745d44d2c9d050e48ee85a806d",
+          "url": "https://i.scdn.co/image/ab67616100005174b5a3c9a9ca40824e0f44ea78",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785d44d2c9d050e48ee85a806d",
+          "url": "https://i.scdn.co/image/ab6761610000f178b5a3c9a9ca40824e0f44ea78",
           "width": 160
         }
       ],
-      "name": "Miike Snow",
-      "popularity": 52,
+      "name": "Foster The People",
+      "popularity": 68,
       "type": "artist",
-      "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+      "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
     },
     {
       "external_urls": {
@@ -1354,6 +1350,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5iN89s0E8GcsTkIvCtYMRa",
+      "id": "5iN89s0E8GcsTkIvCtYMRa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d6688509c56176505018a3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c9d6688509c56176505018a3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c9d6688509c56176505018a3",
+          "width": 160
+        }
+      ],
+      "name": "OYSTER KIDS",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:5iN89s0E8GcsTkIvCtYMRa"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
       },
       "followers": { "href": null, "total": 0 },
@@ -1390,41 +1416,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7gP3bB2nilZXLfPHJhMdvc",
-      "id": "7gP3bB2nilZXLfPHJhMdvc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb5a3c9a9ca40824e0f44ea78",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b5a3c9a9ca40824e0f44ea78",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b5a3c9a9ca40824e0f44ea78",
-          "width": 160
-        }
-      ],
-      "name": "Foster The People",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
       },
       "followers": { "href": null, "total": 0 },
@@ -1449,7 +1440,7 @@
         }
       ],
       "name": "Vulfpeck",
-      "popularity": 57,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
     },
@@ -1486,6 +1477,41 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:1kDGbuxWknIKx4FlgWxiSp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "indie rock",
+        "indietronica",
+        "modern alternative rock",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
+      "id": "4kI8Ie27vjvonwaB2ePh8T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe20c61457ea3c2fdef20c326",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e20c61457ea3c2fdef20c326",
+          "width": 160
+        }
+      ],
+      "name": "Portugal. The Man",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
     },
     {
       "external_urls": {
@@ -1552,36 +1578,6 @@
       "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:2gzxBoK71ohENPlxlshHV7"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern rock", "pop", "pov: indie", "rock"],
-      "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
-      "id": "3YQKmKGau1PzlVlkL1iodx",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174196972172c37d934d9ca8093",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093",
-          "width": 160
-        }
-      ],
-      "name": "Twenty One Pilots",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
     {
       "external_urls": {
@@ -1719,6 +1715,75 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern rock", "pop", "pov: indie", "rock"],
+      "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+      "id": "3YQKmKGau1PzlVlkL1iodx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb196972172c37d934d9ca8093",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174196972172c37d934d9ca8093",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178196972172c37d934d9ca8093",
+          "width": 160
+        }
+      ],
+      "name": "Twenty One Pilots",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative dance",
+        "electropop",
+        "indietronica",
+        "neo-synthpop",
+        "shimmer pop",
+        "swedish electropop",
+        "swedish indie pop",
+        "swedish synthpop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4l1cKWYW591xnwEGxpUg3J",
+      "id": "4l1cKWYW591xnwEGxpUg3J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5d44d2c9d050e48ee85a806d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745d44d2c9d050e48ee85a806d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785d44d2c9d050e48ee85a806d",
+          "width": 160
+        }
+      ],
+      "name": "Miike Snow",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify:artist:4l1cKWYW591xnwEGxpUg3J"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
       },
       "followers": { "href": null, "total": 0 },
@@ -1784,36 +1849,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5iN89s0E8GcsTkIvCtYMRa"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/5iN89s0E8GcsTkIvCtYMRa",
-      "id": "5iN89s0E8GcsTkIvCtYMRa",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d6688509c56176505018a3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c9d6688509c56176505018a3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c9d6688509c56176505018a3",
-          "width": 160
-        }
-      ],
-      "name": "OYSTER KIDS",
-      "popularity": 16,
-      "type": "artist",
-      "uri": "spotify:artist:5iN89s0E8GcsTkIvCtYMRa"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
       },
       "followers": { "href": null, "total": 0 },
@@ -1857,36 +1892,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/33B8YdHEKqpNbbKVkQueoF"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["belgian pop"],
-      "href": "https://api.spotify.com/v1/artists/33B8YdHEKqpNbbKVkQueoF",
-      "id": "33B8YdHEKqpNbbKVkQueoF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb52b4ec7af4a3265d14839827",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517452b4ec7af4a3265d14839827",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17852b4ec7af4a3265d14839827",
-          "width": 160
-        }
-      ],
-      "name": "Konoba",
-      "popularity": 34,
-      "type": "artist",
-      "uri": "spotify:artist:33B8YdHEKqpNbbKVkQueoF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
       },
       "followers": { "href": null, "total": 0 },
@@ -1921,41 +1926,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:3kVUvbeRdcrqQ3oHk5hPdx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indie rock",
-        "indietronica",
-        "modern alternative rock",
-        "modern rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
-      "id": "4kI8Ie27vjvonwaB2ePh8T",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe20c61457ea3c2fdef20c326",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e20c61457ea3c2fdef20c326",
-          "width": 160
-        }
-      ],
-      "name": "Portugal. The Man",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
     },
     {
       "external_urls": {
