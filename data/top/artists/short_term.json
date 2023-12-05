@@ -237,6 +237,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["downtempo", "dream pop", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
+      "id": "3iOvXCl6edW5Um0fXEBRXy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb193bce41687d1869f8c7593f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174193bce41687d1869f8c7593f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178193bce41687d1869f8c7593f",
+          "width": 160
+        }
+      ],
+      "name": "The xx",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
       "followers": { "href": null, "total": 0 },
@@ -606,36 +636,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["downtempo", "dream pop", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/3iOvXCl6edW5Um0fXEBRXy",
-      "id": "3iOvXCl6edW5Um0fXEBRXy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb193bce41687d1869f8c7593f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174193bce41687d1869f8c7593f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178193bce41687d1869f8c7593f",
-          "width": 160
-        }
-      ],
-      "name": "The xx",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:3iOvXCl6edW5Um0fXEBRXy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu"
       },
       "followers": { "href": null, "total": 0 },
@@ -800,7 +800,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },

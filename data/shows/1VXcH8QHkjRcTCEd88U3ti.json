@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 165,
+  "total_episodes": 164,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4HPPvR7jxmVjX5wm1j0jyk/clip_0_60000.mp3",
+      "description": "South Africa transitioned to democracy in the 1990s with a visionary constitution, but the promises of that constitution are largely unfulfilled to this day. Public leader Lindiwe Mazibuko explores how poor leadership failed to deliver a better life for the country's citizens — and shares her mission to cultivate a new generation of ethical leaders who can revitalize democracy in South Africa and beyond.",
+      "duration_ms": 817452,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6VyBrbfbuy1eBroRk53vPD"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6VyBrbfbuy1eBroRk53vPD",
+      "html_description": "South Africa transitioned to democracy in the 1990s with a visionary constitution, but the promises of that constitution are largely unfulfilled to this day. Public leader Lindiwe Mazibuko explores how poor leadership failed to deliver a better life for the country&#39;s citizens — and shares her mission to cultivate a new generation of ethical leaders who can revitalize democracy in South Africa and beyond.",
+      "id": "6VyBrbfbuy1eBroRk53vPD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aefbfa653998c7e73e0fd7916",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fefbfa653998c7e73e0fd7916",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68defbfa653998c7e73e0fd7916",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Democracy works — we just need better leaders | Lindiwe Mazibuko",
+      "release_date": "2023-12-04",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6VyBrbfbuy1eBroRk53vPD"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0noXePHndeTCzVgskxifRm/clip_0_60000.mp3",
       "description": "Tackling climate change costs a lot of money — and the financial sector is key to getting that money flowing. In a wide-ranging conversation, sustainable investment leaders Nili Gilbert and David Blood discuss where progress is being made on climate solutions, where capital still needs to move faster and why this is an unprecedented opportunity for sustainable growth.",
@@ -713,6 +752,45 @@
       "uri": "spotify:episode:0LlvpFn352bQ81mUenrWee"
     },
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3IE7IEoDVKXxtJSPJfO0xG/clip_0_60000.mp3",
+      "description": "Drawing on his decades-long mission to formulate the world in computational terms, Stephen Wolfram delivers a profound vision of computation and its role in the future of AI. Amid a debut of mesmerizing visuals depicting the underlying structure of the universe, he provides a sweeping survey of his life's work, offering a new perspective on the applications — and consequences — of AI powered by computational language.",
+      "duration_ms": 1043412,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/63fqnJ8npJZr2U5NELyBLU"
+      },
+      "href": "https://api.spotify.com/v1/episodes/63fqnJ8npJZr2U5NELyBLU",
+      "html_description": "Drawing on his decades-long mission to formulate the world in computational terms, Stephen Wolfram delivers a profound vision of computation and its role in the future of AI. Amid a debut of mesmerizing visuals depicting the underlying structure of the universe, he provides a sweeping survey of his life&#39;s work, offering a new perspective on the applications — and consequences — of AI powered by computational language.",
+      "id": "63fqnJ8npJZr2U5NELyBLU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a787b69e0dc93a1e1c374972b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f787b69e0dc93a1e1c374972b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d787b69e0dc93a1e1c374972b",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to think computationally about AI, the universe and everything | Stephen Wolfram",
+      "release_date": "2023-11-18",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:63fqnJ8npJZr2U5NELyBLU"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Xq8LeMD7wQzGEKvuE6XWt/clip_0_60000.mp3",
       "description": "Electric vehicles need to be more than just eco-friendly — they have to be more chic, convenient and affordable than their gas-powered alternatives, says sustainability leader Cynthia Williams. She explores what it'll take for an electric revolution to succeed in the US, calling on corporations, policy leaders, investors and more to collaborate in unprecedented ways.",
       "duration_ms": 772764,
@@ -984,6 +1062,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3zv9WxxS6PnzGyXfNXehVB"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3MFr3lVhl0S6sqnA6lPQEp/clip_0_60000.mp3",
+      "description": "Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to \"Moloch's trap\" — the dark force of game theory driving many of humanity's biggest social problems, which is now threatening to derail the AI industry.",
+      "duration_ms": 735888,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/63ondIYs50ifAglx5cawpN"
+      },
+      "href": "https://api.spotify.com/v1/episodes/63ondIYs50ifAglx5cawpN",
+      "html_description": "Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to &#34;Moloch&#39;s trap&#34; — the dark force of game theory driving many of humanity&#39;s biggest social problems, which is now threatening to derail the AI industry.",
+      "id": "63ondIYs50ifAglx5cawpN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a011dffa6f6d21b4842f95b5b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f011dffa6f6d21b4842f95b5b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d011dffa6f6d21b4842f95b5b",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The dark side of competition in AI | Liv Boeree",
+      "release_date": "2023-11-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:63ondIYs50ifAglx5cawpN"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1JGJMUCtsBfpQnUWfgnPFj/clip_0_60000.mp3",
@@ -1259,6 +1376,45 @@
       "uri": "spotify:episode:4volaRtErqdlMxKRszzTBZ"
     },
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0PexTYIk3Qdr2KEQ48VFTI/clip_0_60000.mp3",
+      "description": "The current explosion of exciting commercial and open-source AI is likely to be followed, within a few years, by creepily superintelligent AI – which top researchers and experts fear could disempower or wipe out humanity. Scientist Max Tegmark describes an optimistic vision for how we can keep AI under control and ensure it's working for us, not the other way around.",
+      "duration_ms": 616463,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/09Ge4MN5FiPC6rotytZlUC"
+      },
+      "href": "https://api.spotify.com/v1/episodes/09Ge4MN5FiPC6rotytZlUC",
+      "html_description": "The current explosion of exciting commercial and open-source AI is likely to be followed, within a few years, by creepily superintelligent AI – which top researchers and experts fear could disempower or wipe out humanity. Scientist Max Tegmark describes an optimistic vision for how we can keep AI under control and ensure it&#39;s working for us, not the other way around.",
+      "id": "09Ge4MN5FiPC6rotytZlUC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a31bf128b04d242df21cc41b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f31bf128b04d242df21cc41b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d31bf128b04d242df21cc41b5",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to keep AI under control | Max Tegmark",
+      "release_date": "2023-10-30",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:09Ge4MN5FiPC6rotytZlUC"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4UEpLkczMsHeAM5dI6ij5X/clip_0_60000.mp3",
       "description": "There's a saying that comedy is tragedy plus time. Perhaps that's why some of our biggest problems feel easiest to manage with a dose of humor. Comedian, journalist and actor Roy Wood Jr. has spent his career finding the silly in the serious and using this tactic to influence real change. Listen in to learn how you can tap into the powers of humor in your own life. (This conversation, hosted by comedian Chris Duffy, was part of an exclusive TED Membership event. TED Membership is the best way to support and engage with the big ideas you love from TED. To learn more, visit ted.com/membership.)",
       "duration_ms": 2262516,
@@ -1335,45 +1491,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7EneR6hxR12xCW4MjcUIfd"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3IE7IEoDVKXxtJSPJfO0xG/clip_0_60000.mp3",
-      "description": "Drawing on his decades-long mission to formulate the world in computational terms, Stephen Wolfram delivers a profound vision of computation and its role in the future of AI. Amid a debut of mesmerizing visuals depicting the underlying structure of the universe, he provides a sweeping survey of his life's work, offering a new perspective on the applications — and consequences — of AI powered by computational language.",
-      "duration_ms": 1043412,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/63fqnJ8npJZr2U5NELyBLU"
-      },
-      "href": "https://api.spotify.com/v1/episodes/63fqnJ8npJZr2U5NELyBLU",
-      "html_description": "Drawing on his decades-long mission to formulate the world in computational terms, Stephen Wolfram delivers a profound vision of computation and its role in the future of AI. Amid a debut of mesmerizing visuals depicting the underlying structure of the universe, he provides a sweeping survey of his life&#39;s work, offering a new perspective on the applications — and consequences — of AI powered by computational language.",
-      "id": "63fqnJ8npJZr2U5NELyBLU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a787b69e0dc93a1e1c374972b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f787b69e0dc93a1e1c374972b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d787b69e0dc93a1e1c374972b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to think computationally about AI, the universe and everything | Stephen Wolfram",
-      "release_date": "2023-10-27",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:63fqnJ8npJZr2U5NELyBLU"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/06J0ukOaHAsGetDT4Zehc9/clip_0_60000.mp3",
@@ -6483,162 +6600,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1bJQYdZs7FhHTYAer5b2Xw"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0YSsq91bUMm5byS7oPr0M7/clip_0_60000.mp3",
-      "description": "Scam artists know something about money that you don't -- and artist J Mase III is here to shed some light. From Elizabeth Holmes's false medical tech promises to Anna \"Delvey\" Sorokin's fake trust fund and more, Mase shares examples of infamous scams along with three crucial lessons on how money functions for the wealthy, why it flows in the direction it does and how to start spotting scams in your own life.",
-      "duration_ms": 805884,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/11ApoLQIzddazW4HuQLuJO"
-      },
-      "href": "https://api.spotify.com/v1/episodes/11ApoLQIzddazW4HuQLuJO",
-      "html_description": "Scam artists know something about money that you don&#39;t -- and artist J Mase III is here to shed some light. From Elizabeth Holmes&#39;s false medical tech promises to Anna &#34;Delvey&#34; Sorokin&#39;s fake trust fund and more, Mase shares examples of infamous scams along with three crucial lessons on how money functions for the wealthy, why it flows in the direction it does and how to start spotting scams in your own life.",
-      "id": "11ApoLQIzddazW4HuQLuJO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a218b4d79aba35c7f0b5190c7",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f218b4d79aba35c7f0b5190c7",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d218b4d79aba35c7f0b5190c7",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "3 money lessons from infamous scam artists | J Mase III",
-      "release_date": "2023-05-03",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:11ApoLQIzddazW4HuQLuJO"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3mJld33ZG0pVqeWRCabNag/clip_0_60000.mp3",
-      "description": "Parents, take a deep breath: how your kids turn out isn't fully on you. Of course, parenting plays an important role in shaping who children become, but psychologist Yuko Munakata offers an alternative, research-backed reality that highlights how it's just one of many factors that influence the chaotic complexity of childhood development. A rethink for anyone wondering what made them who they are today and what it means to be a good parent.",
-      "duration_ms": 1042787,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/51R6plku7oz08gxNkJWttP"
-      },
-      "href": "https://api.spotify.com/v1/episodes/51R6plku7oz08gxNkJWttP",
-      "html_description": "Parents, take a deep breath: how your kids turn out isn&#39;t fully on you. Of course, parenting plays an important role in shaping who children become, but psychologist Yuko Munakata offers an alternative, research-backed reality that highlights how it&#39;s just one of many factors that influence the chaotic complexity of childhood development. A rethink for anyone wondering what made them who they are today and what it means to be a good parent.",
-      "id": "51R6plku7oz08gxNkJWttP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a4c68a8693c5130bd481ae10b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f4c68a8693c5130bd481ae10b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d4c68a8693c5130bd481ae10b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The science behind how parents affect child development | Yuko Munakata",
-      "release_date": "2023-05-02",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:51R6plku7oz08gxNkJWttP"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3MRYu585bFxLzkd6c0WOHI/clip_0_60000.mp3",
-      "description": "Sal Khan, the founder and CEO of Khan Academy, thinks artificial intelligence could spark the greatest positive transformation education has ever seen. He shares the opportunities he sees for students and educators to collaborate with AI tools -- including the potential of a personal AI tutor for every student and an AI teaching assistant for every teacher -- and demos some exciting new features for their educational chatbot, Khanmigo.",
-      "duration_ms": 849036,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7p6gC4LBkb4iLe2sjMycGV"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7p6gC4LBkb4iLe2sjMycGV",
-      "html_description": "Sal Khan, the founder and CEO of Khan Academy, thinks artificial intelligence could spark the greatest positive transformation education has ever seen. He shares the opportunities he sees for students and educators to collaborate with AI tools -- including the potential of a personal AI tutor for every student and an AI teaching assistant for every teacher -- and demos some exciting new features for their educational chatbot, Khanmigo.",
-      "id": "7p6gC4LBkb4iLe2sjMycGV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8aea51cdd54bc3e7307d527a56",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fea51cdd54bc3e7307d527a56",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dea51cdd54bc3e7307d527a56",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How AI could save (not destroy) education | Sal Khan",
-      "release_date": "2023-05-01",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7p6gC4LBkb4iLe2sjMycGV"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2uGEqPvAbzEYyTzUXyMgpf/clip_0_60000.mp3",
-      "description": "Computer scientist Yejin Choi is here to demystify the current state of massive artificial intelligence systems like ChatGPT, highlighting three key problems with cutting-edge large language models (including some funny instances of them failing at basic commonsense reasoning.) She welcomes us into a new era in which AI is becoming almost like a new intellectual species -- and identifies the benefits of building smaller AI systems trained on human norms and values. (Followed by a Q&A with head of TED Chris Anderson)",
-      "duration_ms": 1037147,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6FLi6X8gJPUi7nsBzp8bmz"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6FLi6X8gJPUi7nsBzp8bmz",
-      "html_description": "Computer scientist Yejin Choi is here to demystify the current state of massive artificial intelligence systems like ChatGPT, highlighting three key problems with cutting-edge large language models (including some funny instances of them failing at basic commonsense reasoning.) She welcomes us into a new era in which AI is becoming almost like a new intellectual species -- and identifies the benefits of building smaller AI systems trained on human norms and values. (Followed by a Q&amp;A with head of TED Chris Anderson)",
-      "id": "6FLi6X8gJPUi7nsBzp8bmz",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ab9f0814ab9e00fe5d8f754a0",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fb9f0814ab9e00fe5d8f754a0",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68db9f0814ab9e00fe5d8f754a0",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why AI is incredibly smart and shockingly stupid | Yejin Choi",
-      "release_date": "2023-04-28",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6FLi6X8gJPUi7nsBzp8bmz"
     }
   ]
 }
