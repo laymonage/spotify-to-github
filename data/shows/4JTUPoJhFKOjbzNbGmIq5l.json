@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 152,
+  "total_episodes": 153,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7JHW0YQXFWec0yMQ6gZPiO/clip_1233700_1286000.mp3",
+      "description": "Kolo for Django Lily on GitHub Add Field.db_default for defining database defaults ticket and in the 5.0 release notes Add the ability to use database-level CHECK CONSTRAINTSKivy Support the ShowLearnDjango.comButtonDjango News newsletter",
+      "duration_ms": 3498292,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1jqzKXEl5u4P4PM1s5sFaC"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1jqzKXEl5u4P4PM1s5sFaC",
+      "html_description": "<ul><li><a href=\"https://kolo.app/\" rel=\"nofollow\">Kolo for Django</a> </li><li><a href=\"https://github.com/LilyFoote\" rel=\"nofollow\">Lily on GitHub</a> </li><li><a href=\"https://code.djangoproject.com/ticket/470\" rel=\"nofollow\">Add Field.db_default for defining database defaults</a> ticket and in the <a href=\"https://docs.djangoproject.com/en/dev/releases/5.0/#database-computed-default-values\" rel=\"nofollow\">5.0 release notes</a> </li><li><a href=\"https://code.djangoproject.com/ticket/11964\" rel=\"nofollow\">Add the ability to use database-level CHECK CONSTRAINTS</a></li><li><a href=\"https://kivy.org/\" rel=\"nofollow\">Kivy</a> </li></ul><h3>Support the Show</h3><ul><li>LearnDjango.com</li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News newsletter</a></li></ul>",
+      "id": "1jqzKXEl5u4P4PM1s5sFaC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Kolo for Django - Lily Foote",
+      "release_date": "2023-12-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1jqzKXEl5u4P4PM1s5sFaC"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6bjYjxYocwasGDXOT9UJiW/clip_924500_992600.mp3",
       "description": "GitGuardianThe Security Repo PodcastConpagoWhy ChatGPT is a Security Concerndjango-two-factor-authPyCon Italia: Exploiting Leaked Credentials - How python code is leaking millions of secretsGitHub Events APISupport the ShowLearnDjango.comButtonDjango News newsletter",
