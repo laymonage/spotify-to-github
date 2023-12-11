@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7xh7LrONKolod9y5icxwsx/clip_0_60000.mp3",
+      "description": "Do you ever feel extra forgetful? Stress could be the culprit. In a fascinating talk about how your memory works, neuropsychologist Nicole Byers shares the science behind how stress drains your brain's resources, making it harder to remember things and easier to make mistakes. But fear not: she also shares a simple solution to recharge your brain and get your memory back on track.",
+      "duration_ms": 629628,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5Xq2y3fSntbkE1VSTnWBcn"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5Xq2y3fSntbkE1VSTnWBcn",
+      "html_description": "Do you ever feel extra forgetful? Stress could be the culprit. In a fascinating talk about how your memory works, neuropsychologist Nicole Byers shares the science behind how stress drains your brain&#39;s resources, making it harder to remember things and easier to make mistakes. But fear not: she also shares a simple solution to recharge your brain and get your memory back on track.",
+      "id": "5Xq2y3fSntbkE1VSTnWBcn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a9a18e3660b33269253dbad13",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f9a18e3660b33269253dbad13",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d9a18e3660b33269253dbad13",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How stress drains your brain — and what to do about it | Nicole Byers",
+      "release_date": "2023-12-09",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5Xq2y3fSntbkE1VSTnWBcn"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3MFr3lVhl0S6sqnA6lPQEp/clip_0_60000.mp3",
       "description": "Competition is a core part of human nature, and it can drive us to extraordinary feats. But when it goes wrong, the results can be devastating. Poker champion and science communicator Liv Boeree introduces us to \"Moloch's trap\" — the dark force of game theory driving many of humanity's biggest social problems, which is now threatening to derail the AI industry.",
       "duration_ms": 821964,
@@ -6522,45 +6561,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7qzqRNBM5NryzZVqgiLoz7"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3WEgrn6fzcxoIciP2tEugp/clip_0_60000.mp3",
-      "description": "In this exclusive preview of groundbreaking, unreleased technology, former Apple designer and Humane cofounder Imran Chaudhri envisions a future where AI enables our devices to \"disappear.\" He gives a sneak peek of his company's new product -- shown for the first time ever on the TED stage -- and explains how it could change the way we interact with tech and the world around us. Witness a stunning vision of the next leap in device design.",
-      "duration_ms": 829404,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2FvRuDH40yBjPGqsbl1yy4"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2FvRuDH40yBjPGqsbl1yy4",
-      "html_description": "In this exclusive preview of groundbreaking, unreleased technology, former Apple designer and Humane cofounder Imran Chaudhri envisions a future where AI enables our devices to &#34;disappear.&#34; He gives a sneak peek of his company&#39;s new product -- shown for the first time ever on the TED stage -- and explains how it could change the way we interact with tech and the world around us. Witness a stunning vision of the next leap in device design.",
-      "id": "2FvRuDH40yBjPGqsbl1yy4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ae757be477048f9bcffceb80d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fe757be477048f9bcffceb80d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68de757be477048f9bcffceb80d",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The disappearing computer — and a world where you can take AI everywhere | Imran Chaudhri",
-      "release_date": "2023-05-09",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2FvRuDH40yBjPGqsbl1yy4"
     }
   ]
 }
