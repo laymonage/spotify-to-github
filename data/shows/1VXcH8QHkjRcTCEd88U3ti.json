@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 163,
+  "total_episodes": 162,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1tQl04kwAKW78Ji5LyOWJd/clip_0_60000.mp3",
+      "description": "Legendary conductor Benjamin Zander explains his view on the difference between \"positive thinking\" and \"possibility\" (one's a fraud; the other's the real thing, he says) and intersperses delightful stories from a lifetime in music with a sing-along to Beethoven's Symphony No. 9.",
+      "duration_ms": 1176900,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0ZmbbsFoGqtK5UeuWgTych"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0ZmbbsFoGqtK5UeuWgTych",
+      "html_description": "Legendary conductor Benjamin Zander explains his view on the difference between &#34;positive thinking&#34; and &#34;possibility&#34; (one&#39;s a fraud; the other&#39;s the real thing, he says) and intersperses delightful stories from a lifetime in music with a sing-along to Beethoven&#39;s Symphony No. 9.",
+      "id": "0ZmbbsFoGqtK5UeuWgTych",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a63a376166ba754dc942e5598",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f63a376166ba754dc942e5598",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d63a376166ba754dc942e5598",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Life lessons from Beethoven's Symphony No. 9 | Benjamin Zander",
+      "release_date": "2023-12-11",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0ZmbbsFoGqtK5UeuWgTych"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7xh7LrONKolod9y5icxwsx/clip_0_60000.mp3",
       "description": "Do you ever feel extra forgetful? Stress could be the culprit. In a fascinating talk about how your memory works, neuropsychologist Nicole Byers shares the science behind how stress drains your brain's resources, making it harder to remember things and easier to make mistakes. But fear not: she also shares a simple solution to recharge your brain and get your memory back on track.",
@@ -6483,84 +6522,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2cAGTRd4ZbwbOXGQSKRcQw"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3cmHllwNptr9SFibguofAX/clip_0_60000.mp3",
-      "description": "Around the world, people who work hard are often seen as morally good -- even if they produce little to no results. Social psychologist Azim Shariff analyzes the roots of this belief and suggests a shift towards a more meaningful way to think about effort, rather than admiring work for work's sake.",
-      "duration_ms": 829572,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0gg7jFM6IAvpdNC1IlIRxS"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0gg7jFM6IAvpdNC1IlIRxS",
-      "html_description": "Around the world, people who work hard are often seen as morally good -- even if they produce little to no results. Social psychologist Azim Shariff analyzes the roots of this belief and suggests a shift towards a more meaningful way to think about effort, rather than admiring work for work&#39;s sake.",
-      "id": "0gg7jFM6IAvpdNC1IlIRxS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a114fc742c6c1a272c6edc255",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f114fc742c6c1a272c6edc255",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d114fc742c6c1a272c6edc255",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Does working hard really make you a good person? | Azim Shariff",
-      "release_date": "2023-05-11",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0gg7jFM6IAvpdNC1IlIRxS"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1ds7oRDwPZql7jaoJX74t5/clip_0_60000.mp3",
-      "description": "More than 30 million people in the US are eligible to have their arrest and conviction records cleared -- but most people who qualify either can't afford it or simply don't know it's an option. In this gripping talk, second chance advocate and 2023 Audacious Project grantee Sheena Meade makes the case for \"clean slate\" laws that streamline this complicated process, increasing access to work, housing and education opportunities for millions of people. Learn how her team at the Clean Slate Initiative has already helped pass these laws in six US states and how they're now working to unlock record clearance for millions more, so everyone can get a true shot at becoming their best selves. (This ambitious plan is a part of the Audacious Project, TED's initiative to inspire and fund global change.)",
-      "duration_ms": 575028,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7qzqRNBM5NryzZVqgiLoz7"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7qzqRNBM5NryzZVqgiLoz7",
-      "html_description": "More than 30 million people in the US are eligible to have their arrest and conviction records cleared -- but most people who qualify either can&#39;t afford it or simply don&#39;t know it&#39;s an option. In this gripping talk, second chance advocate and 2023 Audacious Project grantee Sheena Meade makes the case for &#34;clean slate&#34; laws that streamline this complicated process, increasing access to work, housing and education opportunities for millions of people. Learn how her team at the Clean Slate Initiative has already helped pass these laws in six US states and how they&#39;re now working to unlock record clearance for millions more, so everyone can get a true shot at becoming their best selves. (This ambitious plan is a part of the Audacious Project, TED&#39;s initiative to inspire and fund global change.)",
-      "id": "7qzqRNBM5NryzZVqgiLoz7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8aa52ecf0b5aa03d4aa0eeec17",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fa52ecf0b5aa03d4aa0eeec17",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68da52ecf0b5aa03d4aa0eeec17",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How \"second chance\" laws could transform the US justice system | Sheena Meade",
-      "release_date": "2023-05-10",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7qzqRNBM5NryzZVqgiLoz7"
     }
   ]
 }
