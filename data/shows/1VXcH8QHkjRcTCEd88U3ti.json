@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3XIxzka12Ndaawk0n8WeKT/clip_0_60000.mp3",
+      "description": "The metaverse could be our key to making real progress in the fight against climate change, says engineer Cedrik Neike. Examining how AI-powered modeling eliminates the trial and error of wasteful industries, he explores how this emerging technology is already improving everything from the gigafactories that churn out electric car batteries to the fuel efficiency of your home. Learn more about how these \"digital twins\" are transforming the world — and not a moment too soon.",
+      "duration_ms": 650964,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5JYxf5FyCdEBfgbAQz9RTH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5JYxf5FyCdEBfgbAQz9RTH",
+      "html_description": "The metaverse could be our key to making real progress in the fight against climate change, says engineer Cedrik Neike. Examining how AI-powered modeling eliminates the trial and error of wasteful industries, he explores how this emerging technology is already improving everything from the gigafactories that churn out electric car batteries to the fuel efficiency of your home. Learn more about how these &#34;digital twins&#34; are transforming the world — and not a moment too soon.",
+      "id": "5JYxf5FyCdEBfgbAQz9RTH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a0c03a7c73ca1a46c4889bd63",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f0c03a7c73ca1a46c4889bd63",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d0c03a7c73ca1a46c4889bd63",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Time is running out on climate change. The metaverse could help | Cedrik Neike",
+      "release_date": "2023-12-13",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5JYxf5FyCdEBfgbAQz9RTH"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1PW7g3HO0SlTKdrM0SSU0h/clip_0_60000.mp3",
       "description": "As the cofounder of Google DeepMind, Shane Legg is driving one of the greatest transformations in history: the development of artificial general intelligence (AGI). He envisions a system with human-like intelligence that would be exponentially smarter than today's AI, with limitless possibilities and applications. In conversation with head of TED Chris Anderson, Legg explores the evolution of AGI, what the world might look like when it arrives — and how to ensure it's built safely and ethically.",
       "duration_ms": 1059348,
@@ -6522,45 +6561,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2cAGTRd4ZbwbOXGQSKRcQw"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3cmHllwNptr9SFibguofAX/clip_0_60000.mp3",
-      "description": "Around the world, people who work hard are often seen as morally good -- even if they produce little to no results. Social psychologist Azim Shariff analyzes the roots of this belief and suggests a shift towards a more meaningful way to think about effort, rather than admiring work for work's sake.",
-      "duration_ms": 829572,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0gg7jFM6IAvpdNC1IlIRxS"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0gg7jFM6IAvpdNC1IlIRxS",
-      "html_description": "Around the world, people who work hard are often seen as morally good -- even if they produce little to no results. Social psychologist Azim Shariff analyzes the roots of this belief and suggests a shift towards a more meaningful way to think about effort, rather than admiring work for work&#39;s sake.",
-      "id": "0gg7jFM6IAvpdNC1IlIRxS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a114fc742c6c1a272c6edc255",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f114fc742c6c1a272c6edc255",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d114fc742c6c1a272c6edc255",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Does working hard really make you a good person? | Azim Shariff",
-      "release_date": "2023-05-11",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0gg7jFM6IAvpdNC1IlIRxS"
     }
   ]
 }

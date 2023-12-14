@@ -1,6 +1,36 @@
 {
-  "total": 59,
+  "total": 61,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "width": 160
+        }
+      ],
+      "name": "STRFKR",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
@@ -39,36 +69,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
-          "width": 160
-        }
-      ],
-      "name": "STRFKR",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
       },
       "followers": { "href": null, "total": 0 },
@@ -100,7 +100,7 @@
         }
       ],
       "name": "The Doors",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
     },
@@ -176,36 +176,6 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
-      "id": "0tMnuEXTeJeHbslcV8OybJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
-          "width": 160
-        }
-      ],
-      "name": "Drugdealer",
-      "popularity": 47,
-      "type": "artist",
-      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
     },
     {
       "external_urls": {
@@ -299,36 +269,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
-      "id": "02nqs3YdfX7Th3gYTYFrqc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
-          "width": 160
-        }
-      ],
-      "name": "Tōth",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4"
       },
       "followers": { "href": null, "total": 0 },
@@ -389,6 +329,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "neo-psychedelic", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0tMnuEXTeJeHbslcV8OybJ",
+      "id": "0tMnuEXTeJeHbslcV8OybJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaefc7fc53b2e218c17c5ac31",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aefc7fc53b2e218c17c5ac31",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aefc7fc53b2e218c17c5ac31",
+          "width": 160
+        }
+      ],
+      "name": "Drugdealer",
+      "popularity": 47,
+      "type": "artist",
+      "uri": "spotify:artist:0tMnuEXTeJeHbslcV8OybJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
       },
       "followers": { "href": null, "total": 0 },
@@ -429,42 +399,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2m62cc253Xvd9qYQ8d2X3d"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "chamber pop",
-        "chicago indie",
-        "countrygaze",
-        "indie pop",
-        "indie rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
-      "id": "32aUoW94mJ7xTJI7fG0V1G",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
-          "width": 160
-        }
-      ],
-      "name": "Whitney",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
     },
     {
       "external_urls": {
@@ -755,6 +689,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
+      "id": "02nqs3YdfX7Th3gYTYFrqc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb036cc82d05e6f8698d52db8a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174036cc82d05e6f8698d52db8a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178036cc82d05e6f8698d52db8a",
+          "width": 160
+        }
+      ],
+      "name": "Tōth",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
       },
       "followers": { "href": null, "total": 0 },
@@ -796,33 +760,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
+        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
       },
       "followers": { "href": null, "total": 0 },
       "genres": [],
-      "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
-      "id": "6i48BaGgUX0ceBv2F0iQH0",
+      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
+      "id": "3Da81tOAhG3gdust5MNI2s",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0199a0857e2664b81a36bb0e",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740199a0857e2664b81a36bb0e",
+          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780199a0857e2664b81a36bb0e",
+          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
           "width": 160
         }
       ],
-      "name": "The Irons",
-      "popularity": 20,
+      "name": "The Humble Cheaters",
+      "popularity": 15,
       "type": "artist",
-      "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
+      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
     {
       "external_urls": {
@@ -883,6 +847,77 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ix4iw2URncSdE7X292bXy"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["chamber pop", "wisconsin indie"],
+      "href": "https://api.spotify.com/v1/artists/3ix4iw2URncSdE7X292bXy",
+      "id": "3ix4iw2URncSdE7X292bXy",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/8ebb9208abdd257086901578ed992339bc24775b",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/27aec5d5f81bec4ffa4292fff5ab0eec05363184",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/3b6f309abc9b33e9589826e31151f3d22985609d",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/2cbb4e48c872e79004311a2e3262436dfd40aad4",
+          "width": 64
+        }
+      ],
+      "name": "PHOX",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:3ix4iw2URncSdE7X292bXy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "chamber pop",
+        "chicago indie",
+        "countrygaze",
+        "indie pop",
+        "indie rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
+      "id": "32aUoW94mJ7xTJI7fG0V1G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9fd95d7d8a751babaf73727c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749fd95d7d8a751babaf73727c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789fd95d7d8a751babaf73727c",
+          "width": 160
+        }
+      ],
+      "name": "Whitney",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
     },
     {
       "external_urls": {
@@ -951,37 +986,67 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu"
+        "spotify": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "indie garage rock",
-        "neo-psychedelic",
-        "norwegian psychedelic"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0k7JGk03ntbFvfURT2hWmu",
-      "id": "0k7JGk03ntbFvfURT2hWmu",
+      "genres": ["melbourne indie"],
+      "href": "https://api.spotify.com/v1/artists/6Vf4rmMsQbAwiCG00YeEI7",
+      "id": "6Vf4rmMsQbAwiCG00YeEI7",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb270232b9d28b7c3c4334a0b4",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7fbbf512c6d2b03a0a32ddb9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174270232b9d28b7c3c4334a0b4",
+          "url": "https://i.scdn.co/image/ab676161000051747fbbf512c6d2b03a0a32ddb9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178270232b9d28b7c3c4334a0b4",
+          "url": "https://i.scdn.co/image/ab6761610000f1787fbbf512c6d2b03a0a32ddb9",
           "width": 160
         }
       ],
-      "name": "Gold Celeste",
-      "popularity": 30,
+      "name": "RICEWINE",
+      "popularity": 44,
       "type": "artist",
-      "uri": "spotify:artist:0k7JGk03ntbFvfURT2hWmu"
+      "uri": "spotify:artist:6Vf4rmMsQbAwiCG00YeEI7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "australian reggae fusion",
+        "australian surf rock",
+        "reggae fusion"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3ZGr7nQBXDU2WhyXgRVbt0",
+      "id": "3ZGr7nQBXDU2WhyXgRVbt0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb21ebb7e4085f6c9765fbe9a5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517421ebb7e4085f6c9765fbe9a5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17821ebb7e4085f6c9765fbe9a5",
+          "width": 160
+        }
+      ],
+      "name": "Sticky Fingers",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
     },
     {
       "external_urls": {
@@ -1403,7 +1468,7 @@
         }
       ],
       "name": "Foster The People",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:7gP3bB2nilZXLfPHJhMdvc"
     },
@@ -1540,7 +1605,7 @@
         }
       ],
       "name": "The National",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:2cCUtGK9sDU2EoElnk0GNB"
     },
