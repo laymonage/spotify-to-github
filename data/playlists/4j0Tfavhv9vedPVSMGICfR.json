@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4j0Tfavhv9vedPVSMGICfR"
   },
   "followers": { "href": null, "total": 2 },
-  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR",
+  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR?locale=*",
   "id": "4j0Tfavhv9vedPVSMGICfR",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84ff7c8d2905689355efc3f236",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbff7c8d2905689355efc3f236",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Best of Mafia II Soundtrack (extended)",
+  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
+  "type": "playlist",
+  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTEwLDg5Y2FlNzU2NDY2OTE3MWE5M2MzMTNiOTM0NDYwOTc1YzY4MjE0YmU=",
-  "type": "playlist",
-  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "tracks": [
     {
       "added_at": "2018-04-15T02:55:03Z",
@@ -6046,7 +6046,7 @@
         "id": "1SyG9HB4btffM8SsWrXU6O",
         "is_local": false,
         "name": "After the Lights Go Down Low",
-        "popularity": 22,
+        "popularity": 23,
         "preview_url": "https://p.scdn.co/mp3-preview/cf0290137c839d54a363a753cf9ba834badfcf87?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -13416,7 +13416,7 @@
         "id": "1hqo4Ur7qKGRn6JvZFbMsG",
         "is_local": false,
         "name": "Ain't That Just Like A Woman",
-        "popularity": 2,
+        "popularity": 3,
         "preview_url": "https://p.scdn.co/mp3-preview/7ace2a887af1937f0526b1ef30bedda4fe949765?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 16,

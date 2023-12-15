@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "The biggest festival of the year - this is Glastonbury 2023.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0CpdwmkC9SB"
   },
-  "followers": { "href": null, "total": 124897 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB",
+  "followers": { "href": null, "total": 124896 },
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB?locale=*",
   "id": "37i9dQZF1DX0CpdwmkC9SB",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706f000000025bda12f38294767d4210f9f2",
       "height": null,
-      "url": "https://i.scdn.co/image/ab67706f000000035bda12f38294767d4210f9f2",
       "width": null
     }
   ],
+  "primary_color": "#ffffff",
   "name": "Glastonbury 2023",
+  "description": "The biggest festival of the year - this is Glastonbury 2023.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": "#ffffff",
-  "public": false,
-  "snapshot_id": "MCw0NTAyZTkzMWRjOWVlNTM2NDFiYjllNzg0MTI3NWJlMmMyNTU0MjUx",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
+  "public": true,
+  "snapshot_id": "MTY4NjkxOTI2NCwwMDAwMDAwMGExNTBlZDI5ODIwMzZhZWEwZDkwNDFjNDNlYTdiYjcy",
   "tracks": [
     {
       "added_at": "2023-05-30T14:39:42Z",
@@ -6836,7 +6836,7 @@
         "id": "3MFa9idQuY4iJLWsZl3tIQ",
         "is_local": false,
         "name": "Young Hearts Run Free",
-        "popularity": 72,
+        "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/203cce0a66bbcf2cdeecf920608c32d495b5bbb9?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -19644,7 +19644,7 @@
         "id": "5PT4yvb1Poy5AssADb0vwB",
         "is_local": false,
         "name": "Life Goes On (feat. Sampa the Great)",
-        "popularity": 48,
+        "popularity": 47,
         "preview_url": "https://p.scdn.co/mp3-preview/33d12a455be454d4f194bec5d601301bb0d3b672?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -31804,7 +31804,7 @@
         "id": "3p84R45PM75ngq8XRoe45o",
         "is_local": false,
         "name": "Nothing Matters",
-        "popularity": 70,
+        "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/807f328419b87c11668e8a1e5a0d2b43f2b23529?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

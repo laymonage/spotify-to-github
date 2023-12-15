@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1CyYZy6hRqMXqD"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD?locale=*",
   "id": "37i9dQZF1CyYZy6hRqMXqD",
   "images": [
     {
+      "url": "https://lineup-images.scdn.co/your-top-songs-2016_DEFAULT-en.jpg",
       "height": null,
-      "url": "https://lineup-images.scdn.co/your-top-songs-2016_LARGE-en.jpg",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Your Top Songs 2016",
+  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
+  "public": true,
   "snapshot_id": "MjQ2Nzg3MjAsMDAwMDAwMDBlOTJkZDRjMjQyZWRiMWExNGY2ZjlkNmJiOTcwYTA4Mg==",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "tracks": [
     {
       "added_at": "2016-12-03T00:00:00Z",
@@ -480,7 +480,7 @@
         "id": "5G1RhMTSAzFSmTkeUbKlBF",
         "is_local": false,
         "name": "My Trigger",
-        "popularity": 47,
+        "popularity": 48,
         "preview_url": "https://p.scdn.co/mp3-preview/da949c90a2e4af2699a56f18f5d3a94b184d630f?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -570,7 +570,7 @@
         "id": "7zkDEBSxkcBVsStS4qBFpK",
         "is_local": false,
         "name": "Lisztomania",
-        "popularity": 19,
+        "popularity": 18,
         "preview_url": null,
         "track": true,
         "track_number": 1,

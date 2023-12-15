@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "for some high school nostalgia",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4Ke64I133hkcfqG9AJeLj8"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8",
+  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8?locale=*",
   "id": "4Ke64I133hkcfqG9AJeLj8",
   "images": [
     {
-      "height": 640,
-      "url": "https://i.scdn.co/image/ab67616d0000b273b22bbf5ada4099cfd4cc5a73",
-      "width": 640
+      "url": "https://i.scdn.co/image/ab67616d00001e02b22bbf5ada4099cfd4cc5a73",
+      "height": null,
+      "width": null
     }
   ],
+  "primary_color": null,
   "name": "doors",
+  "description": "for some high school nostalgia",
+  "type": "playlist",
+  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTUsYWE2NmYwYmNmZDNlMDQ2M2E2MDJjMTE0NzNkOWQyZDJlNTkxYWQ3Nw==",
-  "type": "playlist",
-  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "tracks": [
     {
       "added_at": "2020-06-19T06:05:34Z",
@@ -5204,7 +5204,7 @@
         "id": "4dmOKl6aYjArPhR0RBSaxU",
         "is_local": false,
         "name": "Hello, I Love You",
-        "popularity": 21,
+        "popularity": 22,
         "preview_url": "https://p.scdn.co/mp3-preview/50a2e45e2ff8c5d6d98a8ef76e93b1d321337d35?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

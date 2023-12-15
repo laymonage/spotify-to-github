@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "go away",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5At7uMb57j9ZTF18Bphaig"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5At7uMb57j9ZTF18Bphaig",
+  "href": "https://api.spotify.com/v1/playlists/5At7uMb57j9ZTF18Bphaig?locale=*",
   "id": "5At7uMb57j9ZTF18Bphaig",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84fe046a3d45d3dea9b339cfe6",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbfe046a3d45d3dea9b339cfe6",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Regional at Best",
+  "description": "go away",
+  "type": "playlist",
+  "uri": "spotify:playlist:5At7uMb57j9ZTF18Bphaig",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "OSwyM2JhNmNlYzk0ODg1NzVjNDUwMjk5ZDAxNTFjMDI1NDY0ZWFiYTZm",
-  "type": "playlist",
-  "uri": "spotify:playlist:5At7uMb57j9ZTF18Bphaig",
   "tracks": [
     {
       "added_at": "2016-09-18T07:56:11Z",

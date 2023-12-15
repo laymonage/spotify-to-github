@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Tastebreakers 2018 result.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/39Cs0oSJOUNvwIZHxKRMv5"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/39Cs0oSJOUNvwIZHxKRMv5",
+  "href": "https://api.spotify.com/v1/playlists/39Cs0oSJOUNvwIZHxKRMv5?locale=*",
   "id": "39Cs0oSJOUNvwIZHxKRMv5",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da8401eebe7b784865ce216122b0",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb01eebe7b784865ce216122b0",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Brokentaste",
+  "description": "Tastebreakers 2018 result.",
+  "type": "playlist",
+  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MjksNjNiYWRjZDM5MTE1ODFkOTE5ZGNlNGY2YzUxN2ViY2NmMzk0NzlkYg==",
-  "type": "playlist",
-  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "tracks": [
     {
       "added_at": "2018-12-30T16:51:06Z",
@@ -7856,7 +7856,7 @@
         "id": "54vHITh8Cc4DZQYdnpbciz",
         "is_local": false,
         "name": "Panama",
-        "popularity": 40,
+        "popularity": 39,
         "preview_url": "https://p.scdn.co/mp3-preview/f5982bce596a383650b6861ddfbdcb57db8d08bc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -7948,7 +7948,7 @@
         "id": "0NfKkSlUJWTbECFqrO0bp1",
         "is_local": false,
         "name": "(She's) Just a Phase",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 1,

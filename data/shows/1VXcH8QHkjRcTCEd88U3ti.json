@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 163,
+  "total_episodes": 162,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2BGFUWccmgMO3vNj3yLyVn/clip_0_60000.mp3",
+      "description": "\"We underestimate the power of our own generous actions,\" says Asha Curran, CEO of the global generosity movement GivingTuesday. Sharing stories of people making a difference through simple acts of kindness, she shows how generosity, even in its simplest forms, can be a transformative force — and explains why we all benefit from a world grounded in giving.",
+      "duration_ms": 850668,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/651f5yXr6Gys528EocrYne"
+      },
+      "href": "https://api.spotify.com/v1/episodes/651f5yXr6Gys528EocrYne",
+      "html_description": "&#34;We underestimate the power of our own generous actions,&#34; says Asha Curran, CEO of the global generosity movement GivingTuesday. Sharing stories of people making a difference through simple acts of kindness, she shows how generosity, even in its simplest forms, can be a transformative force — and explains why we all benefit from a world grounded in giving.",
+      "id": "651f5yXr6Gys528EocrYne",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a193611b63239a45956af02ab",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f193611b63239a45956af02ab",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d193611b63239a45956af02ab",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why helping people makes you happy | Asha Curran",
+      "release_date": "2023-12-14",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:651f5yXr6Gys528EocrYne"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3XIxzka12Ndaawk0n8WeKT/clip_0_60000.mp3",
       "description": "The metaverse could be our key to making real progress in the fight against climate change, says engineer Cedrik Neike. Examining how AI-powered modeling eliminates the trial and error of wasteful industries, he explores how this emerging technology is already improving everything from the gigafactories that churn out electric car batteries to the fuel efficiency of your home. Learn more about how these \"digital twins\" are transforming the world — and not a moment too soon.",
@@ -6483,84 +6522,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5UMNfxfUCGATsy4ZtRtb5x"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2AjDaCTPqKIsew3pC3ZqwN/clip_0_60000.mp3",
-      "description": "In the last few decades, China has gone from technological scarcity to abundance. What sparked this shift? Economist Keyu Jin explores how China has fostered a model of innovation unlike any other and shows why understanding its competitive, collaborative approach could benefit the world -- and perhaps demystify some contradictions.",
-      "duration_ms": 867900,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/3wPCWrFyHSZ4IlBH8Jd3zc"
-      },
-      "href": "https://api.spotify.com/v1/episodes/3wPCWrFyHSZ4IlBH8Jd3zc",
-      "html_description": "In the last few decades, China has gone from technological scarcity to abundance. What sparked this shift? Economist Keyu Jin explores how China has fostered a model of innovation unlike any other and shows why understanding its competitive, collaborative approach could benefit the world -- and perhaps demystify some contradictions.",
-      "id": "3wPCWrFyHSZ4IlBH8Jd3zc",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a180fc6a7d2e76496043fe1b0",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f180fc6a7d2e76496043fe1b0",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d180fc6a7d2e76496043fe1b0",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "What the world can learn from China's innovation playbook | Keyu Jin",
-      "release_date": "2023-05-15",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:3wPCWrFyHSZ4IlBH8Jd3zc"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5SIYOlxqo3S20XznBMtRnO/clip_0_60000.mp3",
-      "description": "Will truth and reason survive the evolution of artificial intelligence? AI researcher Gary Marcus says no, not if untrustworthy technology continues to be integrated into our lives at such dangerously high speeds. He advocates for an urgent reevaluation of whether we're building reliable systems (or misinformation machines), explores the failures of today's AI and calls for a global, nonprofit organization to regulate the tech for the sake of democracy and our collective future. (Followed by a Q&A with head of TED Chris Anderson)",
-      "duration_ms": 783372,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2cAGTRd4ZbwbOXGQSKRcQw"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2cAGTRd4ZbwbOXGQSKRcQw",
-      "html_description": "Will truth and reason survive the evolution of artificial intelligence? AI researcher Gary Marcus says no, not if untrustworthy technology continues to be integrated into our lives at such dangerously high speeds. He advocates for an urgent reevaluation of whether we&#39;re building reliable systems (or misinformation machines), explores the failures of today&#39;s AI and calls for a global, nonprofit organization to regulate the tech for the sake of democracy and our collective future. (Followed by a Q&amp;A with head of TED Chris Anderson)",
-      "id": "2cAGTRd4ZbwbOXGQSKRcQw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8aa7f9c52adc944c638ace9c91",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fa7f9c52adc944c638ace9c91",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68da7f9c52adc944c638ace9c91",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The urgent risks of runaway AI — and what to do about them | Gary Marcus",
-      "release_date": "2023-05-12",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2cAGTRd4ZbwbOXGQSKRcQw"
     }
   ]
 }

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7Ct18cm1u2On9pz5OI06AE"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/7Ct18cm1u2On9pz5OI06AE",
+  "href": "https://api.spotify.com/v1/playlists/7Ct18cm1u2On9pz5OI06AE?locale=*",
   "id": "7Ct18cm1u2On9pz5OI06AE",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84d089764de7b800165b6a7c25",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd089764de7b800165b6a7c25",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "blekpul",
+  "description": "",
+  "type": "playlist",
+  "uri": "spotify:playlist:7Ct18cm1u2On9pz5OI06AE",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTEsY2IxMGQ5ZTY3NGY5MDJhNmUzMmQ2YjRiNTQxZDE1NTcxYWE4OTg4Yw==",
-  "type": "playlist",
-  "uri": "spotify:playlist:7Ct18cm1u2On9pz5OI06AE",
   "tracks": [
     {
       "added_at": "2019-07-11T01:33:41Z",
@@ -5564,7 +5564,7 @@
         "id": "4MuvpHBHTDgUvsBU0MJJRo",
         "is_local": false,
         "name": "Mind",
-        "popularity": 9,
+        "popularity": 10,
         "preview_url": "https://p.scdn.co/mp3-preview/cbf5062f85c10884605f6e9bb50ad90ea875bb51?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 7,

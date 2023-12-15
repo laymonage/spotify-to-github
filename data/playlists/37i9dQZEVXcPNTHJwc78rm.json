@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcPNTHJwc78rm"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm?locale=*",
   "id": "37i9dQZEVXcPNTHJwc78rm",
   "images": [
     {
+      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/f__TW__gwJmmlaEBopkKdQ40qK9H7AeLZdHlvySrVvOpacMLYLXXnzeoNudzl1gjzmYkJYxVwxCNgeeMy9dXBSz4azPVNeqiXublZ774jGg=/NzU6OTE6NTFUNTItMjEtMw==",
       "height": null,
-      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/49XVjhshcQlbB_oR8Cw-lbwq4jcZSKcxXt1rHV8j9xBRJakBIzMRThHfii28fgvpyh61umRgYXjWke_YUBL_idxNZvos4o-ZS4PmqbU_QQ0=/NzU6ODE6NTFUNTItMjEtMw==",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Discover Weekly",
+  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
-  "snapshot_id": "MCwwMDAwMDAwMGUwZjExMWUxNWYzYzhlZWIzNjc5NmNlMDYxNjRjMDZl",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
+  "public": true,
+  "snapshot_id": "MCwwMDAwMDAwMGVkZTcyNzRjZjc3MzY0Nzk4MTE2ZTJiMGE4MjZmMGM3",
   "tracks": [
     {
       "added_at": "2023-12-10T17:00:00Z",
@@ -1400,7 +1400,7 @@
         "id": "5lDJEgOycCfdoqfFDGXhBI",
         "is_local": false,
         "name": "Carmen Cortez",
-        "popularity": 32,
+        "popularity": 33,
         "preview_url": "https://p.scdn.co/mp3-preview/586bf41f2eb2ff2cb5e07de36bac96b1a2d2c459?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -3700,7 +3700,7 @@
         "id": "29hsqSs9dequ5y1oFmofxy",
         "is_local": false,
         "name": "C'mon Be Cool",
-        "popularity": 30,
+        "popularity": 31,
         "preview_url": "https://p.scdn.co/mp3-preview/2ca85d4c313c779f06158572826473b5717d2f1d?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -4620,7 +4620,7 @@
         "id": "3AvZ3tn2kJH5r1gi2MMQAs",
         "is_local": false,
         "name": "HaHaHome",
-        "popularity": 35,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/5146cb328821ab676f39acda36ee1f4ecf10b713?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -6892,7 +6892,7 @@
         "id": "2hz3CMi6kXpxHK9PfrFeic",
         "is_local": false,
         "name": "Mikey's Song",
-        "popularity": 42,
+        "popularity": 43,
         "preview_url": "https://p.scdn.co/mp3-preview/ad07fddc3a905c611114266037f9fb6ff4c5a348?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,
@@ -10504,7 +10504,7 @@
         "id": "3jh1zRkY9JhFkXZhSkxX45",
         "is_local": false,
         "name": "Temple",
-        "popularity": 35,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/6c655730d8e36fc7fb3f7b988bb518a89c02be58?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

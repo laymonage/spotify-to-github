@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Stay focused with this collection of electronic sounds.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3XuTDjo5z5z"
   },
-  "followers": { "href": null, "total": 262112 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3XuTDjo5z5z",
+  "followers": { "href": null, "total": 262109 },
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3XuTDjo5z5z?locale=*",
   "id": "37i9dQZF1DX3XuTDjo5z5z",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706f00000002c55b2b31c497e4f15d0059a5",
       "height": null,
-      "url": "https://i.scdn.co/image/ab67706f00000003c55b2b31c497e4f15d0059a5",
       "width": null
     }
   ],
+  "primary_color": "#ffffff",
   "name": "Electronic Concentration",
+  "description": "Stay focused with this collection of electronic sounds.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX3XuTDjo5z5z",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": "#ffffff",
-  "public": false,
-  "snapshot_id": "MCwyMjgyYjkyZTFiOGVhNGIyN2Q3OTA1Yjc3ZTQzNGViMTQ1NWI2OGFm",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX3XuTDjo5z5z",
+  "public": true,
+  "snapshot_id": "MTY4NjkxODg0MywwMDAwMDAwMDNhOTI5MWM2ZmU4N2ZlM2Q3MzRiNDVhMTMyZTUxZWY4",
   "tracks": [
     {
       "added_at": "2022-07-05T09:37:03Z",
@@ -5650,7 +5650,7 @@
         "id": "2VRxocxMRKZ0F124PElkyZ",
         "is_local": false,
         "name": "Pine",
-        "popularity": 41,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/210cc249ac8359caa4d083de967f9fd9146db645?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,

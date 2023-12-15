@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "one from (almost) every artist",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7zDfPLf2gzL46Ju3zh9wYI"
   },
   "followers": { "href": null, "total": 1 },
-  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI",
+  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI?locale=*",
   "id": "7zDfPLf2gzL46Ju3zh9wYI",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84d99200ffa20c9ca7d7676147",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd99200ffa20c9ca7d7676147",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "assorted",
+  "description": "one from (almost) every artist",
+  "type": "playlist",
+  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTU2LDNiYWJiMjM5N2M4ZGMzMTE3OWNkZjcwOWFmYjIzYzdmNjk2ZjU0MTE=",
-  "type": "playlist",
-  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "tracks": [
     {
       "added_at": "2019-08-13T07:46:06Z",
@@ -4850,7 +4850,7 @@
         "id": "0X7jRoG3RYg4NoWTjUyK0c",
         "is_local": false,
         "name": "dreamgurl",
-        "popularity": 28,
+        "popularity": 29,
         "preview_url": "https://p.scdn.co/mp3-preview/26fa97522ae3bd5c3cdf79b9c0ec71782a29cd10?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -23988,7 +23988,7 @@
         "id": "7froDBThNq228ZEEfB6MXn",
         "is_local": false,
         "name": "Sunday Afternoon",
-        "popularity": 33,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/39edb44a06a9d6f99ed02aa08f22bfae390b747a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
