@@ -1,5 +1,5 @@
 {
-  "total": 60,
+  "total": 59,
   "artists": [
     {
       "external_urls": {
@@ -30,42 +30,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "art pop",
-        "chamber pop",
-        "experimental folk",
-        "experimental pop",
-        "indie pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
-      "id": "3Uqu1mEdkUJxPe7s31n1M9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
-          "width": 160
-        }
-      ],
-      "name": "Weyes Blood",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -103,6 +67,42 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art pop",
+        "chamber pop",
+        "experimental folk",
+        "experimental pop",
+        "indie pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Uqu1mEdkUJxPe7s31n1M9",
+      "id": "3Uqu1mEdkUJxPe7s31n1M9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92b2757e7003d4f77e5a5d05",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492b2757e7003d4f77e5a5d05",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892b2757e7003d4f77e5a5d05",
+          "width": 160
+        }
+      ],
+      "name": "Weyes Blood",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:3Uqu1mEdkUJxPe7s31n1M9"
     },
     {
       "external_urls": {
@@ -401,7 +401,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
@@ -473,7 +473,7 @@
         }
       ],
       "name": "Cage The Elephant",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
     },
@@ -694,7 +694,7 @@
         }
       ],
       "name": "The Humble Cheaters",
-      "popularity": 15,
+      "popularity": 16,
       "type": "artist",
       "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
@@ -1135,36 +1135,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "mellow gold", "soft rock"],
-      "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
-      "id": "1eEfMU2AhEo7XnKgL7c304",
-      "images": [
-        {
-          "height": 493,
-          "url": "https://i.scdn.co/image/ed45f575339b044d7168780a15ff457b85be851a",
-          "width": 500
-        },
-        {
-          "height": 197,
-          "url": "https://i.scdn.co/image/6d1f554e76304a29b8baa3f61213a88702c0f599",
-          "width": 200
-        },
-        {
-          "height": 63,
-          "url": "https://i.scdn.co/image/53a2c2a3d9f4c61f20b04d95936fadc83b7b08b5",
-          "width": 64
-        }
-      ],
-      "name": "Carpenters",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
       },
       "followers": { "href": null, "total": 0 },
@@ -1373,7 +1343,7 @@
         }
       ],
       "name": "The Shins",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
     },
@@ -1553,6 +1523,7 @@
         "indie folk",
         "indie rock",
         "indietronica",
+        "irish rock",
         "modern rock"
       ],
       "href": "https://api.spotify.com/v1/artists/2cCUtGK9sDU2EoElnk0GNB",
