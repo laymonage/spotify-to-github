@@ -201,6 +201,77 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "acid rock",
+        "album rock",
+        "blues rock",
+        "classic rock",
+        "folk rock",
+        "hard rock",
+        "mellow gold",
+        "psychedelic rock",
+        "rock",
+        "singer-songwriter"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
+      "id": "2qFr8w5sWUITRlzZ9kZotF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0c739f8231961acda83a4bf8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740c739f8231961acda83a4bf8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780c739f8231961acda83a4bf8",
+          "width": 160
+        }
+      ],
+      "name": "Jefferson Airplane",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
+      "id": "3Da81tOAhG3gdust5MNI2s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
+          "width": 160
+        }
+      ],
+      "name": "The Humble Cheaters",
+      "popularity": 16,
+      "type": "artist",
+      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
       },
       "followers": { "href": null, "total": 0 },
@@ -437,7 +508,7 @@
         }
       ],
       "name": "Tycho",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
     },
@@ -626,77 +697,6 @@
       "popularity": 35,
       "type": "artist",
       "uri": "spotify:artist:02nqs3YdfX7Th3gYTYFrqc"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "acid rock",
-        "album rock",
-        "blues rock",
-        "classic rock",
-        "folk rock",
-        "hard rock",
-        "mellow gold",
-        "psychedelic rock",
-        "rock",
-        "singer-songwriter"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2qFr8w5sWUITRlzZ9kZotF",
-      "id": "2qFr8w5sWUITRlzZ9kZotF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0c739f8231961acda83a4bf8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740c739f8231961acda83a4bf8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780c739f8231961acda83a4bf8",
-          "width": 160
-        }
-      ],
-      "name": "Jefferson Airplane",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Da81tOAhG3gdust5MNI2s"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3Da81tOAhG3gdust5MNI2s",
-      "id": "3Da81tOAhG3gdust5MNI2s",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebabb8322ae26896cd89cebaed",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174abb8322ae26896cd89cebaed",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178abb8322ae26896cd89cebaed",
-          "width": 160
-        }
-      ],
-      "name": "The Humble Cheaters",
-      "popularity": 16,
-      "type": "artist",
-      "uri": "spotify:artist:3Da81tOAhG3gdust5MNI2s"
     },
     {
       "external_urls": {
@@ -1207,6 +1207,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie", "modern rock", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+      "id": "1btWGBz4Uu1HozTwb2Lm8A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba540d61efaef0e682025c509",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a540d61efaef0e682025c509",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a540d61efaef0e682025c509",
+          "width": 160
+        }
+      ],
+      "name": "Hippo Campus",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
       },
       "followers": { "href": null, "total": 0 },
@@ -1582,36 +1612,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["soft rock"],
-      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
-      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79bedf7da0a906b84128f3af",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479bedf7da0a906b84128f3af",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af",
-          "width": 160
-        }
-      ],
-      "name": "Air Supply",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
       },
       "followers": { "href": null, "total": 0 },
@@ -1753,7 +1753,7 @@
         }
       ],
       "name": "Jerry Paper",
-      "popularity": 37,
+      "popularity": 38,
       "type": "artist",
       "uri": "spotify:artist:2gzxBoK71ohENPlxlshHV7"
     },
