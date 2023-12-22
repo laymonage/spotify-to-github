@@ -27,7 +27,7 @@
         }
       ],
       "name": "Summer Salt",
-      "popularity": 48,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
     },
@@ -315,7 +315,7 @@
         }
       ],
       "name": "Mustard Service",
-      "popularity": 44,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
     },
@@ -665,6 +665,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock", "indietronica"],
+      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
+          "width": 160
+        }
+      ],
+      "name": "STRFKR",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
       },
       "followers": { "href": null, "total": 0 },
@@ -722,36 +752,6 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:1zkHConahaP6T8EBpg8BeE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock", "indietronica"],
-      "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb03db121cc01446696be24014",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517403db121cc01446696be24014",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17803db121cc01446696be24014",
-          "width": 160
-        }
-      ],
-      "name": "STRFKR",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
     },
     {
       "external_urls": {
@@ -2622,7 +2622,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 80,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -2799,7 +2799,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
@@ -3097,7 +3097,7 @@
         }
       ],
       "name": "Owen Pallett",
-      "popularity": 47,
+      "popularity": 48,
       "type": "artist",
       "uri": "spotify:artist:77Rj6PHmQJFb8nbSH62y68"
     },
