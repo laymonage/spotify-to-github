@@ -692,6 +692,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
+      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
+          "width": 160
+        }
+      ],
+      "name": "Julien Chang",
+      "popularity": 22,
+      "type": "artist",
+      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
       },
       "followers": { "href": null, "total": 0 },
@@ -720,39 +750,9 @@
         }
       ],
       "name": "Sticky Fingers",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:3ZGr7nQBXDU2WhyXgRVbt0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
-      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb276af6f461bc2f074e3b09bf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174276af6f461bc2f074e3b09bf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178276af6f461bc2f074e3b09bf",
-          "width": 160
-        }
-      ],
-      "name": "Julien Chang",
-      "popularity": 22,
-      "type": "artist",
-      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
     },
     {
       "external_urls": {
@@ -1249,36 +1249,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie garage rock", "miami indie"],
-      "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
-      "id": "7kAZYW5e5hQHYGQ0XHYhns",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc92228b7c4d48684820d79b4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c92228b7c4d48684820d79b4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c92228b7c4d48684820d79b4",
-          "width": 160
-        }
-      ],
-      "name": "Mustard Service",
-      "popularity": 45,
-      "type": "artist",
-      "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
       "followers": { "href": null, "total": 0 },
@@ -1494,6 +1464,36 @@
       "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie garage rock", "miami indie"],
+      "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+      "id": "7kAZYW5e5hQHYGQ0XHYhns",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc92228b7c4d48684820d79b4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c92228b7c4d48684820d79b4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c92228b7c4d48684820d79b4",
+          "width": 160
+        }
+      ],
+      "name": "Mustard Service",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
     },
     {
       "external_urls": {
@@ -1883,7 +1883,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
@@ -2372,6 +2372,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["minneapolis indie", "modern rock", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+      "id": "1btWGBz4Uu1HozTwb2Lm8A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba540d61efaef0e682025c509",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a540d61efaef0e682025c509",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a540d61efaef0e682025c509",
+          "width": 160
+        }
+      ],
+      "name": "Hippo Campus",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
       },
       "followers": { "href": null, "total": 0 },
@@ -2495,66 +2525,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pov: indie", "vancouver indie"],
-      "href": "https://api.spotify.com/v1/artists/6fC2AcsQtd9h4BWELbbire",
-      "id": "6fC2AcsQtd9h4BWELbbire",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb66fe5cb49c14d5cadb50ad50",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517466fe5cb49c14d5cadb50ad50",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17866fe5cb49c14d5cadb50ad50",
-          "width": 160
-        }
-      ],
-      "name": "Peach Pit",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6fC2AcsQtd9h4BWELbbire"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["minneapolis indie", "modern rock", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-      "id": "1btWGBz4Uu1HozTwb2Lm8A",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba540d61efaef0e682025c509",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a540d61efaef0e682025c509",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a540d61efaef0e682025c509",
-          "width": 160
-        }
-      ],
-      "name": "Hippo Campus",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
     },
     {
       "external_urls": {
@@ -2724,6 +2694,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pov: indie", "vancouver indie"],
+      "href": "https://api.spotify.com/v1/artists/6fC2AcsQtd9h4BWELbbire",
+      "id": "6fC2AcsQtd9h4BWELbbire",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb66fe5cb49c14d5cadb50ad50",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517466fe5cb49c14d5cadb50ad50",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17866fe5cb49c14d5cadb50ad50",
+          "width": 160
+        }
+      ],
+      "name": "Peach Pit",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:6fC2AcsQtd9h4BWELbbire"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
       },
       "followers": { "href": null, "total": 0 },
@@ -2748,7 +2748,7 @@
         }
       ],
       "name": "Carpenters",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
     },
@@ -2868,7 +2868,7 @@
         }
       ],
       "name": "Elton John",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
     },
@@ -3131,7 +3131,7 @@
         }
       ],
       "name": "Air Supply",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
     },
