@@ -3826,81 +3826,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-            },
-            "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
-            "id": "7kAZYW5e5hQHYGQ0XHYhns",
-            "name": "Mustard Service",
-            "type": "artist",
-            "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/6luAUwvP1B6JgCci2Tyoqc"
-        },
-        "href": "https://api.spotify.com/v1/albums/6luAUwvP1B6JgCci2Tyoqc",
-        "id": "6luAUwvP1B6JgCci2Tyoqc",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27359b6591bac8dd7b4a1c487a8",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0259b6591bac8dd7b4a1c487a8",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485159b6591bac8dd7b4a1c487a8",
-            "width": 64
-          }
-        ],
-        "name": "C'est la Vie",
-        "release_date": "2020-03-23",
-        "release_date_precision": "day",
-        "total_tracks": 11,
-        "type": "album",
-        "uri": "spotify:album:6luAUwvP1B6JgCci2Tyoqc"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-          },
-          "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
-          "id": "7kAZYW5e5hQHYGQ0XHYhns",
-          "name": "Mustard Service",
-          "type": "artist",
-          "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 207908,
-      "explicit": true,
-      "external_ids": { "isrc": "QZHN91925720" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/26FkmoRmXHvmKyNV5iyO6k"
-      },
-      "href": "https://api.spotify.com/v1/tracks/26FkmoRmXHvmKyNV5iyO6k",
-      "id": "26FkmoRmXHvmKyNV5iyO6k",
-      "is_local": false,
-      "name": "Need",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:26FkmoRmXHvmKyNV5iyO6k"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -4133,6 +4058,81 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7froDBThNq228ZEEfB6MXn"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+            },
+            "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+            "id": "7kAZYW5e5hQHYGQ0XHYhns",
+            "name": "Mustard Service",
+            "type": "artist",
+            "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6luAUwvP1B6JgCci2Tyoqc"
+        },
+        "href": "https://api.spotify.com/v1/albums/6luAUwvP1B6JgCci2Tyoqc",
+        "id": "6luAUwvP1B6JgCci2Tyoqc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27359b6591bac8dd7b4a1c487a8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0259b6591bac8dd7b4a1c487a8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485159b6591bac8dd7b4a1c487a8",
+            "width": 64
+          }
+        ],
+        "name": "C'est la Vie",
+        "release_date": "2020-03-23",
+        "release_date_precision": "day",
+        "total_tracks": 11,
+        "type": "album",
+        "uri": "spotify:album:6luAUwvP1B6JgCci2Tyoqc"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+          },
+          "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+          "id": "7kAZYW5e5hQHYGQ0XHYhns",
+          "name": "Mustard Service",
+          "type": "artist",
+          "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 207908,
+      "explicit": true,
+      "external_ids": { "isrc": "QZHN91925720" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/26FkmoRmXHvmKyNV5iyO6k"
+      },
+      "href": "https://api.spotify.com/v1/tracks/26FkmoRmXHvmKyNV5iyO6k",
+      "id": "26FkmoRmXHvmKyNV5iyO6k",
+      "is_local": false,
+      "name": "Need",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:26FkmoRmXHvmKyNV5iyO6k"
     },
     {
       "album": {
@@ -18770,239 +18770,6 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-            },
-            "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
-            "id": "1xbu7UyVdZxwIiNfLcUKqn",
-            "name": "Paul Cherry",
-            "type": "artist",
-            "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw"
-        },
-        "href": "https://api.spotify.com/v1/albums/1oCHmshXKdVv8YDSneqvLw",
-        "id": "1oCHmshXKdVv8YDSneqvLw",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a78f0301e25e24a2f8bfbb9f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a78f0301e25e24a2f8bfbb9f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a78f0301e25e24a2f8bfbb9f",
-            "width": 64
-          }
-        ],
-        "name": "Flavour",
-        "release_date": "2018-03-31",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:1oCHmshXKdVv8YDSneqvLw"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-          },
-          "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
-          "id": "1xbu7UyVdZxwIiNfLcUKqn",
-          "name": "Paul Cherry",
-          "type": "artist",
-          "uri": "spotify:artist:1xbu7UyVdZxwIiNfLcUKqn"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 125985,
-      "explicit": false,
-      "external_ids": { "isrc": "QM4DW1821338" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/76JCUbRKYwHE15xFfGJqmG"
-      },
-      "href": "https://api.spotify.com/v1/tracks/76JCUbRKYwHE15xFfGJqmG",
-      "id": "76JCUbRKYwHE15xFfGJqmG",
-      "is_local": false,
-      "name": "Hello Again",
-      "popularity": 24,
-      "preview_url": "https://p.scdn.co/mp3-preview/95d66b387a216394845c699dec242f438f1778b6?cid=c73100e39ab6406dae4c4479ff75d174",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:76JCUbRKYwHE15xFfGJqmG"
-    },
-    {
-      "album": {
         "album_type": "SINGLE",
         "artists": [
           {
@@ -20169,6 +19936,121 @@
       "track_number": 2,
       "type": "track",
       "uri": "spotify:track:2d7IkDS1sFRtCyS5tMY5BA"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+            },
+            "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+            "id": "7BqRcZsHYYQeqMAOp7e532",
+            "name": "落日飛車 Sunset Rollercoaster",
+            "type": "artist",
+            "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+          }
+        ],
+        "available_markets": [
+          "AE",
+          "BH",
+          "HK",
+          "ID",
+          "IL",
+          "IN",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "MY",
+          "OM",
+          "PH",
+          "QA",
+          "SA",
+          "SG",
+          "TH",
+          "TW",
+          "VN"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/22AUTK02WtnB1jRKxSoCJb"
+        },
+        "href": "https://api.spotify.com/v1/albums/22AUTK02WtnB1jRKxSoCJb",
+        "id": "22AUTK02WtnB1jRKxSoCJb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cf8dd17b117818fee58f03f6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cf8dd17b117818fee58f03f6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cf8dd17b117818fee58f03f6",
+            "width": 64
+          }
+        ],
+        "name": "SOFT STORM",
+        "release_date": "2020-10-30",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:22AUTK02WtnB1jRKxSoCJb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          },
+          "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+          "id": "7BqRcZsHYYQeqMAOp7e532",
+          "name": "落日飛車 Sunset Rollercoaster",
+          "type": "artist",
+          "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "available_markets": [
+        "AE",
+        "BH",
+        "HK",
+        "ID",
+        "IL",
+        "IN",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "MY",
+        "OM",
+        "PH",
+        "QA",
+        "SA",
+        "SG",
+        "TH",
+        "TW",
+        "VN"
+      ],
+      "disc_number": 1,
+      "duration_ms": 227397,
+      "explicit": false,
+      "external_ids": { "isrc": "TWCR72000103" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2uSYrhAHtVDBdsnkLqdJOO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2uSYrhAHtVDBdsnkLqdJOO",
+      "id": "2uSYrhAHtVDBdsnkLqdJOO",
+      "is_local": false,
+      "name": "Under the Skin",
+      "popularity": 37,
+      "preview_url": "https://p.scdn.co/mp3-preview/25bed73f234433b421fe8fe31cbf4438bba45e75?cid=c73100e39ab6406dae4c4479ff75d174",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:2uSYrhAHtVDBdsnkLqdJOO"
     }
   ]
 }
