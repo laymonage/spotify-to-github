@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1ICfBNbWJe8ys52OTyl4sf/clip_0_60000.mp3",
+      "description": "Cartoonist Liana Finck's drawings hold our hands through life's predicaments, big and small: dating, breakups, what to make for dinner, how to leave a party without being rude, how to think about our relationship with God. In a funny, moving talk, she shares some of her drawings and shows how she uses creativity to navigate false starts and cluelessness in the search for belonging.",
+      "duration_ms": 430164,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/20O3uZUTvsvO2EfRGxjzPo"
+      },
+      "href": "https://api.spotify.com/v1/episodes/20O3uZUTvsvO2EfRGxjzPo",
+      "html_description": "Cartoonist Liana Finck&#39;s drawings hold our hands through life&#39;s predicaments, big and small: dating, breakups, what to make for dinner, how to leave a party without being rude, how to think about our relationship with God. In a funny, moving talk, she shares some of her drawings and shows how she uses creativity to navigate false starts and cluelessness in the search for belonging.",
+      "id": "20O3uZUTvsvO2EfRGxjzPo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8aa41e5088e2d2c9bc4dd7b44d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fa41e5088e2d2c9bc4dd7b44d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68da41e5088e2d2c9bc4dd7b44d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Life is hard. Art helps | Liana Finck",
+      "release_date": "2024-01-02",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:20O3uZUTvsvO2EfRGxjzPo"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5CBkoZbVbaNm1a4VRnavut/clip_0_60000.mp3",
       "description": "From \"elite\" pickles to \"premium\" baby diapers, marketers are constantly telling us to seek superiority — but \"by the simple law of averages, most of us have to live a life more ordinary,\" says sociolinguist Crispin Thurlow. He invites us to embrace mediocrity for a change, offering a different path to contentedness without comparison.",
       "duration_ms": 627420,
@@ -6756,45 +6795,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6U2EWxOYZ6Cxq87yI3HbjM"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/15YFfTbJytiatWjl0VQd5A/clip_0_60000.mp3",
-      "description": "In the US, youth in foster care are nearly twice as likely as war veterans to suffer from PTSD. Placed in foster care at just 11 months old, 2023 Audacious Project grantee Sixto Cancel experienced the faults of the system firsthand. Now, he's the founder of Think of Us, an organization working to reform child welfare by centering kinship care, or placing a child with an extended family member or a familiar adult. Learn more about his plan to help thousands of kids searching for a loving home with one simple, systemic switch. (This ambitious idea is a part of the Audacious Project, TED's initiative to inspire and fund global change.)",
-      "duration_ms": 718956,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7GsIUfJzZCnU0vVjZ6PxuQ"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7GsIUfJzZCnU0vVjZ6PxuQ",
-      "html_description": "In the US, youth in foster care are nearly twice as likely as war veterans to suffer from PTSD. Placed in foster care at just 11 months old, 2023 Audacious Project grantee Sixto Cancel experienced the faults of the system firsthand. Now, he&#39;s the founder of Think of Us, an organization working to reform child welfare by centering kinship care, or placing a child with an extended family member or a familiar adult. Learn more about his plan to help thousands of kids searching for a loving home with one simple, systemic switch. (This ambitious idea is a part of the Audacious Project, TED&#39;s initiative to inspire and fund global change.)",
-      "id": "7GsIUfJzZCnU0vVjZ6PxuQ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ad4793b15be5f443a472351a3",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fd4793b15be5f443a472351a3",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dd4793b15be5f443a472351a3",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A foster care system where every child has a loving home | Sixto Cancel",
-      "release_date": "2023-05-24",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7GsIUfJzZCnU0vVjZ6PxuQ"
     }
   ]
 }
