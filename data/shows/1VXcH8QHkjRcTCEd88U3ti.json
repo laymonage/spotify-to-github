@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 168,
+  "total_episodes": 167,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3O8gNzIktgl9DSi9zKvCmw/clip_121300_178300.mp3",
+      "description": "What would happen to humanity if generosity went viral? Sharing transformative stories from around the world, head of TED Chris Anderson outlines why the time has come for the internet to realize its power to supercharge small acts of kindness, changing lives at a scale never experienced before. Learn how to cultivate a generous mindset — with or without giving money — and get inspired with tools to amplify your impact. \"Be brave. Give what you can, and then be absolutely amazed at what happens next,\" Anderson says.",
+      "duration_ms": 1179324,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3t2PCi9gWwmUeDk4uEfBir"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3t2PCi9gWwmUeDk4uEfBir",
+      "html_description": "What would happen to humanity if generosity went viral? Sharing transformative stories from around the world, head of TED Chris Anderson outlines why the time has come for the internet to realize its power to supercharge small acts of kindness, changing lives at a scale never experienced before. Learn how to cultivate a generous mindset — with or without giving money — and get inspired with tools to amplify your impact. &#34;Be brave. Give what you can, and then be absolutely amazed at what happens next,&#34; Anderson says.",
+      "id": "3t2PCi9gWwmUeDk4uEfBir",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a2b5ecb4fb681e596b88bb8b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f2b5ecb4fb681e596b88bb8b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d2b5ecb4fb681e596b88bb8b4",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What would it take for generosity to go viral? | Chris Anderson",
+      "release_date": "2024-01-09",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3t2PCi9gWwmUeDk4uEfBir"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2aC2ug92Y7V3Pghb913X7C/clip_246300_299400.mp3",
       "description": "A Chinese saying goes, \"There's no pleasure in eating without meat.\" And the data backs that up: every year, China consumes 26 percent of the world's meat and 45 percent of its seafood — numbers that could grow alongside rising incomes. Impact investor Tao Zhang shows why getting Chinese consumers to switch to plant-based alternatives is vital to tackling climate change and explores how it's also a massive business opportunity to bring tasty, affordable new proteins to market.",
@@ -1101,6 +1140,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0ZmbbsFoGqtK5UeuWgTych"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5oD1BocqGWPQ5dQtpjQy7E/clip_456612_516612.mp3",
+      "description": "The impacts of climate change are growing, but so are the world's attempts to stop them. Hosted by Manoush Zomorodi of the TED Radio Hour, this special TED documentary examines the rapid technological revolution underway — and the real possibility of a better future for all. Featuring urban planner Anika Goss, scientist and carbon expert Julio Friedmann, UN Climate Chief Simon Stiell, auto industry sustainability leader Cynthia Williams, and multi-generational farmers Jim and Jessica Whitaker, as well as interviews with architect of the Paris Accords Christiana Figueres, former UN Climate High Champion Nigel Topping and many more.",
+      "duration_ms": 1816416,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0lhT465EN1wPIyjxZcgxbh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0lhT465EN1wPIyjxZcgxbh",
+      "html_description": "The impacts of climate change are growing, but so are the world&#39;s attempts to stop them. Hosted by Manoush Zomorodi of the TED Radio Hour, this special TED documentary examines the rapid technological revolution underway — and the real possibility of a better future for all. Featuring urban planner Anika Goss, scientist and carbon expert Julio Friedmann, UN Climate Chief Simon Stiell, auto industry sustainability leader Cynthia Williams, and multi-generational farmers Jim and Jessica Whitaker, as well as interviews with architect of the Paris Accords Christiana Figueres, former UN Climate High Champion Nigel Topping and many more.",
+      "id": "0lhT465EN1wPIyjxZcgxbh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a2543fe2d0445cf22b9d50182",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f2543fe2d0445cf22b9d50182",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d2543fe2d0445cf22b9d50182",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "TED Explores: A New Climate Vision | TED Countdown",
+      "release_date": "2023-12-11",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0lhT465EN1wPIyjxZcgxbh"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/65WJcWRgq6KoQGK80VMVUQ/clip_397400_449800.mp3",
@@ -6639,123 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5O54wLMxY3YvUufTPTpIBg"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4IVS324y7p9mUgOppfTNaK/clip_205500_251300.mp3",
-      "description": "Our bodies instinctually respond to the movements and rhythms of nature, like the uplifting feeling you get when walking in a forest. Can art evoke the same emotions? Experiential artist Lonneke Gordijn takes us through her studio's stunning, nature-inspired work -- flowering lights, murmurating drones -- and reveals a mysterious piece hiding in the shadows of the TED Theater that just might change your relationship with concrete.",
-      "duration_ms": 720300,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2p4uWv2oYdnDohgm0mNotl"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2p4uWv2oYdnDohgm0mNotl",
-      "html_description": "Our bodies instinctually respond to the movements and rhythms of nature, like the uplifting feeling you get when walking in a forest. Can art evoke the same emotions? Experiential artist Lonneke Gordijn takes us through her studio&#39;s stunning, nature-inspired work -- flowering lights, murmurating drones -- and reveals a mysterious piece hiding in the shadows of the TED Theater that just might change your relationship with concrete.",
-      "id": "2p4uWv2oYdnDohgm0mNotl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a5dbcc05aa5020427677c5bd7",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f5dbcc05aa5020427677c5bd7",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d5dbcc05aa5020427677c5bd7",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Nature, art and magical blocks of flying concrete | Lonneke Gordijn",
-      "release_date": "2023-06-07",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2p4uWv2oYdnDohgm0mNotl"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6JsBZJmLQ205sbX69TWzbS/clip_510900_560500.mp3",
-      "description": "Modern life runs on wireless technology. What if the energy powering our devices could also be transmitted without wires? Electrical engineer Ali Hajimiri explains the principles behind wireless energy transfer and shares his far-out vision for launching flexible solar panels into space in order to collect sunlight, convert it to electrical power and then beam it down to Earth. Learn how this technology could power everything -- and light up our world from space.",
-      "duration_ms": 669900,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1N93ztKTSDDq61z1c2qe3j"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1N93ztKTSDDq61z1c2qe3j",
-      "html_description": "Modern life runs on wireless technology. What if the energy powering our devices could also be transmitted without wires? Electrical engineer Ali Hajimiri explains the principles behind wireless energy transfer and shares his far-out vision for launching flexible solar panels into space in order to collect sunlight, convert it to electrical power and then beam it down to Earth. Learn how this technology could power everything -- and light up our world from space.",
-      "id": "1N93ztKTSDDq61z1c2qe3j",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a73ddc14eea4662332c84e1ee",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f73ddc14eea4662332c84e1ee",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d73ddc14eea4662332c84e1ee",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How wireless energy from space could power everything | Ali Hajimiri",
-      "release_date": "2023-06-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1N93ztKTSDDq61z1c2qe3j"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/21cMHYtDkujQSQuVyGaSCh/clip_136300_181600.mp3",
-      "description": "Drawing on his work reconstructing the vocal tract of an ancient Egyptian priest, speech scientist David M. Howard shares three evolutionary wonders of human speech -- and the importance of nurturing your own voice in an increasingly noisy world.",
-      "duration_ms": 564684,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1msvpIhFQKF2U1qaXkIegH"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1msvpIhFQKF2U1qaXkIegH",
-      "html_description": "Drawing on his work reconstructing the vocal tract of an ancient Egyptian priest, speech scientist David M. Howard shares three evolutionary wonders of human speech -- and the importance of nurturing your own voice in an increasingly noisy world.",
-      "id": "1msvpIhFQKF2U1qaXkIegH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a3157075a7b9a25642fb3fe09",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f3157075a7b9a25642fb3fe09",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d3157075a7b9a25642fb3fe09",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Can we recreate the voice of a 3,000-year-old mummy? | David M. Howard",
-      "release_date": "2023-06-05",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1msvpIhFQKF2U1qaXkIegH"
     }
   ]
 }
