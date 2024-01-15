@@ -99,7 +99,7 @@
         }
       ],
       "name": "STRFKR",
-      "popularity": 56,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:2Tz1DTzVJ5Gyh8ZwVr6ekU"
     },
@@ -174,17 +174,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb63ef07ebcbf92d9a3b0c48d6",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb06ffaa1c92cf0fc7767dad99",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517463ef07ebcbf92d9a3b0c48d6",
+          "url": "https://i.scdn.co/image/ab6761610000517406ffaa1c92cf0fc7767dad99",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17863ef07ebcbf92d9a3b0c48d6",
+          "url": "https://i.scdn.co/image/ab6761610000f17806ffaa1c92cf0fc7767dad99",
           "width": 160
         }
       ],
@@ -495,36 +495,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alabama indie"],
-      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-      "id": "4dWtsQvuME6tCWFycaTvO7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
-          "width": 160
-        }
-      ],
-      "name": "The Brook & The Bluff",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
       },
       "followers": { "href": null, "total": 0 },
@@ -557,6 +527,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["alabama indie"],
+      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf3a817354aa6c1c5f9464151",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f3a817354aa6c1c5f9464151",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f3a817354aa6c1c5f9464151",
+          "width": 160
+        }
+      ],
+      "name": "The Brook & The Bluff",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
     },
     {
       "external_urls": {
@@ -734,17 +734,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaaa0cd5a1c9f9d076c09a563",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc935c754fdce193e398d8d7f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aaa0cd5a1c9f9d076c09a563",
+          "url": "https://i.scdn.co/image/ab67616100005174c935c754fdce193e398d8d7f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aaa0cd5a1c9f9d076c09a563",
+          "url": "https://i.scdn.co/image/ab6761610000f178c935c754fdce193e398d8d7f",
           "width": 160
         }
       ],
@@ -816,7 +816,7 @@
         }
       ],
       "name": "The Doors",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:22WZ7M8sxp5THdruNY3gXt"
     },
@@ -951,7 +951,7 @@
         }
       ],
       "name": "Dr. Dog",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
     },
@@ -1487,6 +1487,7 @@
       "genres": [
         "alternative metal",
         "alternative rock",
+        "classic rock",
         "grunge",
         "permanent wave",
         "rock"
@@ -1658,7 +1659,7 @@
         }
       ],
       "name": "The Shins",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
     },
@@ -1958,7 +1959,7 @@
         }
       ],
       "name": "MGMT",
-      "popularity": 72,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
     },
@@ -2029,7 +2030,7 @@
         }
       ],
       "name": "Jefferson Airplane",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:2qFr8w5sWUITRlzZ9kZotF"
     },
@@ -2142,36 +2143,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["atlanta indie"],
-      "href": "https://api.spotify.com/v1/artists/5D9DTI3Knr64lYa3zDCpB7",
-      "id": "5D9DTI3Knr64lYa3zDCpB7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd21191ee5257eb1addab0d4e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d21191ee5257eb1addab0d4e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d21191ee5257eb1addab0d4e",
-          "width": 160
-        }
-      ],
-      "name": "Trash Panda",
-      "popularity": 35,
-      "type": "artist",
-      "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
       },
       "followers": { "href": null, "total": 0 },
@@ -2266,6 +2237,36 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:5PbpKlxQE0Ktl5lcNABoFf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["atlanta indie"],
+      "href": "https://api.spotify.com/v1/artists/5D9DTI3Knr64lYa3zDCpB7",
+      "id": "5D9DTI3Knr64lYa3zDCpB7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd21191ee5257eb1addab0d4e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d21191ee5257eb1addab0d4e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d21191ee5257eb1addab0d4e",
+          "width": 160
+        }
+      ],
+      "name": "Trash Panda",
+      "popularity": 35,
+      "type": "artist",
+      "uri": "spotify:artist:5D9DTI3Knr64lYa3zDCpB7"
     },
     {
       "external_urls": {
@@ -2617,7 +2618,7 @@
         }
       ],
       "name": "Carpenters",
-      "popularity": 71,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
     },
@@ -2749,7 +2750,7 @@
         }
       ],
       "name": "Dean Martin",
-      "popularity": 79,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:49e4v89VmlDcFCMyDv9wQ9"
     },
@@ -2842,6 +2843,40 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:7jOY91ZU7kn86slH3fBbaD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6PL8FkAt5nOZwYpPIhuAJg"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "classic indonesian rock",
+        "indonesian pop",
+        "indonesian pop rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6PL8FkAt5nOZwYpPIhuAJg",
+      "id": "6PL8FkAt5nOZwYpPIhuAJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebafb89fa9e33991f0ed8ce59f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174afb89fa9e33991f0ed8ce59f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178afb89fa9e33991f0ed8ce59f",
+          "width": 160
+        }
+      ],
+      "name": "Padi",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:6PL8FkAt5nOZwYpPIhuAJg"
     },
     {
       "external_urls": {
@@ -3194,42 +3229,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:0K1q0nXQ8is36PzOKAMbNe"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "funk metal",
-        "funk rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0L8ExT028jH3ddEcZwqJJ5",
-      "id": "0L8ExT028jH3ddEcZwqJJ5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c33cc15260b767ddec982ce8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8",
-          "width": 160
-        }
-      ],
-      "name": "Red Hot Chili Peppers",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:0L8ExT028jH3ddEcZwqJJ5"
     }
   ]
 }
