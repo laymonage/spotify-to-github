@@ -201,10 +201,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 168,
+  "total_episodes": 167,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2jWI2nNmDj179M07jtEiKo/clip_57950_124500.mp3",
+      "description": "Don't second-guess what \"distracts\" you, says actor-producer Yara Shahidi; that's your curiosity coming through. The star of hit shows like \"black-ish\" and \"grown-ish\" tells how she learned to spot clues to her own future — and how you can, too.",
+      "duration_ms": 718596,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5iknHAc5oHtrKL4vqYNHr2"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5iknHAc5oHtrKL4vqYNHr2",
+      "html_description": "Don&#39;t second-guess what &#34;distracts&#34; you, says actor-producer Yara Shahidi; that&#39;s your curiosity coming through. The star of hit shows like &#34;black-ish&#34; and &#34;grown-ish&#34; tells how she learned to spot clues to her own future — and how you can, too.",
+      "id": "5iknHAc5oHtrKL4vqYNHr2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c9c6f2a0f9ff8fd62b2cd81",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c9c6f2a0f9ff8fd62b2cd81",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c9c6f2a0f9ff8fd62b2cd81",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Let curiosity lead | Yara Shahidi",
+      "release_date": "2024-01-16",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5iknHAc5oHtrKL4vqYNHr2"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5HpA8lghLu8b5xBVbNYOJ5/clip_208500_266900.mp3",
       "description": "\"The world's most important advanced technology is nearly all produced in a single facility,\" says AI expert Rob Toews. He describes how one company in Taiwan, TSMC, manufactures nearly all the most advanced semiconductor chips — a crucial technology that powers everything from phones to electric vehicles to next-generation artificial intelligence — and breaks down how geopolitical tensions in the region could paralyze the global field of AI.",
@@ -6678,84 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3bt3AYR7TRxRcVhRx7TFCk"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2JqVpJjDSLTR9l4PTuqPJK/clip_391546_446467.mp3",
-      "description": "In between two songs that showcase her raw vocal powers, singer-songwriter Jessie Reyez delivers an inspiring talk about how she's turned losses into wins -- and reminds us we're all capable of magic. (This talk contains mature language.)",
-      "duration_ms": 725628,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7eQsURgzGRJWsJyHJhZz0d"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7eQsURgzGRJWsJyHJhZz0d",
-      "html_description": "In between two songs that showcase her raw vocal powers, singer-songwriter Jessie Reyez delivers an inspiring talk about how she&#39;s turned losses into wins -- and reminds us we&#39;re all capable of magic. (This talk contains mature language.)",
-      "id": "7eQsURgzGRJWsJyHJhZz0d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af413d0e68e6f5025af728808",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff413d0e68e6f5025af728808",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df413d0e68e6f5025af728808",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "\"STILL C U\" / \"Figures\" | Jessie Reyez",
-      "release_date": "2023-06-13",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7eQsURgzGRJWsJyHJhZz0d"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Zgp8bnGwCJrmJCReuiBpr/clip_419900_468600.mp3",
-      "description": "Nearly half of all pregnancies in the United States are unplanned, the result of millions of people being unable to get the birth control method that works best for them. Reproductive health advocate and 2023 Audacious Project grantee Mark Edwards discusses Upstream USA's nationwide effort to expand access to high-quality contraceptive care by integrating it into primary health-care settings -- a crucial shift towards increasing equal health opportunities and empowering people to decide when and if they want to start families. (This ambitious idea is a part of the Audacious Project, TED's initiative to inspire and fund global change.)",
-      "duration_ms": 479532,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/12NEyZA07wFTpD078CoxTV"
-      },
-      "href": "https://api.spotify.com/v1/episodes/12NEyZA07wFTpD078CoxTV",
-      "html_description": "Nearly half of all pregnancies in the United States are unplanned, the result of millions of people being unable to get the birth control method that works best for them. Reproductive health advocate and 2023 Audacious Project grantee Mark Edwards discusses Upstream USA&#39;s nationwide effort to expand access to high-quality contraceptive care by integrating it into primary health-care settings -- a crucial shift towards increasing equal health opportunities and empowering people to decide when and if they want to start families. (This ambitious idea is a part of the Audacious Project, TED&#39;s initiative to inspire and fund global change.)",
-      "id": "12NEyZA07wFTpD078CoxTV",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a81db2632b0ae38f4ec3c1a9b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f81db2632b0ae38f4ec3c1a9b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d81db2632b0ae38f4ec3c1a9b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why is it so hard to get effective birth control in the US? | Mark Edwards",
-      "release_date": "2023-06-12",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:12NEyZA07wFTpD078CoxTV"
     }
   ]
 }
