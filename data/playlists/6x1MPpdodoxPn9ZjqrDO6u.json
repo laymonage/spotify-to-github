@@ -1,43 +1,43 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/6x1MPpdodoxPn9ZjqrDO6u"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/6x1MPpdodoxPn9ZjqrDO6u?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/6x1MPpdodoxPn9ZjqrDO6u",
   "id": "6x1MPpdodoxPn9ZjqrDO6u",
   "images": [
     {
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e021ad9fcdff4a67e1b44f50e74ab67616d00001e0235f789114136f34853ef622fab67616d00001e02dafa2f2674446413b52ac88fab67616d00001e02f7c30632bd3a197fc6555777",
       "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2731ad9fcdff4a67e1b44f50e74ab67616d0000b27335f789114136f34853ef622fab67616d0000b273dafa2f2674446413b52ac88fab67616d0000b273f7c30632bd3a197fc6555777",
       "width": 640
     },
     {
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e021ad9fcdff4a67e1b44f50e74ab67616d00001e0235f789114136f34853ef622fab67616d00001e02dafa2f2674446413b52ac88fab67616d00001e02f7c30632bd3a197fc6555777",
       "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2731ad9fcdff4a67e1b44f50e74ab67616d0000b27335f789114136f34853ef622fab67616d0000b273dafa2f2674446413b52ac88fab67616d0000b273f7c30632bd3a197fc6555777",
       "width": 300
     },
     {
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e021ad9fcdff4a67e1b44f50e74ab67616d00001e0235f789114136f34853ef622fab67616d00001e02dafa2f2674446413b52ac88fab67616d00001e02f7c30632bd3a197fc6555777",
       "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2731ad9fcdff4a67e1b44f50e74ab67616d0000b27335f789114136f34853ef622fab67616d0000b273dafa2f2674446413b52ac88fab67616d0000b273f7c30632bd3a197fc6555777",
       "width": 60
     }
   ],
-  "primary_color": null,
   "name": "k",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:6x1MPpdodoxPn9ZjqrDO6u",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjcsNGQ5NjdiNDhiYjZiMDdhYmMxMTMxOTgxMDQ1ZWNmYzAwOTU2OWU5Yw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:6x1MPpdodoxPn9ZjqrDO6u",
   "tracks": [
     {
       "added_at": "2020-07-03T16:07:14Z",
@@ -316,7 +316,7 @@
         "id": "1f26mzPoBLP8OO67XDmwv8",
         "is_local": false,
         "name": "Don't be sad",
-        "popularity": 9,
+        "popularity": 8,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -3304,7 +3304,7 @@
         "id": "3zqS0EHUWTE9BDU3hf2aRd",
         "is_local": false,
         "name": "Starlight",
-        "popularity": 6,
+        "popularity": 5,
         "preview_url": null,
         "track": true,
         "track_number": 1,

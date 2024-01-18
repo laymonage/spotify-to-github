@@ -1,43 +1,43 @@
 {
   "collaborative": false,
+  "description": "iya iya",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/6vhxJGnr2odY2351wMHVHh"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/6vhxJGnr2odY2351wMHVHh?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/6vhxJGnr2odY2351wMHVHh",
   "id": "6vhxJGnr2odY2351wMHVHh",
   "images": [
     {
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e02789e81b6ddbcbeda579d6066ab67616d00001e029214ff0109a0e062f8a6cf0fab67616d00001e029873568e011ae48942acf38bab67616d00001e02d3f12993a820865791b73722",
       "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273789e81b6ddbcbeda579d6066ab67616d0000b2739214ff0109a0e062f8a6cf0fab67616d0000b2739873568e011ae48942acf38bab67616d0000b273d3f12993a820865791b73722",
       "width": 640
     },
     {
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e02789e81b6ddbcbeda579d6066ab67616d00001e029214ff0109a0e062f8a6cf0fab67616d00001e029873568e011ae48942acf38bab67616d00001e02d3f12993a820865791b73722",
       "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273789e81b6ddbcbeda579d6066ab67616d0000b2739214ff0109a0e062f8a6cf0fab67616d0000b2739873568e011ae48942acf38bab67616d0000b273d3f12993a820865791b73722",
       "width": 300
     },
     {
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e02789e81b6ddbcbeda579d6066ab67616d00001e029214ff0109a0e062f8a6cf0fab67616d00001e029873568e011ae48942acf38bab67616d00001e02d3f12993a820865791b73722",
       "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273789e81b6ddbcbeda579d6066ab67616d0000b2739214ff0109a0e062f8a6cf0fab67616d0000b2739873568e011ae48942acf38bab67616d0000b273d3f12993a820865791b73722",
       "width": 60
     }
   ],
-  "primary_color": null,
   "name": "ind",
-  "description": "iya iya",
-  "type": "playlist",
-  "uri": "spotify:playlist:6vhxJGnr2odY2351wMHVHh",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTYsMzRmZjRhOWNlOTY3ODQwZTQ5ZTkwYzRjOTVhNGU3MzM4OGViOGY2OA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:6vhxJGnr2odY2351wMHVHh",
   "tracks": [
     {
       "added_at": "2019-12-08T11:38:47Z",
@@ -768,7 +768,7 @@
         "id": "2HLtRAcBAWd4y7TfVVoIpm",
         "is_local": false,
         "name": "Let It Pass",
-        "popularity": 50,
+        "popularity": 49,
         "preview_url": "https://p.scdn.co/mp3-preview/cd3006f998bfb08fa9b35eb2dc89d325d0607a99?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,

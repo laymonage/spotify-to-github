@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "for some high school nostalgia",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4Ke64I133hkcfqG9AJeLj8"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/4Ke64I133hkcfqG9AJeLj8",
   "id": "4Ke64I133hkcfqG9AJeLj8",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67616d00001e02b22bbf5ada4099cfd4cc5a73",
-      "height": null,
-      "width": null
+      "height": 640,
+      "url": "https://i.scdn.co/image/ab67616d0000b273b22bbf5ada4099cfd4cc5a73",
+      "width": 640
     }
   ],
-  "primary_color": null,
   "name": "doors",
-  "description": "for some high school nostalgia",
-  "type": "playlist",
-  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTUsYWE2NmYwYmNmZDNlMDQ2M2E2MDJjMTE0NzNkOWQyZDJlNTkxYWQ3Nw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:4Ke64I133hkcfqG9AJeLj8",
   "tracks": [
     {
       "added_at": "2020-06-19T06:05:34Z",
@@ -884,7 +884,7 @@
         "id": "29okb7fKVEFyk8jkvlBhcO",
         "is_local": false,
         "name": "The Crystal Ship",
-        "popularity": 23,
+        "popularity": 22,
         "preview_url": "https://p.scdn.co/mp3-preview/f246552eb445657c0fe3915035798220d823f2e7?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,
@@ -4772,7 +4772,7 @@
         "id": "2UI1QPzu6FPlA7JRiNbmtX",
         "is_local": false,
         "name": "My Eyes Have Seen You",
-        "popularity": 18,
+        "popularity": 17,
         "preview_url": "https://p.scdn.co/mp3-preview/a0da02591dca1aab9eb2acadcdd375215a0d2934?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "some picks",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1JNfnAexPMBz1MSa1swv51"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/1JNfnAexPMBz1MSa1swv51?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/1JNfnAexPMBz1MSa1swv51",
   "id": "1JNfnAexPMBz1MSa1swv51",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84757a9dad9db257c2753e657f",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb757a9dad9db257c2753e657f",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "picks",
-  "description": "some picks",
-  "type": "playlist",
-  "uri": "spotify:playlist:1JNfnAexPMBz1MSa1swv51",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTE2LGI3ZGQ2YmRmMjBiMmFmYTU4ZDU5MDhmYjMxYTg0MWU0YzQ5MmE4MzM=",
+  "type": "playlist",
+  "uri": "spotify:playlist:1JNfnAexPMBz1MSa1swv51",
   "tracks": [
     {
       "added_at": "2018-12-09T20:36:29Z",
@@ -2606,7 +2606,7 @@
         "id": "1yf97yL1ll8FYXC27c9VTw",
         "is_local": false,
         "name": "Trees",
-        "popularity": 62,
+        "popularity": 61,
         "preview_url": "https://p.scdn.co/mp3-preview/cc4fe53eb7a16495cec086ad68826db57635c4e8?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,
@@ -5698,7 +5698,7 @@
         "id": "1NFYhPn90HDEZl3FBbzlx8",
         "is_local": false,
         "name": "Black - 2004 Remix",
-        "popularity": 38,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/05bbab54172f7f00cbf61e8d4f8895a3fcd59bf5?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

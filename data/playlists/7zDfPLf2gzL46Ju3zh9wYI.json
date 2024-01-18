@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "one from (almost) every artist",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7zDfPLf2gzL46Ju3zh9wYI"
   },
   "followers": { "href": null, "total": 1 },
-  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/7zDfPLf2gzL46Ju3zh9wYI",
   "id": "7zDfPLf2gzL46Ju3zh9wYI",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84d99200ffa20c9ca7d7676147",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd99200ffa20c9ca7d7676147",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "assorted",
-  "description": "one from (almost) every artist",
-  "type": "playlist",
-  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTU2LDNiYWJiMjM5N2M4ZGMzMTE3OWNkZjcwOWFmYjIzYzdmNjk2ZjU0MTE=",
+  "type": "playlist",
+  "uri": "spotify:playlist:7zDfPLf2gzL46Ju3zh9wYI",
   "tracks": [
     {
       "added_at": "2019-08-13T07:46:06Z",
@@ -4184,7 +4184,7 @@
         "id": "5SrfclddwYE4JkwY8UqF7H",
         "is_local": false,
         "name": "Cashmere Baby",
-        "popularity": 35,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/968bbb767e8a892408a28710ccd7219454151f2c?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -16274,7 +16274,7 @@
         "id": "14XWXWv5FoCbFzLksawpEe",
         "is_local": false,
         "name": "Riders on the Storm",
-        "popularity": 75,
+        "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/0d7d4d35554f6097fce04d464f7aacd7c6f59727?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,

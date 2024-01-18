@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "songs that matter",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/36TntJgbHxXzKuPKO6TcM6"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/36TntJgbHxXzKuPKO6TcM6?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/36TntJgbHxXzKuPKO6TcM6",
   "id": "36TntJgbHxXzKuPKO6TcM6",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da8460cb3327c7072aab246df11e",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb60cb3327c7072aab246df11e",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "matter",
-  "description": "songs that matter",
-  "type": "playlist",
-  "uri": "spotify:playlist:36TntJgbHxXzKuPKO6TcM6",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MzgsMjI2ZGQwYzUyZjZiZTk5NzVlOTU1ZDhmMWQ2NWFiZDE0ZDQxM2VlYw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:36TntJgbHxXzKuPKO6TcM6",
   "tracks": [
     {
       "added_at": "2019-02-02T16:36:15Z",

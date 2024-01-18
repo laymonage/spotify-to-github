@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "Start 2019 by broadening your horizons. We've made you a playlist of songs from genres and artists you don't normally explore  - and we think you'll like it.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1Ej43UdOr1crnI"
   },
   "followers": { "href": null, "total": 1 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ej43UdOr1crnI?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Ej43UdOr1crnI",
   "id": "37i9dQZF1Ej43UdOr1crnI",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/tastebreakers_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/tastebreakers_LARGE-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Tastebreakers",
-  "description": "Start 2019 by broadening your horizons. We've made you a playlist of songs from genres and artists you don't normally explore  - and we think you'll like it.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1Ej43UdOr1crnI",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
+  "primary_color": null,
+  "public": false,
   "snapshot_id": "MjU3MzMwNTcsMDAwMDAwMDBkZGY1MzNhMmIzZWYwZmZhNTU0ODBmYzA4ZGZjODRmZA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1Ej43UdOr1crnI",
   "tracks": [
     {
       "added_at": "2018-12-05T04:17:30Z",
@@ -11450,7 +11450,7 @@
         "id": "2mlpF3xz2wYKPkNLyHUKEv",
         "is_local": false,
         "name": "WakeUp",
-        "popularity": 15,
+        "popularity": 14,
         "preview_url": "https://p.scdn.co/mp3-preview/ceb5aed22707a96ab60c8d5b841cde1561b6ee57?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -12548,7 +12548,7 @@
         "id": "1OH4jBRyZTIyHh746XWvPO",
         "is_local": false,
         "name": "TAKE ME",
-        "popularity": 19,
+        "popularity": 18,
         "preview_url": "https://p.scdn.co/mp3-preview/d501811fc41fa0a4ffc2110a4bd8dde9ff0c4f74?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,

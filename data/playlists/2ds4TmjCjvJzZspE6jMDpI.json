@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "A copy of my &quot;Your Top Songs 2023&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2ds4TmjCjvJzZspE6jMDpI"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/2ds4TmjCjvJzZspE6jMDpI?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/2ds4TmjCjvJzZspE6jMDpI",
   "id": "2ds4TmjCjvJzZspE6jMDpI",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84e91949c9499ad6035ee8af08",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe91949c9499ad6035ee8af08",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": " Y̶o̶u̶r̶ My Top Songs 2023",
-  "description": "A copy of my &quot;Your Top Songs 2023&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
-  "type": "playlist",
-  "uri": "spotify:playlist:2ds4TmjCjvJzZspE6jMDpI",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NSw0YWVkMDVkNmU0MzAyMTYyNzBjYmJkZWNmYzFiYzZlZDk2YTdkMTEw",
+  "type": "playlist",
+  "uri": "spotify:playlist:2ds4TmjCjvJzZspE6jMDpI",
   "tracks": [
     {
       "added_at": "2024-01-06T18:42:48Z",
@@ -944,7 +944,7 @@
         "id": "4rdqzwlSdRNfcl1Yw9VIZP",
         "is_local": false,
         "name": "Hey Dude Etude",
-        "popularity": 13,
+        "popularity": 12,
         "preview_url": "https://p.scdn.co/mp3-preview/60223e0bb40403429b5503640525caa81dcc4158?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -3920,7 +3920,7 @@
         "id": "10QjiTy7yCuBQs2N3OptBr",
         "is_local": false,
         "name": "Picture of You",
-        "popularity": 7,
+        "popularity": 8,
         "preview_url": "https://p.scdn.co/mp3-preview/eed9ec98904652019b107b0736dfefb3b8bc290b?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -12188,7 +12188,7 @@
         "id": "0BfcfdZd85CmmkE5pdbUdE",
         "is_local": false,
         "name": "Sea of Nothing",
-        "popularity": 37,
+        "popularity": 36,
         "preview_url": "https://p.scdn.co/mp3-preview/c213533bf733e0768515523c6587d7924806da70?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -22040,7 +22040,7 @@
         "id": "4ioqqjlXUEPOljrNyOlLJy",
         "is_local": false,
         "name": "Day & Night",
-        "popularity": 33,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/aaa34eda9dc6a014cad8481bddcff821745e47e6?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 8,
@@ -27970,7 +27970,7 @@
         "id": "52T0wi750JNSWOiuNLJCBz",
         "is_local": false,
         "name": "Funny Business",
-        "popularity": 7,
+        "popularity": 6,
         "preview_url": "https://p.scdn.co/mp3-preview/73aa374b8d6f7df8361e0718d238128d93db3a99?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,

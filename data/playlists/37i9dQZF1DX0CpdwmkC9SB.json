@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "The biggest festival of the year - this is Glastonbury 2023.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0CpdwmkC9SB"
   },
   "followers": { "href": null, "total": 124599 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB",
   "id": "37i9dQZF1DX0CpdwmkC9SB",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706f000000025bda12f38294767d4210f9f2",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706f000000035bda12f38294767d4210f9f2",
       "width": null
     }
   ],
-  "primary_color": "#ffffff",
   "name": "Glastonbury 2023",
-  "description": "The biggest festival of the year - this is Glastonbury 2023.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
-  "public": true,
-  "snapshot_id": "MTY4NjkxOTI2NCwwMDAwMDAwMGExNTBlZDI5ODIwMzZhZWEwZDkwNDFjNDNlYTdiYjcy",
+  "primary_color": "#ffffff",
+  "public": false,
+  "snapshot_id": "MCwxNDM2M2QyYzFmMDIyZDM4OWU4YWI3ZTUwZDUxM2NlYzNiNmMxZjI2",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "tracks": [
     {
       "added_at": "2023-05-30T14:39:42Z",
@@ -22386,7 +22386,7 @@
         "id": "4tKGFmENO69tZR9ahgZu48",
         "is_local": false,
         "name": "Murder On The Dancefloor",
-        "popularity": 85,
+        "popularity": 86,
         "preview_url": "https://p.scdn.co/mp3-preview/63f25afcaec2a6877c9a0004efc249f59976ccbc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -31952,7 +31952,7 @@
         "id": "3p84R45PM75ngq8XRoe45o",
         "is_local": false,
         "name": "Nothing Matters",
-        "popularity": 73,
+        "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/807f328419b87c11668e8a1e5a0d2b43f2b23529?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -36458,17 +36458,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d529c2a8138775510d303ff4",
+              "url": "https://i.scdn.co/image/ab67616d0000b2737109c5bc467dafbd617e8c31",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d529c2a8138775510d303ff4",
+              "url": "https://i.scdn.co/image/ab67616d00001e027109c5bc467dafbd617e8c31",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d529c2a8138775510d303ff4",
+              "url": "https://i.scdn.co/image/ab67616d000048517109c5bc467dafbd617e8c31",
               "width": 64
             }
           ],
@@ -46856,7 +46856,7 @@
         "id": "2AVcklGvXjvGZu6blTLOr0",
         "is_local": false,
         "name": "What's Your Poison?",
-        "popularity": 39,
+        "popularity": 38,
         "preview_url": "https://p.scdn.co/mp3-preview/ba192d6c105e859f5d01ce1f3f7ca22e2b1e1b44?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

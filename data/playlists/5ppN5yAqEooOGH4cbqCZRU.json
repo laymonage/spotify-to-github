@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "Discography of Konoba",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5ppN5yAqEooOGH4cbqCZRU"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5ppN5yAqEooOGH4cbqCZRU?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/5ppN5yAqEooOGH4cbqCZRU",
   "id": "5ppN5yAqEooOGH4cbqCZRU",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84678232586a120687aa2187a5",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb678232586a120687aa2187a5",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Konoba",
-  "description": "Discography of Konoba",
-  "type": "playlist",
-  "uri": "spotify:playlist:5ppN5yAqEooOGH4cbqCZRU",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjksZTAzZjk3NDVkZGJiMmU0YTE1ZDJiYTdlNjY0MjExZjA5ZDlkZjE0NA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:5ppN5yAqEooOGH4cbqCZRU",
   "tracks": [
     {
       "added_at": "2019-02-17T23:30:14Z",
@@ -8256,7 +8256,7 @@
         "id": "2xrw3wnU62QFreH1BZMKHZ",
         "is_local": false,
         "name": "Our Generation",
-        "popularity": 13,
+        "popularity": 14,
         "preview_url": "https://p.scdn.co/mp3-preview/421b4b5aec303ea37d7b39cb8f9950835ee81fc6?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,

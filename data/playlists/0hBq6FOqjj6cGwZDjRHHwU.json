@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "A copy of my &quot;Your Top Songs 2022&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0hBq6FOqjj6cGwZDjRHHwU"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/0hBq6FOqjj6cGwZDjRHHwU?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/0hBq6FOqjj6cGwZDjRHHwU",
   "id": "0hBq6FOqjj6cGwZDjRHHwU",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84e9932f14e744f38b7e413280",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe9932f14e744f38b7e413280",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": " Y̶o̶u̶r̶ My Top Songs 2022",
-  "description": "A copy of my &quot;Your Top Songs 2022&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
-  "type": "playlist",
-  "uri": "spotify:playlist:0hBq6FOqjj6cGwZDjRHHwU",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "Nyw4OThlNGI3YWU1MDZkNTZkZjllYjQxNmVjZGJhYjhhYzcyMDkyM2Zm",
+  "type": "playlist",
+  "uri": "spotify:playlist:0hBq6FOqjj6cGwZDjRHHwU",
   "tracks": [
     {
       "added_at": "2023-07-16T14:26:38Z",
@@ -24972,7 +24972,7 @@
         "id": "5zGcMIK3wV5hyYhxjxnSC4",
         "is_local": false,
         "name": "The Best Things In Life Are Free",
-        "popularity": 22,
+        "popularity": 23,
         "preview_url": "https://p.scdn.co/mp3-preview/f711d5f7f650f03ef4a3940b53fb9c1556b0e8bd?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 12,

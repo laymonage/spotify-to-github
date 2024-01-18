@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "dream pop and stuff",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5CrIfpZ0HQqHGlhwtSXa4s"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5CrIfpZ0HQqHGlhwtSXa4s?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/5CrIfpZ0HQqHGlhwtSXa4s",
   "id": "5CrIfpZ0HQqHGlhwtSXa4s",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84e7810c4fe35c541ea07c60cf",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe7810c4fe35c541ea07c60cf",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "dreamy",
-  "description": "dream pop and stuff",
-  "type": "playlist",
-  "uri": "spotify:playlist:5CrIfpZ0HQqHGlhwtSXa4s",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjEsMGZmMzkwYmQ0YjU3MDYzY2E1NTllMzQ3OGJkODllMDFkNjY1MDAwMQ==",
+  "type": "playlist",
+  "uri": "spotify:playlist:5CrIfpZ0HQqHGlhwtSXa4s",
   "tracks": [
     {
       "added_at": "2019-03-16T01:58:37Z",

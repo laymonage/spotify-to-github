@@ -1,43 +1,43 @@
 {
   "collaborative": false,
+  "description": "https:&#x2F;&#x2F;twitter.com&#x2F;ivanlanin&#x2F;status&#x2F;632419691143692288",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3Ke69VHkCIXS2HGoffN40p"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/3Ke69VHkCIXS2HGoffN40p?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/3Ke69VHkCIXS2HGoffN40p",
   "id": "3Ke69VHkCIXS2HGoffN40p",
   "images": [
     {
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e026240de82f3d4f8a21ced4a66ab67616d00001e026c86f88a91c1bb44c704733cab67616d00001e02742523c6525e049a4da9ca35ab67616d00001e02e393b34c3dfb03bc05dfa562",
       "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2736240de82f3d4f8a21ced4a66ab67616d0000b2736c86f88a91c1bb44c704733cab67616d0000b273742523c6525e049a4da9ca35ab67616d0000b273e393b34c3dfb03bc05dfa562",
       "width": 640
     },
     {
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e026240de82f3d4f8a21ced4a66ab67616d00001e026c86f88a91c1bb44c704733cab67616d00001e02742523c6525e049a4da9ca35ab67616d00001e02e393b34c3dfb03bc05dfa562",
       "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2736240de82f3d4f8a21ced4a66ab67616d0000b2736c86f88a91c1bb44c704733cab67616d0000b273742523c6525e049a4da9ca35ab67616d0000b273e393b34c3dfb03bc05dfa562",
       "width": 300
     },
     {
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e026240de82f3d4f8a21ced4a66ab67616d00001e026c86f88a91c1bb44c704733cab67616d00001e02742523c6525e049a4da9ca35ab67616d00001e02e393b34c3dfb03bc05dfa562",
       "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2736240de82f3d4f8a21ced4a66ab67616d0000b2736c86f88a91c1bb44c704733cab67616d0000b273742523c6525e049a4da9ca35ab67616d0000b273e393b34c3dfb03bc05dfa562",
       "width": 60
     }
   ],
-  "primary_color": null,
   "name": "cepluk senja",
-  "description": "https:&#x2F;&#x2F;twitter.com&#x2F;ivanlanin&#x2F;status&#x2F;632419691143692288",
-  "type": "playlist",
-  "uri": "spotify:playlist:3Ke69VHkCIXS2HGoffN40p",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NDQsMjM5MGZkNTM2N2NkODdlYWI4MGFjOWI0M2RhNTUzNGYwNjc1MzMzNA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:3Ke69VHkCIXS2HGoffN40p",
   "tracks": [
     {
       "added_at": "2022-10-23T20:07:18Z",
@@ -2640,7 +2640,7 @@
         "id": "1pzjujQxRGYcV7SCQmrL9c",
         "is_local": false,
         "name": "Passerby",
-        "popularity": 33,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/365f99cd88e7ae171405cf99648313d6592d0f9a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,

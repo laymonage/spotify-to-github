@@ -1,33 +1,33 @@
 {
   "collaborative": false,
+  "description": "some slow music",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/6eQiVnLKJr3Nfti8YNSkc0"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/6eQiVnLKJr3Nfti8YNSkc0?locale=*",
+  "href": "https://api.spotify.com/v1/playlists/6eQiVnLKJr3Nfti8YNSkc0",
   "id": "6eQiVnLKJr3Nfti8YNSkc0",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da845415d69661c9bd7305321218",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5415d69661c9bd7305321218",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "sans",
-  "description": "some slow music",
-  "type": "playlist",
-  "uri": "spotify:playlist:6eQiVnLKJr3Nfti8YNSkc0",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjcsNDkxYmIyODYwNWE3ZmE1MDM3MjUxNDM5NWYxZmM3OTEwODUwYzAyZg==",
+  "type": "playlist",
+  "uri": "spotify:playlist:6eQiVnLKJr3Nfti8YNSkc0",
   "tracks": [
     {
       "added_at": "2019-03-03T09:34:30Z",
