@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5isT3D77RgmhLovFPUpIZw/clip_132872_192872.mp3",
+      "description": "Storyteller Golriz Lucina recounts how the historic sacrifice of Iranian 19th-century poet and mystic Táhirih planted the seeds for the \"Woman, Life, Freedom\" protests today, offering an inspiring lesson in the value of acting with conviction — even if we don't live to see the results.",
+      "duration_ms": 521676,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1oqC0FjPenwJNBEWXnAfTA"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1oqC0FjPenwJNBEWXnAfTA",
+      "html_description": "Storyteller Golriz Lucina recounts how the historic sacrifice of Iranian 19th-century poet and mystic Táhirih planted the seeds for the &#34;Woman, Life, Freedom&#34; protests today, offering an inspiring lesson in the value of acting with conviction — even if we don&#39;t live to see the results.",
+      "id": "1oqC0FjPenwJNBEWXnAfTA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8abf8da54c26c17085e7c26dfd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fbf8da54c26c17085e7c26dfd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dbf8da54c26c17085e7c26dfd",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Fight for justice — even if you don't live to see it | Golriz Lucina",
+      "release_date": "2024-01-18",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1oqC0FjPenwJNBEWXnAfTA"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/08szlVtwcncXcR1KgKrxMh/clip_257899_316300.mp3",
       "description": "After years of brand building, marketing veteran Sylvester Chauke realized that his industry had sold the world on overconsumption, with devastating consequences. He shares how marketers could instead promote sustainability with \"honest ads\" that do right by the planet and encourage people to think twice before buying.",
       "duration_ms": 717540,
@@ -6678,45 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0M3nZ66GjJpAptFZINtZOb"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0pOBX90MOJJ0K6tDX8LWWH/clip_416100_478600.mp3",
-      "description": "\"I think of legacy as the weaving together of our stories passed on as a whole,\" says Haida storyteller Cohen Bradley. Highlighting the significance of potlatch ceremonies (or gift-giving feasts) and other Indigenous traditions of the Haida Nation, Bradley shares why we all should prioritize our collective legacies -- and how they live on through the stories we tell.",
-      "duration_ms": 649164,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2nUSSR2mhrXLKC0Ecxutv5"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2nUSSR2mhrXLKC0Ecxutv5",
-      "html_description": "&#34;I think of legacy as the weaving together of our stories passed on as a whole,&#34; says Haida storyteller Cohen Bradley. Highlighting the significance of potlatch ceremonies (or gift-giving feasts) and other Indigenous traditions of the Haida Nation, Bradley shares why we all should prioritize our collective legacies -- and how they live on through the stories we tell.",
-      "id": "2nUSSR2mhrXLKC0Ecxutv5",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a23d7071db1ee7f82d34fa027",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f23d7071db1ee7f82d34fa027",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d23d7071db1ee7f82d34fa027",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to weave a cultural legacy through storytelling | Cohen Bradley",
-      "release_date": "2023-06-15",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2nUSSR2mhrXLKC0Ecxutv5"
     }
   ]
 }
