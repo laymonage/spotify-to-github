@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcPNTHJwc78rm"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcPNTHJwc78rm?locale=*",
   "id": "37i9dQZEVXcPNTHJwc78rm",
   "images": [
     {
+      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/Dv4Seif73DQzDWqPtorNOw1ohpTt-aWKZLeEEJYzjHkiidvqYhyJ6uHRkA672BqPvDNTjWN9NqAPzKCDwBtk-lhGssP5DKWxxoLo4iizeBY=/NzU6MDI6NTFUOTItMTAtNA==",
       "height": null,
-      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/OlCqs03DqHt3sgMsyTu1GaCTyvZutlx7TXqYhAmh1M_eo7PsZLJYr1sAXrxrTbOkPdBoG0Us7HBi1DqUOIiLtWO1WGrHZlhxDZAn9UCz1jc=/NzU6OTE6NTFUOTItMTAtNA==",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Discover Weekly",
+  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
-  "snapshot_id": "MCwwMDAwMDAwMGMzODgwYTUzODNkNWQ3OTBiN2NkYTQ3OTFjM2E5MmNl",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
+  "public": true,
+  "snapshot_id": "MCwwMDAwMDAwMGMxZDg2NmYxM2MzODc5ZmRmNmYxNjU2NTdhYWQ1ZmQ2",
   "tracks": [
     {
       "added_at": "2024-01-14T17:00:00Z",

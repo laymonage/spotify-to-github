@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "some picks",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1JNfnAexPMBz1MSa1swv51"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/1JNfnAexPMBz1MSa1swv51",
+  "href": "https://api.spotify.com/v1/playlists/1JNfnAexPMBz1MSa1swv51?locale=*",
   "id": "1JNfnAexPMBz1MSa1swv51",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84757a9dad9db257c2753e657f",
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb757a9dad9db257c2753e657f",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "picks",
+  "description": "some picks",
+  "type": "playlist",
+  "uri": "spotify:playlist:1JNfnAexPMBz1MSa1swv51",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTE2LGI3ZGQ2YmRmMjBiMmFmYTU4ZDU5MDhmYjMxYTg0MWU0YzQ5MmE4MzM=",
-  "type": "playlist",
-  "uri": "spotify:playlist:1JNfnAexPMBz1MSa1swv51",
   "tracks": [
     {
       "added_at": "2018-12-09T20:36:29Z",
@@ -5042,7 +5042,7 @@
         "id": "4VGvosVIeFMCUwHibq7a9Z",
         "is_local": false,
         "name": "Encore",
-        "popularity": 54,
+        "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/daf98b9961ebd623c9c563b44bee7eb6e6687c07?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,
@@ -14494,7 +14494,7 @@
         "id": "4k5NwE9mydazY3m2NaMjkP",
         "is_local": false,
         "name": "Space City",
-        "popularity": 21,
+        "popularity": 20,
         "preview_url": "https://p.scdn.co/mp3-preview/894c6a8971fe0dc2d8cb7c2e8680f5a2efba2cb1?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "The biggest festival of the year - this is Glastonbury 2023.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0CpdwmkC9SB"
   },
-  "followers": { "href": null, "total": 124594 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB",
+  "followers": { "href": null, "total": 124602 },
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0CpdwmkC9SB?locale=*",
   "id": "37i9dQZF1DX0CpdwmkC9SB",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706f000000025bda12f38294767d4210f9f2",
       "height": null,
-      "url": "https://i.scdn.co/image/ab67706f000000035bda12f38294767d4210f9f2",
       "width": null
     }
   ],
+  "primary_color": "#ffffff",
   "name": "Glastonbury 2023",
+  "description": "The biggest festival of the year - this is Glastonbury 2023.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": "#ffffff",
-  "public": false,
-  "snapshot_id": "MCw0NTAyZTkzMWRjOWVlNTM2NDFiYjllNzg0MTI3NWJlMmMyNTU0MjUx",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX0CpdwmkC9SB",
+  "public": true,
+  "snapshot_id": "MTY4NjkxOTI2NCwwMDAwMDAwMGExNTBlZDI5ODIwMzZhZWEwZDkwNDFjNDNlYTdiYjcy",
   "tracks": [
     {
       "added_at": "2023-05-30T14:39:42Z",
@@ -12774,7 +12774,7 @@
         "id": "5qJqzpNdEbt92roedFwoDR",
         "is_local": false,
         "name": "Left Hand Free",
-        "popularity": 75,
+        "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/f41a9269aa41542d416537147a8307f508a4c6c3?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -17070,7 +17070,7 @@
         "id": "5FzrXX7WuiRpKSVVzUtIiB",
         "is_local": false,
         "name": "Love and Hate in a Different Time - Original",
-        "popularity": 52,
+        "popularity": 51,
         "preview_url": "https://p.scdn.co/mp3-preview/e5c8084c781b3a21a3caf52260b92181d6298a0c?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,
@@ -22386,7 +22386,7 @@
         "id": "4tKGFmENO69tZR9ahgZu48",
         "is_local": false,
         "name": "Murder On The Dancefloor",
-        "popularity": 87,
+        "popularity": 88,
         "preview_url": "https://p.scdn.co/mp3-preview/63f25afcaec2a6877c9a0004efc249f59976ccbc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

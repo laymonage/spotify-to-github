@@ -1,43 +1,43 @@
 {
   "collaborative": false,
-  "description": "26 September 2016 - Best Discovery #1",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5cSacRiwd0DtxNQJa3qn1t"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5cSacRiwd0DtxNQJa3qn1t",
+  "href": "https://api.spotify.com/v1/playlists/5cSacRiwd0DtxNQJa3qn1t?locale=*",
   "id": "5cSacRiwd0DtxNQJa3qn1t",
   "images": [
     {
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e020531153fccbbc988b6e4f38eab67616d00001e0226e5969d06dc364544aa0ef1ab67616d00001e02500a95f36178e1c86a835077ab67616d00001e027c97b0f4fe1cdfb94be6595b",
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d0000b2730531153fccbbc988b6e4f38eab67616d0000b27326e5969d06dc364544aa0ef1ab67616d0000b273500a95f36178e1c86a835077ab67616d0000b2737c97b0f4fe1cdfb94be6595b",
       "width": 640
     },
     {
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e020531153fccbbc988b6e4f38eab67616d00001e0226e5969d06dc364544aa0ef1ab67616d00001e02500a95f36178e1c86a835077ab67616d00001e027c97b0f4fe1cdfb94be6595b",
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d0000b2730531153fccbbc988b6e4f38eab67616d0000b27326e5969d06dc364544aa0ef1ab67616d0000b273500a95f36178e1c86a835077ab67616d0000b2737c97b0f4fe1cdfb94be6595b",
       "width": 300
     },
     {
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e020531153fccbbc988b6e4f38eab67616d00001e0226e5969d06dc364544aa0ef1ab67616d00001e02500a95f36178e1c86a835077ab67616d00001e027c97b0f4fe1cdfb94be6595b",
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d0000b2730531153fccbbc988b6e4f38eab67616d0000b27326e5969d06dc364544aa0ef1ab67616d0000b273500a95f36178e1c86a835077ab67616d0000b2737c97b0f4fe1cdfb94be6595b",
       "width": 60
     }
   ],
+  "primary_color": null,
   "name": "Weekly Discovery #3",
+  "description": "26 September 2016 - Best Discovery #1",
+  "type": "playlist",
+  "uri": "spotify:playlist:5cSacRiwd0DtxNQJa3qn1t",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "NiwwNWU1MWQwZDQ4MDBhZmYzZjhhYzM1YWZhNGMwMGVlMWI0Nzg4Yjk1",
-  "type": "playlist",
-  "uri": "spotify:playlist:5cSacRiwd0DtxNQJa3qn1t",
   "tracks": [
     {
       "added_at": "2016-10-01T03:09:59Z",
@@ -122,7 +122,7 @@
         "id": "0mWF1uxvHK5Jai0k75Fwmq",
         "is_local": false,
         "name": "Ace in the Hole",
-        "popularity": 11,
+        "popularity": 12,
         "preview_url": "https://p.scdn.co/mp3-preview/88a3a9985c9412ffa0233833e86da6e06ecbba02?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,

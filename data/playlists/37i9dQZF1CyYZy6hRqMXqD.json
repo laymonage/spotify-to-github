@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1CyYZy6hRqMXqD"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1CyYZy6hRqMXqD?locale=*",
   "id": "37i9dQZF1CyYZy6hRqMXqD",
   "images": [
     {
+      "url": "https://lineup-images.scdn.co/your-top-songs-2016_DEFAULT-en.jpg",
       "height": null,
-      "url": "https://lineup-images.scdn.co/your-top-songs-2016_LARGE-en.jpg",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Your Top Songs 2016",
+  "description": "We collected all the songs you loved the most this year, wrapped them up, and are serving them back in this beautiful little playlist.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
+  "public": true,
   "snapshot_id": "MjQ2Nzg3MjAsMDAwMDAwMDBlOTJkZDRjMjQyZWRiMWExNGY2ZjlkNmJiOTcwYTA4Mg==",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1CyYZy6hRqMXqD",
   "tracks": [
     {
       "added_at": "2016-12-03T00:00:00Z",
@@ -5194,7 +5194,7 @@
         "id": "1mvyqSb1tOvtVP1qfWEyPa",
         "is_local": false,
         "name": "1901",
-        "popularity": 9,
+        "popularity": 8,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -22150,7 +22150,7 @@
         "id": "4VGvosVIeFMCUwHibq7a9Z",
         "is_local": false,
         "name": "Encore",
-        "popularity": 54,
+        "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/daf98b9961ebd623c9c563b44bee7eb6e6687c07?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 11,
@@ -23526,7 +23526,7 @@
         "id": "29YJwU9p4NhXZ4tIVPoY8W",
         "is_local": false,
         "name": "Golden",
-        "popularity": 37,
+        "popularity": 38,
         "preview_url": "https://p.scdn.co/mp3-preview/004d6563a0eeaf5956b2be08de936f6ac5bcd629?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

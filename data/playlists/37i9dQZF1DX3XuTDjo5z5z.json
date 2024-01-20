@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Stay focused with this collection of electronic sounds.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX3XuTDjo5z5z"
   },
-  "followers": { "href": null, "total": 260313 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3XuTDjo5z5z",
+  "followers": { "href": null, "total": 260309 },
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX3XuTDjo5z5z?locale=*",
   "id": "37i9dQZF1DX3XuTDjo5z5z",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706f00000002c55b2b31c497e4f15d0059a5",
       "height": null,
-      "url": "https://i.scdn.co/image/ab67706f00000003c55b2b31c497e4f15d0059a5",
       "width": null
     }
   ],
+  "primary_color": "#ffffff",
   "name": "Electronic Concentration",
+  "description": "Stay focused with this collection of electronic sounds.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1DX3XuTDjo5z5z",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": "#ffffff",
-  "public": false,
-  "snapshot_id": "MCwyMjgyYjkyZTFiOGVhNGIyN2Q3OTA1Yjc3ZTQzNGViMTQ1NWI2OGFm",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1DX3XuTDjo5z5z",
+  "public": true,
+  "snapshot_id": "MTY4NjkxODg0MywwMDAwMDAwMDNhOTI5MWM2ZmU4N2ZlM2Q3MzRiNDVhMTMyZTUxZWY4",
   "tracks": [
     {
       "added_at": "2022-07-05T09:37:03Z",
@@ -7028,7 +7028,7 @@
         "id": "6qHLlPQk11HB7Wh40ea7oR",
         "is_local": false,
         "name": "Understand",
-        "popularity": 29,
+        "popularity": 30,
         "preview_url": "https://p.scdn.co/mp3-preview/a5c558bac10210e00938073d9434bdaaab638948?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 10,
@@ -16814,7 +16814,7 @@
         "id": "1lLuJ1PTq8wXAorPqHwMOd",
         "is_local": false,
         "name": "Mauer Blues",
-        "popularity": 41,
+        "popularity": 42,
         "preview_url": "https://p.scdn.co/mp3-preview/4de613d657180fb32bb0ebc632792d6f77d3065d?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -22520,7 +22520,7 @@
         "id": "5cPOz6bfepKn3V5ibmIih6",
         "is_local": false,
         "name": "Skumle Planer",
-        "popularity": 24,
+        "popularity": 25,
         "preview_url": "https://p.scdn.co/mp3-preview/2607adb3a31d8091577de30c23a70adad4f9c29a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 2,

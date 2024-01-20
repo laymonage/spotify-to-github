@@ -1,35 +1,35 @@
 {
   "collaborative": false,
-  "description": "The most played Carpenters tracks on Spotify right now including tracks from the new release Carpenters with the Royal Philharmonic Orchestra",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3okT3gkhA8VL0wNBg4uYOA"
   },
-  "followers": { "href": null, "total": 77372 },
-  "href": "https://api.spotify.com/v1/playlists/3okT3gkhA8VL0wNBg4uYOA",
+  "followers": { "href": null, "total": 77371 },
+  "href": "https://api.spotify.com/v1/playlists/3okT3gkhA8VL0wNBg4uYOA?locale=*",
   "id": "3okT3gkhA8VL0wNBg4uYOA",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da8459294617e8f73f48cb0956b6",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb59294617e8f73f48cb0956b6",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Carpenters Best Of",
+  "description": "The most played Carpenters tracks on Spotify right now including tracks from the new release Carpenters with the Royal Philharmonic Orchestra",
+  "type": "playlist",
+  "uri": "spotify:playlist:3okT3gkhA8VL0wNBg4uYOA",
   "owner": {
-    "display_name": "Carpenters",
-    "external_urls": {
-      "spotify": "https://open.spotify.com/user/carpentersofficial"
-    },
     "href": "https://api.spotify.com/v1/users/carpentersofficial",
     "id": "carpentersofficial",
     "type": "user",
-    "uri": "spotify:user:carpentersofficial"
+    "uri": "spotify:user:carpentersofficial",
+    "display_name": "Carpenters",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/carpentersofficial"
+    }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "NTUsNDk5NjZmN2VmZTMxOTQzYTQ2NDMwMzUxMmMwNjk3OTE1OTIwMWRkNw==",
-  "type": "playlist",
-  "uri": "spotify:playlist:3okT3gkhA8VL0wNBg4uYOA",
   "tracks": [
     {
       "added_at": "2018-12-07T18:28:06Z",

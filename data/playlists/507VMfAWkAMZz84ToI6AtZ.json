@@ -1,43 +1,43 @@
 {
   "collaborative": false,
-  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/507VMfAWkAMZz84ToI6AtZ"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/507VMfAWkAMZz84ToI6AtZ",
+  "href": "https://api.spotify.com/v1/playlists/507VMfAWkAMZz84ToI6AtZ?locale=*",
   "id": "507VMfAWkAMZz84ToI6AtZ",
   "images": [
     {
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e0285d212db9dc1edbfd66e10ecab67616d00001e029b29b25aefd50e44a71733cfab67616d00001e02cab2e511dbd8e857ef35a412ab67616d00001e02f98962cd232434dd4ad64b40",
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d0000b27385d212db9dc1edbfd66e10ecab67616d0000b2739b29b25aefd50e44a71733cfab67616d0000b273cab2e511dbd8e857ef35a412ab67616d0000b273f98962cd232434dd4ad64b40",
       "width": 640
     },
     {
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e0285d212db9dc1edbfd66e10ecab67616d00001e029b29b25aefd50e44a71733cfab67616d00001e02cab2e511dbd8e857ef35a412ab67616d00001e02f98962cd232434dd4ad64b40",
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d0000b27385d212db9dc1edbfd66e10ecab67616d0000b2739b29b25aefd50e44a71733cfab67616d0000b273cab2e511dbd8e857ef35a412ab67616d0000b273f98962cd232434dd4ad64b40",
       "width": 300
     },
     {
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e0285d212db9dc1edbfd66e10ecab67616d00001e029b29b25aefd50e44a71733cfab67616d00001e02cab2e511dbd8e857ef35a412ab67616d00001e02f98962cd232434dd4ad64b40",
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d0000b27385d212db9dc1edbfd66e10ecab67616d0000b2739b29b25aefd50e44a71733cfab67616d0000b273cab2e511dbd8e857ef35a412ab67616d0000b273f98962cd232434dd4ad64b40",
       "width": 60
     }
   ],
+  "primary_color": null,
   "name": "seiichi",
+  "description": "",
+  "type": "playlist",
+  "uri": "spotify:playlist:507VMfAWkAMZz84ToI6AtZ",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTMsOGY2ZTBjYzA4ZTM5YWU3MjMwMjViOWY3NTJlOTIyN2RmNWVmZjM0MQ==",
-  "type": "playlist",
-  "uri": "spotify:playlist:507VMfAWkAMZz84ToI6AtZ",
   "tracks": [
     {
       "added_at": "2021-08-11T07:09:08Z",
@@ -4198,7 +4198,7 @@
         "id": "2Y693KlnXZS3WSrfSsraZO",
         "is_local": false,
         "name": "We Don't Care",
-        "popularity": 16,
+        "popularity": 15,
         "preview_url": "https://p.scdn.co/mp3-preview/a3df2ef2bf305a953b84e3c4296b437c1d279a7a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,

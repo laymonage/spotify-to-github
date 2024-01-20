@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1Et8wXlJ8GM7Lp"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Et8wXlJ8GM7Lp",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Et8wXlJ8GM7Lp?locale=*",
   "id": "37i9dQZF1Et8wXlJ8GM7Lp",
   "images": [
     {
+      "url": "https://lineup-images.scdn.co/your-top-songs-2019_DEFAULT-en.jpg",
       "height": null,
-      "url": "https://lineup-images.scdn.co/your-top-songs-2019_LARGE-en.jpg",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Your Top Songs 2019",
+  "description": "The songs you loved most this year, all wrapped up.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1Et8wXlJ8GM7Lp",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
+  "public": true,
   "snapshot_id": "MjYyNjk2ODEsMDAwMDAwMDBhOTQ1NThiMWUwYjg3NjA0ZTJlZTE2MzQxOTkxZGM3NQ==",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1Et8wXlJ8GM7Lp",
   "tracks": [
     {
       "added_at": "2019-12-12T20:01:08Z",
@@ -660,7 +660,7 @@
         "id": "5WEOtuxaLsMdQ9h0jXoOPk",
         "is_local": false,
         "name": "U Used To",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -1580,7 +1580,7 @@
         "id": "1zXX9sBeDiUDy4ugl8HrW5",
         "is_local": false,
         "name": "Dreams / Nightmares",
-        "popularity": 31,
+        "popularity": 30,
         "preview_url": "https://p.scdn.co/mp3-preview/92fbd52c21b7028a0cb514d6c8fa4e446b0f01ad?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -9310,7 +9310,7 @@
         "id": "5WEOtuxaLsMdQ9h0jXoOPk",
         "is_local": false,
         "name": "U Used To",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -10230,7 +10230,7 @@
         "id": "1zXX9sBeDiUDy4ugl8HrW5",
         "is_local": false,
         "name": "Dreams / Nightmares",
-        "popularity": 31,
+        "popularity": 30,
         "preview_url": "https://p.scdn.co/mp3-preview/92fbd52c21b7028a0cb514d6c8fa4e446b0f01ad?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -17960,7 +17960,7 @@
         "id": "5WEOtuxaLsMdQ9h0jXoOPk",
         "is_local": false,
         "name": "U Used To",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -18880,7 +18880,7 @@
         "id": "1zXX9sBeDiUDy4ugl8HrW5",
         "is_local": false,
         "name": "Dreams / Nightmares",
-        "popularity": 31,
+        "popularity": 30,
         "preview_url": "https://p.scdn.co/mp3-preview/92fbd52c21b7028a0cb514d6c8fa4e446b0f01ad?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,

@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1EM7gvpH85a79r"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM7gvpH85a79r",
+  "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM7gvpH85a79r?locale=*",
   "id": "37i9dQZF1EM7gvpH85a79r",
   "images": [
     {
+      "url": "https://lineup-images.scdn.co/wrapped-2020-top100_DEFAULT-en.jpg",
       "height": null,
-      "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Your Top Songs 2020",
+  "description": "The songs you loved most this year, all wrapped up.",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1EM7gvpH85a79r",
   "owner": {
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify"
+    "uri": "spotify:user:spotify",
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
   },
-  "primary_color": null,
-  "public": false,
+  "public": true,
   "snapshot_id": "MjY3NzQ2NTgsMDAwMDAwMDBmNmRkOTUyMmM2ZGQ0NzQ3NzNmNWQxYzY2ZDkxN2JmOA==",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1EM7gvpH85a79r",
   "tracks": [
     {
       "added_at": "2020-11-27T12:18:46Z",
@@ -27034,7 +27034,7 @@
         "id": "5WEOtuxaLsMdQ9h0jXoOPk",
         "is_local": false,
         "name": "U Used To",
-        "popularity": 2,
+        "popularity": 1,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -30062,7 +30062,7 @@
         "id": "0koaq1pPdhyqAsvzW0ddkj",
         "is_local": false,
         "name": "Nothing",
-        "popularity": 18,
+        "popularity": 19,
         "preview_url": "https://p.scdn.co/mp3-preview/35f461fbd47a9a8f460827427c7f2ca60da61f44?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

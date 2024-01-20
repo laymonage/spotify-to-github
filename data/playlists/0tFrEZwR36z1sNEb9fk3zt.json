@@ -1,43 +1,43 @@
 {
   "collaborative": false,
-  "description": "Not actually from Spotify&#x27;s, but this is a very good discovery.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0tFrEZwR36z1sNEb9fk3zt"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/0tFrEZwR36z1sNEb9fk3zt",
+  "href": "https://api.spotify.com/v1/playlists/0tFrEZwR36z1sNEb9fk3zt?locale=*",
   "id": "0tFrEZwR36z1sNEb9fk3zt",
   "images": [
     {
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e023ce33d79a755e0951a9ae1bdab67616d00001e02c42417c3c04d168d4c508d5dab67616d00001e02dcebb1016558937cbda27a04ab67616d00001e02ec1d8cc0240bc358e98dca03",
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d0000b2733ce33d79a755e0951a9ae1bdab67616d0000b273c42417c3c04d168d4c508d5dab67616d0000b273dcebb1016558937cbda27a04ab67616d0000b273ec1d8cc0240bc358e98dca03",
       "width": 640
     },
     {
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e023ce33d79a755e0951a9ae1bdab67616d00001e02c42417c3c04d168d4c508d5dab67616d00001e02dcebb1016558937cbda27a04ab67616d00001e02ec1d8cc0240bc358e98dca03",
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d0000b2733ce33d79a755e0951a9ae1bdab67616d0000b273c42417c3c04d168d4c508d5dab67616d0000b273dcebb1016558937cbda27a04ab67616d0000b273ec1d8cc0240bc358e98dca03",
       "width": 300
     },
     {
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e023ce33d79a755e0951a9ae1bdab67616d00001e02c42417c3c04d168d4c508d5dab67616d00001e02dcebb1016558937cbda27a04ab67616d00001e02ec1d8cc0240bc358e98dca03",
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d0000b2733ce33d79a755e0951a9ae1bdab67616d0000b273c42417c3c04d168d4c508d5dab67616d0000b273dcebb1016558937cbda27a04ab67616d0000b273ec1d8cc0240bc358e98dca03",
       "width": 60
     }
   ],
+  "primary_color": null,
   "name": "Weekly Discovery #1",
+  "description": "Not actually from Spotify&#x27;s, but this is a very good discovery.",
+  "type": "playlist",
+  "uri": "spotify:playlist:0tFrEZwR36z1sNEb9fk3zt",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTIsODQ4N2JmNGY2NmRmZmI5ZDMwZDljY2M4YTcyYmM1ODFjOGYyNGI4MA==",
-  "type": "playlist",
-  "uri": "spotify:playlist:0tFrEZwR36z1sNEb9fk3zt",
   "tracks": [
     {
       "added_at": "2016-10-01T03:07:58Z",

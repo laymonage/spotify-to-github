@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4j0Tfavhv9vedPVSMGICfR"
   },
   "followers": { "href": null, "total": 2 },
-  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR",
+  "href": "https://api.spotify.com/v1/playlists/4j0Tfavhv9vedPVSMGICfR?locale=*",
   "id": "4j0Tfavhv9vedPVSMGICfR",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84ff7c8d2905689355efc3f236",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbff7c8d2905689355efc3f236",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "Best of Mafia II Soundtrack (extended)",
+  "description": "Good ol&#x27; &#x27;40s and &#x27;50s music",
+  "type": "playlist",
+  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTEwLDg5Y2FlNzU2NDY2OTE3MWE5M2MzMTNiOTM0NDYwOTc1YzY4MjE0YmU=",
-  "type": "playlist",
-  "uri": "spotify:playlist:4j0Tfavhv9vedPVSMGICfR",
   "tracks": [
     {
       "added_at": "2018-04-15T02:55:03Z",
@@ -592,7 +592,7 @@
         "id": "1RnAlgvpLO2e5n7bRXmzhx",
         "is_local": false,
         "name": "Bei Mir Bist Du Schon (Means That You're Grand)",
-        "popularity": 36,
+        "popularity": 37,
         "preview_url": "https://p.scdn.co/mp3-preview/42ec69de735d7b35c22e4d3686f7c023df61a5de?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,
@@ -8980,7 +8980,7 @@
         "id": "0qv3w2Nx84BQ14qEYLcNE6",
         "is_local": false,
         "name": "Good Little Bad Little You",
-        "popularity": 28,
+        "popularity": 27,
         "preview_url": "https://p.scdn.co/mp3-preview/39b9375de2bf967ffdcf5160efc912ab27c2eaa9?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 9,

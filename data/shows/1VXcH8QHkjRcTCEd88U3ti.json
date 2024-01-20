@@ -201,12 +201,51 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 167,
+  "total_episodes": 166,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5isT3D77RgmhLovFPUpIZw/clip_132872_192872.mp3",
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/26pghgB3pdr4mlHzrDTWtD/clip_125950_196280.mp3",
+      "description": "\"People told me this was an unadaptable book, so the only logical thing to do was to try to adapt it,\" says writer, producer and filmmaker Ava DuVernay of her work taking the award-winning title \"Caste\" from page to screen. In conversation with Pat Mitchell, DuVernay talks about the resulting film, \"Origin,\" and discusses her process for turning ideas into pictures that pack a punch.",
+      "duration_ms": 1133916,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2iyYHDLODPhdt1BKHRrmRk"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2iyYHDLODPhdt1BKHRrmRk",
+      "html_description": "&#34;People told me this was an unadaptable book, so the only logical thing to do was to try to adapt it,&#34; says writer, producer and filmmaker Ava DuVernay of her work taking the award-winning title &#34;Caste&#34; from page to screen. In conversation with Pat Mitchell, DuVernay talks about the resulting film, &#34;Origin,&#34; and discusses her process for turning ideas into pictures that pack a punch.",
+      "id": "2iyYHDLODPhdt1BKHRrmRk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a931fd0a62ddd8dc2d95c10b9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f931fd0a62ddd8dc2d95c10b9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d931fd0a62ddd8dc2d95c10b9",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How film changes the way we see the world | Ava DuVernay",
+      "release_date": "2024-01-19",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2iyYHDLODPhdt1BKHRrmRk"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5isT3D77RgmhLovFPUpIZw/clip_211600_265000.mp3",
       "description": "Storyteller Golriz Lucina recounts how the historic sacrifice of Iranian 19th-century poet and mystic Táhirih planted the seeds for the \"Woman, Life, Freedom\" protests today, offering an inspiring lesson in the value of acting with conviction — even if we don't live to see the results.",
       "duration_ms": 521676,
       "explicit": false,
@@ -399,6 +438,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0lhT465EN1wPIyjxZcgxbh"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7cSG8LoWofLxP8C7VLeRir/clip_123400_177800.mp3",
+      "description": "What if a robot could find and deliver your lost phone? AI researcher Tara Boroushaki presents how she's using wireless signals and sensors to create AI-powered goggles with \"X-ray vision,\" creating a dynamic new tool with applications from improving efficiency in commercial warehouses to aiding emergency rescues.",
+      "duration_ms": 378863,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1Em6Mj8y5nBhKD7XVerPFK"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1Em6Mj8y5nBhKD7XVerPFK",
+      "html_description": "What if a robot could find and deliver your lost phone? AI researcher Tara Boroushaki presents how she&#39;s using wireless signals and sensors to create AI-powered goggles with &#34;X-ray vision,&#34; creating a dynamic new tool with applications from improving efficiency in commercial warehouses to aiding emergency rescues.",
+      "id": "1Em6Mj8y5nBhKD7XVerPFK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a9d08df04c81f056087031993",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f9d08df04c81f056087031993",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d9d08df04c81f056087031993",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Could AI give you X-ray vision? | Tara Boroushaki",
+      "release_date": "2024-01-12",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1Em6Mj8y5nBhKD7XVerPFK"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1XDytodJbkdKbta1LE340R/clip_463100_511400.mp3",
@@ -6600,123 +6678,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6kMfb81RUk2OyddgB9h7Fd"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/64sVPxFwvM660TX1xyB9cc/clip_638100_699300.mp3",
-      "description": "While studying inequality and social mobility, Richard Reeves made a surprising discovery: in some countries, like the US and UK, boys are drastically lagging behind girls across many academic measures. He explains why these struggles in school are indicative of the larger crises facing boys and men -- and outlines how society could thoughtfully tackle these challenges to work towards a more inclusive, equitable future. (Followed by a Q&A with head of TED Chris Anderson)",
-      "duration_ms": 960228,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/09vKgIEWa6A4f4I8lhrPId"
-      },
-      "href": "https://api.spotify.com/v1/episodes/09vKgIEWa6A4f4I8lhrPId",
-      "html_description": "While studying inequality and social mobility, Richard Reeves made a surprising discovery: in some countries, like the US and UK, boys are drastically lagging behind girls across many academic measures. He explains why these struggles in school are indicative of the larger crises facing boys and men -- and outlines how society could thoughtfully tackle these challenges to work towards a more inclusive, equitable future. (Followed by a Q&amp;A with head of TED Chris Anderson)",
-      "id": "09vKgIEWa6A4f4I8lhrPId",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a12b579d416c99d8e6a470fb6",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f12b579d416c99d8e6a470fb6",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d12b579d416c99d8e6a470fb6",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to solve the education crisis for boys and men | Richard Reeves",
-      "release_date": "2023-06-20",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:09vKgIEWa6A4f4I8lhrPId"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5j86U5WfBU5ffAuqNjNwqs/clip_273300_329000.mp3",
-      "description": "At the end of the Civil War, though slavery was technically illegal in all states, it still persisted in the last bastions of the Confederacy. This was the case when Union General Gordon Granger marched his troops into Galveston, Texas on June 19th and announced that all enslaved people there were officially free. Karlos K. Hill and Soraya Field Fiorio dig into the history of Juneteenth. [Directed by Rémi Cans, Atypicalist, narrated by Christina Greer, music by Jarrett Farkas].",
-      "duration_ms": 351780,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/29eNklc1Xgos1ZAHg1AzBG"
-      },
-      "href": "https://api.spotify.com/v1/episodes/29eNklc1Xgos1ZAHg1AzBG",
-      "html_description": "At the end of the Civil War, though slavery was technically illegal in all states, it still persisted in the last bastions of the Confederacy. This was the case when Union General Gordon Granger marched his troops into Galveston, Texas on June 19th and announced that all enslaved people there were officially free. Karlos K. Hill and Soraya Field Fiorio dig into the history of Juneteenth. [Directed by Rémi Cans, Atypicalist, narrated by Christina Greer, music by Jarrett Farkas].",
-      "id": "29eNklc1Xgos1ZAHg1AzBG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af7fd8150cffb2cfbeed91866",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff7fd8150cffb2cfbeed91866",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df7fd8150cffb2cfbeed91866",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "What is Juneteenth, and why is it important? | Karlos Hill and Soraya Field Fiorio",
-      "release_date": "2023-06-19",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:29eNklc1Xgos1ZAHg1AzBG"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0iIsKeYz21s6D1VydKQ8ze/clip_162700_213600.mp3",
-      "description": "Uninvited hair touching, an issue that primarily affects Black women and girls, is an invasion of personal space. To raise awareness of \"hair attacks,\" activist Mena Fombo started the \"No, You Cannot Touch My Hair\" campaign, showing how unwanted hair touching is an issue that has been and still is rooted in racism. She shares three steps to end this invasive behavior and move toward a world that respects everyone's bodily autonomy.",
-      "duration_ms": 871404,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0M3nZ66GjJpAptFZINtZOb"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0M3nZ66GjJpAptFZINtZOb",
-      "html_description": "Uninvited hair touching, an issue that primarily affects Black women and girls, is an invasion of personal space. To raise awareness of &#34;hair attacks,&#34; activist Mena Fombo started the &#34;No, You Cannot Touch My Hair&#34; campaign, showing how unwanted hair touching is an issue that has been and still is rooted in racism. She shares three steps to end this invasive behavior and move toward a world that respects everyone&#39;s bodily autonomy.",
-      "id": "0M3nZ66GjJpAptFZINtZOb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a4dfd267c160f2b45e30e9046",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f4dfd267c160f2b45e30e9046",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d4dfd267c160f2b45e30e9046",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "No. You cannot touch my hair! | Mena Fombo",
-      "release_date": "2023-06-16",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0M3nZ66GjJpAptFZINtZOb"
     }
   ]
 }

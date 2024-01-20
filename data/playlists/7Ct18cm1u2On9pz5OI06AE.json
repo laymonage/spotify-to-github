@@ -1,33 +1,33 @@
 {
   "collaborative": false,
-  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7Ct18cm1u2On9pz5OI06AE"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/7Ct18cm1u2On9pz5OI06AE",
+  "href": "https://api.spotify.com/v1/playlists/7Ct18cm1u2On9pz5OI06AE?locale=*",
   "id": "7Ct18cm1u2On9pz5OI06AE",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da84d089764de7b800165b6a7c25",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd089764de7b800165b6a7c25",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "blekpul",
+  "description": "",
+  "type": "playlist",
+  "uri": "spotify:playlist:7Ct18cm1u2On9pz5OI06AE",
   "owner": {
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage"
+    "uri": "spotify:user:laymonage",
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTEsY2IxMGQ5ZTY3NGY5MDJhNmUzMmQ2YjRiNTQxZDE1NTcxYWE4OTg4Yw==",
-  "type": "playlist",
-  "uri": "spotify:playlist:7Ct18cm1u2On9pz5OI06AE",
   "tracks": [
     {
       "added_at": "2019-07-11T01:33:41Z",
@@ -1868,7 +1868,7 @@
         "id": "6UzS6g9FI4htBQM6fhKwxD",
         "is_local": false,
         "name": "Sun Dress",
-        "popularity": 29,
+        "popularity": 30,
         "preview_url": "https://p.scdn.co/mp3-preview/3ed75fd20f0f399c8b086b32e6e30374b0ded03c?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -2330,7 +2330,7 @@
         "id": "1y8IGNy0JpTDIpjcsLoptk",
         "is_local": false,
         "name": "One Day",
-        "popularity": 21,
+        "popularity": 22,
         "preview_url": "https://p.scdn.co/mp3-preview/13bf54da00c8c132b9d8b712da4923c42b02ca34?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -5102,7 +5102,7 @@
         "id": "0Qzs1wcNdyFA1v9eRWczWH",
         "is_local": false,
         "name": "Sister",
-        "popularity": 7,
+        "popularity": 8,
         "preview_url": "https://p.scdn.co/mp3-preview/3830dfbb3db574816595ba9c7226b4090b85ac25?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,
