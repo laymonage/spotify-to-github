@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0jeRSJG3k5sQCZJ4mijc4T/clip_63700_117700.mp3",
+      "description": "The world relies on manufacturing, and manufacturing relies on heat — a massive contributor to global carbon emissions, responsible for a quarter of the world's fossil fuel use. Energy entrepreneur John O'Donnell has figured out a better, cleaner way to generate the heat we need to make the stuff we want. Learn how his team turned simple bricks and iron wire into a powerful, unconventional \"heat battery\" that could deliver industrial heat at scale without the emissions — and why he thinks electrified industrial heat is the next trillion-dollar industry.",
+      "duration_ms": 572676,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/09lUqhd1D5RYw4gGUIKC8O"
+      },
+      "href": "https://api.spotify.com/v1/episodes/09lUqhd1D5RYw4gGUIKC8O",
+      "html_description": "<p>The world relies on manufacturing, and manufacturing relies on heat — a massive contributor to global carbon emissions, responsible for a quarter of the world&#39;s fossil fuel use. Energy entrepreneur John O&#39;Donnell has figured out a better, cleaner way to generate the heat we need to make the stuff we want. Learn how his team turned simple bricks and iron wire into a powerful, unconventional &#34;heat battery&#34; that could deliver industrial heat at scale without the emissions — and why he thinks electrified industrial heat is the next trillion-dollar industry.</p>",
+      "id": "09lUqhd1D5RYw4gGUIKC8O",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a1441ae1419ad19657fa45e7e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f1441ae1419ad19657fa45e7e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d1441ae1419ad19657fa45e7e",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Can a simple brick be the next great battery? | John O'Donnell",
+      "release_date": "2024-01-25",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:09lUqhd1D5RYw4gGUIKC8O"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/08pgwRgm94NoiRUgYHTvxM/clip_482600_549500.mp3",
       "description": "Google's chief diversity officer Melonie D. Parker joins journalist and host of the \"TED Tech\" podcast Sherrell Dorsey for a conversation on fostering belonging and opportunity in the workplace. Learn more about how companies can sustainably promote diversity, equity and inclusion — and why you should aim to \"add in,\" not \"fit in.\"",
       "duration_ms": 1130076,
@@ -6639,45 +6678,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3PSeGzade7ysDYkGzhdSlB"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2Fj9tF8NMPGKKWQ8iSnKVB/clip_428300_471500.mp3",
-      "description": "Filmmaker Sahar Zand vividly explores the ongoing struggle women face at the hands of Iranian morality police -- like living as second-class citizens with no right to travel, divorce or wear their hair uncovered -- and points to new hope as protests against this unfair treatment continue across the country and around the world. She urges us all to stand in solidarity with the fight for \"Woman, Life, Freedom\" and shows why hope is so dangerous to authoritarian regimes.",
-      "duration_ms": 895740,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5VLQz2ez8JOMdC3NrlcYxl"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5VLQz2ez8JOMdC3NrlcYxl",
-      "html_description": "<p>Filmmaker Sahar Zand vividly explores the ongoing struggle women face at the hands of Iranian morality police -- like living as second-class citizens with no right to travel, divorce or wear their hair uncovered -- and points to new hope as protests against this unfair treatment continue across the country and around the world. She urges us all to stand in solidarity with the fight for &#34;Woman, Life, Freedom&#34; and shows why hope is so dangerous to authoritarian regimes.</p>",
-      "id": "5VLQz2ez8JOMdC3NrlcYxl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a85108deeb5281281dbf2a2b2",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f85108deeb5281281dbf2a2b2",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d85108deeb5281281dbf2a2b2",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why Iranians are cutting their hair for \"Woman, Life, Freedom\" | Sahar Zand",
-      "release_date": "2023-06-23",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5VLQz2ez8JOMdC3NrlcYxl"
     }
   ]
 }
