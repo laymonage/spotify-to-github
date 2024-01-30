@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4ySUHa286D7PhpkV6wXsLd/clip_201000_246200.mp3",
+      "description": "Catching cancer at its earliest stages saves lives. But in a body made up of trillions of cells, how do you spot a small group of rogue cancer cells? Biomedical researcher Hani Goodarzi discusses his lab's discovery of a new class of RNAs that, when paired with emerging AI tools, could help detect cancer earlier, more precisely and even through routine blood work — potentially transforming our understanding of the disease.",
+      "duration_ms": 461268,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/39sXupdcXXYwkp3maOAXt9"
+      },
+      "href": "https://api.spotify.com/v1/episodes/39sXupdcXXYwkp3maOAXt9",
+      "html_description": "<p>Catching cancer at its earliest stages saves lives. But in a body made up of trillions of cells, how do you spot a small group of rogue cancer cells? Biomedical researcher Hani Goodarzi discusses his lab&#39;s discovery of a new class of RNAs that, when paired with emerging AI tools, could help detect cancer earlier, more precisely and even through routine blood work — potentially transforming our understanding of the disease.</p>",
+      "id": "39sXupdcXXYwkp3maOAXt9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8adf415ccaa0c80a0099b76177",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fdf415ccaa0c80a0099b76177",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68ddf415ccaa0c80a0099b76177",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What if a simple blood test could detect cancer? | Hani Goodarzi",
+      "release_date": "2024-01-29",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:39sXupdcXXYwkp3maOAXt9"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7cSG8LoWofLxP8C7VLeRir/clip_123400_177800.mp3",
       "description": "What if a robot could find and deliver your lost phone? AI researcher Tara Boroushaki presents how she's using wireless signals and sensors to create AI-powered goggles with \"X-ray vision,\" creating a dynamic new tool with applications from improving efficiency in commercial warehouses to aiding emergency rescues.",
       "duration_ms": 431700,
@@ -6678,45 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1PTTNohqIJwELqze6OMHdT"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4BJ2tqa0PQnVlDoL6RVVFo/clip_328600_373100.mp3",
-      "description": "Why do we prioritize human rights over those of other species? Philosopher Peter Singer dives into what he calls \"speciesism,\" the root of the widely ignored mistreatment of animals around the world, from factory farms to product-testing facilities. He makes the case for ending the commercial exploitation of animals for food and invites everyone to reexamine the environmental and moral weight of the status quo. This conversation, hosted by head of TED Chris Anderson, was part of an exclusive TED Membership event. Visit ted.com/membership to become a TED Member. (Warning: this conversation contains images of animal cruelty.)",
-      "duration_ms": 2014332,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/3PSeGzade7ysDYkGzhdSlB"
-      },
-      "href": "https://api.spotify.com/v1/episodes/3PSeGzade7ysDYkGzhdSlB",
-      "html_description": "<p>Why do we prioritize human rights over those of other species? Philosopher Peter Singer dives into what he calls &#34;speciesism,&#34; the root of the widely ignored mistreatment of animals around the world, from factory farms to product-testing facilities. He makes the case for ending the commercial exploitation of animals for food and invites everyone to reexamine the environmental and moral weight of the status quo. This conversation, hosted by head of TED Chris Anderson, was part of an exclusive TED Membership event. Visit ted.com/membership to become a TED Member. (Warning: this conversation contains images of animal cruelty.)</p>",
-      "id": "3PSeGzade7ysDYkGzhdSlB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8adff0fa2a9d9c4735f6f59627",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fdff0fa2a9d9c4735f6f59627",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68ddff0fa2a9d9c4735f6f59627",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A modern argument for the rights of animals | Peter Singer",
-      "release_date": "2023-06-26",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:3PSeGzade7ysDYkGzhdSlB"
     }
   ]
 }
