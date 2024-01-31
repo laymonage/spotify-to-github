@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IvmV0FsNzdDgh6E66tDWn/clip_89200_162000.mp3",
+      "description": "Urging us to turn away from voices perpetuating harmful stereotypes, gender equality advocate Gary Barker shares three insights on fostering a culture of care, compassion and connection among men. \"We are the most wired-to-care species on the planet,\" he says. \"But if you don't use it ... you don't get good at it.\"",
+      "duration_ms": 823500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1tT0jfHKJHH0Dum7QBl3NF"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1tT0jfHKJHH0Dum7QBl3NF",
+      "html_description": "<p>Urging us to turn away from voices perpetuating harmful stereotypes, gender equality advocate Gary Barker shares three insights on fostering a culture of care, compassion and connection among men. &#34;We are the most wired-to-care species on the planet,&#34; he says. &#34;But if you don&#39;t use it ... you don&#39;t get good at it.&#34;</p>",
+      "id": "1tT0jfHKJHH0Dum7QBl3NF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a4a3fc6bde08e8cdd8e517b63",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f4a3fc6bde08e8cdd8e517b63",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d4a3fc6bde08e8cdd8e517b63",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "A reframing of masculinity, rooted in empathy | Gary Barker",
+      "release_date": "2024-01-30",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1tT0jfHKJHH0Dum7QBl3NF"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4ySUHa286D7PhpkV6wXsLd/clip_201000_246200.mp3",
       "description": "Catching cancer at its earliest stages saves lives. But in a body made up of trillions of cells, how do you spot a small group of rogue cancer cells? Biomedical researcher Hani Goodarzi discusses his lab's discovery of a new class of RNAs that, when paired with emerging AI tools, could help detect cancer earlier, more precisely and even through routine blood work — potentially transforming our understanding of the disease.",
       "duration_ms": 461268,
@@ -6678,45 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0c3LGhTO7meCbBPRJQSuQ0"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5un3vOgwqqMb0bFzErtwcH/clip_170200_221300.mp3",
-      "description": "In an astonishing talk and tech demo, neurotechnologist Conor Russomanno shares his work building brain-computer interfaces that could enable us to control the external world with our minds. He discusses the quickly advancing possibilities of this field -- including the promise of a \"closed-loop system\" that could both record and stimulate brain activity -- and invites neurohacker Christian Bayerlein onto the TED stage to fly a mind-controlled drone by using a biosensing headset.",
-      "duration_ms": 908988,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/1PTTNohqIJwELqze6OMHdT"
-      },
-      "href": "https://api.spotify.com/v1/episodes/1PTTNohqIJwELqze6OMHdT",
-      "html_description": "<p>In an astonishing talk and tech demo, neurotechnologist Conor Russomanno shares his work building brain-computer interfaces that could enable us to control the external world with our minds. He discusses the quickly advancing possibilities of this field -- including the promise of a &#34;closed-loop system&#34; that could both record and stimulate brain activity -- and invites neurohacker Christian Bayerlein onto the TED stage to fly a mind-controlled drone by using a biosensing headset.</p>",
-      "id": "1PTTNohqIJwELqze6OMHdT",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ae8e57da187f4d28b3ca6b8e5",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fe8e57da187f4d28b3ca6b8e5",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68de8e57da187f4d28b3ca6b8e5",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "A powerful new neurotech tool for augmenting your mind | Conor Russomanno",
-      "release_date": "2023-06-27",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:1PTTNohqIJwELqze6OMHdT"
     }
   ]
 }
