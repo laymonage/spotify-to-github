@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5jbUwBBFuiGh46QOsGfYXp/clip_502400_556400.mp3",
+      "description": "Leaders can't be afraid to disrupt the status quo, says pharmaceutical CEO Paul Hudson. In conversation with TED's Lindsay Levin, he shares how AI eliminates \"unglamorous work\" and speeds up operations while collaborations across competitors can dramatically boost sustainability. Hear some powerful advice for the modern leader — and learn why it's time for businesses to embrace AI.",
+      "duration_ms": 1095588,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3UOUycnKolkPLa6xIHOSom"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3UOUycnKolkPLa6xIHOSom",
+      "html_description": "<p>Leaders can&#39;t be afraid to disrupt the status quo, says pharmaceutical CEO Paul Hudson. In conversation with TED&#39;s Lindsay Levin, he shares how AI eliminates &#34;unglamorous work&#34; and speeds up operations while collaborations across competitors can dramatically boost sustainability. Hear some powerful advice for the modern leader — and learn why it&#39;s time for businesses to embrace AI.</p>",
+      "id": "3UOUycnKolkPLa6xIHOSom",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af655b997d16c743c7db46fa1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff655b997d16c743c7db46fa1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df655b997d16c743c7db46fa1",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Leadership in the age of AI | Paul Hudson and Lindsay Levin",
+      "release_date": "2024-01-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3UOUycnKolkPLa6xIHOSom"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2IvmV0FsNzdDgh6E66tDWn/clip_89200_162000.mp3",
       "description": "Urging us to turn away from voices perpetuating harmful stereotypes, gender equality advocate Gary Barker shares three insights on fostering a culture of care, compassion and connection among men. \"We are the most wired-to-care species on the planet,\" he says. \"But if you don't use it ... you don't get good at it.\"",
       "duration_ms": 823500,
@@ -6678,45 +6717,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3z8cKaAqj0oQRIwHyf2AmA"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6fsDOdW4xdnwQYBZI8mggB/clip_723600_768200.mp3",
-      "description": "Is there a way to give back that benefits everyone? Citing the success of collective giving practices from around the world, philanthropic advisor Rebecca Darwent asks donors to let communities lead decision-making, ushering in a new era of philanthropy that's rooted in interconnected humanity.",
-      "duration_ms": 828228,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0c3LGhTO7meCbBPRJQSuQ0"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0c3LGhTO7meCbBPRJQSuQ0",
-      "html_description": "<p>Is there a way to give back that benefits everyone? Citing the success of collective giving practices from around the world, philanthropic advisor Rebecca Darwent asks donors to let communities lead decision-making, ushering in a new era of philanthropy that&#39;s rooted in interconnected humanity.</p>",
-      "id": "0c3LGhTO7meCbBPRJQSuQ0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a681fb551d06ec98060dcda8a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f681fb551d06ec98060dcda8a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d681fb551d06ec98060dcda8a",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How to fund real change in your community | Rebecca Darwent",
-      "release_date": "2023-06-28",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0c3LGhTO7meCbBPRJQSuQ0"
     }
   ]
 }
