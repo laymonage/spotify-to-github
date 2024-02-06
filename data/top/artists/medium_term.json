@@ -219,7 +219,7 @@
         }
       ],
       "name": "The Irons",
-      "popularity": 21,
+      "popularity": 20,
       "type": "artist",
       "uri": "spotify:artist:6i48BaGgUX0ceBv2F0iQH0"
     },
@@ -440,7 +440,7 @@
         }
       ],
       "name": "Fruit Bats",
-      "popularity": 55,
+      "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:6Qm9stX6XO1a4c7BXQDDgc"
     },
@@ -726,7 +726,7 @@
         }
       ],
       "name": "Julien Chang",
-      "popularity": 23,
+      "popularity": 24,
       "type": "artist",
       "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
     },
@@ -959,36 +959,6 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
-      "id": "4iMO20EPodreIaEl8qW66y",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
-          "width": 160
-        }
-      ],
-      "name": "Still Woozy",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
     },
     {
       "external_urls": {
@@ -1309,6 +1279,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "oakland indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4iMO20EPodreIaEl8qW66y",
+      "id": "4iMO20EPodreIaEl8qW66y",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb213487aac43637b03baf9db8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174213487aac43637b03baf9db8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178213487aac43637b03baf9db8",
+          "width": 160
+        }
+      ],
+      "name": "Still Woozy",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:4iMO20EPodreIaEl8qW66y"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
       },
       "followers": { "href": null, "total": 0 },
@@ -1469,7 +1469,7 @@
         }
       ],
       "name": "The Andrews Sisters",
-      "popularity": 62,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
     },
@@ -2852,6 +2852,7 @@
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
+        "art pop",
         "baltimore indie",
         "dream pop",
         "dreamo",
