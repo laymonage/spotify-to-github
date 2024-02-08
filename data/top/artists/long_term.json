@@ -1513,17 +1513,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb44829ac83c4538a8cf7e9f40",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0bb49b0b71ab3f5871860617",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517444829ac83c4538a8cf7e9f40",
+          "url": "https://i.scdn.co/image/ab676161000051740bb49b0b71ab3f5871860617",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17844829ac83c4538a8cf7e9f40",
+          "url": "https://i.scdn.co/image/ab6761610000f1780bb49b0b71ab3f5871860617",
           "width": 160
         }
       ],
@@ -2203,9 +2203,39 @@
         }
       ],
       "name": "meija",
-      "popularity": 39,
+      "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/57A85GCAJn0reNAez6Hswt",
+      "id": "57A85GCAJn0reNAez6Hswt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273676e52b04121d08f3ea10a58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02676e52b04121d08f3ea10a58",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851676e52b04121d08f3ea10a58",
+          "width": 64
+        }
+      ],
+      "name": "Naif",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt"
     },
     {
       "external_urls": {
@@ -2401,36 +2431,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/57A85GCAJn0reNAez6Hswt",
-      "id": "57A85GCAJn0reNAez6Hswt",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273676e52b04121d08f3ea10a58",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02676e52b04121d08f3ea10a58",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851676e52b04121d08f3ea10a58",
-          "width": 64
-        }
-      ],
-      "name": "Naif",
-      "popularity": 57,
-      "type": "artist",
-      "uri": "spotify:artist:57A85GCAJn0reNAez6Hswt"
     },
     {
       "external_urls": {
@@ -2796,7 +2796,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -2806,7 +2806,6 @@
       },
       "followers": { "href": null, "total": 0 },
       "genres": [
-        "art pop",
         "baltimore indie",
         "dream pop",
         "dreamo",
@@ -2895,7 +2894,7 @@
         }
       ],
       "name": "T.hanks",
-      "popularity": 19,
+      "popularity": 18,
       "type": "artist",
       "uri": "spotify:artist:2ctj54ezUG5emfg5CMX8sk"
     },
