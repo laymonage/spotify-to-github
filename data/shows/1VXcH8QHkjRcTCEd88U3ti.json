@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/702Iqbho9me2pGfJig1vyq/clip_239700_296200.mp3",
+      "description": "When it comes to climate solutions, \"now is better than new, and time is more important than tech,\" says scientist Jonathan Foley. He presents a six-part framework to more efficiently address climate change, from better aligning capital with carbon to utilizing affordable solutions that are ready to go now. Learn more about what the data says to do — and how the solutions might be cheaper than we think.",
+      "duration_ms": 661788,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6ZBBcjtchzyTFJp1C5N46J"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6ZBBcjtchzyTFJp1C5N46J",
+      "html_description": "<p>When it comes to climate solutions, &#34;now is better than new, and time is more important than tech,&#34; says scientist Jonathan Foley. He presents a six-part framework to more efficiently address climate change, from better aligning capital with carbon to utilizing affordable solutions that are ready to go now. Learn more about what the data says to do — and how the solutions might be cheaper than we think.</p>",
+      "id": "6ZBBcjtchzyTFJp1C5N46J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a26f02c3ab5fc842139f0814b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f26f02c3ab5fc842139f0814b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d26f02c3ab5fc842139f0814b",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The climate solutions worth funding — now | Jonathan Foley",
+      "release_date": "2024-02-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6ZBBcjtchzyTFJp1C5N46J"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/11Vcr3Hy7TNKsH64ojk53Q/clip_505900_576700.mp3",
       "description": "Sometimes, you need to break the rules to innovate — but which ones? Entrepreneurship professor John Mullins shares six counter-conventional mindsets for entrepreneurs looking to think strategically, navigate challenges and change the world.",
       "duration_ms": 987492,
@@ -6717,45 +6756,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6raVb4fH7S4r7BR4pb1prd"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0g4MIqHskcufiw90w0wchc/clip_128900_175700.mp3",
-      "description": "Lethal drones with facial recognition, armed robots, autonomous fighter jets: we're at the dawn of a new age of AI-powered warfare, says technologist Alexandr Wang. He explores why data will be the secret weapon in this uncharted landscape and emphasizes the need to consider national security when developing new tech -- or potentially face all-out AI warfare.",
-      "duration_ms": 628908,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/0LqZnqKN3QwARZekBbTUyS"
-      },
-      "href": "https://api.spotify.com/v1/episodes/0LqZnqKN3QwARZekBbTUyS",
-      "html_description": "<p>Lethal drones with facial recognition, armed robots, autonomous fighter jets: we&#39;re at the dawn of a new age of AI-powered warfare, says technologist Alexandr Wang. He explores why data will be the secret weapon in this uncharted landscape and emphasizes the need to consider national security when developing new tech -- or potentially face all-out AI warfare.</p>",
-      "id": "0LqZnqKN3QwARZekBbTUyS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a55680f1dd2957258ec6efc95",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f55680f1dd2957258ec6efc95",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d55680f1dd2957258ec6efc95",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "War, AI and the new global arms race | Alexandr Wang",
-      "release_date": "2023-07-10",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:0LqZnqKN3QwARZekBbTUyS"
     }
   ]
 }
