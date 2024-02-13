@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "Tastebreakers 2018 result.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/39Cs0oSJOUNvwIZHxKRMv5"
   },
@@ -8,26 +9,25 @@
   "id": "39Cs0oSJOUNvwIZHxKRMv5",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da8401eebe7b784865ce216122b0",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da8401eebe7b784865ce216122b0",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Brokentaste",
-  "description": "Tastebreakers 2018 result.",
-  "type": "playlist",
-  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjksNjNiYWRjZDM5MTE1ODFkOTE5ZGNlNGY2YzUxN2ViY2NmMzk0NzlkYg==",
+  "type": "playlist",
+  "uri": "spotify:playlist:39Cs0oSJOUNvwIZHxKRMv5",
   "tracks": [
     {
       "added_at": "2018-12-30T16:51:06Z",
@@ -4728,7 +4728,7 @@
         "id": "1oOD1pV43cV9sHg97aBdLs",
         "is_local": false,
         "name": "Dean Town",
-        "popularity": 56,
+        "popularity": 57,
         "preview_url": "https://p.scdn.co/mp3-preview/4e08fbe9e4c663be3fe185bf2a6da96537102c9e?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,

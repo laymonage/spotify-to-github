@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "Start 2019 by broadening your horizons. We've made you a playlist of songs from genres and artists you don't normally explore  - and we think you'll like it.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1Ej43UdOr1crnI"
   },
@@ -8,26 +9,25 @@
   "id": "37i9dQZF1Ej43UdOr1crnI",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/tastebreakers_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/tastebreakers_DEFAULT-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Tastebreakers",
-  "description": "Start 2019 by broadening your horizons. We've made you a playlist of songs from genres and artists you don't normally explore  - and we think you'll like it.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1Ej43UdOr1crnI",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjU3MzMwNTcsMDAwMDAwMDBkZGY1MzNhMmIzZWYwZmZhNTU0ODBmYzA4ZGZjODRmZA==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1Ej43UdOr1crnI",
   "tracks": [
     {
       "added_at": "2018-12-05T04:17:30Z",
@@ -13082,7 +13082,7 @@
         "id": "3m9lnuSYZmHsopPycNnGqM",
         "is_local": false,
         "name": "3am Bounce",
-        "popularity": 34,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/e2d1813b72528b60267cf7224d72888f65f4a3dc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -28646,7 +28646,7 @@
         "id": "3m9lnuSYZmHsopPycNnGqM",
         "is_local": false,
         "name": "3am Bounce",
-        "popularity": 34,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/e2d1813b72528b60267cf7224d72888f65f4a3dc?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

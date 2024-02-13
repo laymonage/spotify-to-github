@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1Et8wXlJ8GM7Lp"
   },
@@ -8,26 +9,25 @@
   "id": "37i9dQZF1Et8wXlJ8GM7Lp",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/your-top-songs-2019_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/your-top-songs-2019_DEFAULT-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Your Top Songs 2019",
-  "description": "The songs you loved most this year, all wrapped up.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1Et8wXlJ8GM7Lp",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjYyNjk2ODEsMDAwMDAwMDBhOTQ1NThiMWUwYjg3NjA0ZTJlZTE2MzQxOTkxZGM3NQ==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1Et8wXlJ8GM7Lp",
   "tracks": [
     {
       "added_at": "2019-12-12T20:01:08Z",

@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "A copy of my &quot;Your Top Songs 2021&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/11xCD3FlZRTxA9nl4cn0QZ"
   },
@@ -8,26 +9,25 @@
   "id": "11xCD3FlZRTxA9nl4cn0QZ",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da844a89d3a12b9349ab8e230e6c",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da844a89d3a12b9349ab8e230e6c",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": " Y̶o̶u̶r̶ My Top Songs 2021",
-  "description": "A copy of my &quot;Your Top Songs 2021&quot; playlist so I can display it on my profile and you can access it. Spotify has made these playlists inaccessible by other users since 2021.",
-  "type": "playlist",
-  "uri": "spotify:playlist:11xCD3FlZRTxA9nl4cn0QZ",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "OSw1NjRhZTUwZTQzYmIyMjVjMWM3NWMzYjQ5YmVlNmEyODY1NDdkMGRl",
+  "type": "playlist",
+  "uri": "spotify:playlist:11xCD3FlZRTxA9nl4cn0QZ",
   "tracks": [
     {
       "added_at": "2023-07-16T14:20:25Z",
@@ -16842,7 +16842,7 @@
         "id": "4hveFhtWRaiFlirifQeR8J",
         "is_local": false,
         "name": "Sooth Lady Wine",
-        "popularity": 43,
+        "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/b6492e14eb3f81ab6f4125897b1f89f66839021a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,

@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcPNTHJwc78rm"
   },
@@ -8,26 +9,25 @@
   "id": "37i9dQZEVXcPNTHJwc78rm",
   "images": [
     {
-      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/11KGfhp85r-veJSfrF54NtxLvN3w1Sc0Xk9krs6V-IGAkkjAH3gTCOu4aYWG2M1mhXapuHx00T17GHYNI6p1a-LsQmlk7Hcu1g244bRklCo=/NzU6OTE6NTFUOTEtMjAtNA==",
       "height": null,
+      "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/SwJtu2EPdoKemcKF8D7x921lqxo-vWzvcIOa6nHecS7E5GjD4LbPDoVwwoNB4pCTU2AqWObN4z2IURIAa4TSOPXE6HVBZqAcKX6pW04pFt0=/NzU6NTE6NTFUNjItMjAtNA==",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Discover Weekly",
-  "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MCwwMDAwMDAwMDRjMTIyZTI3NDQzZmM0NTAxMjRjYzAzYjk5MWY5MGYz",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXcPNTHJwc78rm",
   "tracks": [
     {
       "added_at": "2024-02-11T17:00:00Z",
@@ -4096,7 +4096,7 @@
         "id": "1zjXV6SLHBqblIRCV9dMph",
         "is_local": false,
         "name": "I Think I'm Old Enough",
-        "popularity": 31,
+        "popularity": 32,
         "preview_url": "https://p.scdn.co/mp3-preview/6a9e45f37045c36cc93b6bd6cefd047a92a89ca2?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "songs, no remixes",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5uhIiFVQfwIWf14hy1IQOf"
   },
@@ -8,26 +9,25 @@
   "id": "5uhIiFVQfwIWf14hy1IQOf",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da840d26f89b745742d6a08ba5ca",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da840d26f89b745742d6a08ba5ca",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Tame Impalist",
-  "description": "songs, no remixes",
-  "type": "playlist",
-  "uri": "spotify:playlist:5uhIiFVQfwIWf14hy1IQOf",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjUsNGY4YWU4MDE2NTVhNDkwMWI5ZjYyZjhhMDE5NTdiYzRhOWVmZDhlZg==",
+  "type": "playlist",
+  "uri": "spotify:playlist:5uhIiFVQfwIWf14hy1IQOf",
   "tracks": [
     {
       "added_at": "2019-12-06T10:24:14Z",

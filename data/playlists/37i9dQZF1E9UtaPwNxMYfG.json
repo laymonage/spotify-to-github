@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "The songs you loved most this year, all wrapped up.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1E9UtaPwNxMYfG"
   },
@@ -8,26 +9,25 @@
   "id": "37i9dQZF1E9UtaPwNxMYfG",
   "images": [
     {
-      "url": "https://lineup-images.scdn.co/your-top-songs-2017_DEFAULT-en.jpg",
       "height": null,
+      "url": "https://lineup-images.scdn.co/your-top-songs-2017_DEFAULT-en.jpg",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Your Top Songs 2017",
-  "description": "The songs you loved most this year, all wrapped up.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZF1E9UtaPwNxMYfG",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjUxODI3OTUsMDAwMDAwMDA1OTNmOGI3MDY1NTZhMTgwMDI3ZWZmOGJlMjAyNmI1YQ==",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZF1E9UtaPwNxMYfG",
   "tracks": [
     {
       "added_at": "2017-11-18T01:15:42Z",
@@ -9288,7 +9288,7 @@
         "id": "5EeZuhVQdnUkpCiknMTeoP",
         "is_local": false,
         "name": "Pay the Man",
-        "popularity": 50,
+        "popularity": 49,
         "preview_url": "https://p.scdn.co/mp3-preview/d8dc3206b7fa55987afa6dcb96fb540a767955b4?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -20752,7 +20752,7 @@
         "id": "5EeZuhVQdnUkpCiknMTeoP",
         "is_local": false,
         "name": "Pay the Man",
-        "popularity": 50,
+        "popularity": 49,
         "preview_url": "https://p.scdn.co/mp3-preview/d8dc3206b7fa55987afa6dcb96fb540a767955b4?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -32216,7 +32216,7 @@
         "id": "5EeZuhVQdnUkpCiknMTeoP",
         "is_local": false,
         "name": "Pay the Man",
-        "popularity": 50,
+        "popularity": 49,
         "preview_url": "https://p.scdn.co/mp3-preview/d8dc3206b7fa55987afa6dcb96fb540a767955b4?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

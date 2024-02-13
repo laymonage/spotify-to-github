@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "All of BANNERS&#x27; song so far.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/6jhfDSL2ZC1v15MFRHutBX"
   },
@@ -8,26 +9,25 @@
   "id": "6jhfDSL2ZC1v15MFRHutBX",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84c478c4f34d362f20f2d41a8d",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da84c478c4f34d362f20f2d41a8d",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "BANNERS",
-  "description": "All of BANNERS&#x27; song so far.",
-  "type": "playlist",
-  "uri": "spotify:playlist:6jhfDSL2ZC1v15MFRHutBX",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MzcsYjhiY2Q1NzlmMmRkYjM0NWQ0NWJmNmNmZDc3NDdmMGUzMmMwNTY5Yg==",
+  "type": "playlist",
+  "uri": "spotify:playlist:6jhfDSL2ZC1v15MFRHutBX",
   "tracks": [
     {
       "added_at": "2023-02-07T14:12:48Z",
@@ -6472,7 +6472,7 @@
         "id": "2f0pn9DkEJwAzXApnFh5cr",
         "is_local": false,
         "name": "Someone To You",
-        "popularity": 79,
+        "popularity": 80,
         "preview_url": "https://p.scdn.co/mp3-preview/175723afbd4e226b4b6bd57fcb9d43b27550d61a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,

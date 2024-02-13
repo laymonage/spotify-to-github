@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0FinQxKnQeHcleuOt7upBW"
   },
@@ -8,36 +9,35 @@
   "id": "0FinQxKnQeHcleuOt7upBW",
   "images": [
     {
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "width": 640
     },
     {
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "width": 300
     },
     {
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e026f1971e66b009315dfc3d44dab67616d00001e02b5d8fc61c7adc43e804978aeab67616d00001e02bd7c1093cbec9c983389d10bab67616d00001e02d7ac6ea0402922aaebce9af7",
       "width": 60
     }
   ],
-  "primary_color": null,
   "name": "Weekly Rediscovery #3",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:0FinQxKnQeHcleuOt7upBW",
   "owner": {
+    "display_name": "laymonage",
+    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
     "href": "https://api.spotify.com/v1/users/laymonage",
     "id": "laymonage",
     "type": "user",
-    "uri": "spotify:user:laymonage",
-    "display_name": "laymonage",
-    "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" }
+    "uri": "spotify:user:laymonage"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NCw4YzcwNGMwMDA1ZGQyNzFjOWVmYjk1ZmE5OWRmNDQ1NGIyZTRkMmNm",
+  "type": "playlist",
+  "uri": "spotify:playlist:0FinQxKnQeHcleuOt7upBW",
   "tracks": [
     {
       "added_at": "2020-12-18T09:19:50Z",
@@ -6968,7 +6968,7 @@
         "id": "4g9VBiwuUAsUnhfqVstSuf",
         "is_local": false,
         "name": "Miss Me Sometimes U Do",
-        "popularity": 23,
+        "popularity": 24,
         "preview_url": "https://p.scdn.co/mp3-preview/dd583c65c2e2a2bb586b39cca4e0291becbd4abd?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,

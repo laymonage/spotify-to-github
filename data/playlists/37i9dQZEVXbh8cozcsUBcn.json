@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbh8cozcsUBcn"
   },
@@ -8,26 +9,25 @@
   "id": "37i9dQZEVXbh8cozcsUBcn",
   "images": [
     {
-      "url": "https://newjams-images.scdn.co/image/ab67647800003f8a/dt/v3/release-radar/ab6761610000e5eb92b2757e7003d4f77e5a5d05/en",
       "height": null,
+      "url": "https://newjams-images.scdn.co/image/ab67647800003f8a/dt/v3/release-radar/ab6761610000e5eb92b2757e7003d4f77e5a5d05/en",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Release Radar",
-  "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
-  "type": "playlist",
-  "uri": "spotify:playlist:37i9dQZEVXbh8cozcsUBcn",
   "owner": {
+    "display_name": "Spotify",
+    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
     "href": "https://api.spotify.com/v1/users/spotify",
     "id": "spotify",
     "type": "user",
-    "uri": "spotify:user:spotify",
-    "display_name": "Spotify",
-    "external_urls": { "spotify": "https://open.spotify.com/user/spotify" }
+    "uri": "spotify:user:spotify"
   },
+  "primary_color": null,
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDBlNTM4NmExYjY4ZDg1MmRhZjcwNzczNmZhNzhkOGRi",
+  "snapshot_id": "MCwwMDAwMDAwMGI5NmI5ZWNhZjY4NGYwMGYyYjdiOTQ0ZTI4ZDE4NTBk",
+  "type": "playlist",
+  "uri": "spotify:playlist:37i9dQZEVXbh8cozcsUBcn",
   "tracks": [
     {
       "added_at": "2024-02-08T17:00:00Z",
@@ -500,7 +500,7 @@
         "id": "0NL61fJiDf07EAd2HzsNCW",
         "is_local": false,
         "name": "Butterfly Net (feat. Weyes Blood)",
-        "popularity": 60,
+        "popularity": 61,
         "preview_url": "https://p.scdn.co/mp3-preview/066bbe1b1562f44f001c78e5d6b1e1b571807352?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -960,7 +960,7 @@
         "id": "69edzz93RgFgydeiEZPRKB",
         "is_local": false,
         "name": "Whisp",
-        "popularity": 21,
+        "popularity": 24,
         "preview_url": "https://p.scdn.co/mp3-preview/dace1ee278b95691580cbb4ebb1881ae144cd90f?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 6,
@@ -1420,7 +1420,7 @@
         "id": "0RRkuQwb77DpJ29Z2CDgHH",
         "is_local": false,
         "name": "Honeybee",
-        "popularity": 25,
+        "popularity": 29,
         "preview_url": "https://p.scdn.co/mp3-preview/86600a4506ed271b182baa4ccc2f3020a2eee916?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -1878,7 +1878,7 @@
         "id": "756ziR2z4iXkK35qwBLUiY",
         "is_local": false,
         "name": "I Forgot To Be Your Lover",
-        "popularity": 58,
+        "popularity": 60,
         "preview_url": "https://p.scdn.co/mp3-preview/297fb22977dae8e49cc9d57f2c91a4c746625d17?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -2336,7 +2336,7 @@
         "id": "0QctD9krtPbC8KBOK6hRfb",
         "is_local": false,
         "name": "Lonely Dancers",
-        "popularity": 66,
+        "popularity": 69,
         "preview_url": "https://p.scdn.co/mp3-preview/33362825349873e04e00e90e089a370d65724f10?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -3294,7 +3294,7 @@
         "id": "5w8LVMfShMYk98IZgVAraZ",
         "is_local": false,
         "name": "Before We Drown - Innellea Remix",
-        "popularity": 50,
+        "popularity": 52,
         "preview_url": "https://p.scdn.co/mp3-preview/7a7e5ccdcf3c996c72f79388fdf40af69dd16f7a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 3,
@@ -3754,7 +3754,7 @@
         "id": "59ZOE1y68kPII0zY3Lpp5N",
         "is_local": false,
         "name": "Seasons",
-        "popularity": 18,
+        "popularity": 21,
         "preview_url": "https://p.scdn.co/mp3-preview/527252300a0512b25599c67373d0fe96c3f315db?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 4,
@@ -4214,7 +4214,7 @@
         "id": "6NopruK8hLz1rgLwKYkNIK",
         "is_local": false,
         "name": "These Days",
-        "popularity": 6,
+        "popularity": 7,
         "preview_url": "https://p.scdn.co/mp3-preview/01f3f39f85b641150f3e0ddefc2e177af89eae2e?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 5,
@@ -4240,13 +4240,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+                "spotify": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
               },
-              "href": "https://api.spotify.com/v1/artists/195hFqaTDENqLCcG8uGtM7",
-              "id": "195hFqaTDENqLCcG8uGtM7",
-              "name": "Freedom Fry",
+              "href": "https://api.spotify.com/v1/artists/5LMPXUMhWXshBPjrqvZOfv",
+              "id": "5LMPXUMhWXshBPjrqvZOfv",
+              "name": "Remo Drive",
               "type": "artist",
-              "uri": "spotify:artist:195hFqaTDENqLCcG8uGtM7"
+              "uri": "spotify:artist:5LMPXUMhWXshBPjrqvZOfv"
             }
           ],
           "available_markets": [
@@ -4436,44 +4436,44 @@
             "XK"
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2YftX2Rn4YNpzL2rAv04UP"
+            "spotify": "https://open.spotify.com/album/3V4D45MlqWZQDa5aKiqaYt"
           },
-          "href": "https://api.spotify.com/v1/albums/2YftX2Rn4YNpzL2rAv04UP",
-          "id": "2YftX2Rn4YNpzL2rAv04UP",
+          "href": "https://api.spotify.com/v1/albums/3V4D45MlqWZQDa5aKiqaYt",
+          "id": "3V4D45MlqWZQDa5aKiqaYt",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27313ad796017cccb6fe076a493",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c1029770396a85ff254ba50",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0213ad796017cccb6fe076a493",
+              "url": "https://i.scdn.co/image/ab67616d00001e026c1029770396a85ff254ba50",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485113ad796017cccb6fe076a493",
+              "url": "https://i.scdn.co/image/ab67616d000048516c1029770396a85ff254ba50",
               "width": 64
             }
           ],
-          "name": "Concombre",
+          "name": "All You'll Ever Catch",
           "release_date": "2024-02-07",
           "release_date_precision": "day",
-          "total_tracks": 1,
+          "total_tracks": 4,
           "type": "album",
-          "uri": "spotify:album:2YftX2Rn4YNpzL2rAv04UP"
+          "uri": "spotify:album:3V4D45MlqWZQDa5aKiqaYt"
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+              "spotify": "https://open.spotify.com/artist/5LMPXUMhWXshBPjrqvZOfv"
             },
-            "href": "https://api.spotify.com/v1/artists/195hFqaTDENqLCcG8uGtM7",
-            "id": "195hFqaTDENqLCcG8uGtM7",
-            "name": "Freedom Fry",
+            "href": "https://api.spotify.com/v1/artists/5LMPXUMhWXshBPjrqvZOfv",
+            "id": "5LMPXUMhWXshBPjrqvZOfv",
+            "name": "Remo Drive",
             "type": "artist",
-            "uri": "spotify:artist:195hFqaTDENqLCcG8uGtM7"
+            "uri": "spotify:artist:5LMPXUMhWXshBPjrqvZOfv"
           }
         ],
         "available_markets": [
@@ -4663,23 +4663,23 @@
           "XK"
         ],
         "disc_number": 1,
-        "duration_ms": 177614,
+        "duration_ms": 247000,
         "episode": false,
         "explicit": false,
-        "external_ids": { "isrc": "QM4TW2424604" },
+        "external_ids": { "isrc": "USEP42334003" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6zUegydbS2n6KKzpxS6x8T"
+          "spotify": "https://open.spotify.com/track/6GaDjeVb3srd3CgbaUkZvV"
         },
-        "href": "https://api.spotify.com/v1/tracks/6zUegydbS2n6KKzpxS6x8T",
-        "id": "6zUegydbS2n6KKzpxS6x8T",
+        "href": "https://api.spotify.com/v1/tracks/6GaDjeVb3srd3CgbaUkZvV",
+        "id": "6GaDjeVb3srd3CgbaUkZvV",
         "is_local": false,
-        "name": "Concombre",
-        "popularity": 30,
-        "preview_url": "https://p.scdn.co/mp3-preview/619c7c341a7be20e5772f4bde1cb1e4934e384c7?cid=c73100e39ab6406dae4c4479ff75d174",
+        "name": "All You'll Ever Catch",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/376e501d40d39f5f5ef83281f8b6f1651aca0599?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
         "type": "track",
-        "uri": "spotify:track:6zUegydbS2n6KKzpxS6x8T"
+        "uri": "spotify:track:6GaDjeVb3srd3CgbaUkZvV"
       },
       "video_thumbnail": { "url": null }
     },
@@ -6054,7 +6054,7 @@
         "id": "168ZaDRINZlBY2PaYRBdCz",
         "is_local": false,
         "name": "Home For The Moment",
-        "popularity": 34,
+        "popularity": 35,
         "preview_url": "https://p.scdn.co/mp3-preview/1d0332b105b460519a1734e716d5d900d5588d65?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -6514,7 +6514,7 @@
         "id": "7Gk8icymiW50sDfFbWLoVG",
         "is_local": false,
         "name": "Oh No :: He Said What?",
-        "popularity": 71,
+        "popularity": 72,
         "preview_url": "https://p.scdn.co/mp3-preview/daf45c0731b245b1d63d2a956d414762346257c1?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
@@ -7434,7 +7434,7 @@
         "id": "4kiONbxFgnEL1ljpUD1eZb",
         "is_local": false,
         "name": "Neon River",
-        "popularity": 50,
+        "popularity": 51,
         "preview_url": "https://p.scdn.co/mp3-preview/214f045e11c40c81234998700e1c71a48d0818b2?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
         "track_number": 1,
