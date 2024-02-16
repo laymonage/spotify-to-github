@@ -53,16 +53,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d06dfa3780d101e02c29a5cd8b9482e94779e7a8?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+              },
+              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+              "id": "0e0z6v7dIm0XM7BgQTtB0a",
+              "name": "FUR",
+              "type": "artist",
+              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6JsDgrjbMMXOTYXQOaUbbq"
+          },
           "href": "https://api.spotify.com/v1/albums/6JsDgrjbMMXOTYXQOaUbbq",
           "id": "6JsDgrjbMMXOTYXQOaUbbq",
           "images": [
@@ -85,23 +93,9 @@
           "name": "Angel Eyes",
           "release_date": "2018-11-23",
           "release_date_precision": "day",
-          "uri": "spotify:album:6JsDgrjbMMXOTYXQOaUbbq",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-              },
-              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
-              "id": "0e0z6v7dIm0XM7BgQTtB0a",
-              "name": "FUR",
-              "type": "artist",
-              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6JsDgrjbMMXOTYXQOaUbbq"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6JsDgrjbMMXOTYXQOaUbbq"
         },
         "artists": [
           {
@@ -115,19 +109,25 @@
             "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 169533,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZ93L1824319" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6M9eOpZbHAG5Gi57uqNHjP"
         },
         "href": "https://api.spotify.com/v1/tracks/6M9eOpZbHAG5Gi57uqNHjP",
         "id": "6M9eOpZbHAG5Gi57uqNHjP",
+        "is_local": false,
         "name": "Angel Eyes",
         "popularity": 0,
-        "uri": "spotify:track:6M9eOpZbHAG5Gi57uqNHjP",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6M9eOpZbHAG5Gi57uqNHjP"
       },
       "video_thumbnail": { "url": null }
     },
@@ -145,16 +145,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/59b25aa13d22246ba659a1b293e400b0a720af5d?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+              },
+              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+              "id": "0e0z6v7dIm0XM7BgQTtB0a",
+              "name": "FUR",
+              "type": "artist",
+              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/50SxlLHHv6e7K3Yu7qD6Wp"
+          },
           "href": "https://api.spotify.com/v1/albums/50SxlLHHv6e7K3Yu7qD6Wp",
           "id": "50SxlLHHv6e7K3Yu7qD6Wp",
           "images": [
@@ -177,23 +185,9 @@
           "name": "What Would I Do?",
           "release_date": "2018-07-06",
           "release_date_precision": "day",
-          "uri": "spotify:album:50SxlLHHv6e7K3Yu7qD6Wp",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-              },
-              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
-              "id": "0e0z6v7dIm0XM7BgQTtB0a",
-              "name": "FUR",
-              "type": "artist",
-              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/50SxlLHHv6e7K3Yu7qD6Wp"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:50SxlLHHv6e7K3Yu7qD6Wp"
         },
         "artists": [
           {
@@ -207,19 +201,25 @@
             "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 144146,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1816478" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0AtjnkCvD2CFAQQspSxxJM"
         },
         "href": "https://api.spotify.com/v1/tracks/0AtjnkCvD2CFAQQspSxxJM",
         "id": "0AtjnkCvD2CFAQQspSxxJM",
+        "is_local": false,
         "name": "What Would I Do?",
         "popularity": 0,
-        "uri": "spotify:track:0AtjnkCvD2CFAQQspSxxJM",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0AtjnkCvD2CFAQQspSxxJM"
       },
       "video_thumbnail": { "url": null }
     },
@@ -237,16 +237,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/91c3e9e2c6e6320392b545eca5db2ed0b2c8883b?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+              },
+              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+              "id": "0e0z6v7dIm0XM7BgQTtB0a",
+              "name": "FUR",
+              "type": "artist",
+              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/499gZOXJsbp150zj8v4EgU"
+          },
           "href": "https://api.spotify.com/v1/albums/499gZOXJsbp150zj8v4EgU",
           "id": "499gZOXJsbp150zj8v4EgU",
           "images": [
@@ -269,23 +277,9 @@
           "name": "If You Know That I'm Lonely",
           "release_date": "2017-09-06",
           "release_date_precision": "day",
-          "uri": "spotify:album:499gZOXJsbp150zj8v4EgU",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-              },
-              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
-              "id": "0e0z6v7dIm0XM7BgQTtB0a",
-              "name": "FUR",
-              "type": "artist",
-              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/499gZOXJsbp150zj8v4EgU"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:499gZOXJsbp150zj8v4EgU"
         },
         "artists": [
           {
@@ -299,19 +293,25 @@
             "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 166500,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1788230" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0lvosDfrUEI07fTwQotQOv"
         },
         "href": "https://api.spotify.com/v1/tracks/0lvosDfrUEI07fTwQotQOv",
         "id": "0lvosDfrUEI07fTwQotQOv",
+        "is_local": false,
         "name": "If You Know That I'm Lonely",
         "popularity": 0,
-        "uri": "spotify:track:0lvosDfrUEI07fTwQotQOv",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0lvosDfrUEI07fTwQotQOv"
       },
       "video_thumbnail": { "url": null }
     },
@@ -329,16 +329,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2c998e69c2a0687f341f7128ec135de511bbcd04?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+              },
+              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+              "id": "0e0z6v7dIm0XM7BgQTtB0a",
+              "name": "FUR",
+              "type": "artist",
+              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5nzFkpGcqvWa6LmDk3KXnq"
+          },
           "href": "https://api.spotify.com/v1/albums/5nzFkpGcqvWa6LmDk3KXnq",
           "id": "5nzFkpGcqvWa6LmDk3KXnq",
           "images": [
@@ -361,23 +369,9 @@
           "name": "Not Enough",
           "release_date": "2017-08-07",
           "release_date_precision": "day",
-          "uri": "spotify:album:5nzFkpGcqvWa6LmDk3KXnq",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-              },
-              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
-              "id": "0e0z6v7dIm0XM7BgQTtB0a",
-              "name": "FUR",
-              "type": "artist",
-              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5nzFkpGcqvWa6LmDk3KXnq"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5nzFkpGcqvWa6LmDk3KXnq"
         },
         "artists": [
           {
@@ -391,19 +385,25 @@
             "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 217894,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1785727" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5g1GC2fYOXkjv2rV3l0pPQ"
         },
         "href": "https://api.spotify.com/v1/tracks/5g1GC2fYOXkjv2rV3l0pPQ",
         "id": "5g1GC2fYOXkjv2rV3l0pPQ",
+        "is_local": false,
         "name": "Not Enough",
         "popularity": 0,
-        "uri": "spotify:track:5g1GC2fYOXkjv2rV3l0pPQ",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5g1GC2fYOXkjv2rV3l0pPQ"
       },
       "video_thumbnail": { "url": null }
     },
@@ -421,16 +421,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/91a438d3fe4a2abdc1e0108a060fdd0053338392?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+              },
+              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
+              "id": "0e0z6v7dIm0XM7BgQTtB0a",
+              "name": "FUR",
+              "type": "artist",
+              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1RwMnERTISrdITeCGnAku9"
+          },
           "href": "https://api.spotify.com/v1/albums/1RwMnERTISrdITeCGnAku9",
           "id": "1RwMnERTISrdITeCGnAku9",
           "images": [
@@ -453,23 +461,9 @@
           "name": "Trying",
           "release_date": "2017-05-21",
           "release_date_precision": "day",
-          "uri": "spotify:album:1RwMnERTISrdITeCGnAku9",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
-              },
-              "href": "https://api.spotify.com/v1/artists/0e0z6v7dIm0XM7BgQTtB0a",
-              "id": "0e0z6v7dIm0XM7BgQTtB0a",
-              "name": "FUR",
-              "type": "artist",
-              "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1RwMnERTISrdITeCGnAku9"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1RwMnERTISrdITeCGnAku9"
         },
         "artists": [
           {
@@ -483,19 +477,25 @@
             "uri": "spotify:artist:0e0z6v7dIm0XM7BgQTtB0a"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 204881,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1781660" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1ql8boUJBacLsxTntj7PaY"
         },
         "href": "https://api.spotify.com/v1/tracks/1ql8boUJBacLsxTntj7PaY",
         "id": "1ql8boUJBacLsxTntj7PaY",
+        "is_local": false,
         "name": "Trying",
         "popularity": 0,
-        "uri": "spotify:track:1ql8boUJBacLsxTntj7PaY",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1ql8boUJBacLsxTntj7PaY"
       },
       "video_thumbnail": { "url": null }
     }

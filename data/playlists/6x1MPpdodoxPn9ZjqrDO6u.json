@@ -53,16 +53,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c60bf229ac6a2252646fc4c111e20982270b691a?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM"
+          },
           "href": "https://api.spotify.com/v1/albums/1BYZllRHEx6mKOi2aKiEjM",
           "id": "1BYZllRHEx6mKOi2aKiEjM",
           "images": [
@@ -85,23 +93,9 @@
           "name": "Koh",
           "release_date": "2019-03-16",
           "release_date_precision": "day",
-          "uri": "spotify:album:1BYZllRHEx6mKOi2aKiEjM",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1BYZllRHEx6mKOi2aKiEjM"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1BYZllRHEx6mKOi2aKiEjM"
         },
         "artists": [
           {
@@ -115,19 +109,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 299428,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRMIM1904570" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG"
         },
         "href": "https://api.spotify.com/v1/tracks/11nTAYWC46C6LGdJH1JlGG",
         "id": "11nTAYWC46C6LGdJH1JlGG",
+        "is_local": false,
         "name": "Koh",
         "popularity": 0,
-        "uri": "spotify:track:11nTAYWC46C6LGdJH1JlGG",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11nTAYWC46C6LGdJH1JlGG"
       },
       "video_thumbnail": { "url": null }
     },
@@ -145,16 +145,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d0db6c67025b7b7daeb597730e665581a1ecde6a?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+              },
+              "href": "https://api.spotify.com/v1/artists/6WWUJGBY4ETAE22tRmgJ8b",
+              "id": "6WWUJGBY4ETAE22tRmgJ8b",
+              "name": "Dvwn",
+              "type": "artist",
+              "uri": "spotify:artist:6WWUJGBY4ETAE22tRmgJ8b"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor"
+          },
           "href": "https://api.spotify.com/v1/albums/5aXrWCXI7jgHtKVB9khLor",
           "id": "5aXrWCXI7jgHtKVB9khLor",
           "images": [
@@ -177,23 +185,9 @@
           "name": "Dawn Defibrillation, Vol. 3",
           "release_date": "2020-06-10",
           "release_date_precision": "day",
-          "uri": "spotify:album:5aXrWCXI7jgHtKVB9khLor",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-              },
-              "href": "https://api.spotify.com/v1/artists/6WWUJGBY4ETAE22tRmgJ8b",
-              "id": "6WWUJGBY4ETAE22tRmgJ8b",
-              "name": "Dvwn",
-              "type": "artist",
-              "uri": "spotify:artist:6WWUJGBY4ETAE22tRmgJ8b"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor"
-          },
-          "total_tracks": 2
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:5aXrWCXI7jgHtKVB9khLor"
         },
         "artists": [
           {
@@ -217,19 +211,25 @@
             "uri": "spotify:artist:6NdzNrBP8Jbhzp6h7yojht"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 185840,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA252000761" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi"
         },
         "href": "https://api.spotify.com/v1/tracks/2hcSWo1r3YOi8eNHWOXjAi",
         "id": "2hcSWo1r3YOi8eNHWOXjAi",
+        "is_local": false,
         "name": "Concrete (feat. CHEEZE)",
         "popularity": 0,
-        "uri": "spotify:track:2hcSWo1r3YOi8eNHWOXjAi",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2hcSWo1r3YOi8eNHWOXjAi"
       },
       "video_thumbnail": { "url": null }
     },
@@ -247,16 +247,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/22b54554e572bc7e349256401870bdfcdbdcb944?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ClAFFqc8VEOKSGTrvy8V5",
+              "id": "6ClAFFqc8VEOKSGTrvy8V5",
+              "name": "Ku One Chan",
+              "type": "artist",
+              "uri": "spotify:artist:6ClAFFqc8VEOKSGTrvy8V5"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
+          },
           "href": "https://api.spotify.com/v1/albums/0U6NOQI9uIsK68H84Kvomc",
           "id": "0U6NOQI9uIsK68H84Kvomc",
           "images": [
@@ -279,23 +287,9 @@
           "name": "Don't be sad",
           "release_date": "2018-09-07",
           "release_date_precision": "day",
-          "uri": "spotify:album:0U6NOQI9uIsK68H84Kvomc",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-              },
-              "href": "https://api.spotify.com/v1/artists/6ClAFFqc8VEOKSGTrvy8V5",
-              "id": "6ClAFFqc8VEOKSGTrvy8V5",
-              "name": "Ku One Chan",
-              "type": "artist",
-              "uri": "spotify:artist:6ClAFFqc8VEOKSGTrvy8V5"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0U6NOQI9uIsK68H84Kvomc"
         },
         "artists": [
           {
@@ -309,19 +303,25 @@
             "uri": "spotify:artist:6ClAFFqc8VEOKSGTrvy8V5"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 210850,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRB471801307" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
         },
         "href": "https://api.spotify.com/v1/tracks/1f26mzPoBLP8OO67XDmwv8",
         "id": "1f26mzPoBLP8OO67XDmwv8",
+        "is_local": false,
         "name": "Don't be sad",
         "popularity": 3,
-        "uri": "spotify:track:1f26mzPoBLP8OO67XDmwv8",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1f26mzPoBLP8OO67XDmwv8"
       },
       "video_thumbnail": { "url": null }
     },
@@ -339,16 +339,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/58408c7256347071eeb76ca509af69573ab9f8c4?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0JwnKoqzWkAPQjR5wnX0mL"
+          },
           "href": "https://api.spotify.com/v1/albums/0JwnKoqzWkAPQjR5wnX0mL",
           "id": "0JwnKoqzWkAPQjR5wnX0mL",
           "images": [
@@ -371,23 +379,9 @@
           "name": "Sunset",
           "release_date": "2017-01-10",
           "release_date_precision": "day",
-          "uri": "spotify:album:0JwnKoqzWkAPQjR5wnX0mL",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0JwnKoqzWkAPQjR5wnX0mL"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:0JwnKoqzWkAPQjR5wnX0mL"
         },
         "artists": [
           {
@@ -401,19 +395,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 4,
         "duration_ms": 222000,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA341781250" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1bXVh2ForYdjha1DoPwohp"
         },
         "href": "https://api.spotify.com/v1/tracks/1bXVh2ForYdjha1DoPwohp",
         "id": "1bXVh2ForYdjha1DoPwohp",
+        "is_local": false,
         "name": "Sunset",
         "popularity": 0,
-        "uri": "spotify:track:1bXVh2ForYdjha1DoPwohp",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:1bXVh2ForYdjha1DoPwohp"
       },
       "video_thumbnail": { "url": null }
     },
@@ -431,16 +431,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f94158d07cc6c0e92f2ff6f0046af95fea8279d6?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+              },
+              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
+              "id": "3txAiGYUmI4p84stqOoi1s",
+              "name": "Dasutt",
+              "type": "artist",
+              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp"
+          },
           "href": "https://api.spotify.com/v1/albums/3NphZwsDlKagZk5IGyUWNp",
           "id": "3NphZwsDlKagZk5IGyUWNp",
           "images": [
@@ -463,23 +471,9 @@
           "name": "Lunch Time 점심시간",
           "release_date": "2018-03-19",
           "release_date_precision": "day",
-          "uri": "spotify:album:3NphZwsDlKagZk5IGyUWNp",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-              },
-              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
-              "id": "3txAiGYUmI4p84stqOoi1s",
-              "name": "Dasutt",
-              "type": "artist",
-              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3NphZwsDlKagZk5IGyUWNp"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3NphZwsDlKagZk5IGyUWNp"
         },
         "artists": [
           {
@@ -493,19 +487,25 @@
             "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 276160,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRNAR1803443" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/44dmYTBkcvpNxWjCwpiKgc"
         },
         "href": "https://api.spotify.com/v1/tracks/44dmYTBkcvpNxWjCwpiKgc",
         "id": "44dmYTBkcvpNxWjCwpiKgc",
+        "is_local": false,
         "name": "Lunch Time 점심시간",
         "popularity": 0,
-        "uri": "spotify:track:44dmYTBkcvpNxWjCwpiKgc",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:44dmYTBkcvpNxWjCwpiKgc"
       },
       "video_thumbnail": { "url": null }
     },
@@ -523,16 +523,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d3310a7daeb14ae6246fba59ebcabcacbd5ec9bb?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
+              },
+              "href": "https://api.spotify.com/v1/artists/5fwYrHN92VR90PJQ11ybJ8",
+              "id": "5fwYrHN92VR90PJQ11ybJ8",
+              "name": "THE SOLUTIONS",
+              "type": "artist",
+              "uri": "spotify:artist:5fwYrHN92VR90PJQ11ybJ8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ"
+          },
           "href": "https://api.spotify.com/v1/albums/53P5weqc2cb75Bg3LuFPcZ",
           "id": "53P5weqc2cb75Bg3LuFPcZ",
           "images": [
@@ -555,23 +563,9 @@
           "name": "MOOD FOR LOVE",
           "release_date": "2018-12-03",
           "release_date_precision": "day",
-          "uri": "spotify:album:53P5weqc2cb75Bg3LuFPcZ",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8"
-              },
-              "href": "https://api.spotify.com/v1/artists/5fwYrHN92VR90PJQ11ybJ8",
-              "id": "5fwYrHN92VR90PJQ11ybJ8",
-              "name": "THE SOLUTIONS",
-              "type": "artist",
-              "uri": "spotify:artist:5fwYrHN92VR90PJQ11ybJ8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/53P5weqc2cb75Bg3LuFPcZ"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:53P5weqc2cb75Bg3LuFPcZ"
         },
         "artists": [
           {
@@ -585,19 +579,25 @@
             "uri": "spotify:artist:5fwYrHN92VR90PJQ11ybJ8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 204012,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE891800101" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4U46xmSU9CczDNPEUx20OD"
         },
         "href": "https://api.spotify.com/v1/tracks/4U46xmSU9CczDNPEUx20OD",
         "id": "4U46xmSU9CczDNPEUx20OD",
+        "is_local": false,
         "name": "MOOD FOR LOVE",
         "popularity": 0,
-        "uri": "spotify:track:4U46xmSU9CczDNPEUx20OD",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4U46xmSU9CczDNPEUx20OD"
       },
       "video_thumbnail": { "url": null }
     },
@@ -615,16 +615,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4d3594ea0c3bf5d934b693efde83c2665dfda3c4?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+              },
+              "href": "https://api.spotify.com/v1/artists/64sY7LsUjNE3ifONkftTXC",
+              "id": "64sY7LsUjNE3ifONkftTXC",
+              "name": "ADOY",
+              "type": "artist",
+              "uri": "spotify:artist:64sY7LsUjNE3ifONkftTXC"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI"
+          },
           "href": "https://api.spotify.com/v1/albums/2PXqmGnh714FuMOPji4JiI",
           "id": "2PXqmGnh714FuMOPji4JiI",
           "images": [
@@ -647,23 +655,9 @@
           "name": "LOVE",
           "release_date": "2018-06-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:2PXqmGnh714FuMOPji4JiI",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-              },
-              "href": "https://api.spotify.com/v1/artists/64sY7LsUjNE3ifONkftTXC",
-              "id": "64sY7LsUjNE3ifONkftTXC",
-              "name": "ADOY",
-              "type": "artist",
-              "uri": "spotify:artist:64sY7LsUjNE3ifONkftTXC"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI"
-          },
-          "total_tracks": 6
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:2PXqmGnh714FuMOPji4JiI"
         },
         "artists": [
           {
@@ -677,19 +671,25 @@
             "uri": "spotify:artist:64sY7LsUjNE3ifONkftTXC"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 235746,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA531800010" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
         },
         "href": "https://api.spotify.com/v1/tracks/0v89jw9S9NPzOPCoZnLZxE",
         "id": "0v89jw9S9NPzOPCoZnLZxE",
+        "is_local": false,
         "name": "Wonder",
         "popularity": 0,
-        "uri": "spotify:track:0v89jw9S9NPzOPCoZnLZxE",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0v89jw9S9NPzOPCoZnLZxE"
       },
       "video_thumbnail": { "url": null }
     },
@@ -707,16 +707,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8bcfbcfb96e000798fd173946b7b2f1eb24e74da?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M"
+          },
           "href": "https://api.spotify.com/v1/albums/16zuGRQCDsJsJL8psjJM9M",
           "id": "16zuGRQCDsJsJL8psjJM9M",
           "images": [
@@ -739,23 +747,9 @@
           "name": "오키나와 Okinawa",
           "release_date": "2018-02-14",
           "release_date_precision": "day",
-          "uri": "spotify:album:16zuGRQCDsJsJL8psjJM9M",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/16zuGRQCDsJsJL8psjJM9M"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:16zuGRQCDsJsJL8psjJM9M"
         },
         "artists": [
           {
@@ -769,19 +763,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 348445,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRZ291803399" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz"
         },
         "href": "https://api.spotify.com/v1/tracks/5WJtEElIz5vt7EOEGR97Yz",
         "id": "5WJtEElIz5vt7EOEGR97Yz",
+        "is_local": false,
         "name": "오키나와 Okinawa",
         "popularity": 0,
-        "uri": "spotify:track:5WJtEElIz5vt7EOEGR97Yz",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5WJtEElIz5vt7EOEGR97Yz"
       },
       "video_thumbnail": { "url": null }
     },
@@ -799,16 +799,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fcb261af834c06e467962e7aa3664a257e83b469?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+              },
+              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
+              "id": "3txAiGYUmI4p84stqOoi1s",
+              "name": "Dasutt",
+              "type": "artist",
+              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu"
+          },
           "href": "https://api.spotify.com/v1/albums/2XfaxkhGc0Bpn6TDUR7Vhu",
           "id": "2XfaxkhGc0Bpn6TDUR7Vhu",
           "images": [
@@ -831,23 +839,9 @@
           "name": "YA,YA 야,야",
           "release_date": "2018-07-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:2XfaxkhGc0Bpn6TDUR7Vhu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-              },
-              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
-              "id": "3txAiGYUmI4p84stqOoi1s",
-              "name": "Dasutt",
-              "type": "artist",
-              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2XfaxkhGc0Bpn6TDUR7Vhu"
         },
         "artists": [
           {
@@ -861,19 +855,25 @@
             "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 282186,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRMIM1805120" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/3BwKReqxpaS1CCsLkydw5a"
         },
         "href": "https://api.spotify.com/v1/tracks/3BwKReqxpaS1CCsLkydw5a",
         "id": "3BwKReqxpaS1CCsLkydw5a",
+        "is_local": false,
         "name": "YA,YA 야,야",
         "popularity": 0,
-        "uri": "spotify:track:3BwKReqxpaS1CCsLkydw5a",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3BwKReqxpaS1CCsLkydw5a"
       },
       "video_thumbnail": { "url": null }
     },
@@ -891,39 +891,8 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d12d34a9a7fcd608960a792e7ca5120a599c47b2?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/5tfF5EUJI70rGfFrwPHwn5",
-          "id": "5tfF5EUJI70rGfFrwPHwn5",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735b917011f582c774429c032e",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025b917011f582c774429c032e",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515b917011f582c774429c032e",
-              "width": 64
-            }
-          ],
-          "name": "Indica (feat. Motte)",
-          "release_date": "2019-10-07",
-          "release_date_precision": "day",
-          "uri": "spotify:album:5tfF5EUJI70rGfFrwPHwn5",
           "artists": [
             {
               "external_urls": {
@@ -946,10 +915,35 @@
               "uri": "spotify:artist:4bh77HBBwCekmEPcbXAljy"
             }
           ],
+          "available_markets": [],
           "external_urls": {
             "spotify": "https://open.spotify.com/album/5tfF5EUJI70rGfFrwPHwn5"
           },
-          "total_tracks": 1
+          "href": "https://api.spotify.com/v1/albums/5tfF5EUJI70rGfFrwPHwn5",
+          "id": "5tfF5EUJI70rGfFrwPHwn5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735b917011f582c774429c032e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e025b917011f582c774429c032e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048515b917011f582c774429c032e",
+              "width": 64
+            }
+          ],
+          "name": "Indica (feat. Motte)",
+          "release_date": "2019-10-07",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5tfF5EUJI70rGfFrwPHwn5"
         },
         "artists": [
           {
@@ -973,19 +967,25 @@
             "uri": "spotify:artist:4bh77HBBwCekmEPcbXAljy"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 194909,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE701900065" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc"
         },
         "href": "https://api.spotify.com/v1/tracks/4lZTygIDDA87R9TWyJxXEc",
         "id": "4lZTygIDDA87R9TWyJxXEc",
+        "is_local": false,
         "name": "Indica (feat. Motte)",
         "popularity": 0,
-        "uri": "spotify:track:4lZTygIDDA87R9TWyJxXEc",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4lZTygIDDA87R9TWyJxXEc"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1003,198 +1003,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/deeff910b76e4bdc6768c70e817fcd1bb7d7a5df?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG"
+              },
+              "href": "https://api.spotify.com/v1/artists/2lrODr1QCehowaCjKFxOZG",
+              "id": "2lrODr1QCehowaCjKFxOZG",
+              "name": "JOGON",
+              "type": "artist",
+              "uri": "spotify:artist:2lrODr1QCehowaCjKFxOZG"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -1381,8 +1203,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl"
+          },
           "href": "https://api.spotify.com/v1/albums/6T7cyfKQunGFzVKy3nhiGl",
           "id": "6T7cyfKQunGFzVKy3nhiGl",
           "images": [
@@ -1405,23 +1228,9 @@
           "name": "Old Notes",
           "release_date": "2018-07-05",
           "release_date_precision": "day",
-          "uri": "spotify:album:6T7cyfKQunGFzVKy3nhiGl",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2lrODr1QCehowaCjKFxOZG"
-              },
-              "href": "https://api.spotify.com/v1/artists/2lrODr1QCehowaCjKFxOZG",
-              "id": "2lrODr1QCehowaCjKFxOZG",
-              "name": "JOGON",
-              "type": "artist",
-              "uri": "spotify:artist:2lrODr1QCehowaCjKFxOZG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6T7cyfKQunGFzVKy3nhiGl"
         },
         "artists": [
           {
@@ -1435,37 +1244,6 @@
             "uri": "spotify:artist:2lrODr1QCehowaCjKFxOZG"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 206735,
-        "external_ids": { "isrc": "KRB471801030" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0m8MHpjuKKNvT19rvjHWAX",
-        "id": "0m8MHpjuKKNvT19rvjHWAX",
-        "name": "Old Notes",
-        "popularity": 36,
-        "uri": "spotify:track:0m8MHpjuKKNvT19rvjHWAX",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-06-24T07:34:54Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/acccb495f072c5567f0018718695682732c424a4?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -1652,11 +1430,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 206735,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "KRB471801030" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0m8MHpjuKKNvT19rvjHWAX",
+        "id": "0m8MHpjuKKNvT19rvjHWAX",
+        "is_local": false,
+        "name": "Old Notes",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/deeff910b76e4bdc6768c70e817fcd1bb7d7a5df?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0m8MHpjuKKNvT19rvjHWAX"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-06-24T07:34:54Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+              },
+              "href": "https://api.spotify.com/v1/artists/2SY6OktZyMLdOnscX3DCyS",
+              "id": "2SY6OktZyMLdOnscX3DCyS",
+              "name": "JANNABI",
+              "type": "artist",
+              "uri": "spotify:artist:2SY6OktZyMLdOnscX3DCyS"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -1843,8 +1665,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+          },
           "href": "https://api.spotify.com/v1/albums/28GiIRNu9nEugqnUci3aIC",
           "id": "28GiIRNu9nEugqnUci3aIC",
           "images": [
@@ -1867,23 +1690,9 @@
           "name": "LEGEND",
           "release_date": "2019-03-13",
           "release_date_precision": "day",
-          "uri": "spotify:album:28GiIRNu9nEugqnUci3aIC",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-              },
-              "href": "https://api.spotify.com/v1/artists/2SY6OktZyMLdOnscX3DCyS",
-              "id": "2SY6OktZyMLdOnscX3DCyS",
-              "name": "JANNABI",
-              "type": "artist",
-              "uri": "spotify:artist:2SY6OktZyMLdOnscX3DCyS"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-          },
-          "total_tracks": 12
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:28GiIRNu9nEugqnUci3aIC"
         },
         "artists": [
           {
@@ -1897,19 +1706,210 @@
             "uri": "spotify:artist:2SY6OktZyMLdOnscX3DCyS"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 8,
         "duration_ms": 265000,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA381900671" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
         },
         "href": "https://api.spotify.com/v1/tracks/5BqwC9kOBbqYkzdOKeXFFk",
         "id": "5BqwC9kOBbqYkzdOKeXFFk",
+        "is_local": false,
         "name": "for lovers who hesitate",
         "popularity": 64,
-        "uri": "spotify:track:5BqwC9kOBbqYkzdOKeXFFk",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/acccb495f072c5567f0018718695682732c424a4?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5BqwC9kOBbqYkzdOKeXFFk"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1927,16 +1927,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/80fe83fc13f1112755a5a0cebf52e0f73fcc790e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5k0xHB7GIhrTwAAK9wWtfg"
+              },
+              "href": "https://api.spotify.com/v1/artists/5k0xHB7GIhrTwAAK9wWtfg",
+              "id": "5k0xHB7GIhrTwAAK9wWtfg",
+              "name": "Land of Peace",
+              "type": "artist",
+              "uri": "spotify:artist:5k0xHB7GIhrTwAAK9wWtfg"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/73uIXfYWEqZnALgPCPq9Ra"
+          },
           "href": "https://api.spotify.com/v1/albums/73uIXfYWEqZnALgPCPq9Ra",
           "id": "73uIXfYWEqZnALgPCPq9Ra",
           "images": [
@@ -1959,23 +1967,9 @@
           "name": "My Single Bed",
           "release_date": "2018-07-28",
           "release_date_precision": "day",
-          "uri": "spotify:album:73uIXfYWEqZnALgPCPq9Ra",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5k0xHB7GIhrTwAAK9wWtfg"
-              },
-              "href": "https://api.spotify.com/v1/artists/5k0xHB7GIhrTwAAK9wWtfg",
-              "id": "5k0xHB7GIhrTwAAK9wWtfg",
-              "name": "Land of Peace",
-              "type": "artist",
-              "uri": "spotify:artist:5k0xHB7GIhrTwAAK9wWtfg"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/73uIXfYWEqZnALgPCPq9Ra"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:73uIXfYWEqZnALgPCPq9Ra"
         },
         "artists": [
           {
@@ -1989,19 +1983,25 @@
             "uri": "spotify:artist:5k0xHB7GIhrTwAAK9wWtfg"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 282456,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE701800591" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4X6G3IRC2grJC5aXUwllgA"
         },
         "href": "https://api.spotify.com/v1/tracks/4X6G3IRC2grJC5aXUwllgA",
         "id": "4X6G3IRC2grJC5aXUwllgA",
+        "is_local": false,
         "name": "My Single Bed",
         "popularity": 0,
-        "uri": "spotify:track:4X6G3IRC2grJC5aXUwllgA",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4X6G3IRC2grJC5aXUwllgA"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2019,39 +2019,8 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9b039e8428963a675d73c9d06702452adc8f5031?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1hoOmEpugIDYA7AV7WUP3D",
-          "id": "1hoOmEpugIDYA7AV7WUP3D",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27339260649a63c1bcb86a7e20c",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0239260649a63c1bcb86a7e20c",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485139260649a63c1bcb86a7e20c",
-              "width": 64
-            }
-          ],
-          "name": "Daisy",
-          "release_date": "2018-04-10",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1hoOmEpugIDYA7AV7WUP3D",
           "artists": [
             {
               "external_urls": {
@@ -2074,10 +2043,35 @@
               "uri": "spotify:artist:27Vc96h8NHbN7C1GenXIPH"
             }
           ],
+          "available_markets": [],
           "external_urls": {
             "spotify": "https://open.spotify.com/album/1hoOmEpugIDYA7AV7WUP3D"
           },
-          "total_tracks": 1
+          "href": "https://api.spotify.com/v1/albums/1hoOmEpugIDYA7AV7WUP3D",
+          "id": "1hoOmEpugIDYA7AV7WUP3D",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27339260649a63c1bcb86a7e20c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0239260649a63c1bcb86a7e20c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485139260649a63c1bcb86a7e20c",
+              "width": 64
+            }
+          ],
+          "name": "Daisy",
+          "release_date": "2018-04-10",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1hoOmEpugIDYA7AV7WUP3D"
         },
         "artists": [
           {
@@ -2101,19 +2095,25 @@
             "uri": "spotify:artist:27Vc96h8NHbN7C1GenXIPH"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 263119,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRF251800016" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4exLq6Bsz83F5QFtZrWRUM"
         },
         "href": "https://api.spotify.com/v1/tracks/4exLq6Bsz83F5QFtZrWRUM",
         "id": "4exLq6Bsz83F5QFtZrWRUM",
+        "is_local": false,
         "name": "Daisy",
         "popularity": 0,
-        "uri": "spotify:track:4exLq6Bsz83F5QFtZrWRUM",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4exLq6Bsz83F5QFtZrWRUM"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2131,16 +2131,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bd0a3112b8383e2043383116e0813a5b4ec74e06?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+              },
+              "href": "https://api.spotify.com/v1/artists/07OePkse2fcvU9wlVftNMl",
+              "id": "07OePkse2fcvU9wlVftNMl",
+              "name": "SE SO NEON",
+              "type": "artist",
+              "uri": "spotify:artist:07OePkse2fcvU9wlVftNMl"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj"
+          },
           "href": "https://api.spotify.com/v1/albums/5gU9PA1qYEXUfjnp79q1rj",
           "id": "5gU9PA1qYEXUfjnp79q1rj",
           "images": [
@@ -2163,23 +2171,9 @@
           "name": "긴 꿈 A Long Dream",
           "release_date": "2017-06-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:5gU9PA1qYEXUfjnp79q1rj",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-              },
-              "href": "https://api.spotify.com/v1/artists/07OePkse2fcvU9wlVftNMl",
-              "id": "07OePkse2fcvU9wlVftNMl",
-              "name": "SE SO NEON",
-              "type": "artist",
-              "uri": "spotify:artist:07OePkse2fcvU9wlVftNMl"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5gU9PA1qYEXUfjnp79q1rj"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5gU9PA1qYEXUfjnp79q1rj"
         },
         "artists": [
           {
@@ -2193,19 +2187,25 @@
             "uri": "spotify:artist:07OePkse2fcvU9wlVftNMl"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 258420,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA351700276" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1UGChD0glZlsdVBbfWbjUH"
         },
         "href": "https://api.spotify.com/v1/tracks/1UGChD0glZlsdVBbfWbjUH",
         "id": "1UGChD0glZlsdVBbfWbjUH",
+        "is_local": false,
         "name": "긴 꿈 A Long Dream",
         "popularity": 0,
-        "uri": "spotify:track:1UGChD0glZlsdVBbfWbjUH",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1UGChD0glZlsdVBbfWbjUH"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2223,16 +2223,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/add0750d15c656d2baaedc40353fc5a1129b3723?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+              },
+              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
+              "id": "3txAiGYUmI4p84stqOoi1s",
+              "name": "Dasutt",
+              "type": "artist",
+              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc"
+          },
           "href": "https://api.spotify.com/v1/albums/6zdxKx3yMTontzE3Mfg8oc",
           "id": "6zdxKx3yMTontzE3Mfg8oc",
           "images": [
@@ -2255,23 +2263,9 @@
           "name": "Photograph 사진첩",
           "release_date": "2018-11-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:6zdxKx3yMTontzE3Mfg8oc",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-              },
-              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
-              "id": "3txAiGYUmI4p84stqOoi1s",
-              "name": "Dasutt",
-              "type": "artist",
-              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6zdxKx3yMTontzE3Mfg8oc"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6zdxKx3yMTontzE3Mfg8oc"
         },
         "artists": [
           {
@@ -2285,19 +2279,25 @@
             "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 254053,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRMIM1812698" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22"
         },
         "href": "https://api.spotify.com/v1/tracks/0NH2J0S8HK56jq5YUwVL22",
         "id": "0NH2J0S8HK56jq5YUwVL22",
+        "is_local": false,
         "name": "Photograph 사진첩",
         "popularity": 0,
-        "uri": "spotify:track:0NH2J0S8HK56jq5YUwVL22",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0NH2J0S8HK56jq5YUwVL22"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2315,16 +2315,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2b10fa49d57cc6c4da73aa7253471da0b53d7735?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+              },
+              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
+              "id": "02qCfZpNgd0FQ1BFOPaqvq",
+              "name": "Wetter",
+              "type": "artist",
+              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0pE2sh58ZtbMwzkw7aGfKo"
+          },
           "href": "https://api.spotify.com/v1/albums/0pE2sh58ZtbMwzkw7aGfKo",
           "id": "0pE2sh58ZtbMwzkw7aGfKo",
           "images": [
@@ -2347,23 +2355,9 @@
           "name": "Who",
           "release_date": "2016-11-16",
           "release_date_precision": "day",
-          "uri": "spotify:album:0pE2sh58ZtbMwzkw7aGfKo",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
-              },
-              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
-              "id": "02qCfZpNgd0FQ1BFOPaqvq",
-              "name": "Wetter",
-              "type": "artist",
-              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0pE2sh58ZtbMwzkw7aGfKo"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0pE2sh58ZtbMwzkw7aGfKo"
         },
         "artists": [
           {
@@ -2377,19 +2371,25 @@
             "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 225776,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE251600001" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0m7mPx3iE6sczeDow6T05u"
         },
         "href": "https://api.spotify.com/v1/tracks/0m7mPx3iE6sczeDow6T05u",
         "id": "0m7mPx3iE6sczeDow6T05u",
+        "is_local": false,
         "name": "Who",
         "popularity": 0,
-        "uri": "spotify:track:0m7mPx3iE6sczeDow6T05u",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0m7mPx3iE6sczeDow6T05u"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2407,16 +2407,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/36d65035b1018e85ae3700166a5cbf6d571110ab?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xNWQgdUZS4YN7xAYItpKi",
+              "id": "5xNWQgdUZS4YN7xAYItpKi",
+              "name": "Chamsom",
+              "type": "artist",
+              "uri": "spotify:artist:5xNWQgdUZS4YN7xAYItpKi"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc"
+          },
           "href": "https://api.spotify.com/v1/albums/0HANd2pgqDZkrpzx4lLvOc",
           "id": "0HANd2pgqDZkrpzx4lLvOc",
           "images": [
@@ -2439,23 +2447,9 @@
           "name": "Boong-",
           "release_date": "2018-11-09",
           "release_date_precision": "day",
-          "uri": "spotify:album:0HANd2pgqDZkrpzx4lLvOc",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi"
-              },
-              "href": "https://api.spotify.com/v1/artists/5xNWQgdUZS4YN7xAYItpKi",
-              "id": "5xNWQgdUZS4YN7xAYItpKi",
-              "name": "Chamsom",
-              "type": "artist",
-              "uri": "spotify:artist:5xNWQgdUZS4YN7xAYItpKi"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc"
-          },
-          "total_tracks": 10
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:0HANd2pgqDZkrpzx4lLvOc"
         },
         "artists": [
           {
@@ -2469,19 +2463,25 @@
             "uri": "spotify:artist:5xNWQgdUZS4YN7xAYItpKi"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 235772,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA251801916" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED"
         },
         "href": "https://api.spotify.com/v1/tracks/1wuZAvMhmqIecohHQYibED",
         "id": "1wuZAvMhmqIecohHQYibED",
+        "is_local": false,
         "name": "Pluto",
         "popularity": 0,
-        "uri": "spotify:track:1wuZAvMhmqIecohHQYibED",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1wuZAvMhmqIecohHQYibED"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2499,16 +2499,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4bd6dd00fe23999533614556fde8028d0712487c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+              },
+              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
+              "id": "3txAiGYUmI4p84stqOoi1s",
+              "name": "Dasutt",
+              "type": "artist",
+              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq"
+          },
           "href": "https://api.spotify.com/v1/albums/22Isp3j1eaoVzQrUm5zbiq",
           "id": "22Isp3j1eaoVzQrUm5zbiq",
           "images": [
@@ -2531,23 +2539,9 @@
           "name": "YOUTH",
           "release_date": "2019-03-17",
           "release_date_precision": "day",
-          "uri": "spotify:album:22Isp3j1eaoVzQrUm5zbiq",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
-              },
-              "href": "https://api.spotify.com/v1/artists/3txAiGYUmI4p84stqOoi1s",
-              "id": "3txAiGYUmI4p84stqOoi1s",
-              "name": "Dasutt",
-              "type": "artist",
-              "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/22Isp3j1eaoVzQrUm5zbiq"
-          },
-          "total_tracks": 6
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:22Isp3j1eaoVzQrUm5zbiq"
         },
         "artists": [
           {
@@ -2561,19 +2555,25 @@
             "uri": "spotify:artist:3txAiGYUmI4p84stqOoi1s"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 361426,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRMIM1904665" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2LT8gtraNXInH6DZdP6jrt"
         },
         "href": "https://api.spotify.com/v1/tracks/2LT8gtraNXInH6DZdP6jrt",
         "id": "2LT8gtraNXInH6DZdP6jrt",
+        "is_local": false,
         "name": "Youth",
         "popularity": 0,
-        "uri": "spotify:track:2LT8gtraNXInH6DZdP6jrt",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2LT8gtraNXInH6DZdP6jrt"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2591,16 +2591,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/587b77d05cd51088c635fc538e7bfa678a6e6750?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+              },
+              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
+              "id": "02qCfZpNgd0FQ1BFOPaqvq",
+              "name": "Wetter",
+              "type": "artist",
+              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl"
+          },
           "href": "https://api.spotify.com/v1/albums/5rGj57soCUAuXAdiptCTYl",
           "id": "5rGj57soCUAuXAdiptCTYl",
           "images": [
@@ -2623,23 +2631,9 @@
           "name": "Love Is All Around",
           "release_date": "2020-02-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:5rGj57soCUAuXAdiptCTYl",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
-              },
-              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
-              "id": "02qCfZpNgd0FQ1BFOPaqvq",
-              "name": "Wetter",
-              "type": "artist",
-              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl"
-          },
-          "total_tracks": 2
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:5rGj57soCUAuXAdiptCTYl"
         },
         "artists": [
           {
@@ -2653,19 +2647,25 @@
             "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 265264,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRF252000007" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/17KIiHXJ4PRo1s0x5SpHTf"
         },
         "href": "https://api.spotify.com/v1/tracks/17KIiHXJ4PRo1s0x5SpHTf",
         "id": "17KIiHXJ4PRo1s0x5SpHTf",
+        "is_local": false,
         "name": "Love Is All Around",
         "popularity": 0,
-        "uri": "spotify:track:17KIiHXJ4PRo1s0x5SpHTf",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:17KIiHXJ4PRo1s0x5SpHTf"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2683,16 +2683,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2df58b84d9c4ed03c72996021c6db2697fe627ea?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+              },
+              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
+              "id": "02qCfZpNgd0FQ1BFOPaqvq",
+              "name": "Wetter",
+              "type": "artist",
+              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0q1Elj5hP5CHanJpjxTHlK"
+          },
           "href": "https://api.spotify.com/v1/albums/0q1Elj5hP5CHanJpjxTHlK",
           "id": "0q1Elj5hP5CHanJpjxTHlK",
           "images": [
@@ -2715,23 +2723,9 @@
           "name": "GGONDAE",
           "release_date": "2019-04-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:0q1Elj5hP5CHanJpjxTHlK",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
-              },
-              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
-              "id": "02qCfZpNgd0FQ1BFOPaqvq",
-              "name": "Wetter",
-              "type": "artist",
-              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0q1Elj5hP5CHanJpjxTHlK"
-          },
-          "total_tracks": 2
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:0q1Elj5hP5CHanJpjxTHlK"
         },
         "artists": [
           {
@@ -2745,19 +2739,25 @@
             "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 220544,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRF251900023" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0v4Ne1z05MAJ6nGLBChmqK"
         },
         "href": "https://api.spotify.com/v1/tracks/0v4Ne1z05MAJ6nGLBChmqK",
         "id": "0v4Ne1z05MAJ6nGLBChmqK",
+        "is_local": false,
         "name": "GGONDAE",
         "popularity": 0,
-        "uri": "spotify:track:0v4Ne1z05MAJ6nGLBChmqK",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0v4Ne1z05MAJ6nGLBChmqK"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2775,16 +2775,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/3a17f171cf5978e729f81a751d44b6eca6e035f0?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+              },
+              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
+              "id": "02qCfZpNgd0FQ1BFOPaqvq",
+              "name": "Wetter",
+              "type": "artist",
+              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1cJY6csI9PDpzw7nMSyLKL"
+          },
           "href": "https://api.spotify.com/v1/albums/1cJY6csI9PDpzw7nMSyLKL",
           "id": "1cJY6csI9PDpzw7nMSyLKL",
           "images": [
@@ -2807,23 +2815,9 @@
           "name": "We've Lost, What Now?",
           "release_date": "2018-09-17",
           "release_date_precision": "day",
-          "uri": "spotify:album:1cJY6csI9PDpzw7nMSyLKL",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
-              },
-              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
-              "id": "02qCfZpNgd0FQ1BFOPaqvq",
-              "name": "Wetter",
-              "type": "artist",
-              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1cJY6csI9PDpzw7nMSyLKL"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:1cJY6csI9PDpzw7nMSyLKL"
         },
         "artists": [
           {
@@ -2837,19 +2831,25 @@
             "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 5,
         "duration_ms": 239801,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE251800010" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/03G4sHCWUAeKbo6928Zrf9"
         },
         "href": "https://api.spotify.com/v1/tracks/03G4sHCWUAeKbo6928Zrf9",
         "id": "03G4sHCWUAeKbo6928Zrf9",
+        "is_local": false,
         "name": "Just Stay 그냥 이대로 있자",
         "popularity": 0,
-        "uri": "spotify:track:03G4sHCWUAeKbo6928Zrf9",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:03G4sHCWUAeKbo6928Zrf9"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2867,16 +2867,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8221e3a201ee2da638ef6238a2a8747eb59cce59?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
+              },
+              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
+              "id": "02qCfZpNgd0FQ1BFOPaqvq",
+              "name": "Wetter",
+              "type": "artist",
+              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1SSA904p1XvnjhDE99Ftrl"
+          },
           "href": "https://api.spotify.com/v1/albums/1SSA904p1XvnjhDE99Ftrl",
           "id": "1SSA904p1XvnjhDE99Ftrl",
           "images": [
@@ -2899,23 +2907,9 @@
           "name": "You N Me Us 너와 나 우리",
           "release_date": "2017-12-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:1SSA904p1XvnjhDE99Ftrl",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq"
-              },
-              "href": "https://api.spotify.com/v1/artists/02qCfZpNgd0FQ1BFOPaqvq",
-              "id": "02qCfZpNgd0FQ1BFOPaqvq",
-              "name": "Wetter",
-              "type": "artist",
-              "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1SSA904p1XvnjhDE99Ftrl"
-          },
-          "total_tracks": 2
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:1SSA904p1XvnjhDE99Ftrl"
         },
         "artists": [
           {
@@ -2929,19 +2923,25 @@
             "uri": "spotify:artist:02qCfZpNgd0FQ1BFOPaqvq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 280524,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRE251700012" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5rUNqFaVuzxkKngXq2op29"
         },
         "href": "https://api.spotify.com/v1/tracks/5rUNqFaVuzxkKngXq2op29",
         "id": "5rUNqFaVuzxkKngXq2op29",
+        "is_local": false,
         "name": "You N Me Us 너와 나 우리",
         "popularity": 0,
-        "uri": "spotify:track:5rUNqFaVuzxkKngXq2op29",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5rUNqFaVuzxkKngXq2op29"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2959,16 +2959,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/92f74fdb16b748de2556edb6834078deca7a84ee?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0wdmYweYMOXxoPK5i6zYK2"
+          },
           "href": "https://api.spotify.com/v1/albums/0wdmYweYMOXxoPK5i6zYK2",
           "id": "0wdmYweYMOXxoPK5i6zYK2",
           "images": [
@@ -2991,23 +2999,9 @@
           "name": "Moonlight",
           "release_date": "2017-09-27",
           "release_date_precision": "day",
-          "uri": "spotify:album:0wdmYweYMOXxoPK5i6zYK2",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0wdmYweYMOXxoPK5i6zYK2"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0wdmYweYMOXxoPK5i6zYK2"
         },
         "artists": [
           {
@@ -3021,19 +3015,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 338064,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA341785548" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2sJnDCXBA2JW2cqN5qX0Mw"
         },
         "href": "https://api.spotify.com/v1/tracks/2sJnDCXBA2JW2cqN5qX0Mw",
         "id": "2sJnDCXBA2JW2cqN5qX0Mw",
+        "is_local": false,
         "name": "Moonlight",
         "popularity": 0,
-        "uri": "spotify:track:2sJnDCXBA2JW2cqN5qX0Mw",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2sJnDCXBA2JW2cqN5qX0Mw"
       },
       "video_thumbnail": { "url": null }
     },
@@ -3051,16 +3051,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5eec4f5b3729c4c466cb24c93d34ae440f258787?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0JwnKoqzWkAPQjR5wnX0mL"
+          },
           "href": "https://api.spotify.com/v1/albums/0JwnKoqzWkAPQjR5wnX0mL",
           "id": "0JwnKoqzWkAPQjR5wnX0mL",
           "images": [
@@ -3083,23 +3091,9 @@
           "name": "Sunset",
           "release_date": "2017-01-10",
           "release_date_precision": "day",
-          "uri": "spotify:album:0JwnKoqzWkAPQjR5wnX0mL",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0JwnKoqzWkAPQjR5wnX0mL"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:0JwnKoqzWkAPQjR5wnX0mL"
         },
         "artists": [
           {
@@ -3113,19 +3107,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 261000,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRA341781248" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4MRMcFRXArqNxAc5pbemP0"
         },
         "href": "https://api.spotify.com/v1/tracks/4MRMcFRXArqNxAc5pbemP0",
         "id": "4MRMcFRXArqNxAc5pbemP0",
+        "is_local": false,
         "name": "Daydreaming",
         "popularity": 0,
-        "uri": "spotify:track:4MRMcFRXArqNxAc5pbemP0",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4MRMcFRXArqNxAc5pbemP0"
       },
       "video_thumbnail": { "url": null }
     },
@@ -3143,16 +3143,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fc8de58ad317d7c721b8970c53c3fdc3f444c87a?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+              },
+              "href": "https://api.spotify.com/v1/artists/57okaLdCtv3nVBSn5otJkp",
+              "id": "57okaLdCtv3nVBSn5otJkp",
+              "name": "HYUKOH",
+              "type": "artist",
+              "uri": "spotify:artist:57okaLdCtv3nVBSn5otJkp"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0PUd7dX6FUCAtrYiHjFHqV"
+          },
           "href": "https://api.spotify.com/v1/albums/0PUd7dX6FUCAtrYiHjFHqV",
           "id": "0PUd7dX6FUCAtrYiHjFHqV",
           "images": [
@@ -3175,23 +3183,9 @@
           "name": "24 : How to find true love and happiness",
           "release_date": "2018-05-31",
           "release_date_precision": "day",
-          "uri": "spotify:album:0PUd7dX6FUCAtrYiHjFHqV",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-              },
-              "href": "https://api.spotify.com/v1/artists/57okaLdCtv3nVBSn5otJkp",
-              "id": "57okaLdCtv3nVBSn5otJkp",
-              "name": "HYUKOH",
-              "type": "artist",
-              "uri": "spotify:artist:57okaLdCtv3nVBSn5otJkp"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0PUd7dX6FUCAtrYiHjFHqV"
-          },
-          "total_tracks": 6
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:0PUd7dX6FUCAtrYiHjFHqV"
         },
         "artists": [
           {
@@ -3205,19 +3199,25 @@
             "uri": "spotify:artist:57okaLdCtv3nVBSn5otJkp"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 251964,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRC081800006" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/7rDdN55Ma9gZlbexHiDSud"
         },
         "href": "https://api.spotify.com/v1/tracks/7rDdN55Ma9gZlbexHiDSud",
         "id": "7rDdN55Ma9gZlbexHiDSud",
+        "is_local": false,
         "name": "LOVE YA!",
         "popularity": 0,
-        "uri": "spotify:track:7rDdN55Ma9gZlbexHiDSud",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7rDdN55Ma9gZlbexHiDSud"
       },
       "video_thumbnail": { "url": null }
     },
@@ -3235,16 +3235,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/080d8b5e3898d92eeed27fed9c9d96981b96d438?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+              },
+              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
+              "id": "0Zoe6ljAJo85rggnN6OaOF",
+              "name": "92914",
+              "type": "artist",
+              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG"
+          },
           "href": "https://api.spotify.com/v1/albums/1NBKHWgypm4yyAbz6PyZEG",
           "id": "1NBKHWgypm4yyAbz6PyZEG",
           "images": [
@@ -3267,23 +3275,9 @@
           "name": "Starlight",
           "release_date": "2020-02-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:1NBKHWgypm4yyAbz6PyZEG",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-              },
-              "href": "https://api.spotify.com/v1/artists/0Zoe6ljAJo85rggnN6OaOF",
-              "id": "0Zoe6ljAJo85rggnN6OaOF",
-              "name": "92914",
-              "type": "artist",
-              "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1NBKHWgypm4yyAbz6PyZEG"
         },
         "artists": [
           {
@@ -3297,19 +3291,25 @@
             "uri": "spotify:artist:0Zoe6ljAJo85rggnN6OaOF"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 273333,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "KRMIM2001423" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd"
         },
         "href": "https://api.spotify.com/v1/tracks/3zqS0EHUWTE9BDU3hf2aRd",
         "id": "3zqS0EHUWTE9BDU3hf2aRd",
+        "is_local": false,
         "name": "Starlight",
         "popularity": 2,
-        "uri": "spotify:track:3zqS0EHUWTE9BDU3hf2aRd",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3zqS0EHUWTE9BDU3hf2aRd"
       },
       "video_thumbnail": { "url": null }
     }

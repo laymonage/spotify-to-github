@@ -53,16 +53,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/0c4ead01d394eaf6f78a0731cbdedb5abde6c282?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+              },
+              "href": "https://api.spotify.com/v1/artists/5Uc38SFcTd4bzDk3hhvRu1",
+              "id": "5Uc38SFcTd4bzDk3hhvRu1",
+              "name": "meija",
+              "type": "artist",
+              "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH"
+          },
           "href": "https://api.spotify.com/v1/albums/6szHJ15dr9M4oJfOW8XAbH",
           "id": "6szHJ15dr9M4oJfOW8XAbH",
           "images": [
@@ -85,23 +93,9 @@
           "name": "So Long, Kid",
           "release_date": "2019-11-08",
           "release_date_precision": "day",
-          "uri": "spotify:album:6szHJ15dr9M4oJfOW8XAbH",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
-              },
-              "href": "https://api.spotify.com/v1/artists/5Uc38SFcTd4bzDk3hhvRu1",
-              "id": "5Uc38SFcTd4bzDk3hhvRu1",
-              "name": "meija",
-              "type": "artist",
-              "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:6szHJ15dr9M4oJfOW8XAbH"
         },
         "artists": [
           {
@@ -115,19 +109,25 @@
             "uri": "spotify:artist:5Uc38SFcTd4bzDk3hhvRu1"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 216398,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1951426" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn"
         },
         "href": "https://api.spotify.com/v1/tracks/1pZ9xYDzyq9KHTVrqBUEsn",
         "id": "1pZ9xYDzyq9KHTVrqBUEsn",
+        "is_local": false,
         "name": "Buttons",
         "popularity": 0,
-        "uri": "spotify:track:1pZ9xYDzyq9KHTVrqBUEsn",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1pZ9xYDzyq9KHTVrqBUEsn"
       },
       "video_thumbnail": { "url": null }
     },
@@ -145,16 +145,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c863b14fe16e7ecb4ca71faa6acbcfe007c121da?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+              },
+              "href": "https://api.spotify.com/v1/artists/2eg89iLHG4JMEUZQmFaxou",
+              "id": "2eg89iLHG4JMEUZQmFaxou",
+              "name": "Trudy and the Romance",
+              "type": "artist",
+              "uri": "spotify:artist:2eg89iLHG4JMEUZQmFaxou"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1SupYdPNgqM9oe6m35GGC4"
+          },
           "href": "https://api.spotify.com/v1/albums/1SupYdPNgqM9oe6m35GGC4",
           "id": "1SupYdPNgqM9oe6m35GGC4",
           "images": [
@@ -177,23 +185,9 @@
           "name": "Junkyard Jazz",
           "release_date": "2017-11-17",
           "release_date_precision": "day",
-          "uri": "spotify:album:1SupYdPNgqM9oe6m35GGC4",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-              },
-              "href": "https://api.spotify.com/v1/artists/2eg89iLHG4JMEUZQmFaxou",
-              "id": "2eg89iLHG4JMEUZQmFaxou",
-              "name": "Trudy and the Romance",
-              "type": "artist",
-              "uri": "spotify:artist:2eg89iLHG4JMEUZQmFaxou"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1SupYdPNgqM9oe6m35GGC4"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:1SupYdPNgqM9oe6m35GGC4"
         },
         "artists": [
           {
@@ -207,19 +201,25 @@
             "uri": "spotify:artist:2eg89iLHG4JMEUZQmFaxou"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 5,
         "duration_ms": 278413,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBWWP1703033" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1zvdOpnTT7U3IQXq6vJHvJ"
         },
         "href": "https://api.spotify.com/v1/tracks/1zvdOpnTT7U3IQXq6vJHvJ",
         "id": "1zvdOpnTT7U3IQXq6vJHvJ",
+        "is_local": false,
         "name": "Is There a Place I Can Go",
         "popularity": 0,
-        "uri": "spotify:track:1zvdOpnTT7U3IQXq6vJHvJ",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1zvdOpnTT7U3IQXq6vJHvJ"
       },
       "video_thumbnail": { "url": null }
     },
@@ -237,16 +237,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e445d138f2dc02df7420b1ffedeff7eef9787cff?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": ["CA", "MX", "US"],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+              },
+              "href": "https://api.spotify.com/v1/artists/3IunaFjvNKj98JW89JYv9u",
+              "id": "3IunaFjvNKj98JW89JYv9u",
+              "name": "The Japanese House",
+              "type": "artist",
+              "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
+            }
+          ],
+          "available_markets": ["CA", "MX", "US"],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
+          },
           "href": "https://api.spotify.com/v1/albums/1x8SKoPwUTpOfc0w5gBPsk",
           "id": "1x8SKoPwUTpOfc0w5gBPsk",
           "images": [
@@ -269,23 +277,9 @@
           "name": "Saw You In A Dream",
           "release_date": "2017-06-30",
           "release_date_precision": "day",
-          "uri": "spotify:album:1x8SKoPwUTpOfc0w5gBPsk",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-              },
-              "href": "https://api.spotify.com/v1/artists/3IunaFjvNKj98JW89JYv9u",
-              "id": "3IunaFjvNKj98JW89JYv9u",
-              "name": "The Japanese House",
-              "type": "artist",
-              "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
-          },
-          "total_tracks": 4
+          "total_tracks": 4,
+          "type": "album",
+          "uri": "spotify:album:1x8SKoPwUTpOfc0w5gBPsk"
         },
         "artists": [
           {
@@ -299,19 +293,25 @@
             "uri": "spotify:artist:3IunaFjvNKj98JW89JYv9u"
           }
         ],
+        "available_markets": ["CA", "MX", "US"],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 208280,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBK3W1700546" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
         },
         "href": "https://api.spotify.com/v1/tracks/0U3u0HdRQjD8mAMYBak4Ok",
         "id": "0U3u0HdRQjD8mAMYBak4Ok",
+        "is_local": false,
         "name": "Saw You In A Dream",
         "popularity": 62,
-        "uri": "spotify:track:0U3u0HdRQjD8mAMYBak4Ok",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/e445d138f2dc02df7420b1ffedeff7eef9787cff?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0U3u0HdRQjD8mAMYBak4Ok"
       },
       "video_thumbnail": { "url": null }
     },
@@ -329,194 +329,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e48f28aa63edf8866e0e3fa650cbe482c30addd0?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "RW",
-          "TG",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+              },
+              "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+              "id": "3l0CmX0FuQjFxr8SK7Vqag",
+              "name": "Clairo",
+              "type": "artist",
+              "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -699,8 +525,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+          },
           "href": "https://api.spotify.com/v1/albums/4kkVGtCqE2NiAKosri9Rnd",
           "id": "4kkVGtCqE2NiAKosri9Rnd",
           "images": [
@@ -723,23 +550,9 @@
           "name": "Immunity",
           "release_date": "2019-08-02",
           "release_date_precision": "day",
-          "uri": "spotify:album:4kkVGtCqE2NiAKosri9Rnd",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-              },
-              "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
-              "id": "3l0CmX0FuQjFxr8SK7Vqag",
-              "name": "Clairo",
-              "type": "artist",
-              "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:4kkVGtCqE2NiAKosri9Rnd"
         },
         "artists": [
           {
@@ -753,37 +566,6 @@
             "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
           }
         ],
-        "disc_number": 1,
-        "track_number": 6,
-        "duration_ms": 185306,
-        "external_ids": { "isrc": "US4HB1900087" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4PvbbMYL4fkToni5BLaYRb",
-        "id": "4PvbbMYL4fkToni5BLaYRb",
-        "name": "Softly",
-        "popularity": 71,
-        "uri": "spotify:track:4PvbbMYL4fkToni5BLaYRb",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/829b3c6b18ac390d34faa05e0af66ec3d11f2ae8?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -891,7 +673,6 @@
           "BZ",
           "BT",
           "BW",
-          "BF",
           "CV",
           "CW",
           "DM",
@@ -933,7 +714,6 @@
           "TV",
           "VU",
           "AZ",
-          "BN",
           "BI",
           "KH",
           "CM",
@@ -948,10 +728,8 @@
           "MO",
           "MR",
           "MN",
-          "NP",
           "RW",
           "TG",
-          "UZ",
           "ZW",
           "BJ",
           "MG",
@@ -970,11 +748,55 @@
           "ET",
           "XK"
         ],
-        "explicit": true,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 185306,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "US4HB1900087" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4PvbbMYL4fkToni5BLaYRb",
+        "id": "4PvbbMYL4fkToni5BLaYRb",
+        "is_local": false,
+        "name": "Softly",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/e48f28aa63edf8866e0e3fa650cbe482c30addd0?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4PvbbMYL4fkToni5BLaYRb"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/52FotRaJbM9Kepqe2mTNvR"
+              },
+              "href": "https://api.spotify.com/v1/artists/52FotRaJbM9Kepqe2mTNvR",
+              "id": "52FotRaJbM9Kepqe2mTNvR",
+              "name": "Who Boy",
+              "type": "artist",
+              "uri": "spotify:artist:52FotRaJbM9Kepqe2mTNvR"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -1161,8 +983,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6Nr294VTEN7wnUZYymNp0N"
+          },
           "href": "https://api.spotify.com/v1/albums/6Nr294VTEN7wnUZYymNp0N",
           "id": "6Nr294VTEN7wnUZYymNp0N",
           "images": [
@@ -1185,23 +1008,9 @@
           "name": "Golden Reservoir",
           "release_date": "2019-03-09",
           "release_date_precision": "day",
-          "uri": "spotify:album:6Nr294VTEN7wnUZYymNp0N",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/52FotRaJbM9Kepqe2mTNvR"
-              },
-              "href": "https://api.spotify.com/v1/artists/52FotRaJbM9Kepqe2mTNvR",
-              "id": "52FotRaJbM9Kepqe2mTNvR",
-              "name": "Who Boy",
-              "type": "artist",
-              "uri": "spotify:artist:52FotRaJbM9Kepqe2mTNvR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6Nr294VTEN7wnUZYymNp0N"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6Nr294VTEN7wnUZYymNp0N"
         },
         "artists": [
           {
@@ -1215,19 +1024,210 @@
             "uri": "spotify:artist:52FotRaJbM9Kepqe2mTNvR"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 256695,
+        "episode": false,
+        "explicit": true,
         "external_ids": { "isrc": "FR9Z61900101" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2W7ycn0G05Z78UnkMyJruW"
         },
         "href": "https://api.spotify.com/v1/tracks/2W7ycn0G05Z78UnkMyJruW",
         "id": "2W7ycn0G05Z78UnkMyJruW",
+        "is_local": false,
         "name": "Golden Reservoir",
         "popularity": 21,
-        "uri": "spotify:track:2W7ycn0G05Z78UnkMyJruW",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/829b3c6b18ac390d34faa05e0af66ec3d11f2ae8?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2W7ycn0G05Z78UnkMyJruW"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1245,16 +1245,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1cebbae0492ff98134bd171cec645ffd7411a65e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+              },
+              "href": "https://api.spotify.com/v1/artists/1bwUhKRmEkOZ1wuTnV9XjC",
+              "id": "1bwUhKRmEkOZ1wuTnV9XjC",
+              "name": "Beach Fossils",
+              "type": "artist",
+              "uri": "spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6Kkz3vJXJzemMSQkbsqWQR"
+          },
           "href": "https://api.spotify.com/v1/albums/6Kkz3vJXJzemMSQkbsqWQR",
           "id": "6Kkz3vJXJzemMSQkbsqWQR",
           "images": [
@@ -1277,23 +1285,9 @@
           "name": "Somersault",
           "release_date": "2017-06-02",
           "release_date_precision": "day",
-          "uri": "spotify:album:6Kkz3vJXJzemMSQkbsqWQR",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-              },
-              "href": "https://api.spotify.com/v1/artists/1bwUhKRmEkOZ1wuTnV9XjC",
-              "id": "1bwUhKRmEkOZ1wuTnV9XjC",
-              "name": "Beach Fossils",
-              "type": "artist",
-              "uri": "spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6Kkz3vJXJzemMSQkbsqWQR"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:6Kkz3vJXJzemMSQkbsqWQR"
         },
         "artists": [
           {
@@ -1307,19 +1301,25 @@
             "uri": "spotify:artist:1bwUhKRmEkOZ1wuTnV9XjC"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 9,
         "duration_ms": 158474,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QM6YT1701409" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1KPDAA9zyJXcEDvFW5inYi"
         },
         "href": "https://api.spotify.com/v1/tracks/1KPDAA9zyJXcEDvFW5inYi",
         "id": "1KPDAA9zyJXcEDvFW5inYi",
+        "is_local": false,
         "name": "Down the Line",
         "popularity": 0,
-        "uri": "spotify:track:1KPDAA9zyJXcEDvFW5inYi",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1KPDAA9zyJXcEDvFW5inYi"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1337,16 +1337,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5ea27ef23e5c10831bdb1897bb517b52e8ea0bac?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
+              },
+              "href": "https://api.spotify.com/v1/artists/0HMLp79IAd9Z8zMgxqpyxn",
+              "id": "0HMLp79IAd9Z8zMgxqpyxn",
+              "name": "Radiator Hospital",
+              "type": "artist",
+              "uri": "spotify:artist:0HMLp79IAd9Z8zMgxqpyxn"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6m0qHTxZeYPs4kY18aUhAW"
+          },
           "href": "https://api.spotify.com/v1/albums/6m0qHTxZeYPs4kY18aUhAW",
           "id": "6m0qHTxZeYPs4kY18aUhAW",
           "images": [
@@ -1369,23 +1377,9 @@
           "name": "Something Wild",
           "release_date": "2013-08-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:6m0qHTxZeYPs4kY18aUhAW",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
-              },
-              "href": "https://api.spotify.com/v1/artists/0HMLp79IAd9Z8zMgxqpyxn",
-              "id": "0HMLp79IAd9Z8zMgxqpyxn",
-              "name": "Radiator Hospital",
-              "type": "artist",
-              "uri": "spotify:artist:0HMLp79IAd9Z8zMgxqpyxn"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6m0qHTxZeYPs4kY18aUhAW"
-          },
-          "total_tracks": 13
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:6m0qHTxZeYPs4kY18aUhAW"
         },
         "artists": [
           {
@@ -1399,19 +1393,25 @@
             "uri": "spotify:artist:0HMLp79IAd9Z8zMgxqpyxn"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 12,
         "duration_ms": 179527,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "USA2B1700336" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0kuIEoB1c07wXxWTVVZ9QF"
         },
         "href": "https://api.spotify.com/v1/tracks/0kuIEoB1c07wXxWTVVZ9QF",
         "id": "0kuIEoB1c07wXxWTVVZ9QF",
+        "is_local": false,
         "name": "Something Wild",
         "popularity": 0,
-        "uri": "spotify:track:0kuIEoB1c07wXxWTVVZ9QF",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:0kuIEoB1c07wXxWTVVZ9QF"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1429,198 +1429,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fc20190a01ee7d63f4075ecc557a2cbef8b050a8?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+              },
+              "href": "https://api.spotify.com/v1/artists/5PVlXEAvlt6SfYpWBYTM4C",
+              "id": "5PVlXEAvlt6SfYpWBYTM4C",
+              "name": "The F16s",
+              "type": "artist",
+              "uri": "spotify:artist:5PVlXEAvlt6SfYpWBYTM4C"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -1807,8 +1629,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3pYIITsdGh2WLrRLx3nX2f"
+          },
           "href": "https://api.spotify.com/v1/albums/3pYIITsdGh2WLrRLx3nX2f",
           "id": "3pYIITsdGh2WLrRLx3nX2f",
           "images": [
@@ -1831,23 +1654,9 @@
           "name": "Triggerpunkte",
           "release_date": "2016-08-08",
           "release_date_precision": "day",
-          "uri": "spotify:album:3pYIITsdGh2WLrRLx3nX2f",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
-              },
-              "href": "https://api.spotify.com/v1/artists/5PVlXEAvlt6SfYpWBYTM4C",
-              "id": "5PVlXEAvlt6SfYpWBYTM4C",
-              "name": "The F16s",
-              "type": "artist",
-              "uri": "spotify:artist:5PVlXEAvlt6SfYpWBYTM4C"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3pYIITsdGh2WLrRLx3nX2f"
-          },
-          "total_tracks": 9
+          "total_tracks": 9,
+          "type": "album",
+          "uri": "spotify:album:3pYIITsdGh2WLrRLx3nX2f"
         },
         "artists": [
           {
@@ -1861,37 +1670,6 @@
             "uri": "spotify:artist:5PVlXEAvlt6SfYpWBYTM4C"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 279840,
-        "external_ids": { "isrc": "FR59R1645305" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5Y4vRBs4QCUloQ5W9Wb58j"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5Y4vRBs4QCUloQ5W9Wb58j",
-        "id": "5Y4vRBs4QCUloQ5W9Wb58j",
-        "name": "Moon Child",
-        "popularity": 44,
-        "uri": "spotify:track:5Y4vRBs4QCUloQ5W9Wb58j",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/801678256c1722b747cf06c9124770b67d87a745?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -2078,11 +1856,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 279840,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "FR59R1645305" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5Y4vRBs4QCUloQ5W9Wb58j"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Y4vRBs4QCUloQ5W9Wb58j",
+        "id": "5Y4vRBs4QCUloQ5W9Wb58j",
+        "is_local": false,
+        "name": "Moon Child",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/fc20190a01ee7d63f4075ecc557a2cbef8b050a8?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5Y4vRBs4QCUloQ5W9Wb58j"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl"
+              },
+              "href": "https://api.spotify.com/v1/artists/6LyCVkX66F8DdgZBkwxYEl",
+              "id": "6LyCVkX66F8DdgZBkwxYEl",
+              "name": "Saffron",
+              "type": "artist",
+              "uri": "spotify:artist:6LyCVkX66F8DdgZBkwxYEl"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -2269,8 +2091,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5ByghHnnauQZZEA6YLO20A"
+          },
           "href": "https://api.spotify.com/v1/albums/5ByghHnnauQZZEA6YLO20A",
           "id": "5ByghHnnauQZZEA6YLO20A",
           "images": [
@@ -2293,23 +2116,9 @@
           "name": "Chewed Up",
           "release_date": "2018-02-23",
           "release_date_precision": "day",
-          "uri": "spotify:album:5ByghHnnauQZZEA6YLO20A",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6LyCVkX66F8DdgZBkwxYEl"
-              },
-              "href": "https://api.spotify.com/v1/artists/6LyCVkX66F8DdgZBkwxYEl",
-              "id": "6LyCVkX66F8DdgZBkwxYEl",
-              "name": "Saffron",
-              "type": "artist",
-              "uri": "spotify:artist:6LyCVkX66F8DdgZBkwxYEl"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5ByghHnnauQZZEA6YLO20A"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5ByghHnnauQZZEA6YLO20A"
         },
         "artists": [
           {
@@ -2323,19 +2132,210 @@
             "uri": "spotify:artist:6LyCVkX66F8DdgZBkwxYEl"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 171402,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "AEUM71800024" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6WTt7UWycNGV3ww4wR3rPu"
         },
         "href": "https://api.spotify.com/v1/tracks/6WTt7UWycNGV3ww4wR3rPu",
         "id": "6WTt7UWycNGV3ww4wR3rPu",
+        "is_local": false,
         "name": "Chewed Up",
         "popularity": 23,
-        "uri": "spotify:track:6WTt7UWycNGV3ww4wR3rPu",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/801678256c1722b747cf06c9124770b67d87a745?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6WTt7UWycNGV3ww4wR3rPu"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2353,39 +2353,8 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/28b55cd48d9b7325d0e021352e81cfae7cefab96?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/3A3yRjI66GWINGE3VhcupP",
-          "id": "3A3yRjI66GWINGE3VhcupP",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ae246ece7a782b1bc459e1f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026ae246ece7a782b1bc459e1f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516ae246ece7a782b1bc459e1f",
-              "width": 64
-            }
-          ],
-          "name": "The Game",
-          "release_date": "2019-05-12",
-          "release_date_precision": "day",
-          "uri": "spotify:album:3A3yRjI66GWINGE3VhcupP",
           "artists": [
             {
               "external_urls": {
@@ -2408,10 +2377,35 @@
               "uri": "spotify:artist:6Xl8EnIFFMVEcmI5dfRtP1"
             }
           ],
+          "available_markets": [],
           "external_urls": {
             "spotify": "https://open.spotify.com/album/3A3yRjI66GWINGE3VhcupP"
           },
-          "total_tracks": 1
+          "href": "https://api.spotify.com/v1/albums/3A3yRjI66GWINGE3VhcupP",
+          "id": "3A3yRjI66GWINGE3VhcupP",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ae246ece7a782b1bc459e1f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026ae246ece7a782b1bc459e1f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516ae246ece7a782b1bc459e1f",
+              "width": 64
+            }
+          ],
+          "name": "The Game",
+          "release_date": "2019-05-12",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3A3yRjI66GWINGE3VhcupP"
         },
         "artists": [
           {
@@ -2435,19 +2429,25 @@
             "uri": "spotify:artist:6Xl8EnIFFMVEcmI5dfRtP1"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 188800,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1948069" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4L9XDFt4j2x08mzk5fkwOA"
         },
         "href": "https://api.spotify.com/v1/tracks/4L9XDFt4j2x08mzk5fkwOA",
         "id": "4L9XDFt4j2x08mzk5fkwOA",
+        "is_local": false,
         "name": "The Game",
         "popularity": 0,
-        "uri": "spotify:track:4L9XDFt4j2x08mzk5fkwOA",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4L9XDFt4j2x08mzk5fkwOA"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2465,198 +2465,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9794c34cc7a6097ae68913a9c22710c0b96d3ede?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Ino9RgrdzNW29Ycx3xxwU",
+              "id": "4Ino9RgrdzNW29Ycx3xxwU",
+              "name": "Solomonophonic",
+              "type": "artist",
+              "uri": "spotify:artist:4Ino9RgrdzNW29Ycx3xxwU"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -2843,8 +2665,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0ZqCO9RHBsQeoo4FlRdh4Q"
+          },
           "href": "https://api.spotify.com/v1/albums/0ZqCO9RHBsQeoo4FlRdh4Q",
           "id": "0ZqCO9RHBsQeoo4FlRdh4Q",
           "images": [
@@ -2867,23 +2690,9 @@
           "name": "The Carol in Her Eyes",
           "release_date": "2018-12-14",
           "release_date_precision": "day",
-          "uri": "spotify:album:0ZqCO9RHBsQeoo4FlRdh4Q",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4Ino9RgrdzNW29Ycx3xxwU"
-              },
-              "href": "https://api.spotify.com/v1/artists/4Ino9RgrdzNW29Ycx3xxwU",
-              "id": "4Ino9RgrdzNW29Ycx3xxwU",
-              "name": "Solomonophonic",
-              "type": "artist",
-              "uri": "spotify:artist:4Ino9RgrdzNW29Ycx3xxwU"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0ZqCO9RHBsQeoo4FlRdh4Q"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0ZqCO9RHBsQeoo4FlRdh4Q"
         },
         "artists": [
           {
@@ -2897,37 +2706,6 @@
             "uri": "spotify:artist:4Ino9RgrdzNW29Ycx3xxwU"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 211948,
-        "external_ids": { "isrc": "QZES91821613" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4Kc36hVkjt9tYVU1NCxRj8"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4Kc36hVkjt9tYVU1NCxRj8",
-        "id": "4Kc36hVkjt9tYVU1NCxRj8",
-        "name": "The Carol in Her Eyes",
-        "popularity": 25,
-        "uri": "spotify:track:4Kc36hVkjt9tYVU1NCxRj8",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b6125e9e46b7766ef00cfdb98239b71a2ce9df5a?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -3114,11 +2892,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 211948,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QZES91821613" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Kc36hVkjt9tYVU1NCxRj8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Kc36hVkjt9tYVU1NCxRj8",
+        "id": "4Kc36hVkjt9tYVU1NCxRj8",
+        "is_local": false,
+        "name": "The Carol in Her Eyes",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/9794c34cc7a6097ae68913a9c22710c0b96d3ede?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Kc36hVkjt9tYVU1NCxRj8"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5DS41NYRYWS2Ef6c0lmPh3"
+              },
+              "href": "https://api.spotify.com/v1/artists/5DS41NYRYWS2Ef6c0lmPh3",
+              "id": "5DS41NYRYWS2Ef6c0lmPh3",
+              "name": "Aubrey Huntsman",
+              "type": "artist",
+              "uri": "spotify:artist:5DS41NYRYWS2Ef6c0lmPh3"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -3305,8 +3127,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/06770jIQAHlZeCLDsOSv16"
+          },
           "href": "https://api.spotify.com/v1/albums/06770jIQAHlZeCLDsOSv16",
           "id": "06770jIQAHlZeCLDsOSv16",
           "images": [
@@ -3329,23 +3152,9 @@
           "name": "Dreams",
           "release_date": "2018-03-19",
           "release_date_precision": "day",
-          "uri": "spotify:album:06770jIQAHlZeCLDsOSv16",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5DS41NYRYWS2Ef6c0lmPh3"
-              },
-              "href": "https://api.spotify.com/v1/artists/5DS41NYRYWS2Ef6c0lmPh3",
-              "id": "5DS41NYRYWS2Ef6c0lmPh3",
-              "name": "Aubrey Huntsman",
-              "type": "artist",
-              "uri": "spotify:artist:5DS41NYRYWS2Ef6c0lmPh3"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/06770jIQAHlZeCLDsOSv16"
-          },
-          "total_tracks": 3
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:06770jIQAHlZeCLDsOSv16"
         },
         "artists": [
           {
@@ -3359,37 +3168,6 @@
             "uri": "spotify:artist:5DS41NYRYWS2Ef6c0lmPh3"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 213993,
-        "external_ids": { "isrc": "QZBRF1888247" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2bJEaY50WmbCr6n5p7pub9"
-        },
-        "href": "https://api.spotify.com/v1/tracks/2bJEaY50WmbCr6n5p7pub9",
-        "id": "2bJEaY50WmbCr6n5p7pub9",
-        "name": "Strawberry Season",
-        "popularity": 26,
-        "uri": "spotify:track:2bJEaY50WmbCr6n5p7pub9",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1f548ab55111f65ab74f078102fabc9a2112379d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -3470,6 +3248,7 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
@@ -3478,6 +3257,7 @@
           "HR",
           "ME",
           "MK",
+          "RS",
           "SI",
           "KR",
           "BD",
@@ -3538,6 +3318,7 @@
           "VU",
           "AZ",
           "BN",
+          "BI",
           "KH",
           "CM",
           "TD",
@@ -3555,23 +3336,73 @@
           "RW",
           "TG",
           "UZ",
+          "ZW",
           "BJ",
           "MG",
           "MU",
           "MZ",
           "AO",
+          "CI",
           "DJ",
           "ZM",
+          "CD",
           "CG",
+          "IQ",
+          "LY",
           "TJ",
           "VE",
-          "ET"
+          "ET",
+          "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 213993,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QZBRF1888247" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2bJEaY50WmbCr6n5p7pub9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2bJEaY50WmbCr6n5p7pub9",
+        "id": "2bJEaY50WmbCr6n5p7pub9",
+        "is_local": false,
+        "name": "Strawberry Season",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/b6125e9e46b7766ef00cfdb98239b71a2ce9df5a?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2bJEaY50WmbCr6n5p7pub9"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M"
+              },
+              "href": "https://api.spotify.com/v1/artists/3DozezNrsIE37kJJfHhS9M",
+              "id": "3DozezNrsIE37kJJfHhS9M",
+              "name": "Ages and Ages",
+              "type": "artist",
+              "uri": "spotify:artist:3DozezNrsIE37kJJfHhS9M"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -3749,8 +3580,9 @@
             "VE",
             "ET"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN"
+          },
           "href": "https://api.spotify.com/v1/albums/3wF6DCWrOi4OQEuwowzurN",
           "id": "3wF6DCWrOi4OQEuwowzurN",
           "images": [
@@ -3773,23 +3605,9 @@
           "name": "Me You They We",
           "release_date": "2019-04-05",
           "release_date_precision": "day",
-          "uri": "spotify:album:3wF6DCWrOi4OQEuwowzurN",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3DozezNrsIE37kJJfHhS9M"
-              },
-              "href": "https://api.spotify.com/v1/artists/3DozezNrsIE37kJJfHhS9M",
-              "id": "3DozezNrsIE37kJJfHhS9M",
-              "name": "Ages and Ages",
-              "type": "artist",
-              "uri": "spotify:artist:3DozezNrsIE37kJJfHhS9M"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3wF6DCWrOi4OQEuwowzurN"
-          },
-          "total_tracks": 10
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:3wF6DCWrOi4OQEuwowzurN"
         },
         "artists": [
           {
@@ -3803,37 +3621,6 @@
             "uri": "spotify:artist:3DozezNrsIE37kJJfHhS9M"
           }
         ],
-        "disc_number": 1,
-        "track_number": 9,
-        "duration_ms": 248836,
-        "external_ids": { "isrc": "TCADT1869158" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3ZCNIAhu9BEz0OccqkJken"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3ZCNIAhu9BEz0OccqkJken",
-        "id": "3ZCNIAhu9BEz0OccqkJken",
-        "name": "Day from Night",
-        "popularity": 30,
-        "uri": "spotify:track:3ZCNIAhu9BEz0OccqkJken",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/818a80ed0b37a5a79d27b5012d5e7fa80cf542d1?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -3914,7 +3701,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -3923,7 +3709,6 @@
           "HR",
           "ME",
           "MK",
-          "RS",
           "SI",
           "KR",
           "BD",
@@ -3984,7 +3769,6 @@
           "VU",
           "AZ",
           "BN",
-          "BI",
           "KH",
           "CM",
           "TD",
@@ -4002,29 +3786,67 @@
           "RW",
           "TG",
           "UZ",
-          "ZW",
           "BJ",
           "MG",
           "MU",
           "MZ",
           "AO",
-          "CI",
           "DJ",
           "ZM",
-          "CD",
           "CG",
-          "IQ",
-          "LY",
           "TJ",
           "VE",
-          "ET",
-          "XK"
+          "ET"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 248836,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "TCADT1869158" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3ZCNIAhu9BEz0OccqkJken"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ZCNIAhu9BEz0OccqkJken",
+        "id": "3ZCNIAhu9BEz0OccqkJken",
+        "is_local": false,
+        "name": "Day from Night",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/1f548ab55111f65ab74f078102fabc9a2112379d?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3ZCNIAhu9BEz0OccqkJken"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/196MfFl5VIfyX1ZBmJeWHc"
+              },
+              "href": "https://api.spotify.com/v1/artists/196MfFl5VIfyX1ZBmJeWHc",
+              "id": "196MfFl5VIfyX1ZBmJeWHc",
+              "name": "The Grinns",
+              "type": "artist",
+              "uri": "spotify:artist:196MfFl5VIfyX1ZBmJeWHc"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -4211,8 +4033,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5qvWkY0acEPoqHmO8yHR1c"
+          },
           "href": "https://api.spotify.com/v1/albums/5qvWkY0acEPoqHmO8yHR1c",
           "id": "5qvWkY0acEPoqHmO8yHR1c",
           "images": [
@@ -4235,23 +4058,9 @@
           "name": "Golden Hour",
           "release_date": "2018-01-02",
           "release_date_precision": "day",
-          "uri": "spotify:album:5qvWkY0acEPoqHmO8yHR1c",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/196MfFl5VIfyX1ZBmJeWHc"
-              },
-              "href": "https://api.spotify.com/v1/artists/196MfFl5VIfyX1ZBmJeWHc",
-              "id": "196MfFl5VIfyX1ZBmJeWHc",
-              "name": "The Grinns",
-              "type": "artist",
-              "uri": "spotify:artist:196MfFl5VIfyX1ZBmJeWHc"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5qvWkY0acEPoqHmO8yHR1c"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:5qvWkY0acEPoqHmO8yHR1c"
         },
         "artists": [
           {
@@ -4265,19 +4074,210 @@
             "uri": "spotify:artist:196MfFl5VIfyX1ZBmJeWHc"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 186857,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZ9Y21788670" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1SG7YOeSQM4z3PFWLy3bth"
         },
         "href": "https://api.spotify.com/v1/tracks/1SG7YOeSQM4z3PFWLy3bth",
         "id": "1SG7YOeSQM4z3PFWLy3bth",
+        "is_local": false,
         "name": "Golden Hour",
         "popularity": 31,
-        "uri": "spotify:track:1SG7YOeSQM4z3PFWLy3bth",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/818a80ed0b37a5a79d27b5012d5e7fa80cf542d1?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1SG7YOeSQM4z3PFWLy3bth"
       },
       "video_thumbnail": { "url": null }
     },
@@ -4295,16 +4295,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/edc8fd19719d00d86421df6905b6f9dfdb06d5f3?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": true,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
+              },
+              "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
+              "id": "7kAZYW5e5hQHYGQ0XHYhns",
+              "name": "Mustard Service",
+              "type": "artist",
+              "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6luAUwvP1B6JgCci2Tyoqc"
+          },
           "href": "https://api.spotify.com/v1/albums/6luAUwvP1B6JgCci2Tyoqc",
           "id": "6luAUwvP1B6JgCci2Tyoqc",
           "images": [
@@ -4327,23 +4335,9 @@
           "name": "C'est la Vie",
           "release_date": "2020-03-23",
           "release_date_precision": "day",
-          "uri": "spotify:album:6luAUwvP1B6JgCci2Tyoqc",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-              },
-              "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
-              "id": "7kAZYW5e5hQHYGQ0XHYhns",
-              "name": "Mustard Service",
-              "type": "artist",
-              "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6luAUwvP1B6JgCci2Tyoqc"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:6luAUwvP1B6JgCci2Tyoqc"
         },
         "artists": [
           {
@@ -4357,19 +4351,25 @@
             "uri": "spotify:artist:7kAZYW5e5hQHYGQ0XHYhns"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 229712,
+        "episode": false,
+        "explicit": true,
         "external_ids": { "isrc": "QZFZ31981095" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/7J63kwfO27pdDpHzrP1HVm"
         },
         "href": "https://api.spotify.com/v1/tracks/7J63kwfO27pdDpHzrP1HVm",
         "id": "7J63kwfO27pdDpHzrP1HVm",
+        "is_local": false,
         "name": "Daddy Dookie Brown",
         "popularity": 0,
-        "uri": "spotify:track:7J63kwfO27pdDpHzrP1HVm",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7J63kwfO27pdDpHzrP1HVm"
       },
       "video_thumbnail": { "url": null }
     },
@@ -4387,143 +4387,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/3dd33e4c32c45d2326f6b9a98820bfed39017e57?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "BO",
-          "BR",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "DO",
-          "EC",
-          "SV",
-          "GT",
-          "HN",
-          "HK",
-          "MY",
-          "MX",
-          "NI",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "SG",
-          "TW",
-          "UY",
-          "US",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "DM",
-          "FJ",
-          "GM",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "VE",
-          "ET"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+              },
+              "href": "https://api.spotify.com/v1/artists/1VfgWum48nwYJcCfdPwWgs",
+              "id": "1VfgWum48nwYJcCfdPwWgs",
+              "name": "Michael Nau",
+              "type": "artist",
+              "uri": "spotify:artist:1VfgWum48nwYJcCfdPwWgs"
+            }
+          ],
           "available_markets": [
             "AR",
             "BO",
@@ -4655,8 +4532,9 @@
             "VE",
             "ET"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/73KijsBobxaibtI8YwX5iG"
+          },
           "href": "https://api.spotify.com/v1/albums/73KijsBobxaibtI8YwX5iG",
           "id": "73KijsBobxaibtI8YwX5iG",
           "images": [
@@ -4679,23 +4557,9 @@
           "name": "Michael Nau & The Mighty Thread",
           "release_date": "2018-08-03",
           "release_date_precision": "day",
-          "uri": "spotify:album:73KijsBobxaibtI8YwX5iG",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-              },
-              "href": "https://api.spotify.com/v1/artists/1VfgWum48nwYJcCfdPwWgs",
-              "id": "1VfgWum48nwYJcCfdPwWgs",
-              "name": "Michael Nau",
-              "type": "artist",
-              "uri": "spotify:artist:1VfgWum48nwYJcCfdPwWgs"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/73KijsBobxaibtI8YwX5iG"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:73KijsBobxaibtI8YwX5iG"
         },
         "artists": [
           {
@@ -4709,101 +4573,35 @@
             "uri": "spotify:artist:1VfgWum48nwYJcCfdPwWgs"
           }
         ],
-        "disc_number": 1,
-        "track_number": 8,
-        "duration_ms": 167175,
-        "external_ids": { "isrc": "GBJXP1831208" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7d2K61ZOfpP1BfxseEUKAO"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7d2K61ZOfpP1BfxseEUKAO",
-        "id": "7d2K61ZOfpP1BfxseEUKAO",
-        "name": "On Ice",
-        "popularity": 41,
-        "uri": "spotify:track:7d2K61ZOfpP1BfxseEUKAO",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/71c14da848e97409e184fd623d1d0d104c9dacfb?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
-          "AU",
-          "AT",
-          "BE",
           "BO",
           "BR",
-          "BG",
           "CA",
           "CL",
           "CO",
           "CR",
-          "CY",
-          "CZ",
-          "DK",
           "DO",
-          "DE",
           "EC",
-          "EE",
           "SV",
-          "FI",
-          "FR",
-          "GR",
           "GT",
           "HN",
           "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
           "MY",
-          "MT",
           "MX",
-          "NL",
-          "NZ",
           "NI",
-          "NO",
           "PA",
           "PY",
           "PE",
           "PH",
-          "PL",
-          "PT",
           "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
           "TW",
-          "TR",
           "UY",
           "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
           "ID",
+          "JP",
           "TH",
           "VN",
-          "RO",
-          "IL",
           "ZA",
           "SA",
           "AE",
@@ -4819,17 +4617,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
           "KR",
           "BD",
           "PK",
@@ -4840,7 +4627,6 @@
           "TZ",
           "UG",
           "AG",
-          "AM",
           "BS",
           "BB",
           "BZ",
@@ -4848,11 +4634,9 @@
           "BW",
           "BF",
           "CV",
-          "CW",
           "DM",
           "FJ",
           "GM",
-          "GE",
           "GD",
           "GW",
           "GY",
@@ -4872,7 +4656,6 @@
           "PW",
           "PG",
           "WS",
-          "SM",
           "ST",
           "SN",
           "SC",
@@ -4898,7 +4681,6 @@
           "SZ",
           "GA",
           "GN",
-          "KG",
           "LA",
           "MO",
           "MR",
@@ -4906,7 +4688,6 @@
           "NP",
           "RW",
           "TG",
-          "UZ",
           "ZW",
           "BJ",
           "MG",
@@ -4920,16 +4701,58 @@
           "CG",
           "IQ",
           "LY",
-          "TJ",
           "VE",
-          "ET",
-          "XK"
+          "ET"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 167175,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "GBJXP1831208" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7d2K61ZOfpP1BfxseEUKAO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7d2K61ZOfpP1BfxseEUKAO",
+        "id": "7d2K61ZOfpP1BfxseEUKAO",
+        "is_local": false,
+        "name": "On Ice",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/3dd33e4c32c45d2326f6b9a98820bfed39017e57?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:7d2K61ZOfpP1BfxseEUKAO"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+              },
+              "href": "https://api.spotify.com/v1/artists/3sFhA6G1N0gG1pszb6kk1m",
+              "id": "3sFhA6G1N0gG1pszb6kk1m",
+              "name": "Wings",
+              "type": "artist",
+              "uri": "spotify:artist:3sFhA6G1N0gG1pszb6kk1m"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -5115,8 +4938,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
+          },
           "href": "https://api.spotify.com/v1/albums/3eN0kcFvDvdpjAvv1qZa4D",
           "id": "3eN0kcFvDvdpjAvv1qZa4D",
           "images": [
@@ -5139,23 +4963,9 @@
           "name": "Wings At The Speed Of Sound (Archive Collection)",
           "release_date": "1976-03-25",
           "release_date_precision": "day",
-          "uri": "spotify:album:3eN0kcFvDvdpjAvv1qZa4D",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-              },
-              "href": "https://api.spotify.com/v1/artists/3sFhA6G1N0gG1pszb6kk1m",
-              "id": "3sFhA6G1N0gG1pszb6kk1m",
-              "name": "Wings",
-              "type": "artist",
-              "uri": "spotify:artist:3sFhA6G1N0gG1pszb6kk1m"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
-          },
-          "total_tracks": 18
+          "total_tracks": 18,
+          "type": "album",
+          "uri": "spotify:album:3eN0kcFvDvdpjAvv1qZa4D"
         },
         "artists": [
           {
@@ -5169,129 +4979,6 @@
             "uri": "spotify:artist:3sFhA6G1N0gG1pszb6kk1m"
           }
         ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 188360,
-        "external_ids": { "isrc": "GBCCS1400016" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0zUb5MPkQCcDxqTkXiEIud"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0zUb5MPkQCcDxqTkXiEIud",
-        "id": "0zUb5MPkQCcDxqTkXiEIud",
-        "name": "She’s My Baby - 2014 Remaster",
-        "popularity": 52,
-        "uri": "spotify:track:0zUb5MPkQCcDxqTkXiEIud",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ab0bf0682e578cb1adf371a52569b4deb618cd8c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/5HkW3pBnVMbKRaWbizrIMN",
-          "id": "5HkW3pBnVMbKRaWbizrIMN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27341a0570bfa2206315f4eca34",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0241a0570bfa2206315f4eca34",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485141a0570bfa2206315f4eca34",
-              "width": 64
-            }
-          ],
-          "name": "Metamodernity",
-          "release_date": "2019-06-11",
-          "release_date_precision": "day",
-          "uri": "spotify:album:5HkW3pBnVMbKRaWbizrIMN",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-              },
-              "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-              "id": "6ft7JnxMyZhp7N52qzHymY",
-              "name": "Vansire",
-              "type": "artist",
-              "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN"
-          },
-          "total_tracks": 2
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-            },
-            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
-            "id": "6ft7JnxMyZhp7N52qzHymY",
-            "name": "Vansire",
-            "type": "artist",
-            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 162663,
-        "external_ids": { "isrc": "QZFYX1977153" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx"
-        },
-        "href": "https://api.spotify.com/v1/tracks/61GiMDN1kUiEQK6zHGMdnx",
-        "id": "61GiMDN1kUiEQK6zHGMdnx",
-        "name": "Metamodernity",
-        "popularity": 0,
-        "uri": "spotify:track:61GiMDN1kUiEQK6zHGMdnx",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9aeb2ef5a72e46d8164d2a0d11a16230788a2134?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -5352,7 +5039,6 @@
           "LI",
           "MC",
           "ID",
-          "JP",
           "TH",
           "VN",
           "RO",
@@ -5372,6 +5058,7 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
@@ -5380,6 +5067,7 @@
           "HR",
           "ME",
           "MK",
+          "RS",
           "SI",
           "KR",
           "BD",
@@ -5440,6 +5128,7 @@
           "VU",
           "AZ",
           "BN",
+          "BI",
           "KH",
           "CM",
           "TD",
@@ -5457,23 +5146,165 @@
           "RW",
           "TG",
           "UZ",
+          "ZW",
           "BJ",
           "MG",
           "MU",
           "MZ",
           "AO",
+          "CI",
           "DJ",
           "ZM",
+          "CD",
           "CG",
+          "IQ",
+          "LY",
           "TJ",
           "VE",
-          "ET"
+          "ET",
+          "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 188360,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "GBCCS1400016" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0zUb5MPkQCcDxqTkXiEIud"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0zUb5MPkQCcDxqTkXiEIud",
+        "id": "0zUb5MPkQCcDxqTkXiEIud",
+        "is_local": false,
+        "name": "She’s My Baby - 2014 Remaster",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/71c14da848e97409e184fd623d1d0d104c9dacfb?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0zUb5MPkQCcDxqTkXiEIud"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+              "id": "6ft7JnxMyZhp7N52qzHymY",
+              "name": "Vansire",
+              "type": "artist",
+              "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN"
+          },
+          "href": "https://api.spotify.com/v1/albums/5HkW3pBnVMbKRaWbizrIMN",
+          "id": "5HkW3pBnVMbKRaWbizrIMN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27341a0570bfa2206315f4eca34",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0241a0570bfa2206315f4eca34",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485141a0570bfa2206315f4eca34",
+              "width": 64
+            }
+          ],
+          "name": "Metamodernity",
+          "release_date": "2019-06-11",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:5HkW3pBnVMbKRaWbizrIMN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
+            "id": "6ft7JnxMyZhp7N52qzHymY",
+            "name": "Vansire",
+            "type": "artist",
+            "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 162663,
+        "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QZFYX1977153" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/61GiMDN1kUiEQK6zHGMdnx",
+        "id": "61GiMDN1kUiEQK6zHGMdnx",
+        "is_local": false,
+        "name": "Metamodernity",
+        "popularity": 0,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:61GiMDN1kUiEQK6zHGMdnx"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6hc0mVCpacCeXn2M8O8nj5"
+              },
+              "href": "https://api.spotify.com/v1/artists/6hc0mVCpacCeXn2M8O8nj5",
+              "id": "6hc0mVCpacCeXn2M8O8nj5",
+              "name": "Lounge FM",
+              "type": "artist",
+              "uri": "spotify:artist:6hc0mVCpacCeXn2M8O8nj5"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -5651,8 +5482,9 @@
             "VE",
             "ET"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2A0VHH7uZhV8RAyteKOkj4"
+          },
           "href": "https://api.spotify.com/v1/albums/2A0VHH7uZhV8RAyteKOkj4",
           "id": "2A0VHH7uZhV8RAyteKOkj4",
           "images": [
@@ -5675,23 +5507,9 @@
           "name": "Love Will Let You Down",
           "release_date": "2018-03-30",
           "release_date_precision": "day",
-          "uri": "spotify:album:2A0VHH7uZhV8RAyteKOkj4",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/6hc0mVCpacCeXn2M8O8nj5"
-              },
-              "href": "https://api.spotify.com/v1/artists/6hc0mVCpacCeXn2M8O8nj5",
-              "id": "6hc0mVCpacCeXn2M8O8nj5",
-              "name": "Lounge FM",
-              "type": "artist",
-              "uri": "spotify:artist:6hc0mVCpacCeXn2M8O8nj5"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2A0VHH7uZhV8RAyteKOkj4"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:2A0VHH7uZhV8RAyteKOkj4"
         },
         "artists": [
           {
@@ -5705,37 +5523,6 @@
             "uri": "spotify:artist:6hc0mVCpacCeXn2M8O8nj5"
           }
         ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 265250,
-        "external_ids": { "isrc": "CAFXT1800003" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6mPfje0IYksk2ADSKnzt5H"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6mPfje0IYksk2ADSKnzt5H",
-        "id": "6mPfje0IYksk2ADSKnzt5H",
-        "name": "Love Will Let You Down",
-        "popularity": 25,
-        "uri": "spotify:track:6mPfje0IYksk2ADSKnzt5H",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c198f8bd7efb43e01604d9362306afff3a7476dc?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -5816,7 +5603,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -5825,7 +5611,6 @@
           "HR",
           "ME",
           "MK",
-          "RS",
           "SI",
           "KR",
           "BD",
@@ -5886,7 +5671,6 @@
           "VU",
           "AZ",
           "BN",
-          "BI",
           "KH",
           "CM",
           "TD",
@@ -5904,29 +5688,67 @@
           "RW",
           "TG",
           "UZ",
-          "ZW",
           "BJ",
           "MG",
           "MU",
           "MZ",
           "AO",
-          "CI",
           "DJ",
           "ZM",
-          "CD",
           "CG",
-          "IQ",
-          "LY",
           "TJ",
           "VE",
-          "ET",
-          "XK"
+          "ET"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 265250,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "CAFXT1800003" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6mPfje0IYksk2ADSKnzt5H"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mPfje0IYksk2ADSKnzt5H",
+        "id": "6mPfje0IYksk2ADSKnzt5H",
+        "is_local": false,
+        "name": "Love Will Let You Down",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/9aeb2ef5a72e46d8164d2a0d11a16230788a2134?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6mPfje0IYksk2ADSKnzt5H"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7AV5NsnZkoZJ0OSqxwgUTm"
+              },
+              "href": "https://api.spotify.com/v1/artists/7AV5NsnZkoZJ0OSqxwgUTm",
+              "id": "7AV5NsnZkoZJ0OSqxwgUTm",
+              "name": "Grant Claytor",
+              "type": "artist",
+              "uri": "spotify:artist:7AV5NsnZkoZJ0OSqxwgUTm"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -6113,8 +5935,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4xRqBIeE7FdEmJyjA4zGXC"
+          },
           "href": "https://api.spotify.com/v1/albums/4xRqBIeE7FdEmJyjA4zGXC",
           "id": "4xRqBIeE7FdEmJyjA4zGXC",
           "images": [
@@ -6137,23 +5960,9 @@
           "name": "Play for You",
           "release_date": "2020-05-08",
           "release_date_precision": "day",
-          "uri": "spotify:album:4xRqBIeE7FdEmJyjA4zGXC",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7AV5NsnZkoZJ0OSqxwgUTm"
-              },
-              "href": "https://api.spotify.com/v1/artists/7AV5NsnZkoZJ0OSqxwgUTm",
-              "id": "7AV5NsnZkoZJ0OSqxwgUTm",
-              "name": "Grant Claytor",
-              "type": "artist",
-              "uri": "spotify:artist:7AV5NsnZkoZJ0OSqxwgUTm"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4xRqBIeE7FdEmJyjA4zGXC"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4xRqBIeE7FdEmJyjA4zGXC"
         },
         "artists": [
           {
@@ -6167,19 +5976,210 @@
             "uri": "spotify:artist:7AV5NsnZkoZJ0OSqxwgUTm"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 188800,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZES52018638" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6Y3He3ELtM4MOA5pEkaz8m"
         },
         "href": "https://api.spotify.com/v1/tracks/6Y3He3ELtM4MOA5pEkaz8m",
         "id": "6Y3He3ELtM4MOA5pEkaz8m",
+        "is_local": false,
         "name": "Play for You",
         "popularity": 11,
-        "uri": "spotify:track:6Y3He3ELtM4MOA5pEkaz8m",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/c198f8bd7efb43e01604d9362306afff3a7476dc?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6Y3He3ELtM4MOA5pEkaz8m"
       },
       "video_thumbnail": { "url": null }
     },
@@ -6197,16 +6197,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b79e2d9159cc839de6e5c3a7808e4f203f597f66?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+              },
+              "href": "https://api.spotify.com/v1/artists/2rqNUPgkBgbhcRabUQ5C9g",
+              "id": "2rqNUPgkBgbhcRabUQ5C9g",
+              "name": "Elephant Gym",
+              "type": "artist",
+              "uri": "spotify:artist:2rqNUPgkBgbhcRabUQ5C9g"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0MiU12gKKmNxVr9i5ZZHuV"
+          },
           "href": "https://api.spotify.com/v1/albums/0MiU12gKKmNxVr9i5ZZHuV",
           "id": "0MiU12gKKmNxVr9i5ZZHuV",
           "images": [
@@ -6229,23 +6237,9 @@
           "name": "Elephant Gym on Audiotree Live",
           "release_date": "2018-12-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:0MiU12gKKmNxVr9i5ZZHuV",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
-              },
-              "href": "https://api.spotify.com/v1/artists/2rqNUPgkBgbhcRabUQ5C9g",
-              "id": "2rqNUPgkBgbhcRabUQ5C9g",
-              "name": "Elephant Gym",
-              "type": "artist",
-              "uri": "spotify:artist:2rqNUPgkBgbhcRabUQ5C9g"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0MiU12gKKmNxVr9i5ZZHuV"
-          },
-          "total_tracks": 5
+          "total_tracks": 5,
+          "type": "album",
+          "uri": "spotify:album:0MiU12gKKmNxVr9i5ZZHuV"
         },
         "artists": [
           {
@@ -6259,19 +6253,25 @@
             "uri": "spotify:artist:2rqNUPgkBgbhcRabUQ5C9g"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 296304,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QM99V1901802" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5ehkfTYvoY3c6tQiTsnOWz"
         },
         "href": "https://api.spotify.com/v1/tracks/5ehkfTYvoY3c6tQiTsnOWz",
         "id": "5ehkfTYvoY3c6tQiTsnOWz",
+        "is_local": false,
         "name": "Finger (Audiotree Live Version)",
         "popularity": 0,
-        "uri": "spotify:track:5ehkfTYvoY3c6tQiTsnOWz",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5ehkfTYvoY3c6tQiTsnOWz"
       },
       "video_thumbnail": { "url": null }
     },
@@ -6289,198 +6289,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b5e9a9c2b1a4964d3001854940d208ef90f3d723?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn"
+              },
+              "href": "https://api.spotify.com/v1/artists/4T3jyyAF02vNapy2bdzMjn",
+              "id": "4T3jyyAF02vNapy2bdzMjn",
+              "name": "Golden Daze",
+              "type": "artist",
+              "uri": "spotify:artist:4T3jyyAF02vNapy2bdzMjn"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -6667,8 +6489,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz"
+          },
           "href": "https://api.spotify.com/v1/albums/2lK6kmV26bYb9CcTFvrmLz",
           "id": "2lK6kmV26bYb9CcTFvrmLz",
           "images": [
@@ -6691,23 +6514,9 @@
           "name": "Simpatico",
           "release_date": "2019-02-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:2lK6kmV26bYb9CcTFvrmLz",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn"
-              },
-              "href": "https://api.spotify.com/v1/artists/4T3jyyAF02vNapy2bdzMjn",
-              "id": "4T3jyyAF02vNapy2bdzMjn",
-              "name": "Golden Daze",
-              "type": "artist",
-              "uri": "spotify:artist:4T3jyyAF02vNapy2bdzMjn"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:2lK6kmV26bYb9CcTFvrmLz"
         },
         "artists": [
           {
@@ -6721,19 +6530,210 @@
             "uri": "spotify:artist:4T3jyyAF02vNapy2bdzMjn"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 4,
         "duration_ms": 197413,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "USEP41851004" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4SYjSCWtWKfMSIclKyq806"
         },
         "href": "https://api.spotify.com/v1/tracks/4SYjSCWtWKfMSIclKyq806",
         "id": "4SYjSCWtWKfMSIclKyq806",
+        "is_local": false,
         "name": "Took A Fall",
         "popularity": 29,
-        "uri": "spotify:track:4SYjSCWtWKfMSIclKyq806",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/b5e9a9c2b1a4964d3001854940d208ef90f3d723?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4SYjSCWtWKfMSIclKyq806"
       },
       "video_thumbnail": { "url": null }
     },
@@ -6751,16 +6751,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/27259681067c09a49a72b91a9cc47cc2f4a2b9b8?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "CA", "MX", "NZ", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": ["AU", "CA", "MX", "NZ", "US"],
-          "type": "album",
           "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+              },
+              "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
+              "id": "1ybAN3utgdoUL1MUCtH4QM",
+              "name": "Tennis",
+              "type": "artist",
+              "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
+            }
+          ],
+          "available_markets": ["AU", "CA", "MX", "NZ", "US"],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7JWXCrTzHgiGo95ZG5japE"
+          },
           "href": "https://api.spotify.com/v1/albums/7JWXCrTzHgiGo95ZG5japE",
           "id": "7JWXCrTzHgiGo95ZG5japE",
           "images": [
@@ -6783,23 +6791,9 @@
           "name": "I Miss That Feeling",
           "release_date": "2017-10-06",
           "release_date_precision": "day",
-          "uri": "spotify:album:7JWXCrTzHgiGo95ZG5japE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-              },
-              "href": "https://api.spotify.com/v1/artists/1ybAN3utgdoUL1MUCtH4QM",
-              "id": "1ybAN3utgdoUL1MUCtH4QM",
-              "name": "Tennis",
-              "type": "artist",
-              "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7JWXCrTzHgiGo95ZG5japE"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7JWXCrTzHgiGo95ZG5japE"
         },
         "artists": [
           {
@@ -6813,19 +6807,25 @@
             "uri": "spotify:artist:1ybAN3utgdoUL1MUCtH4QM"
           }
         ],
+        "available_markets": ["AU", "CA", "MX", "NZ", "US"],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 202133,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZ5TF1600015" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/42XZcWNSbZCPQarEodiHbi"
         },
         "href": "https://api.spotify.com/v1/tracks/42XZcWNSbZCPQarEodiHbi",
         "id": "42XZcWNSbZCPQarEodiHbi",
+        "is_local": false,
         "name": "I Miss That Feeling",
         "popularity": 37,
-        "uri": "spotify:track:42XZcWNSbZCPQarEodiHbi",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/27259681067c09a49a72b91a9cc47cc2f4a2b9b8?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:42XZcWNSbZCPQarEodiHbi"
       },
       "video_thumbnail": { "url": null }
     },
@@ -6843,198 +6843,20 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f8274f289f862c698c638de774ce3a317bee21a1?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7bWhprEBI3iMP5ZSw7p5tL"
+              },
+              "href": "https://api.spotify.com/v1/artists/7bWhprEBI3iMP5ZSw7p5tL",
+              "id": "7bWhprEBI3iMP5ZSw7p5tL",
+              "name": "Glow!",
+              "type": "artist",
+              "uri": "spotify:artist:7bWhprEBI3iMP5ZSw7p5tL"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -7221,8 +7043,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0HrfSpMHhoUINpvaS1mDzj"
+          },
           "href": "https://api.spotify.com/v1/albums/0HrfSpMHhoUINpvaS1mDzj",
           "id": "0HrfSpMHhoUINpvaS1mDzj",
           "images": [
@@ -7245,23 +7068,9 @@
           "name": "If It Were Me",
           "release_date": "2019-03-22",
           "release_date_precision": "day",
-          "uri": "spotify:album:0HrfSpMHhoUINpvaS1mDzj",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7bWhprEBI3iMP5ZSw7p5tL"
-              },
-              "href": "https://api.spotify.com/v1/artists/7bWhprEBI3iMP5ZSw7p5tL",
-              "id": "7bWhprEBI3iMP5ZSw7p5tL",
-              "name": "Glow!",
-              "type": "artist",
-              "uri": "spotify:artist:7bWhprEBI3iMP5ZSw7p5tL"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0HrfSpMHhoUINpvaS1mDzj"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:0HrfSpMHhoUINpvaS1mDzj"
         },
         "artists": [
           {
@@ -7275,37 +7084,6 @@
             "uri": "spotify:artist:7bWhprEBI3iMP5ZSw7p5tL"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 196645,
-        "external_ids": { "isrc": "uscgj1951756" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7lDPr3wYYKewaye3RHRXZx"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7lDPr3wYYKewaye3RHRXZx",
-        "id": "7lDPr3wYYKewaye3RHRXZx",
-        "name": "If It Were Me",
-        "popularity": 35,
-        "uri": "spotify:track:7lDPr3wYYKewaye3RHRXZx",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4c64e1ca63ee74716c87b51b397e417006039403?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -7492,11 +7270,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 196645,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "uscgj1951756" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7lDPr3wYYKewaye3RHRXZx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lDPr3wYYKewaye3RHRXZx",
+        "id": "7lDPr3wYYKewaye3RHRXZx",
+        "is_local": false,
+        "name": "If It Were Me",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/f8274f289f862c698c638de774ce3a317bee21a1?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7lDPr3wYYKewaye3RHRXZx"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
+              },
+              "href": "https://api.spotify.com/v1/artists/00XrFl3G12emNX9Qqm6Gd4",
+              "id": "00XrFl3G12emNX9Qqm6Gd4",
+              "name": "Petite League",
+              "type": "artist",
+              "uri": "spotify:artist:00XrFl3G12emNX9Qqm6Gd4"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -7683,8 +7505,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5jKEV4oo7B9RuCY6o12CZX"
+          },
           "href": "https://api.spotify.com/v1/albums/5jKEV4oo7B9RuCY6o12CZX",
           "id": "5jKEV4oo7B9RuCY6o12CZX",
           "images": [
@@ -7707,23 +7530,9 @@
           "name": "No Hitter",
           "release_date": "2016-06-24",
           "release_date_precision": "day",
-          "uri": "spotify:album:5jKEV4oo7B9RuCY6o12CZX",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/00XrFl3G12emNX9Qqm6Gd4"
-              },
-              "href": "https://api.spotify.com/v1/artists/00XrFl3G12emNX9Qqm6Gd4",
-              "id": "00XrFl3G12emNX9Qqm6Gd4",
-              "name": "Petite League",
-              "type": "artist",
-              "uri": "spotify:artist:00XrFl3G12emNX9Qqm6Gd4"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jKEV4oo7B9RuCY6o12CZX"
-          },
-          "total_tracks": 11
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:5jKEV4oo7B9RuCY6o12CZX"
         },
         "artists": [
           {
@@ -7737,37 +7546,6 @@
             "uri": "spotify:artist:00XrFl3G12emNX9Qqm6Gd4"
           }
         ],
-        "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 187500,
-        "external_ids": { "isrc": "TCACP1617036" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4SwFE2JiaQvz3r477sItUW"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4SwFE2JiaQvz3r477sItUW",
-        "id": "4SwFE2JiaQvz3r477sItUW",
-        "name": "Raspberry Seeds",
-        "popularity": 31,
-        "uri": "spotify:track:4SwFE2JiaQvz3r477sItUW",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d482e340ed293c5bfa30fb5b51446a4c2f7b9be5?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -7954,11 +7732,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 187500,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "TCACP1617036" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4SwFE2JiaQvz3r477sItUW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4SwFE2JiaQvz3r477sItUW",
+        "id": "4SwFE2JiaQvz3r477sItUW",
+        "is_local": false,
+        "name": "Raspberry Seeds",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/4c64e1ca63ee74716c87b51b397e417006039403?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4SwFE2JiaQvz3r477sItUW"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
+              },
+              "href": "https://api.spotify.com/v1/artists/2FUIaEhxMNdiBpO8ykabdP",
+              "id": "2FUIaEhxMNdiBpO8ykabdP",
+              "name": "Husbands",
+              "type": "artist",
+              "uri": "spotify:artist:2FUIaEhxMNdiBpO8ykabdP"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -8145,8 +7967,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/48ij493AMmnqs2rlWfJh9A"
+          },
           "href": "https://api.spotify.com/v1/albums/48ij493AMmnqs2rlWfJh9A",
           "id": "48ij493AMmnqs2rlWfJh9A",
           "images": [
@@ -8169,23 +7992,9 @@
           "name": "After the Gold Rush Party",
           "release_date": "2020-01-14",
           "release_date_precision": "day",
-          "uri": "spotify:album:48ij493AMmnqs2rlWfJh9A",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
-              },
-              "href": "https://api.spotify.com/v1/artists/2FUIaEhxMNdiBpO8ykabdP",
-              "id": "2FUIaEhxMNdiBpO8ykabdP",
-              "name": "Husbands",
-              "type": "artist",
-              "uri": "spotify:artist:2FUIaEhxMNdiBpO8ykabdP"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/48ij493AMmnqs2rlWfJh9A"
-          },
-          "total_tracks": 13
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:48ij493AMmnqs2rlWfJh9A"
         },
         "artists": [
           {
@@ -8199,37 +8008,6 @@
             "uri": "spotify:artist:2FUIaEhxMNdiBpO8ykabdP"
           }
         ],
-        "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 212666,
-        "external_ids": { "isrc": "USHM81934513" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/30LfXnoJIGUEEK71DQBxQN"
-        },
-        "href": "https://api.spotify.com/v1/tracks/30LfXnoJIGUEEK71DQBxQN",
-        "id": "30LfXnoJIGUEEK71DQBxQN",
-        "name": "Mexico",
-        "popularity": 51,
-        "uri": "spotify:track:30LfXnoJIGUEEK71DQBxQN",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2d1876a6ff5b567b75853c7c1853cc9a6fa85ed9?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -8416,11 +8194,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 212666,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "USHM81934513" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30LfXnoJIGUEEK71DQBxQN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30LfXnoJIGUEEK71DQBxQN",
+        "id": "30LfXnoJIGUEEK71DQBxQN",
+        "is_local": false,
+        "name": "Mexico",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/d482e340ed293c5bfa30fb5b51446a4c2f7b9be5?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:30LfXnoJIGUEEK71DQBxQN"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq"
+              },
+              "href": "https://api.spotify.com/v1/artists/5MpGrez01Tx9nl5YQ1Aseq",
+              "id": "5MpGrez01Tx9nl5YQ1Aseq",
+              "name": "Small Crush",
+              "type": "artist",
+              "uri": "spotify:artist:5MpGrez01Tx9nl5YQ1Aseq"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -8607,8 +8429,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "album",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5P0wMCTFXevN8XBi560Bcq"
+          },
           "href": "https://api.spotify.com/v1/albums/5P0wMCTFXevN8XBi560Bcq",
           "id": "5P0wMCTFXevN8XBi560Bcq",
           "images": [
@@ -8631,23 +8454,9 @@
           "name": "Small Crush",
           "release_date": "2019-07-26",
           "release_date_precision": "day",
-          "uri": "spotify:album:5P0wMCTFXevN8XBi560Bcq",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq"
-              },
-              "href": "https://api.spotify.com/v1/artists/5MpGrez01Tx9nl5YQ1Aseq",
-              "id": "5MpGrez01Tx9nl5YQ1Aseq",
-              "name": "Small Crush",
-              "type": "artist",
-              "uri": "spotify:artist:5MpGrez01Tx9nl5YQ1Aseq"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5P0wMCTFXevN8XBi560Bcq"
-          },
-          "total_tracks": 13
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:5P0wMCTFXevN8XBi560Bcq"
         },
         "artists": [
           {
@@ -8661,37 +8470,6 @@
             "uri": "spotify:artist:5MpGrez01Tx9nl5YQ1Aseq"
           }
         ],
-        "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 124863,
-        "external_ids": { "isrc": "QM6N21968939" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4G3Kn1nVbwC0RimpqQHRNI"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4G3Kn1nVbwC0RimpqQHRNI",
-        "id": "4G3Kn1nVbwC0RimpqQHRNI",
-        "name": "Signal Dreams",
-        "popularity": 35,
-        "uri": "spotify:track:4G3Kn1nVbwC0RimpqQHRNI",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b17c439c9a55f6d21e7fba92be30cbfcdf7b3e9d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -8878,11 +8656,55 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 124863,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QM6N21968939" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4G3Kn1nVbwC0RimpqQHRNI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4G3Kn1nVbwC0RimpqQHRNI",
+        "id": "4G3Kn1nVbwC0RimpqQHRNI",
+        "is_local": false,
+        "name": "Signal Dreams",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/2d1876a6ff5b567b75853c7c1853cc9a6fa85ed9?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4G3Kn1nVbwC0RimpqQHRNI"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3bNfFxC4i5CNV3OMWTj2PJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/3bNfFxC4i5CNV3OMWTj2PJ",
+              "id": "3bNfFxC4i5CNV3OMWTj2PJ",
+              "name": "corner club",
+              "type": "artist",
+              "uri": "spotify:artist:3bNfFxC4i5CNV3OMWTj2PJ"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -9069,8 +8891,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6NK9ex5dhPQeBrVYud9Ok8"
+          },
           "href": "https://api.spotify.com/v1/albums/6NK9ex5dhPQeBrVYud9Ok8",
           "id": "6NK9ex5dhPQeBrVYud9Ok8",
           "images": [
@@ -9093,23 +8916,9 @@
           "name": "Manhattanhenge",
           "release_date": "2019-03-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:6NK9ex5dhPQeBrVYud9Ok8",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3bNfFxC4i5CNV3OMWTj2PJ"
-              },
-              "href": "https://api.spotify.com/v1/artists/3bNfFxC4i5CNV3OMWTj2PJ",
-              "id": "3bNfFxC4i5CNV3OMWTj2PJ",
-              "name": "corner club",
-              "type": "artist",
-              "uri": "spotify:artist:3bNfFxC4i5CNV3OMWTj2PJ"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6NK9ex5dhPQeBrVYud9Ok8"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:6NK9ex5dhPQeBrVYud9Ok8"
         },
         "artists": [
           {
@@ -9123,129 +8932,6 @@
             "uri": "spotify:artist:3bNfFxC4i5CNV3OMWTj2PJ"
           }
         ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 161966,
-        "external_ids": { "isrc": "QZDA81994733" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/45xwTKisSTDgDEIpr0Mjmp"
-        },
-        "href": "https://api.spotify.com/v1/tracks/45xwTKisSTDgDEIpr0Mjmp",
-        "id": "45xwTKisSTDgDEIpr0Mjmp",
-        "name": "Manhattanhenge",
-        "popularity": 49,
-        "uri": "spotify:track:45xwTKisSTDgDEIpr0Mjmp",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/858ab30d146516b70cae4fb18afbe3e15a026375?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/45hw117l0tMZQZXVMeSVUE",
-          "id": "45hw117l0tMZQZXVMeSVUE",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739595a63f6bfa267504cdad81",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e029595a63f6bfa267504cdad81",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048519595a63f6bfa267504cdad81",
-              "width": 64
-            }
-          ],
-          "name": "Songs from the Sunroom",
-          "release_date": "2017-11-10",
-          "release_date_precision": "day",
-          "uri": "spotify:album:45hw117l0tMZQZXVMeSVUE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-              },
-              "href": "https://api.spotify.com/v1/artists/4wMfqR1EZagrSlYndItxGQ",
-              "id": "4wMfqR1EZagrSlYndItxGQ",
-              "name": "Field Medic",
-              "type": "artist",
-              "uri": "spotify:artist:4wMfqR1EZagrSlYndItxGQ"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/45hw117l0tMZQZXVMeSVUE"
-          },
-          "total_tracks": 15
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-            },
-            "href": "https://api.spotify.com/v1/artists/4wMfqR1EZagrSlYndItxGQ",
-            "id": "4wMfqR1EZagrSlYndItxGQ",
-            "name": "Field Medic",
-            "type": "artist",
-            "uri": "spotify:artist:4wMfqR1EZagrSlYndItxGQ"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 137477,
-        "external_ids": { "isrc": "QMCE71301770" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/25eVwxg6DfpYi83PTjP5IX"
-        },
-        "href": "https://api.spotify.com/v1/tracks/25eVwxg6DfpYi83PTjP5IX",
-        "id": "25eVwxg6DfpYi83PTjP5IX",
-        "name": "POWERFUL LOVE",
-        "popularity": 0,
-        "uri": "spotify:track:25eVwxg6DfpYi83PTjP5IX",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2020-10-17T13:23:16Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/laymonage"
-        },
-        "href": "https://api.spotify.com/v1/users/laymonage",
-        "id": "laymonage",
-        "type": "user",
-        "uri": "spotify:user:laymonage"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/578e1053c988a9d0f818332b4bea96d56069a5a1?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -9432,11 +9118,147 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
-        "type": "track",
+        "disc_number": 1,
+        "duration_ms": 161966,
         "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QZDA81994733" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/45xwTKisSTDgDEIpr0Mjmp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/45xwTKisSTDgDEIpr0Mjmp",
+        "id": "45xwTKisSTDgDEIpr0Mjmp",
+        "is_local": false,
+        "name": "Manhattanhenge",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/b17c439c9a55f6d21e7fba92be30cbfcdf7b3e9d?cid=c73100e39ab6406dae4c4479ff75d174",
         "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:45xwTKisSTDgDEIpr0Mjmp"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/4wMfqR1EZagrSlYndItxGQ",
+              "id": "4wMfqR1EZagrSlYndItxGQ",
+              "name": "Field Medic",
+              "type": "artist",
+              "uri": "spotify:artist:4wMfqR1EZagrSlYndItxGQ"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/45hw117l0tMZQZXVMeSVUE"
+          },
+          "href": "https://api.spotify.com/v1/albums/45hw117l0tMZQZXVMeSVUE",
+          "id": "45hw117l0tMZQZXVMeSVUE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739595a63f6bfa267504cdad81",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029595a63f6bfa267504cdad81",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519595a63f6bfa267504cdad81",
+              "width": 64
+            }
+          ],
+          "name": "Songs from the Sunroom",
+          "release_date": "2017-11-10",
+          "release_date_precision": "day",
+          "total_tracks": 15,
+          "type": "album",
+          "uri": "spotify:album:45hw117l0tMZQZXVMeSVUE"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/4wMfqR1EZagrSlYndItxGQ",
+            "id": "4wMfqR1EZagrSlYndItxGQ",
+            "name": "Field Medic",
+            "type": "artist",
+            "uri": "spotify:artist:4wMfqR1EZagrSlYndItxGQ"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 137477,
+        "episode": false,
+        "explicit": false,
+        "external_ids": { "isrc": "QMCE71301770" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25eVwxg6DfpYi83PTjP5IX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25eVwxg6DfpYi83PTjP5IX",
+        "id": "25eVwxg6DfpYi83PTjP5IX",
+        "is_local": false,
+        "name": "POWERFUL LOVE",
+        "popularity": 0,
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:25eVwxg6DfpYi83PTjP5IX"
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2020-10-17T13:23:16Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/75RSFQIHY52QAm8m8xZGSt"
+              },
+              "href": "https://api.spotify.com/v1/artists/75RSFQIHY52QAm8m8xZGSt",
+              "id": "75RSFQIHY52QAm8m8xZGSt",
+              "name": "Honey Butter",
+              "type": "artist",
+              "uri": "spotify:artist:75RSFQIHY52QAm8m8xZGSt"
+            }
+          ],
           "available_markets": [
             "AR",
             "AU",
@@ -9623,8 +9445,9 @@
             "ET",
             "XK"
           ],
-          "type": "album",
-          "album_type": "single",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/34sYkFTjcYiMstASSH4JBT"
+          },
           "href": "https://api.spotify.com/v1/albums/34sYkFTjcYiMstASSH4JBT",
           "id": "34sYkFTjcYiMstASSH4JBT",
           "images": [
@@ -9647,23 +9470,9 @@
           "name": "The Answer",
           "release_date": "2019-09-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:34sYkFTjcYiMstASSH4JBT",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/75RSFQIHY52QAm8m8xZGSt"
-              },
-              "href": "https://api.spotify.com/v1/artists/75RSFQIHY52QAm8m8xZGSt",
-              "id": "75RSFQIHY52QAm8m8xZGSt",
-              "name": "Honey Butter",
-              "type": "artist",
-              "uri": "spotify:artist:75RSFQIHY52QAm8m8xZGSt"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/34sYkFTjcYiMstASSH4JBT"
-          },
-          "total_tracks": 1
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:34sYkFTjcYiMstASSH4JBT"
         },
         "artists": [
           {
@@ -9677,19 +9486,210 @@
             "uri": "spotify:artist:75RSFQIHY52QAm8m8xZGSt"
           }
         ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 290086,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "ushm91912606" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/7cs7eJjQvyOG4CqwB3JAJ4"
         },
         "href": "https://api.spotify.com/v1/tracks/7cs7eJjQvyOG4CqwB3JAJ4",
         "id": "7cs7eJjQvyOG4CqwB3JAJ4",
+        "is_local": false,
         "name": "The Answer",
         "popularity": 31,
-        "uri": "spotify:track:7cs7eJjQvyOG4CqwB3JAJ4",
-        "is_local": false
+        "preview_url": "https://p.scdn.co/mp3-preview/578e1053c988a9d0f818332b4bea96d56069a5a1?cid=c73100e39ab6406dae4c4479ff75d174",
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7cs7eJjQvyOG4CqwB3JAJ4"
       },
       "video_thumbnail": { "url": null }
     }

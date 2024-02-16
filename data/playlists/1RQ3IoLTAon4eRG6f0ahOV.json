@@ -43,16 +43,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f903fda94061b1919db040e0bf9d9589ec45e787?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -75,23 +83,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -115,19 +109,25 @@
             "uri": "spotify:artist:2V8wLBnb01iDtyiAFoVGWe"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 239523,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1794090" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0Rfi2wqaCJzUOnXwQhKbyN"
         },
         "href": "https://api.spotify.com/v1/tracks/0Rfi2wqaCJzUOnXwQhKbyN",
         "id": "0Rfi2wqaCJzUOnXwQhKbyN",
+        "is_local": false,
         "name": "Lovesong (The Way) [feat. Bluets]",
         "popularity": 0,
-        "uri": "spotify:track:0Rfi2wqaCJzUOnXwQhKbyN",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Rfi2wqaCJzUOnXwQhKbyN"
       },
       "video_thumbnail": { "url": null }
     },
@@ -145,16 +145,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/81810e379e8f1accb0ed17102b587d478e55177a?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -177,23 +185,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -227,19 +221,25 @@
             "uri": "spotify:artist:7arJkuzDiU6zH9vy8Davgu"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 222835,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790811" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0qGWKKIvod6ksJC0MBJsOn"
         },
         "href": "https://api.spotify.com/v1/tracks/0qGWKKIvod6ksJC0MBJsOn",
         "id": "0qGWKKIvod6ksJC0MBJsOn",
+        "is_local": false,
         "name": "Intentions (feat. Daniel James & Eddie Codrington)",
         "popularity": 0,
-        "uri": "spotify:track:0qGWKKIvod6ksJC0MBJsOn",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0qGWKKIvod6ksJC0MBJsOn"
       },
       "video_thumbnail": { "url": null }
     },
@@ -257,16 +257,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9e34ac8671d64c9a55df52e712f7b17ea217e96c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -289,23 +297,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -319,19 +313,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 59187,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790812" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4RrhRPUGXXYM0zfDgGqJfO"
         },
         "href": "https://api.spotify.com/v1/tracks/4RrhRPUGXXYM0zfDgGqJfO",
         "id": "4RrhRPUGXXYM0zfDgGqJfO",
+        "is_local": false,
         "name": "Duet",
         "popularity": 0,
-        "uri": "spotify:track:4RrhRPUGXXYM0zfDgGqJfO",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4RrhRPUGXXYM0zfDgGqJfO"
       },
       "video_thumbnail": { "url": null }
     },
@@ -349,16 +349,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bfe8a36ff2ec80e6c6958dd222e1979df23d83a0?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -381,23 +389,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -411,19 +405,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 4,
         "duration_ms": 176781,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790813" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0IgIj90lp7UoiA0yf8bJxB"
         },
         "href": "https://api.spotify.com/v1/tracks/0IgIj90lp7UoiA0yf8bJxB",
         "id": "0IgIj90lp7UoiA0yf8bJxB",
+        "is_local": false,
         "name": "Warm Rain Clap",
         "popularity": 0,
-        "uri": "spotify:track:0IgIj90lp7UoiA0yf8bJxB",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0IgIj90lp7UoiA0yf8bJxB"
       },
       "video_thumbnail": { "url": null }
     },
@@ -441,16 +441,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8dea478f3adcc64cd77a16e25ea9129709c31410?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -473,23 +481,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -513,19 +507,25 @@
             "uri": "spotify:artist:6iuZ819jb4hKw12zX0RkHq"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 5,
         "duration_ms": 198468,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790815" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1NYCWgdqM0VfjTct26wgk6"
         },
         "href": "https://api.spotify.com/v1/tracks/1NYCWgdqM0VfjTct26wgk6",
         "id": "1NYCWgdqM0VfjTct26wgk6",
+        "is_local": false,
         "name": "Sky Blue (feat. Sarob)",
         "popularity": 0,
-        "uri": "spotify:track:1NYCWgdqM0VfjTct26wgk6",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1NYCWgdqM0VfjTct26wgk6"
       },
       "video_thumbnail": { "url": null }
     },
@@ -543,16 +543,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f42dcc267eac7dd43812ae7abab7c74e889b2a22?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -575,23 +583,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -605,19 +599,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 6,
         "duration_ms": 269449,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790817" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6igbQig90N2r3qY3P7ckE5"
         },
         "href": "https://api.spotify.com/v1/tracks/6igbQig90N2r3qY3P7ckE5",
         "id": "6igbQig90N2r3qY3P7ckE5",
+        "is_local": false,
         "name": "Phillip's Bicycle (Dan Sagher Remix)",
         "popularity": 0,
-        "uri": "spotify:track:6igbQig90N2r3qY3P7ckE5",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6igbQig90N2r3qY3P7ckE5"
       },
       "video_thumbnail": { "url": null }
     },
@@ -635,16 +635,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e05b3d53fa5ca73369f8d131f2b4c6e0d43213c5?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
+          },
           "href": "https://api.spotify.com/v1/albums/4C8N7CNXxVSgDd0lagxarE",
           "id": "4C8N7CNXxVSgDd0lagxarE",
           "images": [
@@ -667,23 +675,9 @@
           "name": "One, Violet",
           "release_date": "2017-09-18",
           "release_date_precision": "day",
-          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4C8N7CNXxVSgDd0lagxarE"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:4C8N7CNXxVSgDd0lagxarE"
         },
         "artists": [
           {
@@ -697,19 +691,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 7,
         "duration_ms": 182625,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "TCADG1790818" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0BX1ByR3fVkgQ9fOydt9tj"
         },
         "href": "https://api.spotify.com/v1/tracks/0BX1ByR3fVkgQ9fOydt9tj",
         "id": "0BX1ByR3fVkgQ9fOydt9tj",
+        "is_local": false,
         "name": "Art History, Pt. 1",
         "popularity": 0,
-        "uri": "spotify:track:0BX1ByR3fVkgQ9fOydt9tj",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0BX1ByR3fVkgQ9fOydt9tj"
       },
       "video_thumbnail": { "url": null }
     },
@@ -727,16 +727,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9fb4521bd25a848b5ef2d16f9d2ef6d143904e23?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -759,23 +767,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -789,19 +783,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 174090,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZDA61849931" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/18vu0Yh3nio1TtVPI1ZFLc"
         },
         "href": "https://api.spotify.com/v1/tracks/18vu0Yh3nio1TtVPI1ZFLc",
         "id": "18vu0Yh3nio1TtVPI1ZFLc",
+        "is_local": false,
         "name": "Leaves (Reboot)",
         "popularity": 1,
-        "uri": "spotify:track:18vu0Yh3nio1TtVPI1ZFLc",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:18vu0Yh3nio1TtVPI1ZFLc"
       },
       "video_thumbnail": { "url": null }
     },
@@ -819,16 +819,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d6366c39a7c81243063b159f357bc8ed7d6a8539?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -851,23 +859,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -881,19 +875,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 206865,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZARB1853314" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5WEOtuxaLsMdQ9h0jXoOPk"
         },
         "href": "https://api.spotify.com/v1/tracks/5WEOtuxaLsMdQ9h0jXoOPk",
         "id": "5WEOtuxaLsMdQ9h0jXoOPk",
+        "is_local": false,
         "name": "U Used To",
         "popularity": 0,
-        "uri": "spotify:track:5WEOtuxaLsMdQ9h0jXoOPk",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5WEOtuxaLsMdQ9h0jXoOPk"
       },
       "video_thumbnail": { "url": null }
     },
@@ -911,16 +911,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/888d23688ba2273ba5cd6d1987a28d2ba1fe8ae6?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -943,23 +951,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -973,19 +967,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 150700,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZDA61849932" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/40Q1BPn4TPv0tEKgsa5kKD"
         },
         "href": "https://api.spotify.com/v1/tracks/40Q1BPn4TPv0tEKgsa5kKD",
         "id": "40Q1BPn4TPv0tEKgsa5kKD",
+        "is_local": false,
         "name": "June",
-        "popularity": 5,
-        "uri": "spotify:track:40Q1BPn4TPv0tEKgsa5kKD",
-        "is_local": false
+        "popularity": 4,
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:40Q1BPn4TPv0tEKgsa5kKD"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1003,16 +1003,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/44faa6ce0214c0f0e9243e6e2768b9c8e6d85361?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -1035,23 +1043,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -1065,19 +1059,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 4,
         "duration_ms": 214076,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZB4J1879089" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/7MYWWWkRBt4LbF9IfZjYaF"
         },
         "href": "https://api.spotify.com/v1/tracks/7MYWWWkRBt4LbF9IfZjYaF",
         "id": "7MYWWWkRBt4LbF9IfZjYaF",
+        "is_local": false,
         "name": "Eight",
         "popularity": 0,
-        "uri": "spotify:track:7MYWWWkRBt4LbF9IfZjYaF",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7MYWWWkRBt4LbF9IfZjYaF"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1095,16 +1095,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/48f44fddd104ea43d8d232cad8ffa17aafdf78ca?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -1127,23 +1135,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -1157,19 +1151,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 5,
         "duration_ms": 120017,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZDA61849933" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/3DWEn047JNtUoJKLmCzFty"
         },
         "href": "https://api.spotify.com/v1/tracks/3DWEn047JNtUoJKLmCzFty",
         "id": "3DWEn047JNtUoJKLmCzFty",
+        "is_local": false,
         "name": "Did Something Change?",
         "popularity": 0,
-        "uri": "spotify:track:3DWEn047JNtUoJKLmCzFty",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3DWEn047JNtUoJKLmCzFty"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1187,16 +1187,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a8fa202e15fd9a0355fb1b1c0156947284e1a7fe?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -1219,23 +1227,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -1249,19 +1243,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 6,
         "duration_ms": 157246,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QZDA61849934" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1v0KdOaCqAejvmhzdXsgY2"
         },
         "href": "https://api.spotify.com/v1/tracks/1v0KdOaCqAejvmhzdXsgY2",
         "id": "1v0KdOaCqAejvmhzdXsgY2",
+        "is_local": false,
         "name": "Busbeat",
         "popularity": 0,
-        "uri": "spotify:track:1v0KdOaCqAejvmhzdXsgY2",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1v0KdOaCqAejvmhzdXsgY2"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1279,16 +1279,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/229f1117c7616ec30372a763c280c2a3a5ba4853?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
+          },
           "href": "https://api.spotify.com/v1/albums/2OmSVnnY8kVtpzwHv0quWP",
           "id": "2OmSVnnY8kVtpzwHv0quWP",
           "images": [
@@ -1311,23 +1319,9 @@
           "name": "Two, Moonlight",
           "release_date": "2018-07-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2OmSVnnY8kVtpzwHv0quWP"
-          },
-          "total_tracks": 7
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:2OmSVnnY8kVtpzwHv0quWP"
         },
         "artists": [
           {
@@ -1341,19 +1335,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 7,
         "duration_ms": 203076,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "QM4DW1850623" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6IGejZNdxjCsWQumaHD6LE"
         },
         "href": "https://api.spotify.com/v1/tracks/6IGejZNdxjCsWQumaHD6LE",
         "id": "6IGejZNdxjCsWQumaHD6LE",
+        "is_local": false,
         "name": "Bookstore Girl",
         "popularity": 9,
-        "uri": "spotify:track:6IGejZNdxjCsWQumaHD6LE",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6IGejZNdxjCsWQumaHD6LE"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1371,16 +1371,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/6636c530218bf57dc1bfcd5511cda7314b91ed4c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1403,23 +1411,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1433,19 +1427,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 1,
         "duration_ms": 207064,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833054" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4PjKEXp7y8XM6ELUpdpJCm"
         },
         "href": "https://api.spotify.com/v1/tracks/4PjKEXp7y8XM6ELUpdpJCm",
         "id": "4PjKEXp7y8XM6ELUpdpJCm",
+        "is_local": false,
         "name": "Fever",
         "popularity": 0,
-        "uri": "spotify:track:4PjKEXp7y8XM6ELUpdpJCm",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4PjKEXp7y8XM6ELUpdpJCm"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1463,16 +1463,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5b71236ad4613e4420db74bbb979b042d2b1988f?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1495,23 +1503,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1525,19 +1519,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 2,
         "duration_ms": 213232,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1827045" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/50QNpowB5bvfcMobBJ9Vb6"
         },
         "href": "https://api.spotify.com/v1/tracks/50QNpowB5bvfcMobBJ9Vb6",
         "id": "50QNpowB5bvfcMobBJ9Vb6",
+        "is_local": false,
         "name": "To Dance Is To Love",
         "popularity": 0,
-        "uri": "spotify:track:50QNpowB5bvfcMobBJ9Vb6",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:50QNpowB5bvfcMobBJ9Vb6"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1555,16 +1555,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e88c21f85ae0101c2ea968fcf46b8351349225b7?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1587,23 +1595,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1617,19 +1611,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 3,
         "duration_ms": 155366,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833055" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2DQeYcaxKJoQLcdHOOWF3C"
         },
         "href": "https://api.spotify.com/v1/tracks/2DQeYcaxKJoQLcdHOOWF3C",
         "id": "2DQeYcaxKJoQLcdHOOWF3C",
+        "is_local": false,
         "name": "Moog Jam 1",
         "popularity": 0,
-        "uri": "spotify:track:2DQeYcaxKJoQLcdHOOWF3C",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2DQeYcaxKJoQLcdHOOWF3C"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1647,16 +1647,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ea255459bec3d12b5d72dbdb7db44310388cc1d9?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1679,23 +1687,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1709,19 +1703,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 4,
         "duration_ms": 276428,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833059" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2axCv8zPl7fMCjl8IARZZh"
         },
         "href": "https://api.spotify.com/v1/tracks/2axCv8zPl7fMCjl8IARZZh",
         "id": "2axCv8zPl7fMCjl8IARZZh",
+        "is_local": false,
         "name": "Saturday Hymnal / Bad Dreams",
         "popularity": 0,
-        "uri": "spotify:track:2axCv8zPl7fMCjl8IARZZh",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2axCv8zPl7fMCjl8IARZZh"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1739,16 +1739,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/dc831971856f185662a9c3a073c400b16642cde4?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1771,23 +1779,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1811,19 +1805,25 @@
             "uri": "spotify:artist:4NNslFqwFLMsVfeAWfGryM"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 5,
         "duration_ms": 208214,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833056" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/7JVktlIFf5nHRVln3Z2SMv"
         },
         "href": "https://api.spotify.com/v1/tracks/7JVktlIFf5nHRVln3Z2SMv",
         "id": "7JVktlIFf5nHRVln3Z2SMv",
+        "is_local": false,
         "name": "Avalanche",
         "popularity": 0,
-        "uri": "spotify:track:7JVktlIFf5nHRVln3Z2SMv",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7JVktlIFf5nHRVln3Z2SMv"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1841,16 +1841,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2ba180fc068ada6f88f42886e4afdb5b0df074a8?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1873,23 +1881,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -1903,19 +1897,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 6,
         "duration_ms": 124637,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833058" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/3lshrx31D41Fpkqw2yuyTp"
         },
         "href": "https://api.spotify.com/v1/tracks/3lshrx31D41Fpkqw2yuyTp",
         "id": "3lshrx31D41Fpkqw2yuyTp",
+        "is_local": false,
         "name": "when u were u (interlude)",
         "popularity": 0,
-        "uri": "spotify:track:3lshrx31D41Fpkqw2yuyTp",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3lshrx31D41Fpkqw2yuyTp"
       },
       "video_thumbnail": { "url": null }
     },
@@ -1933,16 +1933,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ebfdb86967aa0a2cf5e4e92e822840d56a704650?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -1965,23 +1973,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -2005,19 +1999,25 @@
             "uri": "spotify:artist:41azuh0IUq4g2UPySoYp8A"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 7,
         "duration_ms": 180261,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833057" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0s58Xx9kQFoujKAuWM5k04"
         },
         "href": "https://api.spotify.com/v1/tracks/0s58Xx9kQFoujKAuWM5k04",
         "id": "0s58Xx9kQFoujKAuWM5k04",
+        "is_local": false,
         "name": "Make You Wait",
         "popularity": 0,
-        "uri": "spotify:track:0s58Xx9kQFoujKAuWM5k04",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0s58Xx9kQFoujKAuWM5k04"
       },
       "video_thumbnail": { "url": null }
     },
@@ -2035,16 +2035,24 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/7d6ceb5f2f90020a76b5d418cc96556814087718?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
         "album": {
-          "available_markets": [],
-          "type": "album",
           "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+              },
+              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
+              "id": "0ubGY2CcC0tvR0eE6hJaT8",
+              "name": "Charlie Burg",
+              "type": "artist",
+              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
+          },
           "href": "https://api.spotify.com/v1/albums/0Raafp0TXbWyaXWBKJDzcu",
           "id": "0Raafp0TXbWyaXWBKJDzcu",
           "images": [
@@ -2067,23 +2075,9 @@
           "name": "Three, Fever",
           "release_date": "2019-01-04",
           "release_date_precision": "day",
-          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-              },
-              "href": "https://api.spotify.com/v1/artists/0ubGY2CcC0tvR0eE6hJaT8",
-              "id": "0ubGY2CcC0tvR0eE6hJaT8",
-              "name": "Charlie Burg",
-              "type": "artist",
-              "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0Raafp0TXbWyaXWBKJDzcu"
-          },
-          "total_tracks": 8
+          "total_tracks": 8,
+          "type": "album",
+          "uri": "spotify:album:0Raafp0TXbWyaXWBKJDzcu"
         },
         "artists": [
           {
@@ -2097,19 +2091,25 @@
             "uri": "spotify:artist:0ubGY2CcC0tvR0eE6hJaT8"
           }
         ],
+        "available_markets": [],
         "disc_number": 1,
-        "track_number": 8,
         "duration_ms": 170896,
+        "episode": false,
+        "explicit": false,
         "external_ids": { "isrc": "GBKPL1833053" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6NyvB37qsS22r8pvf57fRG"
         },
         "href": "https://api.spotify.com/v1/tracks/6NyvB37qsS22r8pvf57fRG",
         "id": "6NyvB37qsS22r8pvf57fRG",
+        "is_local": false,
         "name": "Far From",
         "popularity": 0,
-        "uri": "spotify:track:6NyvB37qsS22r8pvf57fRG",
-        "is_local": false
+        "preview_url": null,
+        "track": true,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6NyvB37qsS22r8pvf57fRG"
       },
       "video_thumbnail": { "url": null }
     }
