@@ -9,6 +9,7 @@
       "genres": [
         "art pop",
         "chamber pop",
+        "dream pop",
         "experimental folk",
         "experimental pop",
         "indie pop"
@@ -404,7 +405,7 @@
         }
       ],
       "name": "Chrisye",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
@@ -539,36 +540,6 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:3MATPJ9tYbcMhw5VOZrRU6"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
-      },
-      "followers": { "href": null, "total": 38662 },
-      "genres": ["nashville indie"],
-      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
-      "id": "3hSFS64223jyO9Ck66rLOf",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
-          "width": 160
-        }
-      ],
-      "name": "Okey Dokey",
-      "popularity": 37,
-      "type": "artist",
-      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
     {
       "external_urls": {
@@ -769,41 +740,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        "spotify": "https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf"
       },
-      "followers": { "href": null, "total": 514986 },
-      "genres": [
-        "chamber pop",
-        "indie rock",
-        "modern folk rock",
-        "philly indie",
-        "pov: indie",
-        "seattle indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
-      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "followers": { "href": null, "total": 38662 },
+      "genres": ["nashville indie"],
+      "href": "https://api.spotify.com/v1/artists/3hSFS64223jyO9Ck66rLOf",
+      "id": "3hSFS64223jyO9Ck66rLOf",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb389c0d8696b536d69be924db",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16b620d7b6744d76c967061d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174389c0d8696b536d69be924db",
+          "url": "https://i.scdn.co/image/ab6761610000517416b620d7b6744d76c967061d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178389c0d8696b536d69be924db",
+          "url": "https://i.scdn.co/image/ab6761610000f17816b620d7b6744d76c967061d",
           "width": 160
         }
       ],
-      "name": "Dr. Dog",
-      "popularity": 62,
+      "name": "Okey Dokey",
+      "popularity": 37,
       "type": "artist",
-      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
+      "uri": "spotify:artist:3hSFS64223jyO9Ck66rLOf"
     },
     {
       "external_urls": {
@@ -894,6 +857,44 @@
       "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:3M8JKaNdIRChzvxVK1XxKm"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+      },
+      "followers": { "href": null, "total": 514986 },
+      "genres": [
+        "chamber pop",
+        "indie rock",
+        "modern folk rock",
+        "philly indie",
+        "pov: indie",
+        "seattle indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb389c0d8696b536d69be924db",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174389c0d8696b536d69be924db",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178389c0d8696b536d69be924db",
+          "width": 160
+        }
+      ],
+      "name": "Dr. Dog",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
     },
     {
       "external_urls": {
@@ -1385,7 +1386,7 @@
         }
       ],
       "name": "Tame Impala",
-      "popularity": 80,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -1548,41 +1549,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-      },
-      "followers": { "href": null, "total": 235040 },
-      "genres": [
-        "chamber pop",
-        "metropopolis",
-        "shimmer pop",
-        "stomp and whittle"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
-      "id": "3LVPGE5jPPwtbGslx07YR0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8152e05472e08bd6a3390c65",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748152e05472e08bd6a3390c65",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788152e05472e08bd6a3390c65",
-          "width": 160
-        }
-      ],
-      "name": "Kishi Bashi",
-      "popularity": 49,
-      "type": "artist",
-      "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
       },
       "followers": { "href": null, "total": 1948168 },
@@ -1617,6 +1583,41 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+      },
+      "followers": { "href": null, "total": 235040 },
+      "genres": [
+        "chamber pop",
+        "metropopolis",
+        "shimmer pop",
+        "stomp and whittle"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
+      "id": "3LVPGE5jPPwtbGslx07YR0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8152e05472e08bd6a3390c65",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748152e05472e08bd6a3390c65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788152e05472e08bd6a3390c65",
+          "width": 160
+        }
+      ],
+      "name": "Kishi Bashi",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
     },
     {
       "external_urls": {
@@ -1829,7 +1830,7 @@
         }
       ],
       "name": "Bing Crosby",
-      "popularity": 69,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S"
     },
@@ -2459,7 +2460,7 @@
         }
       ],
       "name": "Padi",
-      "popularity": 59,
+      "popularity": 58,
       "type": "artist",
       "uri": "spotify:artist:6PL8FkAt5nOZwYpPIhuAJg"
     },
