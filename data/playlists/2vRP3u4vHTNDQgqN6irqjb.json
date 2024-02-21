@@ -53,24 +53,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/7a6266bfe463e1d4dc0ce291310905fdc2bfecee?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": true,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-              },
-              "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
-              "id": "5BvJzeQpmsdsFp4HGUYUEx",
-              "name": "Vampire Weekend",
-              "type": "artist",
-              "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/7JcfNKXoHSaog85a1hd4lx",
           "id": "7JcfNKXoHSaog85a1hd4lx",
           "images": [
@@ -93,9 +85,23 @@
           "name": "Vampire Weekend",
           "release_date": "2008-01-29",
           "release_date_precision": "day",
-          "total_tracks": 11,
-          "type": "album",
-          "uri": "spotify:album:7JcfNKXoHSaog85a1hd4lx"
+          "uri": "spotify:album:7JcfNKXoHSaog85a1hd4lx",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+              },
+              "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+              "id": "5BvJzeQpmsdsFp4HGUYUEx",
+              "name": "Vampire Weekend",
+              "type": "artist",
+              "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+          },
+          "total_tracks": 11
         },
         "artists": [
           {
@@ -109,25 +115,19 @@
             "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 2,
         "duration_ms": 195733,
-        "episode": false,
-        "explicit": true,
         "external_ids": { "isrc": "GBBKS0700526" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2Ml0l8YWJLQhPrRDLpQaDM"
         },
         "href": "https://api.spotify.com/v1/tracks/2Ml0l8YWJLQhPrRDLpQaDM",
         "id": "2Ml0l8YWJLQhPrRDLpQaDM",
-        "is_local": false,
         "name": "Oxford Comma",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:2Ml0l8YWJLQhPrRDLpQaDM"
+        "uri": "spotify:track:2Ml0l8YWJLQhPrRDLpQaDM",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -145,24 +145,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/85280509156c3f6ba4f72d9c25f455f72e9f8240?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-              },
-              "href": "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
-              "id": "2Jv5eshHtLycR6R8KQCdc4",
-              "name": "Grizzly Bear",
-              "type": "artist",
-              "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/6FIFqclBriPCb0SjWDaHIk",
           "id": "6FIFqclBriPCb0SjWDaHIk",
           "images": [
@@ -185,9 +177,23 @@
           "name": "Veckatimest",
           "release_date": "2009-05-24",
           "release_date_precision": "day",
-          "total_tracks": 12,
-          "type": "album",
-          "uri": "spotify:album:6FIFqclBriPCb0SjWDaHIk"
+          "uri": "spotify:album:6FIFqclBriPCb0SjWDaHIk",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
+              "id": "2Jv5eshHtLycR6R8KQCdc4",
+              "name": "Grizzly Bear",
+              "type": "artist",
+              "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+          },
+          "total_tracks": 12
         },
         "artists": [
           {
@@ -201,25 +207,19 @@
             "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 2,
         "duration_ms": 243160,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "GBBPW0900065" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
         },
         "href": "https://api.spotify.com/v1/tracks/0iTpQYzJnYgh7kIxyq8A2O",
         "id": "0iTpQYzJnYgh7kIxyq8A2O",
-        "is_local": false,
         "name": "Two Weeks",
         "popularity": 2,
-        "preview_url": null,
-        "track": true,
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:0iTpQYzJnYgh7kIxyq8A2O"
+        "uri": "spotify:track:0iTpQYzJnYgh7kIxyq8A2O",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -237,24 +237,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/51f9b6a2218009fa259e44b6ba944744f44c0f37?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-              },
-              "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
-              "id": "1xU878Z1QtBldR7ru9owdU",
-              "name": "Phoenix",
-              "type": "artist",
-              "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/6YXmQrXOjJoMheJ2IA5NqK",
           "id": "6YXmQrXOjJoMheJ2IA5NqK",
           "images": [
@@ -277,9 +269,23 @@
           "name": "Wolfgang Amadeus Phoenix",
           "release_date": "2009-01-01",
           "release_date_precision": "day",
-          "total_tracks": 10,
-          "type": "album",
-          "uri": "spotify:album:6YXmQrXOjJoMheJ2IA5NqK"
+          "uri": "spotify:album:6YXmQrXOjJoMheJ2IA5NqK",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+              },
+              "href": "https://api.spotify.com/v1/artists/1xU878Z1QtBldR7ru9owdU",
+              "id": "1xU878Z1QtBldR7ru9owdU",
+              "name": "Phoenix",
+              "type": "artist",
+              "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6YXmQrXOjJoMheJ2IA5NqK"
+          },
+          "total_tracks": 10
         },
         "artists": [
           {
@@ -293,25 +299,19 @@
             "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 2,
         "duration_ms": 193106,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "FR31Q0900002" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5JtPGzRgrWxkXX9LoROq3d"
         },
         "href": "https://api.spotify.com/v1/tracks/5JtPGzRgrWxkXX9LoROq3d",
         "id": "5JtPGzRgrWxkXX9LoROq3d",
-        "is_local": false,
         "name": "1901",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:5JtPGzRgrWxkXX9LoROq3d"
+        "uri": "spotify:track:5JtPGzRgrWxkXX9LoROq3d",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -329,24 +329,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/21f039d00be9b2095417fe1922212d09b2fa9768?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
-              },
-              "href": "https://api.spotify.com/v1/artists/2YKp8Odp8GGbAkVU60Yk2Y",
-              "id": "2YKp8Odp8GGbAkVU60Yk2Y",
-              "name": "Coconut Records",
-              "type": "artist",
-              "uri": "spotify:artist:2YKp8Odp8GGbAkVU60Yk2Y"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3nBX2HMsJZlhcPxdqu2Wjy"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/3nBX2HMsJZlhcPxdqu2Wjy",
           "id": "3nBX2HMsJZlhcPxdqu2Wjy",
           "images": [
@@ -369,9 +361,23 @@
           "name": "Nighttiming",
           "release_date": "2007-04-17",
           "release_date_precision": "day",
-          "total_tracks": 12,
-          "type": "album",
-          "uri": "spotify:album:3nBX2HMsJZlhcPxdqu2Wjy"
+          "uri": "spotify:album:3nBX2HMsJZlhcPxdqu2Wjy",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2YKp8Odp8GGbAkVU60Yk2Y"
+              },
+              "href": "https://api.spotify.com/v1/artists/2YKp8Odp8GGbAkVU60Yk2Y",
+              "id": "2YKp8Odp8GGbAkVU60Yk2Y",
+              "name": "Coconut Records",
+              "type": "artist",
+              "uri": "spotify:artist:2YKp8Odp8GGbAkVU60Yk2Y"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3nBX2HMsJZlhcPxdqu2Wjy"
+          },
+          "total_tracks": 12
         },
         "artists": [
           {
@@ -385,25 +391,19 @@
             "uri": "spotify:artist:2YKp8Odp8GGbAkVU60Yk2Y"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 2,
         "duration_ms": 212114,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "USANG0720002" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1AtnxUR7yOlRsfjzF2kpuv"
         },
         "href": "https://api.spotify.com/v1/tracks/1AtnxUR7yOlRsfjzF2kpuv",
         "id": "1AtnxUR7yOlRsfjzF2kpuv",
-        "is_local": false,
         "name": "West Coast",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 2,
-        "type": "track",
-        "uri": "spotify:track:1AtnxUR7yOlRsfjzF2kpuv"
+        "uri": "spotify:track:1AtnxUR7yOlRsfjzF2kpuv",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -421,247 +421,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-              },
-              "href": "https://api.spotify.com/v1/artists/7gjAu1qr5C2grXeQFFOGeh",
-              "id": "7gjAu1qr5C2grXeQFFOGeh",
-              "name": "Passion Pit",
-              "type": "artist",
-              "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
-            }
-          ],
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-          },
-          "href": "https://api.spotify.com/v1/albums/6H51jH1SuzV6ca1VxW2Tmv",
-          "id": "6H51jH1SuzV6ca1VxW2Tmv",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733437e8bbed340ca556c42c04",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e023437e8bbed340ca556c42c04",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048513437e8bbed340ca556c42c04",
-              "width": 64
-            }
-          ],
-          "name": "Manners",
-          "release_date": "2009",
-          "release_date_precision": "year",
-          "total_tracks": 14,
-          "type": "album",
-          "uri": "spotify:album:6H51jH1SuzV6ca1VxW2Tmv"
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-            },
-            "href": "https://api.spotify.com/v1/artists/7gjAu1qr5C2grXeQFFOGeh",
-            "id": "7gjAu1qr5C2grXeQFFOGeh",
-            "name": "Passion Pit",
-            "type": "artist",
-            "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
-          }
-        ],
+        "preview_url": "https://p.scdn.co/mp3-preview/9510b8a5224df5de6352e9771ff34d448fb65c2d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -848,24 +608,264 @@
           "ET",
           "XK"
         ],
-        "disc_number": 1,
-        "duration_ms": 174760,
-        "episode": false,
         "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/6H51jH1SuzV6ca1VxW2Tmv",
+          "id": "6H51jH1SuzV6ca1VxW2Tmv",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733437e8bbed340ca556c42c04",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e023437e8bbed340ca556c42c04",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048513437e8bbed340ca556c42c04",
+              "width": 64
+            }
+          ],
+          "name": "Manners",
+          "release_date": "2009",
+          "release_date_precision": "year",
+          "uri": "spotify:album:6H51jH1SuzV6ca1VxW2Tmv",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+              },
+              "href": "https://api.spotify.com/v1/artists/7gjAu1qr5C2grXeQFFOGeh",
+              "id": "7gjAu1qr5C2grXeQFFOGeh",
+              "name": "Passion Pit",
+              "type": "artist",
+              "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+            },
+            "href": "https://api.spotify.com/v1/artists/7gjAu1qr5C2grXeQFFOGeh",
+            "id": "7gjAu1qr5C2grXeQFFOGeh",
+            "name": "Passion Pit",
+            "type": "artist",
+            "uri": "spotify:artist:7gjAu1qr5C2grXeQFFOGeh"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 9,
+        "duration_ms": 174760,
         "external_ids": { "isrc": "USSM10901014" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
         },
         "href": "https://api.spotify.com/v1/tracks/4prEPl61C8qZpeo3IkYSMl",
         "id": "4prEPl61C8qZpeo3IkYSMl",
-        "is_local": false,
         "name": "Sleepyhead",
         "popularity": 68,
-        "preview_url": "https://p.scdn.co/mp3-preview/9510b8a5224df5de6352e9771ff34d448fb65c2d?cid=c73100e39ab6406dae4c4479ff75d174",
-        "track": true,
-        "track_number": 9,
-        "type": "track",
-        "uri": "spotify:track:4prEPl61C8qZpeo3IkYSMl"
+        "uri": "spotify:track:4prEPl61C8qZpeo3IkYSMl",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -883,24 +883,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/3afe492f2ee66f7a77041a6a5c2a5f4b523fe3d1?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-              },
-              "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
-              "id": "5BvJzeQpmsdsFp4HGUYUEx",
-              "name": "Vampire Weekend",
-              "type": "artist",
-              "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/7JcfNKXoHSaog85a1hd4lx",
           "id": "7JcfNKXoHSaog85a1hd4lx",
           "images": [
@@ -923,9 +915,23 @@
           "name": "Vampire Weekend",
           "release_date": "2008-01-29",
           "release_date_precision": "day",
-          "total_tracks": 11,
-          "type": "album",
-          "uri": "spotify:album:7JcfNKXoHSaog85a1hd4lx"
+          "uri": "spotify:album:7JcfNKXoHSaog85a1hd4lx",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+              },
+              "href": "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+              "id": "5BvJzeQpmsdsFp4HGUYUEx",
+              "name": "Vampire Weekend",
+              "type": "artist",
+              "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7JcfNKXoHSaog85a1hd4lx"
+          },
+          "total_tracks": 11
         },
         "artists": [
           {
@@ -939,25 +945,19 @@
             "uri": "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 3,
         "duration_ms": 137760,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "GBBKS0700527" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
         },
         "href": "https://api.spotify.com/v1/tracks/1595LW73XBxkRk2ciQOHfr",
         "id": "1595LW73XBxkRk2ciQOHfr",
-        "is_local": false,
         "name": "A-Punk",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 3,
-        "type": "track",
-        "uri": "spotify:track:1595LW73XBxkRk2ciQOHfr"
+        "uri": "spotify:track:1595LW73XBxkRk2ciQOHfr",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -975,24 +975,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/6e8a4504d2a4b0cf92fd19f2807e0179c897a17a?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-              },
-              "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
-              "id": "63MQldklfxkjYDoUE4Tppz",
-              "name": "M83",
-              "type": "artist",
-              "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5lZrn6dy53gXNatTjgiIoi"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/5lZrn6dy53gXNatTjgiIoi",
           "id": "5lZrn6dy53gXNatTjgiIoi",
           "images": [
@@ -1015,9 +1007,23 @@
           "name": "Hurry up, We're Dreaming",
           "release_date": "2011-10-17",
           "release_date_precision": "day",
-          "total_tracks": 22,
-          "type": "album",
-          "uri": "spotify:album:5lZrn6dy53gXNatTjgiIoi"
+          "uri": "spotify:album:5lZrn6dy53gXNatTjgiIoi",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+              },
+              "href": "https://api.spotify.com/v1/artists/63MQldklfxkjYDoUE4Tppz",
+              "id": "63MQldklfxkjYDoUE4Tppz",
+              "name": "M83",
+              "type": "artist",
+              "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5lZrn6dy53gXNatTjgiIoi"
+          },
+          "total_tracks": 22
         },
         "artists": [
           {
@@ -1031,25 +1037,19 @@
             "uri": "spotify:artist:63MQldklfxkjYDoUE4Tppz"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 5,
         "duration_ms": 343253,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "GB55H1100005" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1a2KQq8DqD7jahrPxXJ2FB"
         },
         "href": "https://api.spotify.com/v1/tracks/1a2KQq8DqD7jahrPxXJ2FB",
         "id": "1a2KQq8DqD7jahrPxXJ2FB",
-        "is_local": false,
         "name": "Wait",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 5,
-        "type": "track",
-        "uri": "spotify:track:1a2KQq8DqD7jahrPxXJ2FB"
+        "uri": "spotify:track:1a2KQq8DqD7jahrPxXJ2FB",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -1067,24 +1067,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/8c2d1447b1f425955e56f93bbb427436b28c6bb0?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "single",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-              },
-              "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
-              "id": "16oZKvXb6WkQlVAjwo2Wbg",
-              "name": "The Lumineers",
-              "type": "artist",
-              "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4y1XOlQuM6ZP8n567EO8CI"
-          },
+          "type": "album",
+          "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/4y1XOlQuM6ZP8n567EO8CI",
           "id": "4y1XOlQuM6ZP8n567EO8CI",
           "images": [
@@ -1107,9 +1099,23 @@
           "name": "Ophelia",
           "release_date": "2016-02-05",
           "release_date_precision": "day",
-          "total_tracks": 1,
-          "type": "album",
-          "uri": "spotify:album:4y1XOlQuM6ZP8n567EO8CI"
+          "uri": "spotify:album:4y1XOlQuM6ZP8n567EO8CI",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+              },
+              "href": "https://api.spotify.com/v1/artists/16oZKvXb6WkQlVAjwo2Wbg",
+              "id": "16oZKvXb6WkQlVAjwo2Wbg",
+              "name": "The Lumineers",
+              "type": "artist",
+              "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4y1XOlQuM6ZP8n567EO8CI"
+          },
+          "total_tracks": 1
         },
         "artists": [
           {
@@ -1123,25 +1129,19 @@
             "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 1,
         "duration_ms": 160097,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "USDMG1673802" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0IOFbRuU9O7BsRMVBT6Rbo"
         },
         "href": "https://api.spotify.com/v1/tracks/0IOFbRuU9O7BsRMVBT6Rbo",
         "id": "0IOFbRuU9O7BsRMVBT6Rbo",
-        "is_local": false,
         "name": "Ophelia",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 1,
-        "type": "track",
-        "uri": "spotify:track:0IOFbRuU9O7BsRMVBT6Rbo"
+        "uri": "spotify:track:0IOFbRuU9O7BsRMVBT6Rbo",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -1159,24 +1159,16 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/38a03366c61a29efe1080c624da4f5ab4f0f12ea?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
         "album": {
-          "album_type": "album",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-              },
-              "href": "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
-              "id": "2Jv5eshHtLycR6R8KQCdc4",
-              "name": "Grizzly Bear",
-              "type": "artist",
-              "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
-            }
-          ],
           "available_markets": [],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
-          },
+          "type": "album",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/57LAEzKL94ZHwbIkUWYCDY",
           "id": "57LAEzKL94ZHwbIkUWYCDY",
           "images": [
@@ -1199,9 +1191,23 @@
           "name": "Shields",
           "release_date": "2012-09-17",
           "release_date_precision": "day",
-          "total_tracks": 10,
-          "type": "album",
-          "uri": "spotify:album:57LAEzKL94ZHwbIkUWYCDY"
+          "uri": "spotify:album:57LAEzKL94ZHwbIkUWYCDY",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+              },
+              "href": "https://api.spotify.com/v1/artists/2Jv5eshHtLycR6R8KQCdc4",
+              "id": "2Jv5eshHtLycR6R8KQCdc4",
+              "name": "Grizzly Bear",
+              "type": "artist",
+              "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
+          },
+          "total_tracks": 10
         },
         "artists": [
           {
@@ -1215,25 +1221,19 @@
             "uri": "spotify:artist:2Jv5eshHtLycR6R8KQCdc4"
           }
         ],
-        "available_markets": [],
         "disc_number": 1,
+        "track_number": 4,
         "duration_ms": 318423,
-        "episode": false,
-        "explicit": false,
         "external_ids": { "isrc": "GBBPW1200144" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
         },
         "href": "https://api.spotify.com/v1/tracks/202QyrB6Q3Kimsr7KqJut3",
         "id": "202QyrB6Q3Kimsr7KqJut3",
-        "is_local": false,
         "name": "Yet Again",
         "popularity": 0,
-        "preview_url": null,
-        "track": true,
-        "track_number": 4,
-        "type": "track",
-        "uri": "spotify:track:202QyrB6Q3Kimsr7KqJut3"
+        "uri": "spotify:track:202QyrB6Q3Kimsr7KqJut3",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     }
