@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MCwwMDAwMDAwMDEzOGUxOWQzMDZiYTFiNzQzZmYwOTJmMGUzZjBiOGM3",
+  "snapshot_id": "MCwwMDAwMDAwMDgzMzViZTQ0M2RjZWVjYzU3NDgyMjI4NDUyZDhlZTVi",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZEVXbh8cozcsUBcn",
   "tracks": [
@@ -189,7 +189,7 @@
         "href": "https://api.spotify.com/v1/tracks/7CNrcHWQCp5g3065dHy4gn",
         "id": "7CNrcHWQCp5g3065dHy4gn",
         "name": "Boku wa chotto",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:7CNrcHWQCp5g3065dHy4gn",
         "is_local": false
       },
@@ -649,7 +649,7 @@
         "href": "https://api.spotify.com/v1/tracks/5y6psYdUSjFFVTGcN5YqmE",
         "id": "5y6psYdUSjFFVTGcN5YqmE",
         "name": "Is There Still a Light On?",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:5y6psYdUSjFFVTGcN5YqmE",
         "is_local": false
       },
@@ -1149,7 +1149,7 @@
         "href": "https://api.spotify.com/v1/tracks/3hQBcx9u1iWoc1y8rGn2D2",
         "id": "3hQBcx9u1iWoc1y8rGn2D2",
         "name": "let's go outside",
-        "popularity": 30,
+        "popularity": 31,
         "uri": "spotify:track:3hQBcx9u1iWoc1y8rGn2D2",
         "is_local": false
       },
@@ -1167,7 +1167,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9ffa21b1208b9972b0637bb68911eb2c926355ff?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/ada66ec8711dae91fb4755b132afbb5237bd159c?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -1546,30 +1546,30 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4dJvBAUQOaaCpRqsECRooa",
-          "id": "4dJvBAUQOaaCpRqsECRooa",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/3QUPigEo0MoAsxxRDe3JOk",
+          "id": "3QUPigEo0MoAsxxRDe3JOk",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731fd336bd388a632180e721d8",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bacff70feab93386e4424f60",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021fd336bd388a632180e721d8",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bacff70feab93386e4424f60",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511fd336bd388a632180e721d8",
+              "url": "https://i.scdn.co/image/ab67616d00004851bacff70feab93386e4424f60",
               "width": 64
             }
           ],
-          "name": "Loss Of Life",
-          "release_date": "2024-02-23",
+          "name": "Dancing In Babylon (feat. Christine and the Queens)",
+          "release_date": "2024-02-20",
           "release_date_precision": "day",
-          "uri": "spotify:album:4dJvBAUQOaaCpRqsECRooa",
+          "uri": "spotify:album:3QUPigEo0MoAsxxRDe3JOk",
           "artists": [
             {
               "external_urls": {
@@ -1580,12 +1580,22 @@
               "name": "MGMT",
               "type": "artist",
               "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+              },
+              "href": "https://api.spotify.com/v1/artists/04vj3iPUiVh5melWr0w3xT",
+              "id": "04vj3iPUiVh5melWr0w3xT",
+              "name": "Christine and the Queens",
+              "type": "artist",
+              "uri": "spotify:artist:04vj3iPUiVh5melWr0w3xT"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4dJvBAUQOaaCpRqsECRooa"
+            "spotify": "https://open.spotify.com/album/3QUPigEo0MoAsxxRDe3JOk"
           },
-          "total_tracks": 10
+          "total_tracks": 4
         },
         "artists": [
           {
@@ -1610,17 +1620,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 3,
+        "track_number": 1,
         "duration_ms": 292093,
         "external_ids": { "isrc": "USQE92300111" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6c4IBaa5opgDKC5mVQEauZ"
+          "spotify": "https://open.spotify.com/track/6QybVJMtaDCJjl2vPR2DcA"
         },
-        "href": "https://api.spotify.com/v1/tracks/6c4IBaa5opgDKC5mVQEauZ",
-        "id": "6c4IBaa5opgDKC5mVQEauZ",
+        "href": "https://api.spotify.com/v1/tracks/6QybVJMtaDCJjl2vPR2DcA",
+        "id": "6QybVJMtaDCJjl2vPR2DcA",
         "name": "Dancing In Babylon (feat. Christine and the Queens)",
-        "popularity": 60,
-        "uri": "spotify:track:6c4IBaa5opgDKC5mVQEauZ",
+        "popularity": 61,
+        "uri": "spotify:track:6QybVJMtaDCJjl2vPR2DcA",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -2079,7 +2089,7 @@
         "href": "https://api.spotify.com/v1/tracks/7imOAndfZs5cg5vJjhUa0u",
         "id": "7imOAndfZs5cg5vJjhUa0u",
         "name": "Chances",
-        "popularity": 48,
+        "popularity": 50,
         "uri": "spotify:track:7imOAndfZs5cg5vJjhUa0u",
         "is_local": false
       },
@@ -2539,7 +2549,7 @@
         "href": "https://api.spotify.com/v1/tracks/6QQXWbEetUBr0tMeYeoZxE",
         "id": "6QQXWbEetUBr0tMeYeoZxE",
         "name": "Young Bloods",
-        "popularity": 16,
+        "popularity": 18,
         "uri": "spotify:track:6QQXWbEetUBr0tMeYeoZxE",
         "is_local": false
       },
@@ -3017,7 +3027,7 @@
         "href": "https://api.spotify.com/v1/tracks/5JfLK7hYOhU3fj2xCxEKQ5",
         "id": "5JfLK7hYOhU3fj2xCxEKQ5",
         "name": "Getaway (feat. Phum Viphurit)",
-        "popularity": 52,
+        "popularity": 53,
         "uri": "spotify:track:5JfLK7hYOhU3fj2xCxEKQ5",
         "is_local": false
       },
@@ -3495,7 +3505,7 @@
         "href": "https://api.spotify.com/v1/tracks/3xE65V7CCWtG368398YXVh",
         "id": "3xE65V7CCWtG368398YXVh",
         "name": "Them There Eyes",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:3xE65V7CCWtG368398YXVh",
         "is_local": false
       },
@@ -3975,7 +3985,7 @@
         "href": "https://api.spotify.com/v1/tracks/1G3YNvpDh4c3rnNWRxHaq8",
         "id": "1G3YNvpDh4c3rnNWRxHaq8",
         "name": "What Would You Do For Love",
-        "popularity": 35,
+        "popularity": 36,
         "uri": "spotify:track:1G3YNvpDh4c3rnNWRxHaq8",
         "is_local": false
       },
@@ -4433,7 +4443,7 @@
         "href": "https://api.spotify.com/v1/tracks/4fqNoM2d2URotMit7GlmlI",
         "id": "4fqNoM2d2URotMit7GlmlI",
         "name": "Flowers",
-        "popularity": 50,
+        "popularity": 52,
         "uri": "spotify:track:4fqNoM2d2URotMit7GlmlI",
         "is_local": false
       },
@@ -4893,7 +4903,7 @@
         "href": "https://api.spotify.com/v1/tracks/6hlW7eGdMjT6H3eCdGjjaQ",
         "id": "6hlW7eGdMjT6H3eCdGjjaQ",
         "name": "Greener Grass",
-        "popularity": 10,
+        "popularity": 11,
         "uri": "spotify:track:6hlW7eGdMjT6H3eCdGjjaQ",
         "is_local": false
       },
@@ -5813,7 +5823,7 @@
         "href": "https://api.spotify.com/v1/tracks/1CK6BGIVMgf1NrPzRTGW4o",
         "id": "1CK6BGIVMgf1NrPzRTGW4o",
         "name": "Habitual",
-        "popularity": 25,
+        "popularity": 27,
         "uri": "spotify:track:1CK6BGIVMgf1NrPzRTGW4o",
         "is_local": false
       },
@@ -6273,7 +6283,7 @@
         "href": "https://api.spotify.com/v1/tracks/1VJPUoakq2ro6GijcVRE6F",
         "id": "1VJPUoakq2ro6GijcVRE6F",
         "name": "Everywhere",
-        "popularity": 24,
+        "popularity": 25,
         "uri": "spotify:track:1VJPUoakq2ro6GijcVRE6F",
         "is_local": false
       },
@@ -6743,7 +6753,7 @@
         "href": "https://api.spotify.com/v1/tracks/0mbLSX5Rs08lBvegcH6RcW",
         "id": "0mbLSX5Rs08lBvegcH6RcW",
         "name": "Butterfly Net (feat. Weyes Blood)",
-        "popularity": 37,
+        "popularity": 39,
         "uri": "spotify:track:0mbLSX5Rs08lBvegcH6RcW",
         "is_local": false
       },
