@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 158,
+  "total_episodes": 159,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/60I8i40sFpX2jMOVpCT7Bq/clip_430050_482600.mp3",
+      "description": "PyCon US 2024Python Software Foundation DjangoCon US 2023: Meet-ups: A Grand Vision for a Humble Endeavor PyCon US 2023 Keynote Speaker - Deb Nicholson: Community Service Awards & Python Software Foundation Update EU’s Cyber Resilience Act Passes with Wins for Open Source Announcing the Deputy Developer in Residence and the Supporting Developer in Residence How to become a CNAOur new comms person!Python Software Foundation Newsletter Sign-up ### Support the Show* [LearnDjango.com](http://learndjango.com)* [Button](https://btn.dev/)* [Django News newsletter](https://django-news.com)",
+      "duration_ms": 3953031,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4irVYvvtw9opoqXjJXUmQE"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4irVYvvtw9opoqXjJXUmQE",
+      "html_description": "<ul><li><a href=\"https://us.pycon.org/2024/\" rel=\"nofollow\">PyCon US 2024</a></li><li><a href=\"https://www.python.org/\" rel=\"nofollow\">Python Software Foundation</a> </li><li><a href=\"https://youtu.be/JLuXMxqhUVQ?si&#61;H6wwmslH1bfsLXvh\" rel=\"nofollow\">DjangoCon US 2023: Meet-ups: A Grand Vision for a Humble Endeavor</a> </li><li><a href=\"https://youtu.be/NZhHFDbul8g?si&#61;hYt1z-jZ4-0-1qbO\" rel=\"nofollow\">PyCon US 2023 Keynote Speaker - Deb Nicholson: Community Service Awards &amp; Python Software Foundation Update</a> </li><li><a href=\"https://pyfound.blogspot.com/2024/01/CRA-update.html\" rel=\"nofollow\">EU’s Cyber Resilience Act Passes with Wins for Open Source</a> </li><li><a href=\"https://pyfound.blogspot.com/2024/01/announcing-deputy-developer-in.html\" rel=\"nofollow\">Announcing the Deputy Developer in Residence and the Supporting Developer in Residence</a> </li><li><a href=\"https://sethmlarson.dev/security-developer-in-residence-weekly-report-17\" rel=\"nofollow\">How to become a CNA</a></li><li><a href=\"https://pyfound.blogspot.com/2023/10/announcing-community-communications-mgr.html\" rel=\"nofollow\">Our new comms person!</a></li><li><a href=\"https://www.python.org/psf/newsletter/\" rel=\"nofollow\">Python Software Foundation Newsletter Sign-up</a></li></ul><br/><p></p><p>### Support the Show</p><p>* [LearnDjango.com](http://learndjango.com)</p><p>* [Button](https://btn.dev/)</p><p>* [Django News newsletter](https://django-news.com)</p>",
+      "id": "4irVYvvtw9opoqXjJXUmQE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "The Future of Python - Deb Nicholson",
+      "release_date": "2024-03-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4irVYvvtw9opoqXjJXUmQE"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7CHlftMm5TdhF3rc4ziSdI/clip_2042300_2106800.mp3",
       "description": "pinplanet - a free app to pin where you’ve beenGeoDjango docs Python Data Science Handbook KotlinKtor django-imagefield  ### Support the Show* [LearnDjango.com](http://learndjango.com)* [Button](https://btn.dev/)* [Django News newsletter](https://django-news.com)",
@@ -746,7 +785,7 @@
       "name": "Boost Your Django DX - Adam Johnson (Ep105 Replay)",
       "release_date": "2023-08-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2s4jiWdyVSL2U6Ds6Ze0bJ"
     },
@@ -785,7 +824,7 @@
       "name": "Django Deployments - Eric Matthes (Ep108 Replay)",
       "release_date": "2023-07-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3KKZ23X3ky3zMWVxuzhP1G"
     },
@@ -902,7 +941,7 @@
       "name": "Django Co-Creator - Simon Willison (Ep 21 Replay)",
       "release_date": "2023-06-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:75JQjbj9vtDFM4m2WFKjux"
     },
@@ -4178,7 +4217,7 @@
       "name": "Google Summer of Code - Sage Abdullah",
       "release_date": "2020-03-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Q3dW74Y85mp51srWJOLbz"
     },
@@ -5153,7 +5192,7 @@
       "name": "Django 3.0 Preview",
       "release_date": "2019-09-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 1069000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4F4cZBlRBxDasNm2QgiQcR"
     },
@@ -5192,7 +5231,7 @@
       "name": "Learning to Love Django Tests - Lacey Williams Henschel",
       "release_date": "2019-09-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4fFaTxCdd9x9tIqM1h5aKD"
     },
@@ -5309,7 +5348,7 @@
       "name": "MySQL & Security - Adam Johnson",
       "release_date": "2019-08-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 2612000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2FvuZQQlTIx7AdejiCc0Wi"
     },
@@ -5348,7 +5387,7 @@
       "name": "Community & Inclusion - Kojo Idrissa",
       "release_date": "2019-08-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Hm7oyB378jlSRUaXWIukW"
     },
@@ -6089,7 +6128,7 @@
       "name": "Django Fellow - Tim Graham",
       "release_date": "2019-04-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5malqBhcSJ0a96Q46DAGQd"
     },
@@ -6323,7 +6362,7 @@
       "name": "What is Django?",
       "release_date": "2019-03-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6tKWl4l1zxjKK3vkJvMBLn"
     },
@@ -6362,7 +6401,7 @@
       "name": "Preview",
       "release_date": "2019-02-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 40000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:740GUKXl3jpwYTiOTHdbm0"
     }
