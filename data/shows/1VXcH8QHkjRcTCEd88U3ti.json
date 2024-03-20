@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/58NKkBjMaK8MZgwjhZtJch/clip_279900_334500.mp3",
+      "description": "Singer-songwriter Mike Posner took a break from his music to take a walk — a very long walk, across the entire United States. He shares five lessons he learned from his epic, eventful trek (snakes might be involved) and how it helped him find the key to happiness. (He also performs two hit songs: \"I Took a Pill in Ibiza\" and \"Could You Do the Same.\")",
+      "duration_ms": 1058964,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/69CDuUa3UEW8ewpHjG2trP"
+      },
+      "href": "https://api.spotify.com/v1/episodes/69CDuUa3UEW8ewpHjG2trP",
+      "html_description": "<p>Singer-songwriter Mike Posner took a break from his music to take a walk — a very long walk, across the entire United States. He shares five lessons he learned from his epic, eventful trek (snakes might be involved) and how it helped him find the key to happiness. (He also performs two hit songs: &#34;I Took a Pill in Ibiza&#34; and &#34;Could You Do the Same.&#34;)</p>",
+      "id": "69CDuUa3UEW8ewpHjG2trP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a388147c72256b6dbd443b019",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f388147c72256b6dbd443b019",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d388147c72256b6dbd443b019",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "5 lessons on happiness — from pop fame to poisonous snakes | Mike Posner",
+      "release_date": "2024-03-19",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:69CDuUa3UEW8ewpHjG2trP"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Gdl5K1DhcF9pjpopTPuG3/clip_143300_209000.mp3",
       "description": "Chantale Zuzi Leader is one of the millions of displaced people around the world. In a deeply moving talk, she reflects on losing her family, home and sense of safety — only to break through and ultimately find community and hope. It's an astounding story of resilience that speaks to today's refugee crisis.",
       "duration_ms": 726924,
@@ -6756,45 +6795,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5E0Hw5uyy1VUVLNn9F4TvD"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7lyW2zzG5YYsceC5lLweyc/clip_132400_177600.mp3",
-      "description": "From the evolutionary advances in the Cambrian period to today's computing revolution, theoretical biologist Stuart Kauffman believes he can explain the trend of explosive growth after periods of stability with his theory of the \"adjacent possible.\" Tracing the arc of human history through the tools and technologies we've invented, he explains the impact human ingenuity has had on the planet -- and calls for a shift towards more protection for all life on Earth.",
-      "duration_ms": 746748,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6QLgUrOlpyZqVRWx9WM3rr"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6QLgUrOlpyZqVRWx9WM3rr",
-      "html_description": "<p>From the evolutionary advances in the Cambrian period to today&#39;s computing revolution, theoretical biologist Stuart Kauffman believes he can explain the trend of explosive growth after periods of stability with his theory of the &#34;adjacent possible.&#34; Tracing the arc of human history through the tools and technologies we&#39;ve invented, he explains the impact human ingenuity has had on the planet -- and calls for a shift towards more protection for all life on Earth.</p>",
-      "id": "6QLgUrOlpyZqVRWx9WM3rr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a8107c8dfb82b0a08aa1ba9ca",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f8107c8dfb82b0a08aa1ba9ca",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d8107c8dfb82b0a08aa1ba9ca",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The \"adjacent possible\" -- and how it explains human innovation | Stuart Kauffman",
-      "release_date": "2023-08-25",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6QLgUrOlpyZqVRWx9WM3rr"
     }
   ]
 }
