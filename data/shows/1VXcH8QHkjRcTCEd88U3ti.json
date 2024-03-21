@@ -206,6 +206,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Iu27V4Njhtt6sU9NK6zJx/clip_276899_326527.mp3",
+      "description": "As companies introduce AI into the workplace to increase productivity, an uncomfortable paradox is emerging: people are often responsible for training the very systems that might displace them. AI ethics advocate Madison Mohns presents three leadership principles to embrace technological progress while prioritizing your coworkers' well-being — paving the way for a future where AI enhances human potential.",
+      "duration_ms": 608868,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6SkafUvzkx7CrWbpE32ODb"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6SkafUvzkx7CrWbpE32ODb",
+      "html_description": "<p>As companies introduce AI into the workplace to increase productivity, an uncomfortable paradox is emerging: people are often responsible for training the very systems that might displace them. AI ethics advocate Madison Mohns presents three leadership principles to embrace technological progress while prioritizing your coworkers&#39; well-being — paving the way for a future where AI enhances human potential.</p>",
+      "id": "6SkafUvzkx7CrWbpE32ODb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a595f061c798a97832cbf62b4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f595f061c798a97832cbf62b4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d595f061c798a97832cbf62b4",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "3 ways to use AI without replacing your coworkers | Madison Mohns",
+      "release_date": "2024-03-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6SkafUvzkx7CrWbpE32ODb"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/58NKkBjMaK8MZgwjhZtJch/clip_279900_334500.mp3",
       "description": "Singer-songwriter Mike Posner took a break from his music to take a walk — a very long walk, across the entire United States. He shares five lessons he learned from his epic, eventful trek (snakes might be involved) and how it helped him find the key to happiness. (He also performs two hit songs: \"I Took a Pill in Ibiza\" and \"Could You Do the Same.\")",
       "duration_ms": 1058964,
@@ -6756,45 +6795,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1t3geoewgoKrirxARq77I5"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5aoTTHgArn3iXpZAOXixsB/clip_643300_697500.mp3",
-      "description": "Technologist Yat Siu believes the \"open metaverse\" -- a decentralized version of the internet also known as web3 -- is laying the foundation for a freer, fairer, more prosperous society. In a future-focused talk, he explores the transformative possibilities of web3, from enabling digital ownership and the creator economy to providing a much-needed update to capitalism.",
-      "duration_ms": 721284,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5E0Hw5uyy1VUVLNn9F4TvD"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5E0Hw5uyy1VUVLNn9F4TvD",
-      "html_description": "<p>Technologist Yat Siu believes the &#34;open metaverse&#34; -- a decentralized version of the internet also known as web3 -- is laying the foundation for a freer, fairer, more prosperous society. In a future-focused talk, he explores the transformative possibilities of web3, from enabling digital ownership and the creator economy to providing a much-needed update to capitalism.</p>",
-      "id": "5E0Hw5uyy1VUVLNn9F4TvD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a4352a5b4fb9130b201f65b4d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f4352a5b4fb9130b201f65b4d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d4352a5b4fb9130b201f65b4d",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The dream of digital ownership, powered by the metaverse | Yat Siu",
-      "release_date": "2023-08-28",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5E0Hw5uyy1VUVLNn9F4TvD"
     }
   ]
 }

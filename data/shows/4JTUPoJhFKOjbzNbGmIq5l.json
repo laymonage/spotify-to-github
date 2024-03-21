@@ -200,10 +200,49 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 159,
+  "total_episodes": 160,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2N1MZ1DNfnTRCeMnEvmu2b/clip_205500_255100.mp3",
+      "description": "Jacob’s personal site Latacora PyCon 2017: Let’s Build a Web Framework! Producing Open Source Software bookPyCon 2015: Keynote  PyCon 2019: Assets in Django without Losing Your Hair DjangoCon Europe 2014: Django Without DjangoDjangoCon 2018 Keynote: Adrian Holovaty and Jacob Kaplan-Moss PyCon Canada 2013: Python is Everywhere Snakes and Rubies django-template-partialsInformal roadmap & retrospective workshops for Django Deno  django-simple-deploy  Support the ShowLearnDjango.comButtonDjango News newsletter",
+      "duration_ms": 4162560,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7gbwObTYq9EpEYNrU7k1yL"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7gbwObTYq9EpEYNrU7k1yL",
+      "html_description": "<ul><li><a href=\"https://jacobian.org/\" rel=\"nofollow\">Jacob’s personal site</a> </li><li><a href=\"https://www.latacora.com/\" rel=\"nofollow\">Latacora</a> </li><li><a href=\"https://www.youtube.com/watch?v&#61;7kwnjoAJ2HQ\" rel=\"nofollow\">PyCon 2017: Let’s Build a Web Framework!</a> </li><li><a href=\"https://producingoss.com/\" rel=\"nofollow\">Producing Open Source Software book</a></li><li><a href=\"https://youtu.be/hIJdFxYlEKE?si&#61;_ag34lWHxAlHyjMS\" rel=\"nofollow\">PyCon 2015: Keynote</a>  </li><li><a href=\"https://youtu.be/E613X3RBegI?si&#61;z-QFrD4NovbdhWRM\" rel=\"nofollow\">PyCon 2019: Assets in Django without Losing Your Hair</a> </li><li><a href=\"https://youtu.be/aFRH-oHcbn8?si&#61;wh_qV425gqtBl1I5\" rel=\"nofollow\">DjangoCon Europe 2014: Django Without Django</a></li><li><a href=\"https://youtu.be/UZCfK8pVztw?si&#61;9X2E5EYu-H-f__Di\" rel=\"nofollow\">DjangoCon 2018 Keynote: Adrian Holovaty and Jacob Kaplan-Moss</a> </li><li><a href=\"https://youtu.be/UKAkKXFMQP8?si&#61;dZFeMknGDEcFXWLC\" rel=\"nofollow\">PyCon Canada 2013: Python is Everywhere</a> </li><li><a href=\"https://www.youtube.com/watch?v&#61;cb9KDt9aXc8&amp;t&#61;1s&amp;pp&#61;ygURc25ha2VzIGFuZCBydWJpZXM%3D\" rel=\"nofollow\">Snakes and Rubies</a> </li><li><a href=\"https://github.com/carltongibson/django-template-partials\" rel=\"nofollow\">django-template-partials</a></li><li><a href=\"https://forum.djangoproject.com/t/informal-roadmap-retrospective-workshops-for-django/26835/27\" rel=\"nofollow\">Informal roadmap &amp; retrospective workshops for Django</a> </li><li><a href=\"https://deno.com/\" rel=\"nofollow\">Deno</a>  </li><li><a href=\"https://github.com/ehmatthes/django-simple-deploy\" rel=\"nofollow\">django-simple-deploy</a> </li></ul><br/><p></p><h3>Support the Show</h3><ul><li>LearnDjango.com</li><li><a href=\"https://btn.dev/\" rel=\"nofollow\">Button</a></li><li><a href=\"https://django-news.com\" rel=\"nofollow\">Django News newsletter</a></li></ul>",
+      "id": "7gbwObTYq9EpEYNrU7k1yL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/0740f83a2f411b102b633694a13822eed52c4341",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/52e112ebc1f44a9fb43a9d8b0a45c5b95d433cec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/5cc02d4dd832267ef4e1a63c22c60c438db5b3aa",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django’s Evolution - Jacob Kaplan-Moss",
+      "release_date": "2024-03-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7gbwObTYq9EpEYNrU7k1yL"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/60I8i40sFpX2jMOVpCT7Bq/clip_430050_482600.mp3",
       "description": "PyCon US 2024Python Software Foundation DjangoCon US 2023: Meet-ups: A Grand Vision for a Humble Endeavor PyCon US 2023 Keynote Speaker - Deb Nicholson: Community Service Awards & Python Software Foundation Update EU’s Cyber Resilience Act Passes with Wins for Open Source Announcing the Deputy Developer in Residence and the Supporting Developer in Residence How to become a CNAOur new comms person!Python Software Foundation Newsletter Sign-up Support the ShowLearnDjango.comButtonDjango News newsletter",
@@ -785,7 +824,7 @@
       "name": "Boost Your Django DX - Adam Johnson (Ep105 Replay)",
       "release_date": "2023-08-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2s4jiWdyVSL2U6Ds6Ze0bJ"
     },
@@ -824,7 +863,7 @@
       "name": "Django Deployments - Eric Matthes (Ep108 Replay)",
       "release_date": "2023-07-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
       "type": "episode",
       "uri": "spotify:episode:3KKZ23X3ky3zMWVxuzhP1G"
     },
@@ -941,7 +980,7 @@
       "name": "Django Co-Creator - Simon Willison (Ep 21 Replay)",
       "release_date": "2023-06-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
       "type": "episode",
       "uri": "spotify:episode:75JQjbj9vtDFM4m2WFKjux"
     },
@@ -4217,7 +4256,7 @@
       "name": "Google Summer of Code - Sage Abdullah",
       "release_date": "2020-03-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4Q3dW74Y85mp51srWJOLbz"
     },
@@ -5192,7 +5231,7 @@
       "name": "Django 3.0 Preview",
       "release_date": "2019-09-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 1069000 },
       "type": "episode",
       "uri": "spotify:episode:4F4cZBlRBxDasNm2QgiQcR"
     },
@@ -5231,7 +5270,7 @@
       "name": "Learning to Love Django Tests - Lacey Williams Henschel",
       "release_date": "2019-09-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
       "type": "episode",
       "uri": "spotify:episode:4fFaTxCdd9x9tIqM1h5aKD"
     },
@@ -5348,7 +5387,7 @@
       "name": "MySQL & Security - Adam Johnson",
       "release_date": "2019-08-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 2612000 },
       "type": "episode",
       "uri": "spotify:episode:2FvuZQQlTIx7AdejiCc0Wi"
     },
@@ -5387,7 +5426,7 @@
       "name": "Community & Inclusion - Kojo Idrissa",
       "release_date": "2019-08-14",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
       "type": "episode",
       "uri": "spotify:episode:2Hm7oyB378jlSRUaXWIukW"
     },
@@ -6128,7 +6167,7 @@
       "name": "Django Fellow - Tim Graham",
       "release_date": "2019-04-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
       "type": "episode",
       "uri": "spotify:episode:5malqBhcSJ0a96Q46DAGQd"
     },
@@ -6362,7 +6401,7 @@
       "name": "What is Django?",
       "release_date": "2019-03-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
       "type": "episode",
       "uri": "spotify:episode:6tKWl4l1zxjKK3vkJvMBLn"
     },
@@ -6401,7 +6440,7 @@
       "name": "Preview",
       "release_date": "2019-02-02",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 40000 },
       "type": "episode",
       "uri": "spotify:episode:740GUKXl3jpwYTiOTHdbm0"
     }
