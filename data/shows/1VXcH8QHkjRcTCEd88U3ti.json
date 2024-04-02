@@ -124,6 +124,7 @@
     "PG",
     "PH",
     "PL",
+    "PR",
     "PS",
     "PT",
     "PW",
@@ -201,10 +202,88 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 171,
+  "total_episodes": 172,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3I6pRYUlMHwnmb32yqYvXa/clip_418900_460300.mp3",
+      "description": "Conversation is a battlefield with only one winner. Or is it? Comedian and author Jordan Klepper believes we can get better at talking to each other (and perhaps save democracy) by learning how to lose.",
+      "duration_ms": 516156,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0yM3TJtpTQvYMRSI1VgOO0"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0yM3TJtpTQvYMRSI1VgOO0",
+      "html_description": "<p>Conversation is a battlefield with only one winner. Or is it? Comedian and author Jordan Klepper believes we can get better at talking to each other (and perhaps save democracy) by learning how to lose.</p>",
+      "id": "0yM3TJtpTQvYMRSI1VgOO0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a552862082dc239c2b807f2ba",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f552862082dc239c2b807f2ba",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d552862082dc239c2b807f2ba",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "A comedian's take on how to save democracy | Jordan Klepper",
+      "release_date": "2024-04-01",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0yM3TJtpTQvYMRSI1VgOO0"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7lGUT7iD7IWgJ20Y5CrT8a/clip_198000_258600.mp3",
+      "description": "Each Sunday, TED shares an episode of another podcast we think you'll love, handpicked for you… by us. Today: an episode from How to Be a Better Human, a podcast that shares the small ways and big ideas that can change your life for the better.  ALOK doesn’t call themselves a multihyphenate – but how else to describe the internationally acclaimed author, poet, comedian, and public speaker? Whether they are exploring belonging and the human condition, or fighting to degender the fashion and beauty industries, ALOK is always tapping into their creativity. Today, they share their approach to the creative process, how art has helped them accept the beauty and pain of life, why poetry and comedy need each other and so much more.  For the full text transcript, visit go.ted.com/BHTranscripts  ",
+      "duration_ms": 2260932,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2U43s5UEMT3RZPgkZ4mcyJ"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2U43s5UEMT3RZPgkZ4mcyJ",
+      "html_description": "<p>Each Sunday, TED shares an episode of another podcast we think you&#39;ll love, handpicked for you… by us. Today: an episode from How to Be a Better Human, a podcast that shares the small ways and big ideas that can change your life for the better.</p><br/><p>ALOK doesn’t call themselves a multihyphenate – but how else to describe the internationally acclaimed author, poet, comedian, and public speaker? Whether they are exploring belonging and the human condition, or fighting to degender the fashion and beauty industries, ALOK is always tapping into their creativity. Today, they share their approach to the creative process, how art has helped them accept the beauty and pain of life, why poetry and comedy need each other and so much more.</p><br/><p>For the full text transcript, visit go.ted.com/BHTranscripts  </p>",
+      "id": "2U43s5UEMT3RZPgkZ4mcyJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a2da2a37a240a8d3d4699a59e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f2da2a37a240a8d3d4699a59e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d2da2a37a240a8d3d4699a59e",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Sunday Pick: ALOK is microdosing creativity and rejecting norms",
+      "release_date": "2024-03-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2U43s5UEMT3RZPgkZ4mcyJ"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1szgrqE7hNRcRHo6fSX6gq/clip_129500_176700.mp3",
       "description": "Sex is as much mental as it is physical — and imagination is the most powerful tool we have to expand our personal agency and capacity for pleasure, says sexual wellness storyteller Gina Gutierrez. The founder of audio-erotica company Dipsea, Gutierrez creates immersive audio stories designed to open up space to explore your desires and fantasies on your terms. She shares some tips to inspire your sexual imagination and bring joy, confidence and empowerment into your life.",
@@ -6834,45 +6913,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Kw28AaesM7feE6lCw9NfE"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BwOb4v6yh1t3C77mQLfHj/clip_273100_341100.mp3",
-      "description": "K Allado-McDowell has co-written three books with AI, so they speak from experience when they say that nurturing a creative relationship with these systems can open minds and make new worlds possible. Before giving the stage over to a performance of \"Song of the Ambassadors\" -- their otherworldly opera, also co-created with AI -- Allado-McDowell presents three principles for a future where machines preserve and even enhance what it means to be human.",
-      "duration_ms": 364644,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/31wqdDXS6T5sluJvId92TO"
-      },
-      "href": "https://api.spotify.com/v1/episodes/31wqdDXS6T5sluJvId92TO",
-      "html_description": "<p>K Allado-McDowell has co-written three books with AI, so they speak from experience when they say that nurturing a creative relationship with these systems can open minds and make new worlds possible. Before giving the stage over to a performance of &#34;Song of the Ambassadors&#34; -- their otherworldly opera, also co-created with AI -- Allado-McDowell presents three principles for a future where machines preserve and even enhance what it means to be human.</p>",
-      "id": "31wqdDXS6T5sluJvId92TO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a34ce7a11b1381d0afa2f53f1",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f34ce7a11b1381d0afa2f53f1",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d34ce7a11b1381d0afa2f53f1",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Our creative relationship with AI is just beginning | K Allado-McDowell",
-      "release_date": "2023-09-08",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:31wqdDXS6T5sluJvId92TO"
     }
   ]
 }
