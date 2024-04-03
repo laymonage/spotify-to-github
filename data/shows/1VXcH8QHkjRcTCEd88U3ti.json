@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 172,
+  "total_episodes": 171,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5CeH3o3WIyBdCMVe2v0bEw/clip_257800_320400.mp3",
+      "description": "Anthony Tan — the CEO of Grab, Southeast Asia's leading super-app — talks about launching a business that not only turns a profit but also helps people and the environment. In conversation with digital strategist Amane Dannouni, Tan discusses the design choices and tension points of running such a company and why it's something every entrepreneur should consider doing.",
+      "duration_ms": 1134948,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7lqNyXQKw55oKSYcBQV8WW"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7lqNyXQKw55oKSYcBQV8WW",
+      "html_description": "<p>Anthony Tan — the CEO of Grab, Southeast Asia&#39;s leading super-app — talks about launching a business that not only turns a profit but also helps people and the environment. In conversation with digital strategist Amane Dannouni, Tan discusses the design choices and tension points of running such a company and why it&#39;s something every entrepreneur should consider doing.</p>",
+      "id": "7lqNyXQKw55oKSYcBQV8WW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ab0ed610313daab647b5c9af0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fb0ed610313daab647b5c9af0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68db0ed610313daab647b5c9af0",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Want to succeed in business? Find a problem to solve | Anthony Tan and Amane Dannouni",
+      "release_date": "2024-04-02",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7lqNyXQKw55oKSYcBQV8WW"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3I6pRYUlMHwnmb32yqYvXa/clip_418900_460300.mp3",
       "description": "Conversation is a battlefield with only one winner. Or is it? Comedian and author Jordan Klepper believes we can get better at talking to each other (and perhaps save democracy) by learning how to lose.",
@@ -6835,84 +6874,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6Gja0blD6VhdKSCZ1MY7mr"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1m9kBWRB3H1oZiAVxwrCjO/clip_695500_755900.mp3",
-      "description": "Peter McIndoe isn't a fan of birds. In fact, he has a theory about them that might shock you. Listen along to this eye-opening talk as it takes a turn and makes a larger point about conspiracies, truth and belonging in divisive times.",
-      "duration_ms": 798972,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/3iEjrCrBRO9UaYikeB1Kaq"
-      },
-      "href": "https://api.spotify.com/v1/episodes/3iEjrCrBRO9UaYikeB1Kaq",
-      "html_description": "<p>Peter McIndoe isn&#39;t a fan of birds. In fact, he has a theory about them that might shock you. Listen along to this eye-opening talk as it takes a turn and makes a larger point about conspiracies, truth and belonging in divisive times.</p>",
-      "id": "3iEjrCrBRO9UaYikeB1Kaq",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a762444760f1c240b84f1a4d3",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f762444760f1c240b84f1a4d3",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d762444760f1c240b84f1a4d3",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Birds aren't real? How a conspiracy takes flight | Peter McIndoe",
-      "release_date": "2023-09-12",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:3iEjrCrBRO9UaYikeB1Kaq"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3XNsAGNUXfgDsmO3vDfaqF/clip_432300_501000.mp3",
-      "description": "The flexibility to work from anywhere won't necessarily make you love your job, says HR leader Sarah Aviram. Sharing practical wisdom from research conducted while working remotely in 12 different countries, she reveals the real challenges that hybrid work policies can't fix -- and shows how to truly thrive at your job no matter where you get it done.",
-      "duration_ms": 705036,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2Kw28AaesM7feE6lCw9NfE"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2Kw28AaesM7feE6lCw9NfE",
-      "html_description": "<p>The flexibility to work from anywhere won&#39;t necessarily make you love your job, says HR leader Sarah Aviram. Sharing practical wisdom from research conducted while working remotely in 12 different countries, she reveals the real challenges that hybrid work policies can&#39;t fix -- and shows how to truly thrive at your job no matter where you get it done.</p>",
-      "id": "2Kw28AaesM7feE6lCw9NfE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ac943b603fcd20d59387733d5",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fc943b603fcd20d59387733d5",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68dc943b603fcd20d59387733d5",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Does more freedom at work mean more fulfillment? | Sarah Aviram",
-      "release_date": "2023-09-11",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2Kw28AaesM7feE6lCw9NfE"
     }
   ]
 }
