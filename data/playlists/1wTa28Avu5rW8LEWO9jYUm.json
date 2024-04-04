@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1wTa28Avu5rW8LEWO9jYUm"
   },
-  "followers": { "href": null, "total": 58541 },
+  "followers": { "href": null, "total": 58566 },
   "href": "https://api.spotify.com/v1/playlists/1wTa28Avu5rW8LEWO9jYUm?locale=*",
   "id": "1wTa28Avu5rW8LEWO9jYUm",
   "images": [
@@ -1416,7 +1416,7 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/682df0fd20531188e791506cba35cd3cc2d1bbcd?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": ["PR", "US"],
         "explicit": false,
         "type": "track",
         "episode": false,
@@ -2655,6 +2655,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",
@@ -2965,7 +2966,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FUS56gKr9mVBmzvlnodlh",
         "id": "3FUS56gKr9mVBmzvlnodlh",
         "name": "Killing In the Name",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
         "is_local": false
       },
@@ -3210,6 +3211,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",
@@ -3541,7 +3543,7 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/d4cc42320063ee1d2d05eca4671a495e33620f41?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["TW", "US"],
+        "available_markets": ["PR", "TW", "US"],
         "explicit": false,
         "type": "track",
         "episode": false,
@@ -3765,6 +3767,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",

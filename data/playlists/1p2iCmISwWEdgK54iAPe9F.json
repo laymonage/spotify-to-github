@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1p2iCmISwWEdgK54iAPe9F"
   },
-  "followers": { "href": null, "total": 87887 },
+  "followers": { "href": null, "total": 87912 },
   "href": "https://api.spotify.com/v1/playlists/1p2iCmISwWEdgK54iAPe9F?locale=*",
   "id": "1p2iCmISwWEdgK54iAPe9F",
   "images": [
@@ -1654,6 +1654,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",
@@ -3193,7 +3194,7 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/4b784c4622615dc052d58580f1b5de91f8753bd0?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
+        "available_markets": ["PR"],
         "explicit": false,
         "type": "track",
         "episode": false,
@@ -3417,6 +3418,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",
