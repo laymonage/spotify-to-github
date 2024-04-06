@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 171,
+  "total_episodes": 173,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
+      "description": "Menopause isn't just hot flashes, says gynecologist and sexual medicine specialist Maria Sophocles. It's often accompanied by overlooked symptoms like painful sex or loss of libido. Shedding light on what she calls the \"bedroom gap,\" or the difference in sexual expectations of men and women in midlife due to societal norms, Sophocles advocates for education, medical advancement and a new understanding of menopause — because sex should be pleasurable and comfortable for everyone.",
+      "duration_ms": 871476,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3hiVU1p6PljvZq7aVKSFDO"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3hiVU1p6PljvZq7aVKSFDO",
+      "html_description": "<p>Menopause isn&#39;t just hot flashes, says gynecologist and sexual medicine specialist Maria Sophocles. It&#39;s often accompanied by overlooked symptoms like painful sex or loss of libido. Shedding light on what she calls the &#34;bedroom gap,&#34; or the difference in sexual expectations of men and women in midlife due to societal norms, Sophocles advocates for education, medical advancement and a new understanding of menopause — because sex should be pleasurable and comfortable for everyone.</p>",
+      "id": "3hiVU1p6PljvZq7aVKSFDO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a48659153b30ae9b009a68d40",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f48659153b30ae9b009a68d40",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d48659153b30ae9b009a68d40",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What happens to sex in midlife? A look at the \"bedroom gap\" | Maria Sophocles",
+      "release_date": "2024-04-05",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3hiVU1p6PljvZq7aVKSFDO"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7Fo9DTHOD33hhQ0Zk3XnJl/clip_407800_474400.mp3",
       "description": "What would Latin America look like if colonization hadn't interrupted its ancient civilizations? Imagining a future where ancestral knowledge intertwines with modern aesthetics, designer Catalina Lotero shows how \"pre-Columbian futurism\" draws inspiration from Indigenous symbolism and technology — empowering Latin America to reclaim lost cultural narratives.",
@@ -6874,6 +6913,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3pGUqGEMJKHHlwSH6ebr0B"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
+      "duration_ms": 758949,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2018-07-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }

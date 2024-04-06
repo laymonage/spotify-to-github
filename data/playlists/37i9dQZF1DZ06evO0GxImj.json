@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 9012 },
+  "followers": { "href": null, "total": 9013 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMjEwMjQwMCwwMDAwMDAwMGRiNGJkOWFjYmNiNGFlMzA1OTk3NmNiNjliNzQ4MGE0",
+  "snapshot_id": "MTcxMjE4ODgwMCwwMDAwMDAwMGRjZTQ0YzRhZTc3MGFhMzU3MWI3YTBiMDU5M2MxNTBi",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -7013,7 +7013,7 @@
         "href": "https://api.spotify.com/v1/tracks/4clp0UIxSBWUX3Woc8IulQ",
         "id": "4clp0UIxSBWUX3Woc8IulQ",
         "name": "いかれたBABY",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:4clp0UIxSBWUX3Woc8IulQ",
         "is_local": false
       },
@@ -11513,7 +11513,7 @@
         "href": "https://api.spotify.com/v1/tracks/66MJbtZKkYxCURbYXqQtx4",
         "id": "66MJbtZKkYxCURbYXqQtx4",
         "name": "Nantettano",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:66MJbtZKkYxCURbYXqQtx4",
         "is_local": false
       },
@@ -12451,7 +12451,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2089de065ed1e00a1697adbceed84af877e56bef?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/e12e7277e127f8751965c50a0e4719bbe6ec4b29?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["JP"],
         "explicit": false,
         "type": "track",
@@ -12514,17 +12514,107 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 12,
-        "duration_ms": 126400,
-        "external_ids": { "isrc": "JPPC09334205" },
+        "track_number": 6,
+        "duration_ms": 233973,
+        "external_ids": { "isrc": "JPPC09334197" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5K7mVdCdpRBObg7b5BW2iD"
+          "spotify": "https://open.spotify.com/track/3KmaxSTvoLcoT42WkC73V4"
         },
-        "href": "https://api.spotify.com/v1/tracks/5K7mVdCdpRBObg7b5BW2iD",
-        "id": "5K7mVdCdpRBObg7b5BW2iD",
-        "name": "スー・パー",
-        "popularity": 15,
-        "uri": "spotify:track:5K7mVdCdpRBObg7b5BW2iD",
+        "href": "https://api.spotify.com/v1/tracks/3KmaxSTvoLcoT42WkC73V4",
+        "id": "3KmaxSTvoLcoT42WkC73V4",
+        "name": "Just Thing",
+        "popularity": 18,
+        "uri": "spotify:track:3KmaxSTvoLcoT42WkC73V4",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f7be845e008292125d8e4cffee749f0838bd0a26?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5GRRkN8t0YVRQc8qvifpHE",
+          "id": "5GRRkN8t0YVRQc8qvifpHE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27325c19a93e6491451206d755f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0225c19a93e6491451206d755f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485125c19a93e6491451206d755f",
+              "width": 64
+            }
+          ],
+          "name": "Chappie, Don't Cry",
+          "release_date": "1998",
+          "release_date_precision": "year",
+          "uri": "spotify:album:5GRRkN8t0YVRQc8qvifpHE",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5GRRkN8t0YVRQc8qvifpHE"
+          },
+          "total_tracks": 10
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 9,
+        "duration_ms": 342600,
+        "external_ids": { "isrc": "JPPC09225193" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wGdUEN7UeIEhJDK7nZnkz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wGdUEN7UeIEhJDK7nZnkz",
+        "id": "4wGdUEN7UeIEhJDK7nZnkz",
+        "name": "チャンス",
+        "popularity": 17,
+        "uri": "spotify:track:4wGdUEN7UeIEhJDK7nZnkz",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -13001,96 +13091,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7be845e008292125d8e4cffee749f0838bd0a26?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5GRRkN8t0YVRQc8qvifpHE",
-          "id": "5GRRkN8t0YVRQc8qvifpHE",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27325c19a93e6491451206d755f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0225c19a93e6491451206d755f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485125c19a93e6491451206d755f",
-              "width": 64
-            }
-          ],
-          "name": "Chappie, Don't Cry",
-          "release_date": "1998",
-          "release_date_precision": "year",
-          "uri": "spotify:album:5GRRkN8t0YVRQc8qvifpHE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5GRRkN8t0YVRQc8qvifpHE"
-          },
-          "total_tracks": 10
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 9,
-        "duration_ms": 342600,
-        "external_ids": { "isrc": "JPPC09225193" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4wGdUEN7UeIEhJDK7nZnkz"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4wGdUEN7UeIEhJDK7nZnkz",
-        "id": "4wGdUEN7UeIEhJDK7nZnkz",
-        "name": "チャンス",
-        "popularity": 17,
-        "uri": "spotify:track:4wGdUEN7UeIEhJDK7nZnkz",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/5ce39ea2ade7be1959fd719e114f33e714af4a6d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -13551,7 +13551,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e12e7277e127f8751965c50a0e4719bbe6ec4b29?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/2089de065ed1e00a1697adbceed84af877e56bef?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["JP"],
         "explicit": false,
         "type": "track",
@@ -13614,17 +13614,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 6,
-        "duration_ms": 233973,
-        "external_ids": { "isrc": "JPPC09334197" },
+        "track_number": 12,
+        "duration_ms": 126400,
+        "external_ids": { "isrc": "JPPC09334205" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3KmaxSTvoLcoT42WkC73V4"
+          "spotify": "https://open.spotify.com/track/5K7mVdCdpRBObg7b5BW2iD"
         },
-        "href": "https://api.spotify.com/v1/tracks/3KmaxSTvoLcoT42WkC73V4",
-        "id": "3KmaxSTvoLcoT42WkC73V4",
-        "name": "Just Thing",
-        "popularity": 18,
-        "uri": "spotify:track:3KmaxSTvoLcoT42WkC73V4",
+        "href": "https://api.spotify.com/v1/tracks/5K7mVdCdpRBObg7b5BW2iD",
+        "id": "5K7mVdCdpRBObg7b5BW2iD",
+        "name": "スー・パー",
+        "popularity": 15,
+        "uri": "spotify:track:5K7mVdCdpRBObg7b5BW2iD",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
