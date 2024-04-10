@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32204 },
+  "followers": { "href": null, "total": 32210 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMjQ0ODAwMCwwMDAwMDAwMDFlOGRmNjZlZTQxM2Y5ZmUyNDY5MmYyMTc5NTg5MmJh",
+  "snapshot_id": "MTcxMjUzNDQwMCwwMDAwMDAwMDlmZjAyMzhhYzgwZTg4N2IyM2MwMGQwNmMxY2U3NTg2",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -2085,7 +2085,7 @@
         "href": "https://api.spotify.com/v1/tracks/4hveFhtWRaiFlirifQeR8J",
         "id": "4hveFhtWRaiFlirifQeR8J",
         "name": "Sooth Lady Wine",
-        "popularity": 39,
+        "popularity": 40,
         "uri": "spotify:track:4hveFhtWRaiFlirifQeR8J",
         "is_local": false
       },
@@ -5813,7 +5813,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -5822,30 +5822,30 @@
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
-          "id": "5jNjG588J6t474RR1Ch8NC",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
+          "id": "49RdQIyAf7vp1aBGiq13fM",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
               "width": 64
             }
           ],
-          "name": "Telluric",
-          "release_date": "2016-03-11",
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
           "release_date_precision": "day",
-          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
           "artists": [
             {
               "external_urls": {
@@ -5859,9 +5859,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
           },
-          "total_tracks": 11
+          "total_tracks": 4
         },
         "artists": [
           {
@@ -5876,17 +5876,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 223706,
-        "external_ids": { "isrc": "AUUM71501793" },
+        "track_number": 1,
+        "duration_ms": 190851,
+        "external_ids": { "isrc": "AU2DY2300422" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
+          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
         },
-        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
-        "id": "5iEY4CC4feFZdYzVYVhIFl",
-        "name": "Knife Edge",
-        "popularity": 32,
-        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
+        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
+        "id": "0eIXTxq5ScMa98AQq3zwyV",
+        "name": "No Scrubs - triple j Like A Version",
+        "popularity": 31,
+        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6361,7 +6361,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -6370,30 +6370,30 @@
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+          "id": "5jNjG588J6t474RR1Ch8NC",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
               "width": 64
             }
           ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
+          "name": "Telluric",
+          "release_date": "2016-03-11",
           "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
           "artists": [
             {
               "external_urls": {
@@ -6407,9 +6407,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
           },
-          "total_tracks": 4
+          "total_tracks": 11
         },
         "artists": [
           {
@@ -6424,17 +6424,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 190851,
-        "external_ids": { "isrc": "AU2DY2300422" },
+        "track_number": 3,
+        "duration_ms": 223706,
+        "external_ids": { "isrc": "AUUM71501793" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
+          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
         },
-        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
-        "id": "0eIXTxq5ScMa98AQq3zwyV",
-        "name": "No Scrubs - triple j Like A Version",
-        "popularity": 31,
-        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
+        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
+        "id": "5iEY4CC4feFZdYzVYVhIFl",
+        "name": "Knife Edge",
+        "popularity": 32,
+        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6541,7 +6541,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -6551,29 +6551,29 @@
           "available_markets": ["AU", "NZ"],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
-          "id": "51ET6cqHUpWJRtIHdJI20H",
+          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
+          "id": "49RdQIyAf7vp1aBGiq13fM",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
+              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
+              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
+              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
               "width": 64
             }
           ],
-          "name": "Into The Flame",
-          "release_date": "2011-01-01",
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
           "release_date_precision": "day",
-          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
+          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
           "artists": [
             {
               "external_urls": {
@@ -6587,7 +6587,7 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
+            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
           },
           "total_tracks": 4
         },
@@ -6605,16 +6605,16 @@
         ],
         "disc_number": 1,
         "track_number": 2,
-        "duration_ms": 256773,
-        "external_ids": { "isrc": "AUUM71101249" },
+        "duration_ms": 285446,
+        "external_ids": { "isrc": "AU2DY2300502" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
+          "spotify": "https://open.spotify.com/track/29A690qW67wNGUBTGu9kTy"
         },
-        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
-        "id": "7nJn5fGLc6ViWm18HcNiln",
-        "name": "Souls A'Fire",
-        "popularity": 32,
-        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
+        "href": "https://api.spotify.com/v1/tracks/29A690qW67wNGUBTGu9kTy",
+        "id": "29A690qW67wNGUBTGu9kTy",
+        "name": "Chains - triple j Like A Version",
+        "popularity": 31,
+        "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6721,7 +6721,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -6731,29 +6731,29 @@
           "available_markets": ["AU", "NZ"],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
+          "id": "51ET6cqHUpWJRtIHdJI20H",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
               "width": 64
             }
           ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
+          "name": "Into The Flame",
+          "release_date": "2011-01-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
           "artists": [
             {
               "external_urls": {
@@ -6767,7 +6767,7 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
           },
           "total_tracks": 4
         },
@@ -6785,16 +6785,16 @@
         ],
         "disc_number": 1,
         "track_number": 2,
-        "duration_ms": 285446,
-        "external_ids": { "isrc": "AU2DY2300502" },
+        "duration_ms": 256773,
+        "external_ids": { "isrc": "AUUM71101249" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/29A690qW67wNGUBTGu9kTy"
+          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
         },
-        "href": "https://api.spotify.com/v1/tracks/29A690qW67wNGUBTGu9kTy",
-        "id": "29A690qW67wNGUBTGu9kTy",
-        "name": "Chains - triple j Like A Version",
-        "popularity": 31,
-        "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
+        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
+        "id": "7nJn5fGLc6ViWm18HcNiln",
+        "name": "Souls A'Fire",
+        "popularity": 32,
+        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8761,7 +8761,7 @@
         "href": "https://api.spotify.com/v1/tracks/6RxXF14G5pBPC1e5que9QC",
         "id": "6RxXF14G5pBPC1e5que9QC",
         "name": "What The Devil Has Made - From The Film 'Spirit of Akasha'",
-        "popularity": 26,
+        "popularity": 27,
         "uri": "spotify:track:6RxXF14G5pBPC1e5que9QC",
         "is_local": false
       },
