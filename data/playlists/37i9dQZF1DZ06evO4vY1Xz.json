@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32213 },
+  "followers": { "href": null, "total": 32223 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMjYyMDgwMCwwMDAwMDAwMGMyM2FhNjljOTljNmJmMDE3MGZlOWFkMzlhMDA5NTJm",
+  "snapshot_id": "MTcxMjcwNzIwMCwwMDAwMDAwMDMyYzI0ZWJmNGRmODlkM2Q4MDQxOWE0MjJmMjA4YjNh",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -2555,7 +2555,7 @@
         "href": "https://api.spotify.com/v1/tracks/18YIDJGWXocUPFbAzTaq8g",
         "id": "18YIDJGWXocUPFbAzTaq8g",
         "name": "Serious (feat. Matt Corby)",
-        "popularity": 46,
+        "popularity": 47,
         "uri": "spotify:track:18YIDJGWXocUPFbAzTaq8g",
         "is_local": false
       },
@@ -4655,7 +4655,7 @@
         "href": "https://api.spotify.com/v1/tracks/75kHuG6iFGA7lOMKPiojr0",
         "id": "75kHuG6iFGA7lOMKPiojr0",
         "name": "Made of Stone",
-        "popularity": 37,
+        "popularity": 38,
         "uri": "spotify:track:75kHuG6iFGA7lOMKPiojr0",
         "is_local": false
       },
@@ -5221,6 +5221,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/3daaf5e367cc38f6addb4cfd7fc713eb5a8f0b39?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 4,
+        "duration_ms": 194624,
+        "external_ids": { "isrc": "AUUM71800929" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3dTpWMJmDXOm2aEjIl9SiJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dTpWMJmDXOm2aEjIl9SiJ",
+        "id": "3dTpWMJmDXOm2aEjIl9SiJ",
+        "name": "Get With the Times",
+        "popularity": 30,
+        "uri": "spotify:track:3dTpWMJmDXOm2aEjIl9SiJ",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/61309a69aa6a5683a68a5ecf3a41ec66ba1455fa?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -5707,96 +5797,6 @@
         "name": "So Easy",
         "popularity": 38,
         "uri": "spotify:track:74rluVXirwea83JzfkbjmQ",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/3daaf5e367cc38f6addb4cfd7fc713eb5a8f0b39?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
-              "width": 64
-            }
-          ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 194624,
-        "external_ids": { "isrc": "AUUM71800929" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3dTpWMJmDXOm2aEjIl9SiJ"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3dTpWMJmDXOm2aEjIl9SiJ",
-        "id": "3dTpWMJmDXOm2aEjIl9SiJ",
-        "name": "Get With the Times",
-        "popularity": 30,
-        "uri": "spotify:track:3dTpWMJmDXOm2aEjIl9SiJ",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6703,7 +6703,7 @@
         "href": "https://api.spotify.com/v1/tracks/4cgj3fYsQQbbCpbaMXgU7I",
         "id": "4cgj3fYsQQbbCpbaMXgU7I",
         "name": "Problems",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:4cgj3fYsQQbbCpbaMXgU7I",
         "is_local": false
       },
