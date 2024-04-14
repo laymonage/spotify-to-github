@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 174,
+  "total_episodes": 175,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1cM3ImEZLOgmJyjsmCpiJl/clip_500400_551500.mp3",
+      "description": "We can all play a role in the climate movement by tapping into our skills, resources and networks in ways that bring us satisfaction, says climate leader Ayana Elizabeth Johnson. She suggests drawing a Venn diagram to map these questions: What are you good at? What is the work that needs doing? And what brings you joy? Where your answers intersect is where you should put your climate action effort. \"Averting climate catastrophe: this is the work of our lifetimes,\" Johnson says.",
+      "duration_ms": 686388,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7JzlwBxNE05I969VgK9Lrb"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7JzlwBxNE05I969VgK9Lrb",
+      "html_description": "<p>We can all play a role in the climate movement by tapping into our skills, resources and networks in ways that bring us satisfaction, says climate leader Ayana Elizabeth Johnson. She suggests drawing a Venn diagram to map these questions: What are you good at? What is the work that needs doing? And what brings you joy? Where your answers intersect is where you should put your climate action effort. &#34;Averting climate catastrophe: this is the work of our lifetimes,&#34; Johnson says.</p>",
+      "id": "7JzlwBxNE05I969VgK9Lrb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a220509ecff6ae799fe7b8f97",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f220509ecff6ae799fe7b8f97",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d220509ecff6ae799fe7b8f97",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to find joy in climate action | Ayana Elizabeth Johnson",
+      "release_date": "2024-04-13",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7JzlwBxNE05I969VgK9Lrb"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2oUlekArASDqZlsG3OTMnl/clip_294700_335200.mp3",
       "description": "There's a mistaken belief in today's working world that leaders need to be serious all the time to be taken seriously. The research tells a different story. Based on the course they teach at Stanford's Graduate School of Business, behavioral scientist Jennifer Aaker and corporate strategist Naomi Bagdonas delve into the surprising power of humor: why it's a secret weapon to build bonds, power, creativity and resilience -- and how we can all have more of it.",
@@ -439,6 +478,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6fH60Z4T1U70NXt6yh3KwI"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.",
+      "duration_ms": 793039,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2024-04-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
@@ -6952,45 +7030,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2i7T5gZq7XM4KQkD8097tW"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
-      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
-      "duration_ms": 758949,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
-      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
-      "id": "5XIm3I3xQm1fE01mOBm9AR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "There's more to life than being happy | Emily Esfahani Smith",
-      "release_date": "2018-07-31",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }

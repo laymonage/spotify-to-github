@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1wTa28Avu5rW8LEWO9jYUm"
   },
-  "followers": { "href": null, "total": 58816 },
+  "followers": { "href": null, "total": 58845 },
   "href": "https://api.spotify.com/v1/playlists/1wTa28Avu5rW8LEWO9jYUm?locale=*",
   "id": "1wTa28Avu5rW8LEWO9jYUm",
   "images": [
@@ -408,13 +408,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/0fd951ef2175f2a912d650d0c76b3af03bff3c7d?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["CA", "MX", "US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "compilation",
           "href": "https://api.spotify.com/v1/albums/3PIszA6UT9iI99izK60AdV",
@@ -479,7 +479,7 @@
         "href": "https://api.spotify.com/v1/tracks/3gv4AhWWneEu2oh1Egz652",
         "id": "3gv4AhWWneEu2oh1Egz652",
         "name": "Personal Jesus - 2006 Remaster",
-        "popularity": 41,
+        "popularity": 42,
         "uri": "spotify:track:3gv4AhWWneEu2oh1Egz652",
         "is_local": false
       },
