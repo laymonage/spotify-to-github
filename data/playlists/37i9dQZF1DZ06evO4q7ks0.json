@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q7ks0"
   },
-  "followers": { "href": null, "total": 460659 },
+  "followers": { "href": null, "total": 460668 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4q7ks0?locale=*",
   "id": "37i9dQZF1DZ06evO4q7ks0",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDA4YTAxNTUyMWVjODkzNTIwZDlkMjVjNjI4NWE2YTA2",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGRjOGE5ZjM3ZjE2MmE2M2EzOGVhN2I5MDM0ZTZiNzMx",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4q7ks0",
   "tracks": [
@@ -1421,7 +1421,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c648b893789886b98894425b8bd237b413ce6324?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/997a28eb0259e31472be4fde2a9a09adcc4568af?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -1554,6 +1554,7 @@
           "NE",
           "PW",
           "PG",
+          "PR",
           "WS",
           "SM",
           "ST",
@@ -1745,6 +1746,7 @@
             "NE",
             "PW",
             "PG",
+            "PR",
             "WS",
             "SM",
             "ST",
@@ -1800,30 +1802,30 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "compilation",
-          "href": "https://api.spotify.com/v1/albums/1JXjYl5WVr3wFgV3DMIHMl",
-          "id": "1JXjYl5WVr3wFgV3DMIHMl",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/6rTGpCVnXY2ph0a1aaIrEL",
+          "id": "6rTGpCVnXY2ph0a1aaIrEL",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d0000b273685628de68cfc204f3f8dbd5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d00001e02685628de68cfc204f3f8dbd5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516c4efca9f5e949a2f9cc3ac4",
+              "url": "https://i.scdn.co/image/ab67616d00004851685628de68cfc204f3f8dbd5",
               "width": 64
             }
           ],
-          "name": "Stars: The Best Of The Cranberries 1992-2002",
-          "release_date": "2002-09-16",
+          "name": "Something Else",
+          "release_date": "2017-04-28",
           "release_date_precision": "day",
-          "uri": "spotify:album:1JXjYl5WVr3wFgV3DMIHMl",
+          "uri": "spotify:album:6rTGpCVnXY2ph0a1aaIrEL",
           "artists": [
             {
               "external_urls": {
@@ -1837,9 +1839,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
+            "spotify": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
           },
-          "total_tracks": 20
+          "total_tracks": 13
         },
         "artists": [
           {
@@ -1854,17 +1856,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 9,
-        "duration_ms": 232200,
-        "external_ids": { "isrc": "USIR29600117" },
+        "track_number": 5,
+        "duration_ms": 241560,
+        "external_ids": { "isrc": "GB5KW1700211" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
+          "spotify": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
         },
-        "href": "https://api.spotify.com/v1/tracks/2Qdnk7tbc4onLOIPd1eSNE",
-        "id": "2Qdnk7tbc4onLOIPd1eSNE",
-        "name": "When You're Gone",
+        "href": "https://api.spotify.com/v1/tracks/1aZfq7TK3tNl9XJLkOpwKw",
+        "id": "1aZfq7TK3tNl9XJLkOpwKw",
+        "name": "Zombie (Acoustic Version)",
         "popularity": 64,
-        "uri": "spotify:track:2Qdnk7tbc4onLOIPd1eSNE",
+        "uri": "spotify:track:1aZfq7TK3tNl9XJLkOpwKw",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -3261,7 +3263,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/997a28eb0259e31472be4fde2a9a09adcc4568af?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c648b893789886b98894425b8bd237b413ce6324?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -3394,7 +3396,6 @@
           "NE",
           "PW",
           "PG",
-          "PR",
           "WS",
           "SM",
           "ST",
@@ -3586,7 +3587,6 @@
             "NE",
             "PW",
             "PG",
-            "PR",
             "WS",
             "SM",
             "ST",
@@ -3642,30 +3642,30 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6rTGpCVnXY2ph0a1aaIrEL",
-          "id": "6rTGpCVnXY2ph0a1aaIrEL",
+          "album_type": "compilation",
+          "href": "https://api.spotify.com/v1/albums/1JXjYl5WVr3wFgV3DMIHMl",
+          "id": "1JXjYl5WVr3wFgV3DMIHMl",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273685628de68cfc204f3f8dbd5",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02685628de68cfc204f3f8dbd5",
+              "url": "https://i.scdn.co/image/ab67616d00001e026c4efca9f5e949a2f9cc3ac4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851685628de68cfc204f3f8dbd5",
+              "url": "https://i.scdn.co/image/ab67616d000048516c4efca9f5e949a2f9cc3ac4",
               "width": 64
             }
           ],
-          "name": "Something Else",
-          "release_date": "2017-04-28",
+          "name": "Stars: The Best Of The Cranberries 1992-2002",
+          "release_date": "2002-09-16",
           "release_date_precision": "day",
-          "uri": "spotify:album:6rTGpCVnXY2ph0a1aaIrEL",
+          "uri": "spotify:album:1JXjYl5WVr3wFgV3DMIHMl",
           "artists": [
             {
               "external_urls": {
@@ -3679,9 +3679,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL"
+            "spotify": "https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl"
           },
-          "total_tracks": 13
+          "total_tracks": 20
         },
         "artists": [
           {
@@ -3696,17 +3696,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 241560,
-        "external_ids": { "isrc": "GB5KW1700211" },
+        "track_number": 9,
+        "duration_ms": 232200,
+        "external_ids": { "isrc": "USIR29600117" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
+          "spotify": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
         },
-        "href": "https://api.spotify.com/v1/tracks/1aZfq7TK3tNl9XJLkOpwKw",
-        "id": "1aZfq7TK3tNl9XJLkOpwKw",
-        "name": "Zombie (Acoustic Version)",
+        "href": "https://api.spotify.com/v1/tracks/2Qdnk7tbc4onLOIPd1eSNE",
+        "id": "2Qdnk7tbc4onLOIPd1eSNE",
+        "name": "When You're Gone",
         "popularity": 64,
-        "uri": "spotify:track:1aZfq7TK3tNl9XJLkOpwKw",
+        "uri": "spotify:track:2Qdnk7tbc4onLOIPd1eSNE",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -11965,7 +11965,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ASMqs9x07lQPj4iMz46O3",
         "id": "1ASMqs9x07lQPj4iMz46O3",
         "name": "Liar",
-        "popularity": 49,
+        "popularity": 50,
         "uri": "spotify:track:1ASMqs9x07lQPj4iMz46O3",
         "is_local": false
       },
@@ -15189,7 +15189,7 @@
         "href": "https://api.spotify.com/v1/tracks/1dJv9b2YEVMsWmtqcTskYr",
         "id": "1dJv9b2YEVMsWmtqcTskYr",
         "name": "Wake Me When It's Over",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:1dJv9b2YEVMsWmtqcTskYr",
         "is_local": false
       },
@@ -16109,7 +16109,7 @@
         "href": "https://api.spotify.com/v1/tracks/5uF13htfgQxdBpNtpaqUBT",
         "id": "5uF13htfgQxdBpNtpaqUBT",
         "name": "Desperate Andy",
-        "popularity": 43,
+        "popularity": 44,
         "uri": "spotify:track:5uF13htfgQxdBpNtpaqUBT",
         "is_local": false
       },
@@ -19325,7 +19325,7 @@
         "href": "https://api.spotify.com/v1/tracks/5w12AU1s2jwXFYL7jSImwR",
         "id": "5w12AU1s2jwXFYL7jSImwR",
         "name": "The Pressure",
-        "popularity": 40,
+        "popularity": 41,
         "uri": "spotify:track:5w12AU1s2jwXFYL7jSImwR",
         "is_local": false
       },
@@ -20703,7 +20703,7 @@
         "href": "https://api.spotify.com/v1/tracks/7rExM1JfHUgEyIPLot5CZL",
         "id": "7rExM1JfHUgEyIPLot5CZL",
         "name": "Cordell",
-        "popularity": 39,
+        "popularity": 40,
         "uri": "spotify:track:7rExM1JfHUgEyIPLot5CZL",
         "is_local": false
       },
@@ -22983,7 +22983,7 @@
         "href": "https://api.spotify.com/v1/tracks/5gnDz7FESyCkHpz0V1li86",
         "id": "5gnDz7FESyCkHpz0V1li86",
         "name": "Bosnia",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:5gnDz7FESyCkHpz0V1li86",
         "is_local": false
       },
