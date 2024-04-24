@@ -207,6 +207,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1uDsjiCBJE0LeAi1pqGbzL/clip_189227_249227.mp3",
+      "description": "\"Storytelling is one of the most powerful marketing and leadership tools there is,\" says communications expert Kelly D. Parker. She explains how stories make proposals of all kinds more memorable — and shows how you can craft a compelling narrative to connect, persuade and drive meaningful action.",
+      "duration_ms": 781164,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3XjiA9jmcW4EzuoPnw5scY"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3XjiA9jmcW4EzuoPnw5scY",
+      "html_description": "<p>&#34;Storytelling is one of the most powerful marketing and leadership tools there is,&#34; says communications expert Kelly D. Parker. She explains how stories make proposals of all kinds more memorable — and shows how you can craft a compelling narrative to connect, persuade and drive meaningful action.</p>",
+      "id": "3XjiA9jmcW4EzuoPnw5scY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a988280eab61024a2221fa504",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f988280eab61024a2221fa504",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d988280eab61024a2221fa504",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The art of persuasive storytelling | Kelly D. Parker",
+      "release_date": "2024-04-23",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3XjiA9jmcW4EzuoPnw5scY"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2SrJ4l7VYVI10wVJbhrM4W/clip_452390_512390.mp3",
       "description": "When it comes to artificial intelligence, what are we actually creating? Even those closest to its development are struggling to describe exactly where things are headed, says Microsoft AI CEO Mustafa Suleyman, one of the primary architects of the AI models many of us use today. He offers an honest and compelling new vision for the future of AI, proposing an unignorable metaphor — a new digital species — to focus attention on this extraordinary moment.",
       "duration_ms": 1313124,
@@ -7108,45 +7147,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5s83OU6KT0sK4AwU0onnUY"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2kYD3KUoaJBLoalb47xuTk/clip_812700_861900.mp3",
-      "description": "Fifteen years ago, Uruguay was experiencing an energy crisis brought on by its reliance on fossil fuels; today, the nation produces 98 percent of its electricity from renewable sources (and even exports extra energy to neighboring countries). How did they turn things around so quickly? Uruguay's former secretary of energy, Ramón Méndez Galain, explains how they pulled off this unprecedented shift -- and shares how any other country can do the same.",
-      "duration_ms": 893628,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/4bm1qhYx0rdmHR63MQPzj0"
-      },
-      "href": "https://api.spotify.com/v1/episodes/4bm1qhYx0rdmHR63MQPzj0",
-      "html_description": "<p>Fifteen years ago, Uruguay was experiencing an energy crisis brought on by its reliance on fossil fuels; today, the nation produces 98 percent of its electricity from renewable sources (and even exports extra energy to neighboring countries). How did they turn things around so quickly? Uruguay&#39;s former secretary of energy, Ramón Méndez Galain, explains how they pulled off this unprecedented shift -- and shares how any other country can do the same.</p>",
-      "id": "4bm1qhYx0rdmHR63MQPzj0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a311b2aa2e237a9ae6c41748a",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f311b2aa2e237a9ae6c41748a",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d311b2aa2e237a9ae6c41748a",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "This country runs on 98 percent renewable energy | Ramón Méndez Galain",
-      "release_date": "2023-09-29",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:4bm1qhYx0rdmHR63MQPzj0"
     }
   ]
 }
