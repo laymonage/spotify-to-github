@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 26398 },
+  "followers": { "href": null, "total": 26404 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMDMyZmQ1NGM0MDU0MWZjYjIzZjA1OTUxMjdjOGY4NWNl",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDQ5YjRiNDYzNGQzNWNlMGI4YWJhM2I5ZjVmYmJkYjY4",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -113,7 +113,7 @@
         "href": "https://api.spotify.com/v1/tracks/6iCJCZqDJjmBxt07Oid6FI",
         "id": "6iCJCZqDJjmBxt07Oid6FI",
         "name": "Buttercup",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:6iCJCZqDJjmBxt07Oid6FI",
         "is_local": false
       },
@@ -2587,7 +2587,7 @@
         "href": "https://api.spotify.com/v1/tracks/09IAjxegM08998hgb6ZScZ",
         "id": "09IAjxegM08998hgb6ZScZ",
         "name": "Kick in the Teeth",
-        "popularity": 44,
+        "popularity": 43,
         "uri": "spotify:track:09IAjxegM08998hgb6ZScZ",
         "is_local": false
       },
@@ -5411,7 +5411,7 @@
         "href": "https://api.spotify.com/v1/tracks/7kqwuYDC4u3vgN1xevrmGp",
         "id": "7kqwuYDC4u3vgN1xevrmGp",
         "name": "Yippie Ki Yay",
-        "popularity": 41,
+        "popularity": 40,
         "uri": "spotify:track:7kqwuYDC4u3vgN1xevrmGp",
         "is_local": false
       },
@@ -7489,96 +7489,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c3da331a806f6c132dccb30b746fce08ff2daea9?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["CA", "MX", "US"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6tGEWfRhonWuuQikgOnYhN",
-          "id": "6tGEWfRhonWuuQikgOnYhN",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27382c6a08699bfd0e4bbe95001",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0282c6a08699bfd0e4bbe95001",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485182c6a08699bfd0e4bbe95001",
-              "width": 64
-            }
-          ],
-          "name": "Bambi",
-          "release_date": "2018-09-28",
-          "release_date_precision": "day",
-          "uri": "spotify:album:6tGEWfRhonWuuQikgOnYhN",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
-          },
-          "total_tracks": 10
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 218000,
-        "external_ids": { "isrc": "QM5BK1800229" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7hNT08Aa0p2Wpozs1tAAoN"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7hNT08Aa0p2Wpozs1tAAoN",
-        "id": "7hNT08Aa0p2Wpozs1tAAoN",
-        "name": "Why Even Try",
-        "popularity": 38,
-        "uri": "spotify:track:7hNT08Aa0p2Wpozs1tAAoN",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/5ff8b43fb3db832a19283ab4a80ecd2373e50b35?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -8025,6 +7935,96 @@
         "name": "Honeysuckle",
         "popularity": 34,
         "uri": "spotify:track:3UHtOxkw4SQSzysgyUpzaB",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/c3da331a806f6c132dccb30b746fce08ff2daea9?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["CA", "MX", "US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["CA", "MX", "US"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/6tGEWfRhonWuuQikgOnYhN",
+          "id": "6tGEWfRhonWuuQikgOnYhN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27382c6a08699bfd0e4bbe95001",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0282c6a08699bfd0e4bbe95001",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485182c6a08699bfd0e4bbe95001",
+              "width": 64
+            }
+          ],
+          "name": "Bambi",
+          "release_date": "2018-09-28",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6tGEWfRhonWuuQikgOnYhN",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6tGEWfRhonWuuQikgOnYhN"
+          },
+          "total_tracks": 10
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 5,
+        "duration_ms": 218000,
+        "external_ids": { "isrc": "QM5BK1800229" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7hNT08Aa0p2Wpozs1tAAoN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7hNT08Aa0p2Wpozs1tAAoN",
+        "id": "7hNT08Aa0p2Wpozs1tAAoN",
+        "name": "Why Even Try",
+        "popularity": 38,
+        "uri": "spotify:track:7hNT08Aa0p2Wpozs1tAAoN",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -9175,7 +9175,7 @@
         "href": "https://api.spotify.com/v1/tracks/1NefYCgdXQzRo8780RJ88F",
         "id": "1NefYCgdXQzRo8780RJ88F",
         "name": "Probably",
-        "popularity": 35,
+        "popularity": 34,
         "uri": "spotify:track:1NefYCgdXQzRo8780RJ88F",
         "is_local": false
       },
@@ -10275,7 +10275,7 @@
         "href": "https://api.spotify.com/v1/tracks/17D3saZiiduvOg7Bg6ebGw",
         "id": "17D3saZiiduvOg7Bg6ebGw",
         "name": "Dollar Bill",
-        "popularity": 34,
+        "popularity": 33,
         "uri": "spotify:track:17D3saZiiduvOg7Bg6ebGw",
         "is_local": false
       },

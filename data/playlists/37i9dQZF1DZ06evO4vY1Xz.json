@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32243 },
+  "followers": { "href": null, "total": 32244 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxMzkxNjgwMCwwMDAwMDAwMGUyZDg4ODU0MzY0NWZmYTg3NzM5OGJkMTI1Mzc4MjMx",
+  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMGJmYWMxMjYxZmRiYWVjZWRlMmRkMWIyYWRlNmZjZmMz",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -1631,7 +1631,7 @@
         "href": "https://api.spotify.com/v1/tracks/0pZrbb5wNwxRA3mqsl1SWN",
         "id": "0pZrbb5wNwxRA3mqsl1SWN",
         "name": "Reelin'",
-        "popularity": 44,
+        "popularity": 43,
         "uri": "spotify:track:0pZrbb5wNwxRA3mqsl1SWN",
         "is_local": false
       },
@@ -3193,7 +3193,7 @@
         "href": "https://api.spotify.com/v1/tracks/1DM2VSFbZm7NXJ9Snq8nyb",
         "id": "1DM2VSFbZm7NXJ9Snq8nyb",
         "name": "No Ordinary Life",
-        "popularity": 38,
+        "popularity": 37,
         "uri": "spotify:track:1DM2VSFbZm7NXJ9Snq8nyb",
         "is_local": false
       },
@@ -5661,98 +5661,8 @@
         "href": "https://api.spotify.com/v1/tracks/3dTpWMJmDXOm2aEjIl9SiJ",
         "id": "3dTpWMJmDXOm2aEjIl9SiJ",
         "name": "Get With the Times",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:3dTpWMJmDXOm2aEjIl9SiJ",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
-          "id": "5jNjG588J6t474RR1Ch8NC",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
-              "width": 64
-            }
-          ],
-          "name": "Telluric",
-          "release_date": "2016-03-11",
-          "release_date_precision": "day",
-          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 223706,
-        "external_ids": { "isrc": "AUUM71501793" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
-        "id": "5iEY4CC4feFZdYzVYVhIFl",
-        "name": "Knife Edge",
-        "popularity": 33,
-        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6271,6 +6181,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+          "id": "5jNjG588J6t474RR1Ch8NC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "width": 64
+            }
+          ],
+          "name": "Telluric",
+          "release_date": "2016-03-11",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 223706,
+        "external_ids": { "isrc": "AUUM71501793" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
+        "id": "5iEY4CC4feFZdYzVYVhIFl",
+        "name": "Knife Edge",
+        "popularity": 33,
+        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/dc06d3692463c42b26e501c8b6ce6a812960c6db?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -6729,96 +6729,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/21d2d917b35259eb9f18ffbdec814e388a142792?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
-              "width": 64
-            }
-          ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 226072,
-        "external_ids": { "isrc": "AUUM71800928" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/71URuaiAZ6NV9kDVho8KO8"
-        },
-        "href": "https://api.spotify.com/v1/tracks/71URuaiAZ6NV9kDVho8KO8",
-        "id": "71URuaiAZ6NV9kDVho8KO8",
-        "name": "All That I See",
-        "popularity": 32,
-        "uri": "spotify:track:71URuaiAZ6NV9kDVho8KO8",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -6893,6 +6803,96 @@
         "name": "No Scrubs - triple j Like A Version",
         "popularity": 31,
         "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/21d2d917b35259eb9f18ffbdec814e388a142792?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 226072,
+        "external_ids": { "isrc": "AUUM71800928" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/71URuaiAZ6NV9kDVho8KO8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/71URuaiAZ6NV9kDVho8KO8",
+        "id": "71URuaiAZ6NV9kDVho8KO8",
+        "name": "All That I See",
+        "popularity": 31,
+        "uri": "spotify:track:71URuaiAZ6NV9kDVho8KO8",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7089,96 +7089,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2ece978671d27fc4a46e333cdff22f84a22ef079?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
-              "width": 64
-            }
-          ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 239392,
-        "external_ids": { "isrc": "AUUM71800927" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5pf44gn908vBYs0WnlVlDx"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5pf44gn908vBYs0WnlVlDx",
-        "id": "5pf44gn908vBYs0WnlVlDx",
-        "name": "Light My Dart Up",
-        "popularity": 31,
-        "uri": "spotify:track:5pf44gn908vBYs0WnlVlDx",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -7253,6 +7163,96 @@
         "name": "Chains - triple j Like A Version",
         "popularity": 31,
         "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/2ece978671d27fc4a46e333cdff22f84a22ef079?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 239392,
+        "external_ids": { "isrc": "AUUM71800927" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5pf44gn908vBYs0WnlVlDx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pf44gn908vBYs0WnlVlDx",
+        "id": "5pf44gn908vBYs0WnlVlDx",
+        "name": "Light My Dart Up",
+        "popularity": 31,
+        "uri": "spotify:track:5pf44gn908vBYs0WnlVlDx",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7813,7 +7813,7 @@
         "href": "https://api.spotify.com/v1/tracks/7LHUgPRGrmwJ2mSQWvBOMu",
         "id": "7LHUgPRGrmwJ2mSQWvBOMu",
         "name": "Wrong Man",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:7LHUgPRGrmwJ2mSQWvBOMu",
         "is_local": false
       },
@@ -8669,7 +8669,7 @@
         "href": "https://api.spotify.com/v1/tracks/3SWakZM9VTmOqLJm3SY0Aj",
         "id": "3SWakZM9VTmOqLJm3SY0Aj",
         "name": "Runaway - Live on the Resolution Tour",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:3SWakZM9VTmOqLJm3SY0Aj",
         "is_local": false
       },
@@ -8849,7 +8849,7 @@
         "href": "https://api.spotify.com/v1/tracks/32RvpDu1WySHk37q8KaDys",
         "id": "32RvpDu1WySHk37q8KaDys",
         "name": "Oh Oh Oh",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:32RvpDu1WySHk37q8KaDys",
         "is_local": false
       },
@@ -10673,7 +10673,7 @@
         "href": "https://api.spotify.com/v1/tracks/3f03TGsibwcLDJ30uSKNXC",
         "id": "3f03TGsibwcLDJ30uSKNXC",
         "name": "Breathe",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:3f03TGsibwcLDJ30uSKNXC",
         "is_local": false
       },
