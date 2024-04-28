@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 26404 },
+  "followers": { "href": null, "total": 26417 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTcxNDAwMzIwMCwwMDAwMDAwMDQ5YjRiNDYzNGQzNWNlMGI4YWJhM2I5ZjVmYmJkYjY4",
+  "snapshot_id": "MTcxNDA4OTYwMCwwMDAwMDAwMDlmMzM0Y2YxOGYxNzU3ZmYzNGYzYThlOTBjNTI3Y2Ey",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -1023,7 +1023,7 @@
         "href": "https://api.spotify.com/v1/tracks/5dmPNuHmRRJuHmJTDa7NuJ",
         "id": "5dmPNuHmRRJuHmJTDa7NuJ",
         "name": "Bambi",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:5dmPNuHmRRJuHmJTDa7NuJ",
         "is_local": false
       },
@@ -3227,7 +3227,7 @@
         "href": "https://api.spotify.com/v1/tracks/4vBIr27NcRFBNpyIxLHZuB",
         "id": "4vBIr27NcRFBNpyIxLHZuB",
         "name": "Golden",
-        "popularity": 45,
+        "popularity": 44,
         "uri": "spotify:track:4vBIr27NcRFBNpyIxLHZuB",
         "is_local": false
       },
@@ -4025,7 +4025,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4d12e82cf1c791f1a5dc0440af8a98e57ff4da4d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/0b405106ec3d568467e5a5ab84bb10925a201cbf?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -4213,7 +4213,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -4407,40 +4407,30 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1J05fZukYUxjZwzZQcMZDi",
-          "id": "1J05fZukYUxjZwzZQcMZDi",
+          "href": "https://api.spotify.com/v1/albums/2YvJnCMTTHVUBcnZFjs0f1",
+          "id": "2YvJnCMTTHVUBcnZFjs0f1",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a134280ec065ae100fd55314",
+              "url": "https://i.scdn.co/image/ab67616d0000b273e9e1ccb2d6927ffc08d5fe55",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a134280ec065ae100fd55314",
+              "url": "https://i.scdn.co/image/ab67616d00001e02e9e1ccb2d6927ffc08d5fe55",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a134280ec065ae100fd55314",
+              "url": "https://i.scdn.co/image/ab67616d00004851e9e1ccb2d6927ffc08d5fe55",
               "width": 64
             }
           ],
-          "name": "Maps",
-          "release_date": "2023-06-23",
+          "name": "Yippie Ki Yay",
+          "release_date": "2023-03-21",
           "release_date_precision": "day",
-          "uri": "spotify:album:1J05fZukYUxjZwzZQcMZDi",
+          "uri": "spotify:album:2YvJnCMTTHVUBcnZFjs0f1",
           "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-              },
-              "href": "https://api.spotify.com/v1/artists/0tYrHjgdca0ZLPkR4P0eW4",
-              "id": "0tYrHjgdca0ZLPkR4P0eW4",
-              "name": "Raffaella",
-              "type": "artist",
-              "uri": "spotify:artist:0tYrHjgdca0ZLPkR4P0eW4"
-            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
@@ -4453,21 +4443,11 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
+            "spotify": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
           },
           "total_tracks": 1
         },
         "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-            },
-            "href": "https://api.spotify.com/v1/artists/0tYrHjgdca0ZLPkR4P0eW4",
-            "id": "0tYrHjgdca0ZLPkR4P0eW4",
-            "name": "Raffaella",
-            "type": "artist",
-            "uri": "spotify:artist:0tYrHjgdca0ZLPkR4P0eW4"
-          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
@@ -4481,16 +4461,16 @@
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 210136,
-        "external_ids": { "isrc": "USQE92300047" },
+        "duration_ms": 266911,
+        "external_ids": { "isrc": "QM5BK1900620" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
+          "spotify": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
         },
-        "href": "https://api.spotify.com/v1/tracks/4CKRwn0AIG5Fmbf040suEj",
-        "id": "4CKRwn0AIG5Fmbf040suEj",
-        "name": "Maps",
-        "popularity": 41,
-        "uri": "spotify:track:4CKRwn0AIG5Fmbf040suEj",
+        "href": "https://api.spotify.com/v1/tracks/7kqwuYDC4u3vgN1xevrmGp",
+        "id": "7kqwuYDC4u3vgN1xevrmGp",
+        "name": "Yippie Ki Yay",
+        "popularity": 40,
+        "uri": "spotify:track:7kqwuYDC4u3vgN1xevrmGp",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4967,7 +4947,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/0b405106ec3d568467e5a5ab84bb10925a201cbf?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/4d12e82cf1c791f1a5dc0440af8a98e57ff4da4d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -5155,7 +5135,7 @@
           "ET",
           "XK"
         ],
-        "explicit": true,
+        "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
@@ -5349,30 +5329,40 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/2YvJnCMTTHVUBcnZFjs0f1",
-          "id": "2YvJnCMTTHVUBcnZFjs0f1",
+          "href": "https://api.spotify.com/v1/albums/1J05fZukYUxjZwzZQcMZDi",
+          "id": "1J05fZukYUxjZwzZQcMZDi",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e9e1ccb2d6927ffc08d5fe55",
+              "url": "https://i.scdn.co/image/ab67616d0000b273a134280ec065ae100fd55314",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e9e1ccb2d6927ffc08d5fe55",
+              "url": "https://i.scdn.co/image/ab67616d00001e02a134280ec065ae100fd55314",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e9e1ccb2d6927ffc08d5fe55",
+              "url": "https://i.scdn.co/image/ab67616d00004851a134280ec065ae100fd55314",
               "width": 64
             }
           ],
-          "name": "Yippie Ki Yay",
-          "release_date": "2023-03-21",
+          "name": "Maps",
+          "release_date": "2023-06-23",
           "release_date_precision": "day",
-          "uri": "spotify:album:2YvJnCMTTHVUBcnZFjs0f1",
+          "uri": "spotify:album:1J05fZukYUxjZwzZQcMZDi",
           "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+              },
+              "href": "https://api.spotify.com/v1/artists/0tYrHjgdca0ZLPkR4P0eW4",
+              "id": "0tYrHjgdca0ZLPkR4P0eW4",
+              "name": "Raffaella",
+              "type": "artist",
+              "uri": "spotify:artist:0tYrHjgdca0ZLPkR4P0eW4"
+            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
@@ -5385,11 +5375,21 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
+            "spotify": "https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi"
           },
           "total_tracks": 1
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+            },
+            "href": "https://api.spotify.com/v1/artists/0tYrHjgdca0ZLPkR4P0eW4",
+            "id": "0tYrHjgdca0ZLPkR4P0eW4",
+            "name": "Raffaella",
+            "type": "artist",
+            "uri": "spotify:artist:0tYrHjgdca0ZLPkR4P0eW4"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
@@ -5403,16 +5403,16 @@
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 266911,
-        "external_ids": { "isrc": "QM5BK1900620" },
+        "duration_ms": 210136,
+        "external_ids": { "isrc": "USQE92300047" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
+          "spotify": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
         },
-        "href": "https://api.spotify.com/v1/tracks/7kqwuYDC4u3vgN1xevrmGp",
-        "id": "7kqwuYDC4u3vgN1xevrmGp",
-        "name": "Yippie Ki Yay",
-        "popularity": 40,
-        "uri": "spotify:track:7kqwuYDC4u3vgN1xevrmGp",
+        "href": "https://api.spotify.com/v1/tracks/4CKRwn0AIG5Fmbf040suEj",
+        "id": "4CKRwn0AIG5Fmbf040suEj",
+        "name": "Maps",
+        "popularity": 41,
+        "uri": "spotify:track:4CKRwn0AIG5Fmbf040suEj",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8713,7 +8713,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Ejo5HF3RNGNauRmq337fa",
         "id": "3Ejo5HF3RNGNauRmq337fa",
         "name": "Sex Tape",
-        "popularity": 34,
+        "popularity": 33,
         "uri": "spotify:track:3Ejo5HF3RNGNauRmq337fa",
         "is_local": false
       },
