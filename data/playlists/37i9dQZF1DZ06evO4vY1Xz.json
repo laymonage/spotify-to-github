@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32266 },
+  "followers": { "href": null, "total": 32265 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZjGGAAAAAABp3c4ETy81TsUNjZO1ZQI3",
+  "snapshot_id": "ZjLXgAAAAACJPi4K/E+0SITCEf8tmquc",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -1173,7 +1173,7 @@
         "href": "https://api.spotify.com/v1/tracks/5DG2SWW7kPgYqOY0Ex5Ssj",
         "id": "5DG2SWW7kPgYqOY0Ex5Ssj",
         "name": "Brother",
-        "popularity": 57,
+        "popularity": 56,
         "uri": "spotify:track:5DG2SWW7kPgYqOY0Ex5Ssj",
         "is_local": false
       },
@@ -2645,7 +2645,7 @@
         "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
         "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
         "name": "Desert Land",
-        "popularity": 39,
+        "popularity": 38,
         "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
         "is_local": false
       },
@@ -3211,6 +3211,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/87c56015725a73871c2b1b27f1ce6eec1c755f4b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+          "id": "5jNjG588J6t474RR1Ch8NC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "width": 64
+            }
+          ],
+          "name": "Telluric",
+          "release_date": "2016-03-11",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 248693,
+        "external_ids": { "isrc": "AUUM71501114" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0OcfxEcuVKzc9CpaPklhS7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
+        "id": "0OcfxEcuVKzc9CpaPklhS7",
+        "name": "Monday",
+        "popularity": 37,
+        "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/18e0ad31f79d9847eeeb02b8cf78844c5881525a?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -3631,96 +3721,6 @@
         "name": "If I Never Say a Word",
         "popularity": 34,
         "uri": "spotify:track:1s27ikLoPsh4b6VZwBbH4O",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/87c56015725a73871c2b1b27f1ce6eec1c755f4b?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
-          "id": "5jNjG588J6t474RR1Ch8NC",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
-              "width": 64
-            }
-          ],
-          "name": "Telluric",
-          "release_date": "2016-03-11",
-          "release_date_precision": "day",
-          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 248693,
-        "external_ids": { "isrc": "AUUM71501114" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0OcfxEcuVKzc9CpaPklhS7"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
-        "id": "0OcfxEcuVKzc9CpaPklhS7",
-        "name": "Monday",
-        "popularity": 37,
-        "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4267,7 +4267,7 @@
         "href": "https://api.spotify.com/v1/tracks/1DM2VSFbZm7NXJ9Snq8nyb",
         "id": "1DM2VSFbZm7NXJ9Snq8nyb",
         "name": "No Ordinary Life",
-        "popularity": 37,
+        "popularity": 36,
         "uri": "spotify:track:1DM2VSFbZm7NXJ9Snq8nyb",
         "is_local": false
       },
@@ -5589,96 +5589,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
-              "width": 64
-            }
-          ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
-          "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 190851,
-        "external_ids": { "isrc": "AU2DY2300422" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
-        "id": "0eIXTxq5ScMa98AQq3zwyV",
-        "name": "No Scrubs - triple j Like A Version",
-        "popularity": 31,
-        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/61309a69aa6a5683a68a5ecf3a41ec66ba1455fa?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -6165,6 +6075,96 @@
         "name": "So Easy",
         "popularity": 38,
         "uri": "spotify:track:74rluVXirwea83JzfkbjmQ",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
+          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "width": 64
+            }
+          ],
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
+          "release_date_precision": "day",
+          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 190851,
+        "external_ids": { "isrc": "AU2DY2300422" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
+        "id": "0eIXTxq5ScMa98AQq3zwyV",
+        "name": "No Scrubs - triple j Like A Version",
+        "popularity": 31,
+        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8147,7 +8147,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FO620NLce2koHOhsHheJ6",
         "id": "3FO620NLce2koHOhsHheJ6",
         "name": "Untitled",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:3FO620NLce2koHOhsHheJ6",
         "is_local": false
       },
@@ -9763,7 +9763,7 @@
         "href": "https://api.spotify.com/v1/tracks/25n85g1IhB3JRran4cnWJ0",
         "id": "25n85g1IhB3JRran4cnWJ0",
         "name": "Coloured Stones And Walls",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:25n85g1IhB3JRran4cnWJ0",
         "is_local": false
       },
