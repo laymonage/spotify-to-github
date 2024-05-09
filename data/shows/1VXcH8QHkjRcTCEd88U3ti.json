@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 178,
+  "total_episodes": 177,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4K9s1yszxTqJh6NHSwu02s/clip_468998_528998.mp3",
+      "description": "In an exclusive preview of unreleased technology, designer and inventor Jason Rugolo unveils an entirely new kind of computer you can talk to like a friend. This \"audio computer\" — which can augment the sounds around you, translate conversations in real time, naturally respond to your voice and more — promises to shake up how we use our devices. It's shown publicly for the first time ever on the TED stage.",
+      "duration_ms": 865980,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7F7YgrKgEJ0pyjLgM1RvSw"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7F7YgrKgEJ0pyjLgM1RvSw",
+      "html_description": "<p>In an exclusive preview of unreleased technology, designer and inventor Jason Rugolo unveils an entirely new kind of computer you can talk to like a friend. This &#34;audio computer&#34; — which can augment the sounds around you, translate conversations in real time, naturally respond to your voice and more — promises to shake up how we use our devices. It&#39;s shown publicly for the first time ever on the TED stage.</p>",
+      "id": "7F7YgrKgEJ0pyjLgM1RvSw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a8366de6c3243d63e38830fe4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f8366de6c3243d63e38830fe4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d8366de6c3243d63e38830fe4",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Welcome to the world of audio computers | Jason Rugolo",
+      "release_date": "2024-05-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:7F7YgrKgEJ0pyjLgM1RvSw"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4qUzNYblIrsaW0hUakc7M3/clip_364540_424540.mp3",
       "description": "The political system in the United States needs a redesign, says political reformer Andrew Yang. Exposing the flaws of a system built on poor incentives, he proposes a cost-effective overhaul inspired by primary elections already working in places like Alaska and advocates for ranked-choice voting, where voters can choose candidates in order of preference regardless of party, stemming the influence of extreme ideologies.",
@@ -1414,45 +1453,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6fH60Z4T1U70NXt6yh3KwI"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
-      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.",
-      "duration_ms": 793039,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
-      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.</p>",
-      "id": "5XIm3I3xQm1fE01mOBm9AR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "There's more to life than being happy | Emily Esfahani Smith",
-      "release_date": "2024-04-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
@@ -7071,30 +7071,30 @@
       "uri": "spotify:episode:1of2bSyw9fTHGZG77KXQsj"
     },
     {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2xVfRa4zFmmZglxeZ7JE2L/clip_828800_897900.mp3",
-      "description": "As a standup comedian and the host of the TED podcast How to Be a Better Human, Chris Duffy knows how to be engaging in front of a microphone. However, he feels awkward about posting on social media yet worries that not posting is costing him opportunities and a bigger audience. It's a problem that Anne and Frances have faced too. Together, they talk about the art and mindset of self-promotion and the ways YOU can rethink your online presence so it feels more aligned with what you stand for.   Transcripts for Fixable are available at go.ted.com/fixablescripts.",
-      "duration_ms": 1953972,
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
+      "duration_ms": 758949,
       "explicit": false,
       "external_urls": {
-        "spotify": "https://open.spotify.com/episode/4Lr4fo8fBd69EHkPMeTDNM"
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
       },
-      "href": "https://api.spotify.com/v1/episodes/4Lr4fo8fBd69EHkPMeTDNM",
-      "html_description": "<p>As a standup comedian and the host of the TED podcast How to Be a Better Human, Chris Duffy knows how to be engaging in front of a microphone. However, he feels awkward about posting on social media yet worries that not posting is costing him opportunities and a bigger audience. It&#39;s a problem that Anne and Frances have faced too. Together, they talk about the art and mindset of self-promotion and the ways YOU can rethink your online presence so it feels more aligned with what you stand for. </p><br/><p>Transcripts for Fixable are available at go.ted.com/fixablescripts.</p>",
-      "id": "4Lr4fo8fBd69EHkPMeTDNM",
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a22ca228b0214c52b7c91fa73",
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f22ca228b0214c52b7c91fa73",
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
           "width": 300
         },
         {
           "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d22ca228b0214c52b7c91fa73",
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
           "width": 64
         }
       ],
@@ -7102,51 +7102,12 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "Fixable: How to self-promote without shame (w/ Chris Duffy)",
-      "release_date": "2023-10-18",
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2018-07-31",
       "release_date_precision": "day",
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
-      "uri": "spotify:episode:4Lr4fo8fBd69EHkPMeTDNM"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5XRqoq8NSBdSm3ETnoImte/clip_397300_445300.mp3",
-      "description": "In the long term, shutting down a coal mine means cleaner air and a healthier environment — but in the short term, it can devastate a community or family that relied on the mine's paychecks to make ends meet. Environmental justice advocate Payton M. Wilkins thinks we can protect both workers and the planet with an age-old solution: unions. He digs into the economic fallout of ditching fossil fuels and shows why unions are well-positioned to push the transition to clean energy and green jobs.",
-      "duration_ms": 632820,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/09vUKU7M6Sj2za58gvCuNb"
-      },
-      "href": "https://api.spotify.com/v1/episodes/09vUKU7M6Sj2za58gvCuNb",
-      "html_description": "<p>In the long term, shutting down a coal mine means cleaner air and a healthier environment — but in the short term, it can devastate a community or family that relied on the mine&#39;s paychecks to make ends meet. Environmental justice advocate Payton M. Wilkins thinks we can protect both workers and the planet with an age-old solution: unions. He digs into the economic fallout of ditching fossil fuels and shows why unions are well-positioned to push the transition to clean energy and green jobs.</p>",
-      "id": "09vUKU7M6Sj2za58gvCuNb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ae61762c99890d7ab8c82dcbd",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fe61762c99890d7ab8c82dcbd",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68de61762c99890d7ab8c82dcbd",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Unions for climate action! | Payton M. Wilkins",
-      "release_date": "2023-10-17",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:09vUKU7M6Sj2za58gvCuNb"
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }
