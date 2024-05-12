@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 26509 },
+  "followers": { "href": null, "total": 26518 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZjrAgAAAAACdVg7u0KvVkoRsNXdNC9LZ",
+  "snapshot_id": "Zj1jgAAAAADgVmUmopvuLJrgBpeoY48n",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -485,7 +485,7 @@
         "href": "https://api.spotify.com/v1/tracks/21gA87I4UP9oGRcwJg0ZWT",
         "id": "21gA87I4UP9oGRcwJg0ZWT",
         "name": "Everything At Once",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:21gA87I4UP9oGRcwJg0ZWT",
         "is_local": false
       },
@@ -755,7 +755,7 @@
         "href": "https://api.spotify.com/v1/tracks/5lO1htX1UPjwyItDLurhR5",
         "id": "5lO1htX1UPjwyItDLurhR5",
         "name": "baseball",
-        "popularity": 54,
+        "popularity": 55,
         "uri": "spotify:track:5lO1htX1UPjwyItDLurhR5",
         "is_local": false
       },
@@ -2035,7 +2035,7 @@
         "href": "https://api.spotify.com/v1/tracks/0scQIzgcOhnmfqfOTpRUFH",
         "id": "0scQIzgcOhnmfqfOTpRUFH",
         "name": "Suicide Saturday",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:0scQIzgcOhnmfqfOTpRUFH",
         "is_local": false
       },
@@ -9193,6 +9193,326 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/c95286a21741c6feb74c7f0e05b9cf104b2e490c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["CA", "MX", "US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["CA", "MX", "US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1TW8DEoKubumkQIbsaNF3h",
+          "id": "1TW8DEoKubumkQIbsaNF3h",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27382d8196d93b20ee85ec73c52",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0282d8196d93b20ee85ec73c52",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485182d8196d93b20ee85ec73c52",
+              "width": 64
+            }
+          ],
+          "name": "South",
+          "release_date": "2015-10-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1TW8DEoKubumkQIbsaNF3h",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1TW8DEoKubumkQIbsaNF3h"
+          },
+          "total_tracks": 5
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 190663,
+        "external_ids": { "isrc": "QM5BK1500001" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2nX6WdJ9ojWhgZ2AQKtWkZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2nX6WdJ9ojWhgZ2AQKtWkZ",
+        "id": "2nX6WdJ9ojWhgZ2AQKtWkZ",
+        "name": "Close To Gold",
+        "popularity": 33,
+        "uri": "spotify:track:2nX6WdJ9ojWhgZ2AQKtWkZ",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/885045fdacb51c53fa0e28900f8ac50eeeec16de?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "TT",
+          "US",
+          "VC"
+        ],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [
+            "AG",
+            "BB",
+            "BS",
+            "BZ",
+            "CA",
+            "CR",
+            "CW",
+            "DM",
+            "DO",
+            "GD",
+            "GT",
+            "HN",
+            "HT",
+            "JM",
+            "KN",
+            "LC",
+            "MX",
+            "NI",
+            "PA",
+            "PR",
+            "SV",
+            "TT",
+            "US",
+            "VC"
+          ],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/4xLfXadj5rWOww2Na6LiBd",
+          "id": "4xLfXadj5rWOww2Na6LiBd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27317a254f4b79067b7f026ae4f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0217a254f4b79067b7f026ae4f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485117a254f4b79067b7f026ae4f",
+              "width": 64
+            }
+          ],
+          "name": "Demos II",
+          "release_date": "2019-07-10",
+          "release_date_precision": "day",
+          "uri": "spotify:album:4xLfXadj5rWOww2Na6LiBd",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4xLfXadj5rWOww2Na6LiBd"
+          },
+          "total_tracks": 9
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 198373,
+        "external_ids": { "isrc": "QM5BK1900288" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7LHfH5NwvTvaUOavdgMSEl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LHfH5NwvTvaUOavdgMSEl",
+        "id": "7LHfH5NwvTvaUOavdgMSEl",
+        "name": "Chapstick - Demo",
+        "popularity": 36,
+        "uri": "spotify:track:7LHfH5NwvTvaUOavdgMSEl",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/7aef5147aa4007316ce0ed59567f7318584b055c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["CA", "MX", "US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["CA", "MX", "US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/2O8JV6cLUmyO3w2nf5PuBh",
+          "id": "2O8JV6cLUmyO3w2nf5PuBh",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e19546ecf8d7d85e30b4741f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e19546ecf8d7d85e30b4741f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e19546ecf8d7d85e30b4741f",
+              "width": 64
+            }
+          ],
+          "name": "Bashful Creatures",
+          "release_date": "2015-02-24",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2O8JV6cLUmyO3w2nf5PuBh",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2O8JV6cLUmyO3w2nf5PuBh"
+          },
+          "total_tracks": 6
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 5,
+        "duration_ms": 139822,
+        "external_ids": { "isrc": "TCACB1435809" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/79LfU5ufUmiLvLURU23Yyf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/79LfU5ufUmiLvLURU23Yyf",
+        "id": "79LfU5ufUmiLvLURU23Yyf",
+        "name": "Opportunistic",
+        "popularity": 34,
+        "uri": "spotify:track:79LfU5ufUmiLvLURU23Yyf",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/77c2977b2553506618155f85bf9dd48033c6c61e?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -9655,326 +9975,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/885045fdacb51c53fa0e28900f8ac50eeeec16de?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AG",
-          "BB",
-          "BS",
-          "BZ",
-          "CA",
-          "CR",
-          "CW",
-          "DM",
-          "DO",
-          "GD",
-          "GT",
-          "HN",
-          "HT",
-          "JM",
-          "KN",
-          "LC",
-          "MX",
-          "NI",
-          "PA",
-          "PR",
-          "SV",
-          "TT",
-          "US",
-          "VC"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [
-            "AG",
-            "BB",
-            "BS",
-            "BZ",
-            "CA",
-            "CR",
-            "CW",
-            "DM",
-            "DO",
-            "GD",
-            "GT",
-            "HN",
-            "HT",
-            "JM",
-            "KN",
-            "LC",
-            "MX",
-            "NI",
-            "PA",
-            "PR",
-            "SV",
-            "TT",
-            "US",
-            "VC"
-          ],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4xLfXadj5rWOww2Na6LiBd",
-          "id": "4xLfXadj5rWOww2Na6LiBd",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317a254f4b79067b7f026ae4f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217a254f4b79067b7f026ae4f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117a254f4b79067b7f026ae4f",
-              "width": 64
-            }
-          ],
-          "name": "Demos II",
-          "release_date": "2019-07-10",
-          "release_date_precision": "day",
-          "uri": "spotify:album:4xLfXadj5rWOww2Na6LiBd",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4xLfXadj5rWOww2Na6LiBd"
-          },
-          "total_tracks": 9
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 198373,
-        "external_ids": { "isrc": "QM5BK1900288" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7LHfH5NwvTvaUOavdgMSEl"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7LHfH5NwvTvaUOavdgMSEl",
-        "id": "7LHfH5NwvTvaUOavdgMSEl",
-        "name": "Chapstick - Demo",
-        "popularity": 36,
-        "uri": "spotify:track:7LHfH5NwvTvaUOavdgMSEl",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/7aef5147aa4007316ce0ed59567f7318584b055c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["CA", "MX", "US"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/2O8JV6cLUmyO3w2nf5PuBh",
-          "id": "2O8JV6cLUmyO3w2nf5PuBh",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e19546ecf8d7d85e30b4741f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e19546ecf8d7d85e30b4741f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e19546ecf8d7d85e30b4741f",
-              "width": 64
-            }
-          ],
-          "name": "Bashful Creatures",
-          "release_date": "2015-02-24",
-          "release_date_precision": "day",
-          "uri": "spotify:album:2O8JV6cLUmyO3w2nf5PuBh",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2O8JV6cLUmyO3w2nf5PuBh"
-          },
-          "total_tracks": 6
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 139822,
-        "external_ids": { "isrc": "TCACB1435809" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/79LfU5ufUmiLvLURU23Yyf"
-        },
-        "href": "https://api.spotify.com/v1/tracks/79LfU5ufUmiLvLURU23Yyf",
-        "id": "79LfU5ufUmiLvLURU23Yyf",
-        "name": "Opportunistic",
-        "popularity": 34,
-        "uri": "spotify:track:79LfU5ufUmiLvLURU23Yyf",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c95286a21741c6feb74c7f0e05b9cf104b2e490c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["CA", "MX", "US"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1TW8DEoKubumkQIbsaNF3h",
-          "id": "1TW8DEoKubumkQIbsaNF3h",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27382d8196d93b20ee85ec73c52",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0282d8196d93b20ee85ec73c52",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485182d8196d93b20ee85ec73c52",
-              "width": 64
-            }
-          ],
-          "name": "South",
-          "release_date": "2015-10-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1TW8DEoKubumkQIbsaNF3h",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1TW8DEoKubumkQIbsaNF3h"
-          },
-          "total_tracks": 5
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 190663,
-        "external_ids": { "isrc": "QM5BK1500001" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2nX6WdJ9ojWhgZ2AQKtWkZ"
-        },
-        "href": "https://api.spotify.com/v1/tracks/2nX6WdJ9ojWhgZ2AQKtWkZ",
-        "id": "2nX6WdJ9ojWhgZ2AQKtWkZ",
-        "name": "Close To Gold",
-        "popularity": 33,
-        "uri": "spotify:track:2nX6WdJ9ojWhgZ2AQKtWkZ",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/7221dfa9488248ec953759b88f3e29a6bbdaf87d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["CA", "MX", "US"],
         "explicit": false,
@@ -10189,6 +10189,96 @@
         "name": "Pin - Demo",
         "popularity": 33,
         "uri": "spotify:track:0WFmNgxgMylXiuJDCfpMeq",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/2484c0a8d798f9b5c17c526146f098a00a83983e?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["CA", "MX", "US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["CA", "MX", "US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1TW8DEoKubumkQIbsaNF3h",
+          "id": "1TW8DEoKubumkQIbsaNF3h",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27382d8196d93b20ee85ec73c52",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0282d8196d93b20ee85ec73c52",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485182d8196d93b20ee85ec73c52",
+              "width": 64
+            }
+          ],
+          "name": "South",
+          "release_date": "2015-10-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1TW8DEoKubumkQIbsaNF3h",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1TW8DEoKubumkQIbsaNF3h"
+          },
+          "total_tracks": 5
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 251601,
+        "external_ids": { "isrc": "QM5BK1500002" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/17D3saZiiduvOg7Bg6ebGw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/17D3saZiiduvOg7Bg6ebGw",
+        "id": "17D3saZiiduvOg7Bg6ebGw",
+        "name": "Dollar Bill",
+        "popularity": 34,
+        "uri": "spotify:track:17D3saZiiduvOg7Bg6ebGw",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -10649,96 +10739,6 @@
         "name": "Deepfake",
         "popularity": 32,
         "uri": "spotify:track:7M31WQ0JTbllfAmhwlG62k",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2484c0a8d798f9b5c17c526146f098a00a83983e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "MX", "US"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["CA", "MX", "US"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1TW8DEoKubumkQIbsaNF3h",
-          "id": "1TW8DEoKubumkQIbsaNF3h",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27382d8196d93b20ee85ec73c52",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0282d8196d93b20ee85ec73c52",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485182d8196d93b20ee85ec73c52",
-              "width": 64
-            }
-          ],
-          "name": "South",
-          "release_date": "2015-10-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1TW8DEoKubumkQIbsaNF3h",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1TW8DEoKubumkQIbsaNF3h"
-          },
-          "total_tracks": 5
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 251601,
-        "external_ids": { "isrc": "QM5BK1500002" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/17D3saZiiduvOg7Bg6ebGw"
-        },
-        "href": "https://api.spotify.com/v1/tracks/17D3saZiiduvOg7Bg6ebGw",
-        "id": "17D3saZiiduvOg7Bg6ebGw",
-        "name": "Dollar Bill",
-        "popularity": 34,
-        "uri": "spotify:track:17D3saZiiduvOg7Bg6ebGw",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
