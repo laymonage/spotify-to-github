@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 176,
+  "total_episodes": 177,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2KK8gyRnyn2KZbB1zEWQoV/clip_142088_202088.mp3",
+      "description": "As climate change leads to more and more natural disasters, a group of workers is showing up at one site after another to rebuild and repair. Labor organizer Saket Soni tells the stories of Resilience Force — the group of mostly immigrant workers restoring homes after hurricanes, floods and fires — and describes the unexpected bonds developing between the residents whose lives have been turned upside down and the laborers helping put things back together.",
+      "duration_ms": 825060,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2pHpJE864YnqakOaB3yQoD"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2pHpJE864YnqakOaB3yQoD",
+      "html_description": "<p>As climate change leads to more and more natural disasters, a group of workers is showing up at one site after another to rebuild and repair. Labor organizer Saket Soni tells the stories of Resilience Force — the group of mostly immigrant workers restoring homes after hurricanes, floods and fires — and describes the unexpected bonds developing between the residents whose lives have been turned upside down and the laborers helping put things back together.</p>",
+      "id": "2pHpJE864YnqakOaB3yQoD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a8fc4ea827d2c97228ec7296d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f8fc4ea827d2c97228ec7296d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d8fc4ea827d2c97228ec7296d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The workers rebuilding communities after natural disasters | Saket Soni",
+      "release_date": "2024-05-16",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:2pHpJE864YnqakOaB3yQoD"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6TeTf5UGBLBuB49oYGT2gE/clip_458919_518919.mp3",
       "description": "In the beginning of the universe, all was darkness — until the first organisms developed sight, which ushered in an explosion of life, learning and progress. AI pioneer Fei-Fei Li says a similar moment is about to happen for computers and robots. She shows how machines are gaining \"spatial intelligence\" — the ability to process visual data, make predictions and act upon those predictions — and shares how this could enable AI to interact with humans in the real world.",
@@ -1726,6 +1765,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6fH60Z4T1U70NXt6yh3KwI"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.",
+      "duration_ms": 793039,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2024-04-06",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
@@ -7030,45 +7108,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7EneR6hxR12xCW4MjcUIfd"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
-      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
-      "duration_ms": 758949,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
-      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
-      "id": "5XIm3I3xQm1fE01mOBm9AR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "There's more to life than being happy | Emily Esfahani Smith",
-      "release_date": "2018-07-31",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }
