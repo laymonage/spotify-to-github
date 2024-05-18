@@ -207,6 +207,45 @@
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7nQM1HobEIU95l9iOQ4NkJ/clip_123940_183940.mp3",
+      "description": "What you experience through your senses — sight, smell, hearing, taste and touch — can impact how healthy you are and how long you live, says neurobiologist Christi Gendron. She explores how environmental cues like temperature, light and even just the sight of death have influenced the lifespan of fruit flies, suggesting your everyday perceptions may have direct repercussions on your ability to live a long, healthy life.",
+      "duration_ms": 776700,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0La7tixP6nCBDHexg828j4"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0La7tixP6nCBDHexg828j4",
+      "html_description": "<p>What you experience through your senses — sight, smell, hearing, taste and touch — can impact how healthy you are and how long you live, says neurobiologist Christi Gendron. She explores how environmental cues like temperature, light and even just the sight of death have influenced the lifespan of fruit flies, suggesting your everyday perceptions may have direct repercussions on your ability to live a long, healthy life.</p>",
+      "id": "0La7tixP6nCBDHexg828j4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ab06a3e93c6628c0f2ddcf883",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fb06a3e93c6628c0f2ddcf883",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68db06a3e93c6628c0f2ddcf883",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The science of lifespan — and the impact of your five senses | Christi Gendron",
+      "release_date": "2024-05-17",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0La7tixP6nCBDHexg828j4"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2KK8gyRnyn2KZbB1zEWQoV/clip_142088_202088.mp3",
       "description": "As climate change leads to more and more natural disasters, a group of workers is showing up at one site after another to rebuild and repair. Labor organizer Saket Soni tells the stories of Resilience Force — the group of mostly immigrant workers restoring homes after hurricanes, floods and fires — and describes the unexpected bonds developing between the residents whose lives have been turned upside down and the laborers helping put things back together.",
       "duration_ms": 825060,
@@ -7069,45 +7108,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4volaRtErqdlMxKRszzTBZ"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7aOZDXEYr7x2d94a6GN2bV/clip_593300_662800.mp3",
-      "description": "US Congresswoman Lucy McBath has made it her mission to seek bipartisan solutions for gun safety, leading the way in sponsoring so-called “red flag” laws that prevent gun violence and mass shootings. In a searing and timely talk, she shares the personal story that led her to this work — and a message for why comprehensive, common-sense gun legislation in the US is more urgent than ever.",
-      "duration_ms": 797964,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/7EneR6hxR12xCW4MjcUIfd"
-      },
-      "href": "https://api.spotify.com/v1/episodes/7EneR6hxR12xCW4MjcUIfd",
-      "html_description": "<p>US Congresswoman Lucy McBath has made it her mission to seek bipartisan solutions for gun safety, leading the way in sponsoring so-called “red flag” laws that prevent gun violence and mass shootings. In a searing and timely talk, she shares the personal story that led her to this work — and a message for why comprehensive, common-sense gun legislation in the US is more urgent than ever.</p>",
-      "id": "7EneR6hxR12xCW4MjcUIfd",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8ab833567509a6cce8fe59e91d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1fb833567509a6cce8fe59e91d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68db833567509a6cce8fe59e91d",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "My quest to end the horror of gun violence in the US | Lucy McBath",
-      "release_date": "2023-10-28",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:7EneR6hxR12xCW4MjcUIfd"
     }
   ]
 }
