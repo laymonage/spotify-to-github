@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 177,
+  "total_episodes": 178,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0QAC1LAnzrEUNHDl5AzdCw/clip_381822_441822.mp3",
+      "description": "When the world's problems have you weary, journalist and science fiction writer Annalee Newitz suggests a good dose of escapist fiction to refresh your perspective. Step into the whimsical world of science fiction, cosplay and \"goblincore\" to see how fantasy worlds help us reimagine our relationships with our communities and each other — and why the best way to solve your problems may start with escaping them.",
+      "duration_ms": 920388,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0RSAW86qvrO5i14j4JGSyD"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0RSAW86qvrO5i14j4JGSyD",
+      "html_description": "<p>When the world&#39;s problems have you weary, journalist and science fiction writer Annalee Newitz suggests a good dose of escapist fiction to refresh your perspective. Step into the whimsical world of science fiction, cosplay and &#34;goblincore&#34; to see how fantasy worlds help us reimagine our relationships with our communities and each other — and why the best way to solve your problems may start with escaping them.</p>",
+      "id": "0RSAW86qvrO5i14j4JGSyD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a93a2723924517654cce1b3c3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f93a2723924517654cce1b3c3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d93a2723924517654cce1b3c3",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How fantasy worlds can spark real change | Annalee Newitz",
+      "release_date": "2024-05-18",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0RSAW86qvrO5i14j4JGSyD"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7nQM1HobEIU95l9iOQ4NkJ/clip_123940_183940.mp3",
       "description": "What you experience through your senses — sight, smell, hearing, taste and touch — can impact how healthy you are and how long you live, says neurobiologist Christi Gendron. She explores how environmental cues like temperature, light and even just the sight of death have influenced the lifespan of fruit flies, suggesting your everyday perceptions may have direct repercussions on your ability to live a long, healthy life.",
@@ -1804,45 +1843,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6fH60Z4T1U70NXt6yh3KwI"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
-      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.",
-      "duration_ms": 793039,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
-      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.</p>",
-      "id": "5XIm3I3xQm1fE01mOBm9AR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "There's more to life than being happy | Emily Esfahani Smith",
-      "release_date": "2024-04-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
@@ -7108,6 +7108,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4volaRtErqdlMxKRszzTBZ"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
+      "duration_ms": 758949,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2018-07-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }
