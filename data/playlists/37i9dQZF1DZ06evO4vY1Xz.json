@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32414 },
+  "followers": { "href": null, "total": 32422 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZmeTgAAAAADa55t01+oeTFQ1yU404qbz",
+  "snapshot_id": "ZmjlAAAAAADmwwahT1SC8nPalzt+C93D",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -1085,6 +1085,96 @@
         "name": "Brother",
         "popularity": 52,
         "uri": "spotify:track:5DG2SWW7kPgYqOY0Ex5Ssj",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/47a4f20bb8dbfd944bce53996076bd22ab117c06?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 9,
+        "duration_ms": 262257,
+        "external_ids": { "isrc": "AUUM71800934" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zxJlZh20vaB1TcZAUZ8Pz",
+        "id": "5zxJlZh20vaB1TcZAUZ8Pz",
+        "name": "Miracle Love",
+        "popularity": 45,
+        "uri": "spotify:track:5zxJlZh20vaB1TcZAUZ8Pz",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4879,96 +4969,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
-              "width": 64
-            }
-          ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
-          "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 190851,
-        "external_ids": { "isrc": "AU2DY2300422" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
-        "id": "0eIXTxq5ScMa98AQq3zwyV",
-        "name": "No Scrubs - triple j Like A Version",
-        "popularity": 25,
-        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": null,
         "available_markets": [
           "AR",
@@ -5341,6 +5341,96 @@
         "name": "Made of Stone",
         "popularity": 31,
         "uri": "spotify:track:75kHuG6iFGA7lOMKPiojr0",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
+          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "width": 64
+            }
+          ],
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
+          "release_date_precision": "day",
+          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 190851,
+        "external_ids": { "isrc": "AU2DY2300422" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
+        "id": "0eIXTxq5ScMa98AQq3zwyV",
+        "name": "No Scrubs - triple j Like A Version",
+        "popularity": 25,
+        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8031,7 +8121,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/80a09b2b42adc8f3e77a9a4882bcaecc55f2b672?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/151cebf560dfb2d7ce5d55a39bd03015dc03054b?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -8040,46 +8130,46 @@
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "compilation",
-          "href": "https://api.spotify.com/v1/albums/01jFhErYw5UqN9mNQxzZBj",
-          "id": "01jFhErYw5UqN9mNQxzZBj",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
+          "id": "51ET6cqHUpWJRtIHdJI20H",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735babce5bb4a5fcc6b577d6f5",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e025babce5bb4a5fcc6b577d6f5",
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048515babce5bb4a5fcc6b577d6f5",
+              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
               "width": 64
             }
           ],
-          "name": "Crucible - The Songs of Hunters & Collectors",
-          "release_date": "2013-09-27",
+          "name": "Into The Flame",
+          "release_date": "2011-01-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:01jFhErYw5UqN9mNQxzZBj",
+          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
               },
-              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-              "id": "0LyfQWJT6nXafLPZqxe9Of",
-              "name": "Various Artists",
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
               "type": "artist",
-              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/01jFhErYw5UqN9mNQxzZBj"
+            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
           },
-          "total_tracks": 30
+          "total_tracks": 4
         },
         "artists": [
           {
@@ -8091,30 +8181,20 @@
             "name": "Matt Corby",
             "type": "artist",
             "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
-            },
-            "href": "https://api.spotify.com/v1/artists/6aP8ry8w3bSNyfyqhE8rGf",
-            "id": "6aP8ry8w3bSNyfyqhE8rGf",
-            "name": "Missy Higgins",
-            "type": "artist",
-            "uri": "spotify:artist:6aP8ry8w3bSNyfyqhE8rGf"
           }
         ],
         "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 265866,
-        "external_ids": { "isrc": "AULI01387670" },
+        "track_number": 4,
+        "duration_ms": 281960,
+        "external_ids": { "isrc": "AUUM71101251" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7IerZKWp0Ml3pVjVLscceX"
+          "spotify": "https://open.spotify.com/track/3XGI7w6DFAFCyvvpvuqRTu"
         },
-        "href": "https://api.spotify.com/v1/tracks/7IerZKWp0Ml3pVjVLscceX",
-        "id": "7IerZKWp0Ml3pVjVLscceX",
-        "name": "This Morning",
-        "popularity": 21,
-        "uri": "spotify:track:7IerZKWp0Ml3pVjVLscceX",
+        "href": "https://api.spotify.com/v1/tracks/3XGI7w6DFAFCyvvpvuqRTu",
+        "id": "3XGI7w6DFAFCyvvpvuqRTu",
+        "name": "Big Eyes",
+        "popularity": 22,
+        "uri": "spotify:track:3XGI7w6DFAFCyvvpvuqRTu",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8311,7 +8391,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ef080ca7121949161204824c261be4c9533d37fa?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/80a09b2b42adc8f3e77a9a4882bcaecc55f2b672?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -8320,46 +8400,46 @@
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "album_type": "compilation",
+          "href": "https://api.spotify.com/v1/albums/01jFhErYw5UqN9mNQxzZBj",
+          "id": "01jFhErYw5UqN9mNQxzZBj",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735babce5bb4a5fcc6b577d6f5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d00001e025babce5bb4a5fcc6b577d6f5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d000048515babce5bb4a5fcc6b577d6f5",
               "width": 64
             }
           ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
+          "name": "Crucible - The Songs of Hunters & Collectors",
+          "release_date": "2013-09-27",
           "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "uri": "spotify:album:01jFhErYw5UqN9mNQxzZBj",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
               },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "Various Artists",
               "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+            "spotify": "https://open.spotify.com/album/01jFhErYw5UqN9mNQxzZBj"
           },
-          "total_tracks": 11
+          "total_tracks": 30
         },
         "artists": [
           {
@@ -8371,20 +8451,30 @@
             "name": "Matt Corby",
             "type": "artist",
             "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+            },
+            "href": "https://api.spotify.com/v1/artists/6aP8ry8w3bSNyfyqhE8rGf",
+            "id": "6aP8ry8w3bSNyfyqhE8rGf",
+            "name": "Missy Higgins",
+            "type": "artist",
+            "uri": "spotify:artist:6aP8ry8w3bSNyfyqhE8rGf"
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 275466,
-        "external_ids": { "isrc": "AUUM71800932" },
+        "track_number": 3,
+        "duration_ms": 265866,
+        "external_ids": { "isrc": "AULI01387670" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1F5Jj0oHJAiSiindKfmvgg"
+          "spotify": "https://open.spotify.com/track/7IerZKWp0Ml3pVjVLscceX"
         },
-        "href": "https://api.spotify.com/v1/tracks/1F5Jj0oHJAiSiindKfmvgg",
-        "id": "1F5Jj0oHJAiSiindKfmvgg",
-        "name": "New Day Coming",
+        "href": "https://api.spotify.com/v1/tracks/7IerZKWp0Ml3pVjVLscceX",
+        "id": "7IerZKWp0Ml3pVjVLscceX",
+        "name": "This Morning",
         "popularity": 21,
-        "uri": "spotify:track:1F5Jj0oHJAiSiindKfmvgg",
+        "uri": "spotify:track:7IerZKWp0Ml3pVjVLscceX",
         "is_local": false
       },
       "video_thumbnail": { "url": null }

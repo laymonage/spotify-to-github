@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ohLfG"
   },
-  "followers": { "href": null, "total": 67150 },
+  "followers": { "href": null, "total": 67170 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4ohLfG?locale=*",
   "id": "37i9dQZF1DZ06evO4ohLfG",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZmeTgAAAAADQEhKYUGIehdkJHckrHETi",
+  "snapshot_id": "ZmjlAAAAAABX3bgOrPN83eHmk1km3zPf",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4ohLfG",
   "tracks": [
@@ -7021,7 +7021,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/24a50521c89a55035c76c967dedd1b23a3073ae2?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/18678b1176853917f66d4bb4977fbf573dea0033?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -7453,30 +7453,20 @@
             "name": "Vulfpeck",
             "type": "artist",
             "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
-            },
-            "href": "https://api.spotify.com/v1/artists/7vWFpgyWJ9CXisL0x6vYJN",
-            "id": "7vWFpgyWJ9CXisL0x6vYJN",
-            "name": "Antwaun Stanley",
-            "type": "artist",
-            "uri": "spotify:artist:7vWFpgyWJ9CXisL0x6vYJN"
           }
         ],
         "disc_number": 1,
-        "track_number": 6,
-        "duration_ms": 216095,
-        "external_ids": { "isrc": "TCAGQ2267227" },
+        "track_number": 1,
+        "duration_ms": 195223,
+        "external_ids": { "isrc": "QZTAZ2212399" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3r1lIgVqHRYp5NmLmFL0BR"
+          "spotify": "https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY"
         },
-        "href": "https://api.spotify.com/v1/tracks/3r1lIgVqHRYp5NmLmFL0BR",
-        "id": "3r1lIgVqHRYp5NmLmFL0BR",
-        "name": "In Heaven",
-        "popularity": 38,
-        "uri": "spotify:track:3r1lIgVqHRYp5NmLmFL0BR",
+        "href": "https://api.spotify.com/v1/tracks/1DSl7kRrdWhwntiK6HOLVY",
+        "id": "1DSl7kRrdWhwntiK6HOLVY",
+        "name": "Sauna",
+        "popularity": 39,
+        "uri": "spotify:track:1DSl7kRrdWhwntiK6HOLVY",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8899,7 +8889,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/18678b1176853917f66d4bb4977fbf573dea0033?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/24a50521c89a55035c76c967dedd1b23a3073ae2?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -9331,20 +9321,30 @@
             "name": "Vulfpeck",
             "type": "artist",
             "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vWFpgyWJ9CXisL0x6vYJN",
+            "id": "7vWFpgyWJ9CXisL0x6vYJN",
+            "name": "Antwaun Stanley",
+            "type": "artist",
+            "uri": "spotify:artist:7vWFpgyWJ9CXisL0x6vYJN"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 195223,
-        "external_ids": { "isrc": "QZTAZ2212399" },
+        "track_number": 6,
+        "duration_ms": 216095,
+        "external_ids": { "isrc": "TCAGQ2267227" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY"
+          "spotify": "https://open.spotify.com/track/3r1lIgVqHRYp5NmLmFL0BR"
         },
-        "href": "https://api.spotify.com/v1/tracks/1DSl7kRrdWhwntiK6HOLVY",
-        "id": "1DSl7kRrdWhwntiK6HOLVY",
-        "name": "Sauna",
-        "popularity": 39,
-        "uri": "spotify:track:1DSl7kRrdWhwntiK6HOLVY",
+        "href": "https://api.spotify.com/v1/tracks/3r1lIgVqHRYp5NmLmFL0BR",
+        "id": "3r1lIgVqHRYp5NmLmFL0BR",
+        "name": "In Heaven",
+        "popularity": 38,
+        "uri": "spotify:track:3r1lIgVqHRYp5NmLmFL0BR",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
