@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 26638 },
+  "followers": { "href": null, "total": 26641 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "Zm98gAAAAACkLKb6e/Y2faOJFrRG5Y66",
+  "snapshot_id": "ZnDOAAAAAACwJponRqXXuYtvPM4ZSZyM",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -755,7 +755,7 @@
         "href": "https://api.spotify.com/v1/tracks/5lO1htX1UPjwyItDLurhR5",
         "id": "5lO1htX1UPjwyItDLurhR5",
         "name": "baseball",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:5lO1htX1UPjwyItDLurhR5",
         "is_local": false
       },
@@ -2037,7 +2037,7 @@
         "href": "https://api.spotify.com/v1/tracks/0scQIzgcOhnmfqfOTpRUFH",
         "id": "0scQIzgcOhnmfqfOTpRUFH",
         "name": "Suicide Saturday",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:0scQIzgcOhnmfqfOTpRUFH",
         "is_local": false
       },
@@ -2587,7 +2587,7 @@
         "href": "https://api.spotify.com/v1/tracks/448V07W0zPY7ep7Dtc9Ukm",
         "id": "448V07W0zPY7ep7Dtc9Ukm",
         "name": "Vines",
-        "popularity": 40,
+        "popularity": 41,
         "uri": "spotify:track:448V07W0zPY7ep7Dtc9Ukm",
         "is_local": false
       },
@@ -3707,6 +3707,146 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/2e33ad547389f3574bbf0aad3c221e33651c5304?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [
+          "AG",
+          "BB",
+          "BS",
+          "BZ",
+          "CA",
+          "CR",
+          "CW",
+          "DM",
+          "DO",
+          "GD",
+          "GT",
+          "HN",
+          "HT",
+          "JM",
+          "KN",
+          "LC",
+          "MX",
+          "NI",
+          "PA",
+          "PR",
+          "SV",
+          "TT",
+          "US",
+          "VC"
+        ],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [
+            "AG",
+            "BB",
+            "BS",
+            "BZ",
+            "CA",
+            "CR",
+            "CW",
+            "DM",
+            "DO",
+            "GD",
+            "GT",
+            "HN",
+            "HT",
+            "JM",
+            "KN",
+            "LC",
+            "MX",
+            "NI",
+            "PA",
+            "PR",
+            "SV",
+            "TT",
+            "US",
+            "VC"
+          ],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/4xLfXadj5rWOww2Na6LiBd",
+          "id": "4xLfXadj5rWOww2Na6LiBd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27317a254f4b79067b7f026ae4f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0217a254f4b79067b7f026ae4f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485117a254f4b79067b7f026ae4f",
+              "width": 64
+            }
+          ],
+          "name": "Demos II",
+          "release_date": "2019-07-10",
+          "release_date_precision": "day",
+          "uri": "spotify:album:4xLfXadj5rWOww2Na6LiBd",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4xLfXadj5rWOww2Na6LiBd"
+          },
+          "total_tracks": 9
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 6,
+        "duration_ms": 160453,
+        "external_ids": { "isrc": "QM5BK1900293" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3Q6crokpbPGwumkQ2KBnVn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Q6crokpbPGwumkQ2KBnVn",
+        "id": "3Q6crokpbPGwumkQ2KBnVn",
+        "name": "Ease up Kid - Demo",
+        "popularity": 35,
+        "uri": "spotify:track:3Q6crokpbPGwumkQ2KBnVn",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/ebe410463fd74f0d32a661b9e1bb9657686e9e73?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -4153,146 +4293,6 @@
         "name": "Kick in the Teeth",
         "popularity": 35,
         "uri": "spotify:track:09IAjxegM08998hgb6ZScZ",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2e33ad547389f3574bbf0aad3c221e33651c5304?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AG",
-          "BB",
-          "BS",
-          "BZ",
-          "CA",
-          "CR",
-          "CW",
-          "DM",
-          "DO",
-          "GD",
-          "GT",
-          "HN",
-          "HT",
-          "JM",
-          "KN",
-          "LC",
-          "MX",
-          "NI",
-          "PA",
-          "PR",
-          "SV",
-          "TT",
-          "US",
-          "VC"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [
-            "AG",
-            "BB",
-            "BS",
-            "BZ",
-            "CA",
-            "CR",
-            "CW",
-            "DM",
-            "DO",
-            "GD",
-            "GT",
-            "HN",
-            "HT",
-            "JM",
-            "KN",
-            "LC",
-            "MX",
-            "NI",
-            "PA",
-            "PR",
-            "SV",
-            "TT",
-            "US",
-            "VC"
-          ],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4xLfXadj5rWOww2Na6LiBd",
-          "id": "4xLfXadj5rWOww2Na6LiBd",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317a254f4b79067b7f026ae4f",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217a254f4b79067b7f026ae4f",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117a254f4b79067b7f026ae4f",
-              "width": 64
-            }
-          ],
-          "name": "Demos II",
-          "release_date": "2019-07-10",
-          "release_date_precision": "day",
-          "uri": "spotify:album:4xLfXadj5rWOww2Na6LiBd",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/4xLfXadj5rWOww2Na6LiBd"
-          },
-          "total_tracks": 9
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 6,
-        "duration_ms": 160453,
-        "external_ids": { "isrc": "QM5BK1900293" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3Q6crokpbPGwumkQ2KBnVn"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3Q6crokpbPGwumkQ2KBnVn",
-        "id": "3Q6crokpbPGwumkQ2KBnVn",
-        "name": "Ease up Kid - Demo",
-        "popularity": 35,
-        "uri": "spotify:track:3Q6crokpbPGwumkQ2KBnVn",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4841,7 +4841,7 @@
         "href": "https://api.spotify.com/v1/tracks/3QJUvByLFesgWYAgnL8JbA",
         "id": "3QJUvByLFesgWYAgnL8JbA",
         "name": "Monsoon",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:3QJUvByLFesgWYAgnL8JbA",
         "is_local": false
       },
@@ -5943,7 +5943,7 @@
         "href": "https://api.spotify.com/v1/tracks/7Gu74lJU63jgD2770J1baX",
         "id": "7Gu74lJU63jgD2770J1baX",
         "name": "Little Grace",
-        "popularity": 28,
+        "popularity": 29,
         "uri": "spotify:track:7Gu74lJU63jgD2770J1baX",
         "is_local": false
       },
@@ -6515,7 +6515,7 @@
         "href": "https://api.spotify.com/v1/tracks/4CKRwn0AIG5Fmbf040suEj",
         "id": "4CKRwn0AIG5Fmbf040suEj",
         "name": "Maps",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:4CKRwn0AIG5Fmbf040suEj",
         "is_local": false
       },
@@ -7705,7 +7705,7 @@
         "href": "https://api.spotify.com/v1/tracks/3AllE6eMMUwKLj7IsIJaMy",
         "id": "3AllE6eMMUwKLj7IsIJaMy",
         "name": "Understand",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:3AllE6eMMUwKLj7IsIJaMy",
         "is_local": false
       },
@@ -8165,7 +8165,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ybukMc8uKKc6b3FdBioEO",
         "id": "1ybukMc8uKKc6b3FdBioEO",
         "name": "Where to Now",
-        "popularity": 29,
+        "popularity": 30,
         "uri": "spotify:track:1ybukMc8uKKc6b3FdBioEO",
         "is_local": false
       },
@@ -8345,7 +8345,7 @@
         "href": "https://api.spotify.com/v1/tracks/7g13GDQHVRL0yfLaW70Soa",
         "id": "7g13GDQHVRL0yfLaW70Soa",
         "name": "Anxious",
-        "popularity": 30,
+        "popularity": 31,
         "uri": "spotify:track:7g13GDQHVRL0yfLaW70Soa",
         "is_local": false
       },
@@ -8947,7 +8947,7 @@
         "href": "https://api.spotify.com/v1/tracks/3UHtOxkw4SQSzysgyUpzaB",
         "id": "3UHtOxkw4SQSzysgyUpzaB",
         "name": "Honeysuckle",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:3UHtOxkw4SQSzysgyUpzaB",
         "is_local": false
       },
@@ -9037,7 +9037,7 @@
         "href": "https://api.spotify.com/v1/tracks/1KTZw6NMt0rSIPYKYQNEWd",
         "id": "1KTZw6NMt0rSIPYKYQNEWd",
         "name": "Sophie So",
-        "popularity": 29,
+        "popularity": 30,
         "uri": "spotify:track:1KTZw6NMt0rSIPYKYQNEWd",
         "is_local": false
       },
@@ -9127,7 +9127,7 @@
         "href": "https://api.spotify.com/v1/tracks/7hNT08Aa0p2Wpozs1tAAoN",
         "id": "7hNT08Aa0p2Wpozs1tAAoN",
         "name": "Why Even Try",
-        "popularity": 30,
+        "popularity": 31,
         "uri": "spotify:track:7hNT08Aa0p2Wpozs1tAAoN",
         "is_local": false
       },
@@ -9727,7 +9727,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Ejo5HF3RNGNauRmq337fa",
         "id": "3Ejo5HF3RNGNauRmq337fa",
         "name": "Sex Tape",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:3Ejo5HF3RNGNauRmq337fa",
         "is_local": false
       },
@@ -9817,7 +9817,7 @@
         "href": "https://api.spotify.com/v1/tracks/0NoN2f4Qmp0J7QCbk22z6P",
         "id": "0NoN2f4Qmp0J7QCbk22z6P",
         "name": "traveler",
-        "popularity": 28,
+        "popularity": 29,
         "uri": "spotify:track:0NoN2f4Qmp0J7QCbk22z6P",
         "is_local": false
       },
@@ -10969,7 +10969,7 @@
         "href": "https://api.spotify.com/v1/tracks/7M31WQ0JTbllfAmhwlG62k",
         "id": "7M31WQ0JTbllfAmhwlG62k",
         "name": "Deepfake",
-        "popularity": 25,
+        "popularity": 26,
         "uri": "spotify:track:7M31WQ0JTbllfAmhwlG62k",
         "is_local": false
       },
