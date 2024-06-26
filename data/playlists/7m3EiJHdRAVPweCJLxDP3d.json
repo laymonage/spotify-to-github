@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d"
   },
-  "followers": { "href": null, "total": 13859 },
+  "followers": { "href": null, "total": 13860 },
   "href": "https://api.spotify.com/v1/playlists/7m3EiJHdRAVPweCJLxDP3d?locale=*",
   "id": "7m3EiJHdRAVPweCJLxDP3d",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8431decf4257788c4a83113db9",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842992243149b7879000c3509c",
       "width": null
     }
   ],
@@ -25,10 +25,100 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAAAjYQXVGR8++/E/V9pbAs/+D25BBJ0",
+  "snapshot_id": "AAAAkJ/6XmpkV3YflCGcRNkhzveeWvtb",
   "type": "playlist",
   "uri": "spotify:playlist:7m3EiJHdRAVPweCJLxDP3d",
   "tracks": [
+    {
+      "added_at": "2024-06-25T15:34:21Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/iso50" },
+        "href": "https://api.spotify.com/v1/users/iso50",
+        "id": "iso50",
+        "type": "user",
+        "uri": "spotify:user:iso50"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/bf40283d7e59f65baf7582dbe64d87fcd0dd17d4?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1Dbr9RCt2NuoJ4q5m0bK6J",
+          "id": "1Dbr9RCt2NuoJ4q5m0bK6J",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ad55ba4acedda7e26eebeb37",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ad55ba4acedda7e26eebeb37",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ad55ba4acedda7e26eebeb37",
+              "width": 64
+            }
+          ],
+          "name": "Phantom",
+          "release_date": "2024-06-25",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1Dbr9RCt2NuoJ4q5m0bK6J",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+              },
+              "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+              "id": "5oOhM2DFWab8XhSdQiITry",
+              "name": "Tycho",
+              "type": "artist",
+              "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Dbr9RCt2NuoJ4q5m0bK6J"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho",
+            "type": "artist",
+            "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 281106,
+        "external_ids": { "isrc": "GBCFB2400523" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1sM70q8HETr85d99r1eWdL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sM70q8HETr85d99r1eWdL",
+        "id": "1sM70q8HETr85d99r1eWdL",
+        "name": "Phantom",
+        "popularity": 0,
+        "uri": "spotify:track:1sM70q8HETr85d99r1eWdL",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
     {
       "added_at": "2023-12-11T17:25:52Z",
       "added_by": {
@@ -303,7 +393,7 @@
         "href": "https://api.spotify.com/v1/tracks/7kcGTBLBblNXP2tSs49s5k",
         "id": "7kcGTBLBblNXP2tSs49s5k",
         "name": "Time To Run",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:7kcGTBLBblNXP2tSs49s5k",
         "is_local": false
       },
@@ -1363,7 +1453,7 @@
         "href": "https://api.spotify.com/v1/tracks/5ocHwt92zcREakGI0ZD5Iz",
         "id": "5ocHwt92zcREakGI0ZD5Iz",
         "name": "Only Love (with Brijean)",
-        "popularity": 25,
+        "popularity": 26,
         "uri": "spotify:track:5ocHwt92zcREakGI0ZD5Iz",
         "is_local": false
       },
@@ -1473,7 +1563,7 @@
         "href": "https://api.spotify.com/v1/tracks/2aF7nM7ML806C0eJMfHyby",
         "id": "2aF7nM7ML806C0eJMfHyby",
         "name": "Only Love",
-        "popularity": 15,
+        "popularity": 16,
         "uri": "spotify:track:2aF7nM7ML806C0eJMfHyby",
         "is_local": false
       },
@@ -1583,7 +1673,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Ef1QKChVVBQLt0wmTycUS",
         "id": "4Ef1QKChVVBQLt0wmTycUS",
         "name": "Run Away",
-        "popularity": 26,
+        "popularity": 27,
         "uri": "spotify:track:4Ef1QKChVVBQLt0wmTycUS",
         "is_local": false
       },
@@ -3567,7 +3657,7 @@
         "href": "https://api.spotify.com/v1/tracks/1TJqHWEHHQ7Z5mJ0P6rXqq",
         "id": "1TJqHWEHHQ7Z5mJ0P6rXqq",
         "name": "Pink & Blue",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:1TJqHWEHHQ7Z5mJ0P6rXqq",
         "is_local": false
       },
@@ -3667,7 +3757,7 @@
         "href": "https://api.spotify.com/v1/tracks/5VndRF0wlvbMQsZ25GErQM",
         "id": "5VndRF0wlvbMQsZ25GErQM",
         "name": "Japan",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:5VndRF0wlvbMQsZ25GErQM",
         "is_local": false
       },
@@ -3957,7 +4047,7 @@
         "href": "https://api.spotify.com/v1/tracks/7fFP1CZiHjbxyoDqmVTQBi",
         "id": "7fFP1CZiHjbxyoDqmVTQBi",
         "name": "For How Long",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:7fFP1CZiHjbxyoDqmVTQBi",
         "is_local": false
       },
@@ -6147,7 +6237,7 @@
         "href": "https://api.spotify.com/v1/tracks/1nzLNeyk835Q9h1zPS4gr9",
         "id": "1nzLNeyk835Q9h1zPS4gr9",
         "name": "Across The Room - Tycho Remix",
-        "popularity": 37,
+        "popularity": 38,
         "uri": "spotify:track:1nzLNeyk835Q9h1zPS4gr9",
         "is_local": false
       },
