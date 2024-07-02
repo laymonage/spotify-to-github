@@ -5147,7 +5147,7 @@
         "href": "https://api.spotify.com/v1/tracks/36e6G6euaQWF8X8Mldt7bT",
         "id": "36e6G6euaQWF8X8Mldt7bT",
         "name": "Off He Goes",
-        "popularity": 26,
+        "popularity": 27,
         "uri": "spotify:track:36e6G6euaQWF8X8Mldt7bT",
         "is_local": false
       },
@@ -5611,7 +5611,7 @@
         "href": "https://api.spotify.com/v1/tracks/6L9TJez3V3n2UlUNsJ1KJa",
         "id": "6L9TJez3V3n2UlUNsJ1KJa",
         "name": "Given to Fly",
-        "popularity": 28,
+        "popularity": 29,
         "uri": "spotify:track:6L9TJez3V3n2UlUNsJ1KJa",
         "is_local": false
       },
@@ -6539,7 +6539,7 @@
         "href": "https://api.spotify.com/v1/tracks/4ekUwwCPIKT1ef5GllLSk1",
         "id": "4ekUwwCPIKT1ef5GllLSk1",
         "name": "Last Kiss",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:4ekUwwCPIKT1ef5GllLSk1",
         "is_local": false
       },
@@ -7003,7 +7003,7 @@
         "href": "https://api.spotify.com/v1/tracks/1dAseFYuF6djMDf4GgWj5p",
         "id": "1dAseFYuF6djMDf4GgWj5p",
         "name": "Light Years",
-        "popularity": 24,
+        "popularity": 25,
         "uri": "spotify:track:1dAseFYuF6djMDf4GgWj5p",
         "is_local": false
       },
@@ -7941,7 +7941,7 @@
         "href": "https://api.spotify.com/v1/tracks/750DkjeD7bkpCR8h7NZVMk",
         "id": "750DkjeD7bkpCR8h7NZVMk",
         "name": "I Am Mine",
-        "popularity": 29,
+        "popularity": 30,
         "uri": "spotify:track:750DkjeD7bkpCR8h7NZVMk",
         "is_local": false
       },
@@ -9807,7 +9807,7 @@
         "href": "https://api.spotify.com/v1/tracks/6WcIDvzwZDqarmaHDy3DoR",
         "id": "6WcIDvzwZDqarmaHDy3DoR",
         "name": "Man of the Hour",
-        "popularity": 46,
+        "popularity": 47,
         "uri": "spotify:track:6WcIDvzwZDqarmaHDy3DoR",
         "is_local": false
       },
@@ -10735,7 +10735,7 @@
         "href": "https://api.spotify.com/v1/tracks/03P2FVSaKpRbd2R3JlpEAb",
         "id": "03P2FVSaKpRbd2R3JlpEAb",
         "name": "Corduroy",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:03P2FVSaKpRbd2R3JlpEAb",
         "is_local": false
       },
@@ -11199,7 +11199,7 @@
         "href": "https://api.spotify.com/v1/tracks/4l65ScNtOR9blZWTLozJnf",
         "id": "4l65ScNtOR9blZWTLozJnf",
         "name": "Not for You",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:4l65ScNtOR9blZWTLozJnf",
         "is_local": false
       },
@@ -11663,7 +11663,7 @@
         "href": "https://api.spotify.com/v1/tracks/454wC5PPsU0mPltiJqxDbz",
         "id": "454wC5PPsU0mPltiJqxDbz",
         "name": "I Got Id",
-        "popularity": 30,
+        "popularity": 31,
         "uri": "spotify:track:454wC5PPsU0mPltiJqxDbz",
         "is_local": false
       },
@@ -12587,7 +12587,7 @@
         "href": "https://api.spotify.com/v1/tracks/1cAMXz9mnvrqyQLSG4KeeE",
         "id": "1cAMXz9mnvrqyQLSG4KeeE",
         "name": "Sirens",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:1cAMXz9mnvrqyQLSG4KeeE",
         "is_local": false
       },
@@ -13511,7 +13511,7 @@
         "href": "https://api.spotify.com/v1/tracks/10ksqrWHRkFHAdD9Nggalm",
         "id": "10ksqrWHRkFHAdD9Nggalm",
         "name": "Infallible",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:10ksqrWHRkFHAdD9Nggalm",
         "is_local": false
       },
@@ -13973,7 +13973,7 @@
         "href": "https://api.spotify.com/v1/tracks/4PlKXx0MP4ySbe7rqgMZLo",
         "id": "4PlKXx0MP4ySbe7rqgMZLo",
         "name": "Swallowed Whole",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:4PlKXx0MP4ySbe7rqgMZLo",
         "is_local": false
       },
@@ -15380,41 +15380,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/35e7f83a00269b3371fadd2d493b2a775293a6e4?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "CO",
-          "EC",
-          "JM",
-          "PA",
-          "PE",
-          "BZ",
-          "CR",
-          "GT",
-          "HN",
-          "MX",
-          "NI",
-          "SV",
-          "US"
-        ],
+        "available_markets": ["US"],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": [
-            "CO",
-            "EC",
-            "JM",
-            "PA",
-            "PE",
-            "BZ",
-            "CR",
-            "GT",
-            "HN",
-            "MX",
-            "NI",
-            "SV",
-            "US"
-          ],
+          "available_markets": ["US"],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/4DCwNXpnKEBYbls0T4LQzN",
