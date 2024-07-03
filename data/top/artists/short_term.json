@@ -1,11 +1,48 @@
 {
-  "total": 25,
+  "total": 22,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "followers": { "href": null, "total": 10057253 },
+      "genres": [
+        "alternative rock",
+        "art rock",
+        "melancholia",
+        "oxford indie",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id": "4Z8W4fKeB5YxbusRsdQVPb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a03696716c9ee605006047fd",
+          "width": 160
+        }
+      ],
+      "name": "Radiohead",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
-      "followers": { "href": null, "total": 18470 },
+      "followers": { "href": null, "total": 18471 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
       "id": "02nqs3YdfX7Th3gYTYFrqc",
@@ -35,7 +72,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
-      "followers": { "href": null, "total": 8808391 },
+      "followers": { "href": null, "total": 8810566 },
       "genres": [
         "alternative metal",
         "alternative rock",
@@ -73,7 +110,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
-      "followers": { "href": null, "total": 222506 },
+      "followers": { "href": null, "total": 222580 },
       "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
       "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
       "id": "1g8HCTiMwBtFtpRR9JXAZR",
@@ -95,52 +132,15 @@
         }
       ],
       "name": "Fishmans",
-      "popularity": 43,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-      },
-      "followers": { "href": null, "total": 10052273 },
-      "genres": [
-        "alternative rock",
-        "art rock",
-        "melancholia",
-        "oxford indie",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
-      "id": "4Z8W4fKeB5YxbusRsdQVPb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a03696716c9ee605006047fd",
-          "width": 160
-        }
-      ],
-      "name": "Radiohead",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
       },
-      "followers": { "href": null, "total": 262542 },
+      "followers": { "href": null, "total": 262566 },
       "genres": ["australian indie"],
       "href": "https://api.spotify.com/v1/artists/6wFwvxJkurQPU2UdeD4qVt",
       "id": "6wFwvxJkurQPU2UdeD4qVt",
@@ -170,7 +170,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5711858 },
+      "followers": { "href": null, "total": 5713900 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -206,7 +206,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
       },
-      "followers": { "href": null, "total": 540353 },
+      "followers": { "href": null, "total": 540498 },
       "genres": [
         "chamber pop",
         "indie rock",
@@ -244,7 +244,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
       },
-      "followers": { "href": null, "total": 1410941 },
+      "followers": { "href": null, "total": 1412892 },
       "genres": ["pov: indie", "psychedelic pop"],
       "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
       "id": "5p9HO3XC5P3BLxJs5Mtrhm",
@@ -272,39 +272,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-      },
-      "followers": { "href": null, "total": 303057 },
-      "genres": ["australian surf rock"],
-      "href": "https://api.spotify.com/v1/artists/6yrtCy4XJHXM6tczo4RlTs",
-      "id": "6yrtCy4XJHXM6tczo4RlTs",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3aa43c5bd5d13df19daa298a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743aa43c5bd5d13df19daa298a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783aa43c5bd5d13df19daa298a",
-          "width": 160
-        }
-      ],
-      "name": "Lime Cordiale",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Kthx6vfOdyrwpE1mjsyb8"
       },
-      "followers": { "href": null, "total": 7157 },
+      "followers": { "href": null, "total": 7161 },
       "genres": ["minneapolis indie"],
       "href": "https://api.spotify.com/v1/artists/3Kthx6vfOdyrwpE1mjsyb8",
       "id": "3Kthx6vfOdyrwpE1mjsyb8",
@@ -334,7 +304,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
       },
-      "followers": { "href": null, "total": 108569 },
+      "followers": { "href": null, "total": 108585 },
       "genres": ["alabama indie"],
       "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
       "id": "4dWtsQvuME6tCWFycaTvO7",
@@ -364,7 +334,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
       },
-      "followers": { "href": null, "total": 38083 },
+      "followers": { "href": null, "total": 38091 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
       "id": "1xbu7UyVdZxwIiNfLcUKqn",
@@ -394,7 +364,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
       },
-      "followers": { "href": null, "total": 49923 },
+      "followers": { "href": null, "total": 49945 },
       "genres": ["neo-psychedelic"],
       "href": "https://api.spotify.com/v1/artists/5MXsi1oKkm8LuStuKkMdzu",
       "id": "5MXsi1oKkm8LuStuKkMdzu",
@@ -422,80 +392,76 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        "spotify": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
       },
-      "followers": { "href": null, "total": 1575204 },
-      "genres": [
-        "indietronica",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
-      "id": "4j56EQDQu5XnL7R3E9iFJT",
+      "followers": { "href": null, "total": 303129 },
+      "genres": ["australian surf rock"],
+      "href": "https://api.spotify.com/v1/artists/6yrtCy4XJHXM6tczo4RlTs",
+      "id": "6yrtCy4XJHXM6tczo4RlTs",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3aa43c5bd5d13df19daa298a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab676161000051743aa43c5bd5d13df19daa298a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f29db93f7f6a72cbf5f96b59",
+          "url": "https://i.scdn.co/image/ab6761610000f1783aa43c5bd5d13df19daa298a",
           "width": 160
         }
       ],
-      "name": "Young the Giant",
-      "popularity": 65,
+      "name": "Lime Cordiale",
+      "popularity": 58,
       "type": "artist",
-      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+      "uri": "spotify:artist:6yrtCy4XJHXM6tczo4RlTs"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
       },
-      "followers": { "href": null, "total": 708363 },
+      "followers": { "href": null, "total": 6363621 },
       "genres": [
-        "la indie",
-        "modern alternative rock",
-        "modern rock",
-        "pov: indie"
+        "dance rock",
+        "new romantic",
+        "new wave",
+        "permanent wave",
+        "rock",
+        "synthpop"
       ],
-      "href": "https://api.spotify.com/v1/artists/1dWEYMPtNmvSVaDNLgB6NV",
-      "id": "1dWEYMPtNmvSVaDNLgB6NV",
+      "href": "https://api.spotify.com/v1/artists/762310PdDnwsDxAQxzQkfX",
+      "id": "762310PdDnwsDxAQxzQkfX",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9d65f0d76b680cc5e143bf00",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaff13c9484fdad590ccfb73c",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749d65f0d76b680cc5e143bf00",
+          "url": "https://i.scdn.co/image/ab67616100005174aff13c9484fdad590ccfb73c",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789d65f0d76b680cc5e143bf00",
+          "url": "https://i.scdn.co/image/ab6761610000f178aff13c9484fdad590ccfb73c",
           "width": 160
         }
       ],
-      "name": "Saint Motel",
-      "popularity": 64,
+      "name": "Depeche Mode",
+      "popularity": 74,
       "type": "artist",
-      "uri": "spotify:artist:1dWEYMPtNmvSVaDNLgB6NV"
+      "uri": "spotify:artist:762310PdDnwsDxAQxzQkfX"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx"
       },
-      "followers": { "href": null, "total": 149137 },
+      "followers": { "href": null, "total": 149180 },
       "genres": ["indie garage rock", "indie surf"],
       "href": "https://api.spotify.com/v1/artists/1CMml5seBEaxQzlmaGxMPx",
       "id": "1CMml5seBEaxQzlmaGxMPx",
@@ -525,7 +491,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
       },
-      "followers": { "href": null, "total": 241725 },
+      "followers": { "href": null, "total": 241770 },
       "genres": [
         "chamber pop",
         "metropopolis",
@@ -588,45 +554,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-      },
-      "followers": { "href": null, "total": 3121904 },
-      "genres": [
-        "alternative rock",
-        "indie rock",
-        "indietronica",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-      "id": "0SwO7SWeDHJijQ3XNS7xEE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749dccdc8f4087cbe2bdedc9d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3",
-          "width": 160
-        }
-      ],
-      "name": "MGMT",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
       },
-      "followers": { "href": null, "total": 592251 },
+      "followers": { "href": null, "total": 592348 },
       "genres": [
         "baroque pop",
         "chamber pop",
@@ -663,7 +593,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7"
       },
-      "followers": { "href": null, "total": 10471 },
+      "followers": { "href": null, "total": 10474 },
       "genres": ["new orleans indie"],
       "href": "https://api.spotify.com/v1/artists/69tXKp8pHBX6ZoVMkNdvt7",
       "id": "69tXKp8pHBX6ZoVMkNdvt7",
@@ -693,7 +623,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
       },
-      "followers": { "href": null, "total": 68378 },
+      "followers": { "href": null, "total": 68402 },
       "genres": ["indie garage rock", "miami indie"],
       "href": "https://api.spotify.com/v1/artists/7kAZYW5e5hQHYGQ0XHYhns",
       "id": "7kAZYW5e5hQHYGQ0XHYhns",
@@ -721,39 +651,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
-      },
-      "followers": { "href": null, "total": 10125 },
-      "genres": ["psychedelic pop"],
-      "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
-      "id": "0QwAWEp3r3Ut1dYNQb7JzS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5712ac2b8dc58b61bb9daa0b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745712ac2b8dc58b61bb9daa0b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785712ac2b8dc58b61bb9daa0b",
-          "width": 160
-        }
-      ],
-      "name": "Julien Chang",
-      "popularity": 25,
-      "type": "artist",
-      "uri": "spotify:artist:0QwAWEp3r3Ut1dYNQb7JzS"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
       },
-      "followers": { "href": null, "total": 1067796 },
+      "followers": { "href": null, "total": 1068023 },
       "genres": [
         "australian reggae fusion",
         "australian surf rock",
@@ -787,7 +687,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f"
       },
-      "followers": { "href": null, "total": 185960 },
+      "followers": { "href": null, "total": 186010 },
       "genres": ["japanese math rock", "japanese post-rock", "math rock"],
       "href": "https://api.spotify.com/v1/artists/5IKKS7LhpdlmMwqIagqf3f",
       "id": "5IKKS7LhpdlmMwqIagqf3f",
