@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 184,
+  "total_episodes": 185,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/22wkAtE0liP6eK31bGnWn6/clip_232816_292816.mp3",
+      "description": "As authoritarian leaders challenge democratic institutions around the world, some people are questioning whether democracy is even the best political system. In a wide-ranging conversation, writer Bret Stephens and social entrepreneur Yordanos Eyoel discuss why democracy is still our best hope — and offer ways we can learn to disagree more effectively in order to strengthen our societies.",
+      "duration_ms": 1063140,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5HqZq75dMnEXhbvNUJ6pvF"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5HqZq75dMnEXhbvNUJ6pvF",
+      "html_description": "<p>As authoritarian leaders challenge democratic institutions around the world, some people are questioning whether democracy is even the best political system. In a wide-ranging conversation, writer Bret Stephens and social entrepreneur Yordanos Eyoel discuss why democracy is still our best hope — and offer ways we can learn to disagree more effectively in order to strengthen our societies.</p>",
+      "id": "5HqZq75dMnEXhbvNUJ6pvF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a58a2f6201124ec1602bac0fc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f58a2f6201124ec1602bac0fc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d58a2f6201124ec1602bac0fc",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Democracy requires disagreement. Here's how to do it better | Bret Stephens and Yordanos Eyoel",
+      "release_date": "2024-07-04",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5HqZq75dMnEXhbvNUJ6pvF"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7BTdk1oxJZDl6zsUSO7Nlr/clip_618292_678292.mp3",
       "description": "With AI everywhere you look, you may think you've seen it all. Magician David Kwong suggests otherwise, proposing advancements in technology actually increase opportunities for wonder. In an entertaining performance, he invites an audience member on stage to exhibit the mind-reading magic of ChatGPT — and explores how tech elevates our capacity for awe.",
