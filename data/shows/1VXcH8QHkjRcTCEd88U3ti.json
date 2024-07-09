@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 187,
+  "total_episodes": 186,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0Truy1WzM4sMvT1SYJMZBz/clip_342841_402841.mp3",
+      "description": "\"Life is an endless sushi conveyor belt of things that are going to test you and teach you at the same time,\" says writer Laurel Braitman. Exploring the relationship between bravery and fear, she shares hard-won wisdom on love, loss, self-forgiveness and how to embrace the full spectrum of human emotions.",
+      "duration_ms": 861804,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3qZU0QXudm0OS3lsHynMpf"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3qZU0QXudm0OS3lsHynMpf",
+      "html_description": "<p>&#34;Life is an endless sushi conveyor belt of things that are going to test you and teach you at the same time,&#34; says writer Laurel Braitman. Exploring the relationship between bravery and fear, she shares hard-won wisdom on love, loss, self-forgiveness and how to embrace the full spectrum of human emotions.</p>",
+      "id": "3qZU0QXudm0OS3lsHynMpf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a849d377b60d3ea6bdb9376d7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f849d377b60d3ea6bdb9376d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d849d377b60d3ea6bdb9376d7",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Lessons from my father’s final days | Laurel Braitman",
+      "release_date": "2024-07-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3qZU0QXudm0OS3lsHynMpf"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3yuCh2uUy2wcs6FTfIvo3a/clip_605524_665524.mp3",
       "description": "For the past 20 years StoryCorps has been traveling the country gathering the stories and wisdom of ordinary Americans and archiving them at the Library of Congress. StoryCorps founder Dave Isay — winner of the 2015 TED Prize — has created an unprecedented document of the dreams and fears that touch us all. In an interview with Elise, Dave shares about a new project, One Small Step, which aims to help reduce toxic polarization – one conversation at a time. ",
@@ -7381,84 +7420,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3pm2bWmdFIGvEkPlggzEmA"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/38A5id3kfotpMvtpP9BjXt/clip_706500_766300.mp3",
-      "description": "\"We underestimate the power of our own generous actions,\" says Asha Curran, CEO of the global generosity movement GivingTuesday. Sharing stories of people making a difference through simple acts of kindness, she shows how generosity, even in its simplest forms, can be a transformative force — and explains why we all benefit from a world grounded in giving.",
-      "duration_ms": 850668,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/651f5yXr6Gys528EocrYne"
-      },
-      "href": "https://api.spotify.com/v1/episodes/651f5yXr6Gys528EocrYne",
-      "html_description": "<p>&#34;We underestimate the power of our own generous actions,&#34; says Asha Curran, CEO of the global generosity movement GivingTuesday. Sharing stories of people making a difference through simple acts of kindness, she shows how generosity, even in its simplest forms, can be a transformative force — and explains why we all benefit from a world grounded in giving.</p>",
-      "id": "651f5yXr6Gys528EocrYne",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a193611b63239a45956af02ab",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f193611b63239a45956af02ab",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d193611b63239a45956af02ab",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Why helping people makes you happy | Asha Curran",
-      "release_date": "2023-12-14",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:651f5yXr6Gys528EocrYne"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/24n7sOYbAuPsJExbqN7Luo/clip_570120_623600.mp3",
-      "description": "The metaverse could be our key to making real progress in the fight against climate change, says engineer Cedrik Neike. Examining how AI-powered modeling eliminates the trial and error of wasteful industries, he explores how this emerging technology is already improving everything from the gigafactories that churn out electric car batteries to the fuel efficiency of your home. Learn more about how these \"digital twins\" are transforming the world — and not a moment too soon.",
-      "duration_ms": 650964,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5JYxf5FyCdEBfgbAQz9RTH"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5JYxf5FyCdEBfgbAQz9RTH",
-      "html_description": "<p>The metaverse could be our key to making real progress in the fight against climate change, says engineer Cedrik Neike. Examining how AI-powered modeling eliminates the trial and error of wasteful industries, he explores how this emerging technology is already improving everything from the gigafactories that churn out electric car batteries to the fuel efficiency of your home. Learn more about how these &#34;digital twins&#34; are transforming the world — and not a moment too soon.</p>",
-      "id": "5JYxf5FyCdEBfgbAQz9RTH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a0c03a7c73ca1a46c4889bd63",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f0c03a7c73ca1a46c4889bd63",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d0c03a7c73ca1a46c4889bd63",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "Time is running out on climate change. The metaverse could help | Cedrik Neike",
-      "release_date": "2023-12-13",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5JYxf5FyCdEBfgbAQz9RTH"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
