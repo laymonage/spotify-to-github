@@ -1,11 +1,11 @@
 {
-  "total": 27,
+  "total": 31,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "followers": { "href": null, "total": 10095584 },
+      "followers": { "href": null, "total": 10104995 },
       "genres": [
         "alternative rock",
         "art rock",
@@ -42,7 +42,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
       },
-      "followers": { "href": null, "total": 8829788 },
+      "followers": { "href": null, "total": 8834442 },
       "genres": [
         "alternative metal",
         "alternative rock",
@@ -80,7 +80,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
-      "followers": { "href": null, "total": 223206 },
+      "followers": { "href": null, "total": 223381 },
       "genres": ["classic j-rock", "j-rock", "japanese dream pop"],
       "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
       "id": "1g8HCTiMwBtFtpRR9JXAZR",
@@ -108,9 +108,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+      },
+      "followers": { "href": null, "total": 1445315 },
+      "genres": [
+        "indie rock",
+        "indietronica",
+        "modern alternative rock",
+        "modern rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4kI8Ie27vjvonwaB2ePh8T",
+      "id": "4kI8Ie27vjvonwaB2ePh8T",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe20c61457ea3c2fdef20c326",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e20c61457ea3c2fdef20c326",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e20c61457ea3c2fdef20c326",
+          "width": 160
+        }
+      ],
+      "name": "Portugal. The Man",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:4kI8Ie27vjvonwaB2ePh8T"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
       },
-      "followers": { "href": null, "total": 456070 },
+      "followers": { "href": null, "total": 456193 },
       "genres": ["indie rock", "indietronica"],
       "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
       "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
@@ -138,39 +173,46 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
       },
-      "followers": { "href": null, "total": 262842 },
-      "genres": ["australian indie"],
-      "href": "https://api.spotify.com/v1/artists/6wFwvxJkurQPU2UdeD4qVt",
-      "id": "6wFwvxJkurQPU2UdeD4qVt",
+      "followers": { "href": null, "total": 593408 },
+      "genres": [
+        "baroque pop",
+        "chamber pop",
+        "chicago indie",
+        "indie rock",
+        "melancholia",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+      "id": "4uSftVc3FPWe6RJuMZNEe9",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe9ef8094e0f6961910d4e4fc",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb85efea6ed40a6b41e62e26e6",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e9ef8094e0f6961910d4e4fc",
+          "url": "https://i.scdn.co/image/ab6761610000517485efea6ed40a6b41e62e26e6",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e9ef8094e0f6961910d4e4fc",
+          "url": "https://i.scdn.co/image/ab6761610000f17885efea6ed40a6b41e62e26e6",
           "width": 160
         }
       ],
-      "name": "The Jungle Giants",
-      "popularity": 56,
+      "name": "Andrew Bird",
+      "popularity": 55,
       "type": "artist",
-      "uri": "spotify:artist:6wFwvxJkurQPU2UdeD4qVt"
+      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
       },
-      "followers": { "href": null, "total": 242052 },
+      "followers": { "href": null, "total": 242154 },
       "genres": [
         "chamber pop",
         "metropopolis",
@@ -203,9 +245,74 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+      },
+      "followers": { "href": null, "total": 262920 },
+      "genres": ["australian indie"],
+      "href": "https://api.spotify.com/v1/artists/6wFwvxJkurQPU2UdeD4qVt",
+      "id": "6wFwvxJkurQPU2UdeD4qVt",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe9ef8094e0f6961910d4e4fc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e9ef8094e0f6961910d4e4fc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e9ef8094e0f6961910d4e4fc",
+          "width": 160
+        }
+      ],
+      "name": "The Jungle Giants",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6wFwvxJkurQPU2UdeD4qVt"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "followers": { "href": null, "total": 50258481 },
+      "genres": ["classic rock", "glam rock", "rock"],
+      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "images": [
+        {
+          "height": 806,
+          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+          "width": 999
+        },
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+          "width": 640
+        },
+        {
+          "height": 161,
+          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+          "width": 64
+        }
+      ],
+      "name": "Queen",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5729661 },
+      "followers": { "href": null, "total": 5734050 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -241,7 +348,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
       },
-      "followers": { "href": null, "total": 11636008 },
+      "followers": { "href": null, "total": 11644808 },
       "genres": [
         "album rock",
         "classic rock",
@@ -275,9 +382,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+      },
+      "followers": { "href": null, "total": 490978 },
+      "genres": ["australian indie", "indie anthem-folk"],
+      "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+      "id": "7CIW23FQUXPc1zebnO1TDG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba4bcd5516b2b68cab1cf8743",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a4bcd5516b2b68cab1cf8743",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a4bcd5516b2b68cab1cf8743",
+          "width": 160
+        }
+      ],
+      "name": "Matt Corby",
+      "popularity": 54,
+      "type": "artist",
+      "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
-      "followers": { "href": null, "total": 18488 },
+      "followers": { "href": null, "total": 18493 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
       "id": "02nqs3YdfX7Th3gYTYFrqc",
@@ -305,46 +442,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-      },
-      "followers": { "href": null, "total": 593179 },
-      "genres": [
-        "baroque pop",
-        "chamber pop",
-        "chicago indie",
-        "indie rock",
-        "melancholia",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
-      "id": "4uSftVc3FPWe6RJuMZNEe9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb85efea6ed40a6b41e62e26e6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517485efea6ed40a6b41e62e26e6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17885efea6ed40a6b41e62e26e6",
-          "width": 160
-        }
-      ],
-      "name": "Andrew Bird",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
       },
-      "followers": { "href": null, "total": 7884343 },
+      "followers": { "href": null, "total": 7888828 },
       "genres": ["disco", "mellow gold", "soft rock"],
       "href": "https://api.spotify.com/v1/artists/1LZEQNv7sE11VDY3SdxQeN",
       "id": "1LZEQNv7sE11VDY3SdxQeN",
@@ -377,47 +477,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-      },
-      "followers": { "href": null, "total": 541931 },
-      "genres": [
-        "chamber pop",
-        "indie rock",
-        "modern folk rock",
-        "philly indie",
-        "pov: indie",
-        "seattle indie",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
-      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb40e524c1e6dd57b9946708ed",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517440e524c1e6dd57b9946708ed",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17840e524c1e6dd57b9946708ed",
-          "width": 160
-        }
-      ],
-      "name": "Dr. Dog",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
       },
-      "followers": { "href": null, "total": 453355 },
+      "followers": { "href": null, "total": 454440 },
       "genres": ["taiwan indie"],
       "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
       "id": "7BqRcZsHYYQeqMAOp7e532",
@@ -447,7 +509,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
       },
-      "followers": { "href": null, "total": 5385373 },
+      "followers": { "href": null, "total": 5387240 },
       "genres": [
         "album rock",
         "british invasion",
@@ -488,7 +550,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7"
       },
-      "followers": { "href": null, "total": 10479 },
+      "followers": { "href": null, "total": 10481 },
       "genres": ["new orleans indie"],
       "href": "https://api.spotify.com/v1/artists/69tXKp8pHBX6ZoVMkNdvt7",
       "id": "69tXKp8pHBX6ZoVMkNdvt7",
@@ -518,7 +580,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
       },
-      "followers": { "href": null, "total": 6380587 },
+      "followers": { "href": null, "total": 6384396 },
       "genres": [
         "dance rock",
         "new romantic",
@@ -555,7 +617,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
       },
-      "followers": { "href": null, "total": 3779141 },
+      "followers": { "href": null, "total": 3780551 },
       "genres": [
         "indietronica",
         "modern alternative rock",
@@ -588,9 +650,83 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+      },
+      "followers": { "href": null, "total": 542298 },
+      "genres": [
+        "chamber pop",
+        "indie rock",
+        "modern folk rock",
+        "philly indie",
+        "pov: indie",
+        "seattle indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb40e524c1e6dd57b9946708ed",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517440e524c1e6dd57b9946708ed",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17840e524c1e6dd57b9946708ed",
+          "width": 160
+        }
+      ],
+      "name": "Dr. Dog",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:4mLJ3XfOM5FPjSAWdQ2Jk7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+      },
+      "followers": { "href": null, "total": 1579847 },
+      "genres": [
+        "indietronica",
+        "modern alternative rock",
+        "modern rock",
+        "pov: indie",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4j56EQDQu5XnL7R3E9iFJT",
+      "id": "4j56EQDQu5XnL7R3E9iFJT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf29db93f7f6a72cbf5f96b59",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f29db93f7f6a72cbf5f96b59",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f29db93f7f6a72cbf5f96b59",
+          "width": 160
+        }
+      ],
+      "name": "Young the Giant",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:4j56EQDQu5XnL7R3E9iFJT"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx"
       },
-      "followers": { "href": null, "total": 149570 },
+      "followers": { "href": null, "total": 149645 },
       "genres": ["indie garage rock", "indie surf"],
       "href": "https://api.spotify.com/v1/artists/1CMml5seBEaxQzlmaGxMPx",
       "id": "1CMml5seBEaxQzlmaGxMPx",
@@ -620,7 +756,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
       },
-      "followers": { "href": null, "total": 108752 },
+      "followers": { "href": null, "total": 108796 },
       "genres": ["alabama indie"],
       "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
       "id": "4dWtsQvuME6tCWFycaTvO7",
@@ -650,7 +786,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
       },
-      "followers": { "href": null, "total": 1425940 },
+      "followers": { "href": null, "total": 1430303 },
       "genres": ["pov: indie", "psychedelic pop"],
       "href": "https://api.spotify.com/v1/artists/5p9HO3XC5P3BLxJs5Mtrhm",
       "id": "5p9HO3XC5P3BLxJs5Mtrhm",
@@ -680,7 +816,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
       },
-      "followers": { "href": null, "total": 1553881 },
+      "followers": { "href": null, "total": 1554665 },
       "genres": ["britpop", "dance rock", "madchester"],
       "href": "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
       "id": "1lYT0A0LV5DUfxr6doRP3d",
@@ -710,7 +846,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
       },
-      "followers": { "href": null, "total": 38130 },
+      "followers": { "href": null, "total": 38143 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/1xbu7UyVdZxwIiNfLcUKqn",
       "id": "1xbu7UyVdZxwIiNfLcUKqn",
@@ -770,7 +906,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
       },
-      "followers": { "href": null, "total": 4380642 },
+      "followers": { "href": null, "total": 4384014 },
       "genres": ["soft rock"],
       "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
       "id": "4xXCRXOfQKQ2gjWxNhNzYW",
@@ -800,7 +936,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
       },
-      "followers": { "href": null, "total": 491623 },
+      "followers": { "href": null, "total": 491791 },
       "genres": ["chillwave", "indietronica", "neo-synthpop"],
       "href": "https://api.spotify.com/v1/artists/5juOkIIy18sFw9L30syt1Z",
       "id": "5juOkIIy18sFw9L30syt1Z",
@@ -830,7 +966,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
       },
-      "followers": { "href": null, "total": 5129895 },
+      "followers": { "href": null, "total": 5133677 },
       "genres": [
         "alternative metal",
         "alternative rock",
@@ -867,7 +1003,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0"
       },
-      "followers": { "href": null, "total": 1069726 },
+      "followers": { "href": null, "total": 1070118 },
       "genres": [
         "australian reggae fusion",
         "australian surf rock",
