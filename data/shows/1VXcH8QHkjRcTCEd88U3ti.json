@@ -202,10 +202,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 185,
+  "total_episodes": 186,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4G5vH1b9eRl1p2Ti7h8Bmv/clip_440001_500001.mp3",
+      "description": "Farm labor is hot, backbreaking and dangerous work. To protect workers from extreme heat and workplace exploitation, farmworker Gerardo Reyes Chávez has teamed up with farm manager Jon Esformes for a unique partnership. Learn how their collaborative model is keeping farmworkers safe and creating a blueprint for more modern, humane working conditions for the world's laborers.",
+      "duration_ms": 1017780,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1Qc4lmVBWdadm8ILHTIH0z"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1Qc4lmVBWdadm8ILHTIH0z",
+      "html_description": "<p>Farm labor is hot, backbreaking and dangerous work. To protect workers from extreme heat and workplace exploitation, farmworker Gerardo Reyes Chávez has teamed up with farm manager Jon Esformes for a unique partnership. Learn how their collaborative model is keeping farmworkers safe and creating a blueprint for more modern, humane working conditions for the world&#39;s laborers.</p>",
+      "id": "1Qc4lmVBWdadm8ILHTIH0z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ac903124d8c4c06785267007c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fc903124d8c4c06785267007c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dc903124d8c4c06785267007c",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How farmworkers are fighting extreme heat | Jon Esformes and Gerardo Reyes Chávez",
+      "release_date": "2024-07-13",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1Qc4lmVBWdadm8ILHTIH0z"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4IkBbM7jDETWihzlR1ERgz/clip_123558_183558.mp3",
       "description": "How does language shape our politics? Journalist Isaac Saul explores how subtle word choices can inhibit productive dialogue about significant issues — and shows how small (but important) changes can help us all have better conversations with people who think differently than us.",
@@ -3834,45 +3873,6 @@
       "uri": "spotify:episode:6fH60Z4T1U70NXt6yh3KwI"
     },
     {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
-      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.",
-      "duration_ms": 793039,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
-      },
-      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
-      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Smith offers four pillars of a meaningful life.</p>",
-      "id": "5XIm3I3xQm1fE01mOBm9AR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "There's more to life than being happy | Emily Esfahani Smith",
-      "release_date": "2024-04-06",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
-    },
-    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/12jcQqmpWUyUEXmPqeQSC6/clip_341600_405400.mp3",
       "description": "Menopause isn't just hot flashes, says gynecologist and sexual medicine specialist Maria Sophocles. It's often accompanied by overlooked symptoms like painful sex or loss of libido. Shedding light on what she calls the \"bedroom gap,\" or the difference in sexual expectations of men and women in midlife due to societal norms, Sophocles advocates for education, medical advancement and a new understanding of menopause — because sex should be pleasurable and comfortable for everyone.",
       "duration_ms": 871476,
@@ -7420,6 +7420,45 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3A5jua3ipFJD7PbOlx9mJS"
+    },
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3Pvy5YYwcBEuCSentFPnK8/clip_595349_655349.mp3",
+      "description": "Our culture is obsessed with happiness, but what if there's a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.",
+      "duration_ms": 758949,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5XIm3I3xQm1fE01mOBm9AR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5XIm3I3xQm1fE01mOBm9AR",
+      "html_description": "<p>Our culture is obsessed with happiness, but what if there&#39;s a more fulfilling path? Happiness comes and goes, says writer Emily Esfahani Smith, but having meaning in life -- serving something beyond yourself and developing the best within you -- gives you something to hold onto. Learn more about the difference between being happy and having meaning as Esfahani Smith offers four pillars of a meaningful life.</p>",
+      "id": "5XIm3I3xQm1fE01mOBm9AR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8af10c571c27dec26e479051ff",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1ff10c571c27dec26e479051ff",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68df10c571c27dec26e479051ff",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There's more to life than being happy | Emily Esfahani Smith",
+      "release_date": "2018-07-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5XIm3I3xQm1fE01mOBm9AR"
     }
   ]
 }
