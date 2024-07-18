@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 9314 },
+  "followers": { "href": null, "total": 9336 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZpRmgAAAAABt3ILfNUt4YDVnCnOMHrvy",
+  "snapshot_id": "ZpW4AAAAAAAeaZTPg7PMyf1TEr3P0q1u",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -8393,7 +8393,7 @@
         "href": "https://api.spotify.com/v1/tracks/3uNOj17ZZYFw2ynpy2PBKp",
         "id": "3uNOj17ZZYFw2ynpy2PBKp",
         "name": "ひこうき - Live",
-        "popularity": 28,
+        "popularity": 29,
         "uri": "spotify:track:3uNOj17ZZYFw2ynpy2PBKp",
         "is_local": false
       },
@@ -9403,7 +9403,7 @@
         "href": "https://api.spotify.com/v1/tracks/2yIywMeXB1A4bME5JLfJYd",
         "id": "2yIywMeXB1A4bME5JLfJYd",
         "name": "バックビートにのっかって",
-        "popularity": 30,
+        "popularity": 31,
         "uri": "spotify:track:2yIywMeXB1A4bME5JLfJYd",
         "is_local": false
       },
@@ -9881,6 +9881,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/74dd07b6e0b868a1bf2559b911acf9cc29f3109f?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
+          "id": "1mPXwUT5LiCxQqvDzqkBfF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
+              "width": 64
+            }
+          ],
+          "name": "Neo Yankees' Holiday",
+          "release_date": "1993",
+          "release_date_precision": "year",
+          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 4,
+        "duration_ms": 225866,
+        "external_ids": { "isrc": "JPPC09334195" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29SbBIeh1JtpN3eZmCjYvz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29SbBIeh1JtpN3eZmCjYvz",
+        "id": "29SbBIeh1JtpN3eZmCjYvz",
+        "name": "エブリディ・エブリナイト",
+        "popularity": 17,
+        "uri": "spotify:track:29SbBIeh1JtpN3eZmCjYvz",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/2b741852ae99dec504396064370ddc8d22ca0e6d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -10325,96 +10415,6 @@
         "name": "Kibun",
         "popularity": 26,
         "uri": "spotify:track:6U2s09v02zqBOoVlYQHCX6",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/74dd07b6e0b868a1bf2559b911acf9cc29f3109f?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
-          "id": "1mPXwUT5LiCxQqvDzqkBfF",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
-              "width": 64
-            }
-          ],
-          "name": "Neo Yankees' Holiday",
-          "release_date": "1993",
-          "release_date_precision": "year",
-          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 225866,
-        "external_ids": { "isrc": "JPPC09334195" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/29SbBIeh1JtpN3eZmCjYvz"
-        },
-        "href": "https://api.spotify.com/v1/tracks/29SbBIeh1JtpN3eZmCjYvz",
-        "id": "29SbBIeh1JtpN3eZmCjYvz",
-        "name": "エブリディ・エブリナイト",
-        "popularity": 17,
-        "uri": "spotify:track:29SbBIeh1JtpN3eZmCjYvz",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -10981,6 +10981,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/e12e7277e127f8751965c50a0e4719bbe6ec4b29?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
+          "id": "1mPXwUT5LiCxQqvDzqkBfF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
+              "width": 64
+            }
+          ],
+          "name": "Neo Yankees' Holiday",
+          "release_date": "1993",
+          "release_date_precision": "year",
+          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 6,
+        "duration_ms": 233973,
+        "external_ids": { "isrc": "JPPC09334197" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3KmaxSTvoLcoT42WkC73V4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3KmaxSTvoLcoT42WkC73V4",
+        "id": "3KmaxSTvoLcoT42WkC73V4",
+        "name": "Just Thing",
+        "popularity": 17,
+        "uri": "spotify:track:3KmaxSTvoLcoT42WkC73V4",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/70682a9497c7128c76daecfa9561b9122f51002b?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -11425,96 +11515,6 @@
         "name": "SEASON",
         "popularity": 21,
         "uri": "spotify:track:16lvE72mk9RrxIfgKSysGc",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e12e7277e127f8751965c50a0e4719bbe6ec4b29?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
-          "id": "1mPXwUT5LiCxQqvDzqkBfF",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
-              "width": 64
-            }
-          ],
-          "name": "Neo Yankees' Holiday",
-          "release_date": "1993",
-          "release_date_precision": "year",
-          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 6,
-        "duration_ms": 233973,
-        "external_ids": { "isrc": "JPPC09334197" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3KmaxSTvoLcoT42WkC73V4"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3KmaxSTvoLcoT42WkC73V4",
-        "id": "3KmaxSTvoLcoT42WkC73V4",
-        "name": "Just Thing",
-        "popularity": 17,
-        "uri": "spotify:track:3KmaxSTvoLcoT42WkC73V4",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -12081,6 +12081,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/a862db9acd99cc8e8890472322cc468a9fa9278c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
+          "id": "1mPXwUT5LiCxQqvDzqkBfF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
+              "width": 64
+            }
+          ],
+          "name": "Neo Yankees' Holiday",
+          "release_date": "1993",
+          "release_date_precision": "year",
+          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 10,
+        "duration_ms": 185560,
+        "external_ids": { "isrc": "JPPC09334201" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2m6og1cQdnJZ6MaGczkqIO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2m6og1cQdnJZ6MaGczkqIO",
+        "id": "2m6og1cQdnJZ6MaGczkqIO",
+        "name": "1,2,3,4,",
+        "popularity": 15,
+        "uri": "spotify:track:2m6og1cQdnJZ6MaGczkqIO",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/4a2f828d5fd4f324656a13e53a54dd7c0c57afda?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -12525,96 +12615,6 @@
         "name": "Kansha (Odoroki)",
         "popularity": 21,
         "uri": "spotify:track:7bD6Gn8Jfkmvxol1qgh3Ff",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a862db9acd99cc8e8890472322cc468a9fa9278c?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
-          "id": "1mPXwUT5LiCxQqvDzqkBfF",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
-              "width": 64
-            }
-          ],
-          "name": "Neo Yankees' Holiday",
-          "release_date": "1993",
-          "release_date_precision": "year",
-          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 10,
-        "duration_ms": 185560,
-        "external_ids": { "isrc": "JPPC09334201" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/2m6og1cQdnJZ6MaGczkqIO"
-        },
-        "href": "https://api.spotify.com/v1/tracks/2m6og1cQdnJZ6MaGczkqIO",
-        "id": "2m6og1cQdnJZ6MaGczkqIO",
-        "name": "1,2,3,4,",
-        "popularity": 15,
-        "uri": "spotify:track:2m6og1cQdnJZ6MaGczkqIO",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -13551,7 +13551,97 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7991567289fec037522650dc429db64860976e2?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/2089de065ed1e00a1697adbceed84af877e56bef?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
+          "id": "1mPXwUT5LiCxQqvDzqkBfF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
+              "width": 64
+            }
+          ],
+          "name": "Neo Yankees' Holiday",
+          "release_date": "1993",
+          "release_date_precision": "year",
+          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 12,
+        "duration_ms": 126400,
+        "external_ids": { "isrc": "JPPC09334205" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5K7mVdCdpRBObg7b5BW2iD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5K7mVdCdpRBObg7b5BW2iD",
+        "id": "5K7mVdCdpRBObg7b5BW2iD",
+        "name": "スー・パー",
+        "popularity": 14,
+        "uri": "spotify:track:5K7mVdCdpRBObg7b5BW2iD",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/736f2700f2b3e92d5795bf62c261995e5a4063ed?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -13984,107 +14074,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 230400,
-        "external_ids": { "isrc": "JPPC09455049" },
+        "track_number": 8,
+        "duration_ms": 313493,
+        "external_ids": { "isrc": "JPPC09455052" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0lnnDJ5ssilAvVWRwU47lH"
+          "spotify": "https://open.spotify.com/track/4Norqj1CGcVxpWPZzWwiQL"
         },
-        "href": "https://api.spotify.com/v1/tracks/0lnnDJ5ssilAvVWRwU47lH",
-        "id": "0lnnDJ5ssilAvVWRwU47lH",
-        "name": "My Life",
+        "href": "https://api.spotify.com/v1/tracks/4Norqj1CGcVxpWPZzWwiQL",
+        "id": "4Norqj1CGcVxpWPZzWwiQL",
+        "name": "Woofer Girl",
         "popularity": 20,
-        "uri": "spotify:track:0lnnDJ5ssilAvVWRwU47lH",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2089de065ed1e00a1697adbceed84af877e56bef?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
-          "id": "1mPXwUT5LiCxQqvDzqkBfF",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
-              "width": 64
-            }
-          ],
-          "name": "Neo Yankees' Holiday",
-          "release_date": "1993",
-          "release_date_precision": "year",
-          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 12,
-        "duration_ms": 126400,
-        "external_ids": { "isrc": "JPPC09334205" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5K7mVdCdpRBObg7b5BW2iD"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5K7mVdCdpRBObg7b5BW2iD",
-        "id": "5K7mVdCdpRBObg7b5BW2iD",
-        "name": "スー・パー",
-        "popularity": 14,
-        "uri": "spotify:track:5K7mVdCdpRBObg7b5BW2iD",
+        "uri": "spotify:track:4Norqj1CGcVxpWPZzWwiQL",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -15003,7 +15003,7 @@
         "href": "https://api.spotify.com/v1/tracks/0WffVAATEMzEvjxDjYIc1c",
         "id": "0WffVAATEMzEvjxDjYIc1c",
         "name": "I DUB FISH",
-        "popularity": 15,
+        "popularity": 16,
         "uri": "spotify:track:0WffVAATEMzEvjxDjYIc1c",
         "is_local": false
       },
@@ -15021,7 +15021,97 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/736f2700f2b3e92d5795bf62c261995e5a4063ed?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/7b5531eaae8678702c0f63a553019b4887217c04?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
+          "id": "1mPXwUT5LiCxQqvDzqkBfF",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
+              "width": 64
+            }
+          ],
+          "name": "Neo Yankees' Holiday",
+          "release_date": "1993",
+          "release_date_precision": "year",
+          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 8,
+        "duration_ms": 244226,
+        "external_ids": { "isrc": "JPPC09334199" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5PfaVnjxLL4reLLBooM8dt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5PfaVnjxLL4reLLBooM8dt",
+        "id": "5PfaVnjxLL4reLLBooM8dt",
+        "name": "パラダイス",
+        "popularity": 14,
+        "uri": "spotify:track:5PfaVnjxLL4reLLBooM8dt",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f7991567289fec037522650dc429db64860976e2?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -15454,107 +15544,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 8,
-        "duration_ms": 313493,
-        "external_ids": { "isrc": "JPPC09455052" },
+        "track_number": 4,
+        "duration_ms": 230400,
+        "external_ids": { "isrc": "JPPC09455049" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4Norqj1CGcVxpWPZzWwiQL"
+          "spotify": "https://open.spotify.com/track/0lnnDJ5ssilAvVWRwU47lH"
         },
-        "href": "https://api.spotify.com/v1/tracks/4Norqj1CGcVxpWPZzWwiQL",
-        "id": "4Norqj1CGcVxpWPZzWwiQL",
-        "name": "Woofer Girl",
+        "href": "https://api.spotify.com/v1/tracks/0lnnDJ5ssilAvVWRwU47lH",
+        "id": "0lnnDJ5ssilAvVWRwU47lH",
+        "name": "My Life",
         "popularity": 20,
-        "uri": "spotify:track:4Norqj1CGcVxpWPZzWwiQL",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/7b5531eaae8678702c0f63a553019b4887217c04?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1mPXwUT5LiCxQqvDzqkBfF",
-          "id": "1mPXwUT5LiCxQqvDzqkBfF",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c34b6c541cd9e254fae4418d",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c34b6c541cd9e254fae4418d",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c34b6c541cd9e254fae4418d",
-              "width": 64
-            }
-          ],
-          "name": "Neo Yankees' Holiday",
-          "release_date": "1993",
-          "release_date_precision": "year",
-          "uri": "spotify:album:1mPXwUT5LiCxQqvDzqkBfF",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1mPXwUT5LiCxQqvDzqkBfF"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 8,
-        "duration_ms": 244226,
-        "external_ids": { "isrc": "JPPC09334199" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5PfaVnjxLL4reLLBooM8dt"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5PfaVnjxLL4reLLBooM8dt",
-        "id": "5PfaVnjxLL4reLLBooM8dt",
-        "name": "パラダイス",
-        "popularity": 14,
-        "uri": "spotify:track:5PfaVnjxLL4reLLBooM8dt",
+        "uri": "spotify:track:0lnnDJ5ssilAvVWRwU47lH",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -16015,466 +16015,6 @@
         "name": "Running Man",
         "popularity": 19,
         "uri": "spotify:track:3XPeYw6DojTRh2pE9nIRA1",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/412466d57bfaadb1569e2b4eee13411ddc58e8c7?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "PR",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/45tdQQT1tbboBU2pyzfVh1",
-          "id": "45tdQQT1tbboBU2pyzfVh1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730df3bf3012d9fbc810baa631",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020df3bf3012d9fbc810baa631",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510df3bf3012d9fbc810baa631",
-              "width": 64
-            }
-          ],
-          "name": "King Master George",
-          "release_date": "1992",
-          "release_date_precision": "year",
-          "uri": "spotify:album:45tdQQT1tbboBU2pyzfVh1",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/45tdQQT1tbboBU2pyzfVh1"
-          },
-          "total_tracks": 16
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 8,
-        "duration_ms": 31760,
-        "external_ids": { "isrc": "JPPC09225202" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/3Kv0ooX96RSeVGgiHbiiK7"
-        },
-        "href": "https://api.spotify.com/v1/tracks/3Kv0ooX96RSeVGgiHbiiK7",
-        "id": "3Kv0ooX96RSeVGgiHbiiK7",
-        "name": "Hamburger Steak",
-        "popularity": 11,
-        "uri": "spotify:track:3Kv0ooX96RSeVGgiHbiiK7",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
