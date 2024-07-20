@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32612 },
+  "followers": { "href": null, "total": 32616 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZpcJgAAAAACKKEWhynz1rz4N16rw6xQv",
+  "snapshot_id": "ZphbAAAAAACsUsLMfb1Krr1+nfvED88E",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -591,7 +591,7 @@
         "href": "https://api.spotify.com/v1/tracks/5ID7acS90w1p9d0JJJOwbL",
         "id": "5ID7acS90w1p9d0JJJOwbL",
         "name": "Bricks",
-        "popularity": 40,
+        "popularity": 41,
         "uri": "spotify:track:5ID7acS90w1p9d0JJJOwbL",
         "is_local": false
       },
@@ -1139,6 +1139,96 @@
         "name": "Resolution",
         "popularity": 52,
         "uri": "spotify:track:76QK6gTaW2bBV47FDe3RPK",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/47a4f20bb8dbfd944bce53996076bd22ab117c06?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 9,
+        "duration_ms": 262257,
+        "external_ids": { "isrc": "AUUM71800934" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5zxJlZh20vaB1TcZAUZ8Pz",
+        "id": "5zxJlZh20vaB1TcZAUZ8Pz",
+        "name": "Miracle Love",
+        "popularity": 50,
+        "uri": "spotify:track:5zxJlZh20vaB1TcZAUZ8Pz",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -2603,7 +2693,7 @@
         "href": "https://api.spotify.com/v1/tracks/59urXGUpl1LIsSx4hyYDNO",
         "id": "59urXGUpl1LIsSx4hyYDNO",
         "name": "Same Page",
-        "popularity": 40,
+        "popularity": 41,
         "uri": "spotify:track:59urXGUpl1LIsSx4hyYDNO",
         "is_local": false
       },
@@ -3515,7 +3605,7 @@
         "href": "https://api.spotify.com/v1/tracks/1uxjRXDM6VHF5TSinQvErE",
         "id": "1uxjRXDM6VHF5TSinQvErE",
         "name": "Big Smoke",
-        "popularity": 34,
+        "popularity": 35,
         "uri": "spotify:track:1uxjRXDM6VHF5TSinQvErE",
         "is_local": false
       },
@@ -3695,7 +3785,7 @@
         "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
         "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
         "name": "Desert Land",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
         "is_local": false
       },
@@ -3713,39 +3803,39 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/87c56015725a73871c2b1b27f1ce6eec1c755f4b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/18e0ad31f79d9847eeeb02b8cf78844c5881525a?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
-          "id": "5jNjG588J6t474RR1Ch8NC",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1gCzc2JnrmJKFjBwgxLIeI",
+          "id": "1gCzc2JnrmJKFjBwgxLIeI",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d0000b273c69df51e65a0bc6abb5521ba",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d00001e02c69df51e65a0bc6abb5521ba",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "url": "https://i.scdn.co/image/ab67616d00004851c69df51e65a0bc6abb5521ba",
               "width": 64
             }
           ],
-          "name": "Telluric",
-          "release_date": "2016-03-11",
+          "name": "If I Never Say A Word",
+          "release_date": "2020-08-14",
           "release_date_precision": "day",
-          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "uri": "spotify:album:1gCzc2JnrmJKFjBwgxLIeI",
           "artists": [
             {
               "external_urls": {
@@ -3759,9 +3849,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+            "spotify": "https://open.spotify.com/album/1gCzc2JnrmJKFjBwgxLIeI"
           },
-          "total_tracks": 11
+          "total_tracks": 1
         },
         "artists": [
           {
@@ -3776,17 +3866,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 248693,
-        "external_ids": { "isrc": "AUUM71501114" },
+        "track_number": 1,
+        "duration_ms": 222036,
+        "external_ids": { "isrc": "AUUM72000579" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0OcfxEcuVKzc9CpaPklhS7"
+          "spotify": "https://open.spotify.com/track/51HQCp166QHkXwDd2bw9My"
         },
-        "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
-        "id": "0OcfxEcuVKzc9CpaPklhS7",
-        "name": "Monday",
-        "popularity": 37,
-        "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7",
+        "href": "https://api.spotify.com/v1/tracks/51HQCp166QHkXwDd2bw9My",
+        "id": "51HQCp166QHkXwDd2bw9My",
+        "name": "If I Never Say A Word",
+        "popularity": 31,
+        "uri": "spotify:track:51HQCp166QHkXwDd2bw9My",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4351,97 +4441,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/18e0ad31f79d9847eeeb02b8cf78844c5881525a?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": true,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1gCzc2JnrmJKFjBwgxLIeI",
-          "id": "1gCzc2JnrmJKFjBwgxLIeI",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c69df51e65a0bc6abb5521ba",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c69df51e65a0bc6abb5521ba",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c69df51e65a0bc6abb5521ba",
-              "width": 64
-            }
-          ],
-          "name": "If I Never Say A Word",
-          "release_date": "2020-08-14",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1gCzc2JnrmJKFjBwgxLIeI",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1gCzc2JnrmJKFjBwgxLIeI"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 222036,
-        "external_ids": { "isrc": "AUUM72000579" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/51HQCp166QHkXwDd2bw9My"
-        },
-        "href": "https://api.spotify.com/v1/tracks/51HQCp166QHkXwDd2bw9My",
-        "id": "51HQCp166QHkXwDd2bw9My",
-        "name": "If I Never Say A Word",
-        "popularity": 31,
-        "uri": "spotify:track:51HQCp166QHkXwDd2bw9My",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/89fa51d8fd390544ed8e4f87327fd177b32a6bd0?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -4504,17 +4504,475 @@
           }
         ],
         "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 190851,
+        "external_ids": { "isrc": "AU2DY2300422" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
+        "id": "0eIXTxq5ScMa98AQq3zwyV",
+        "name": "No Scrubs - triple j Like A Version",
+        "popularity": 30,
+        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/89fa51d8fd390544ed8e4f87327fd177b32a6bd0?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [
+          "AR",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [
+            "AR",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/5exyfRsrb2PmfuYaPtBI5r",
+          "id": "5exyfRsrb2PmfuYaPtBI5r",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff291bdb6732e910c11f41fc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff291bdb6732e910c11f41fc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ff291bdb6732e910c11f41fc",
+              "width": 64
+            }
+          ],
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5exyfRsrb2PmfuYaPtBI5r",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5exyfRsrb2PmfuYaPtBI5r"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
         "track_number": 3,
         "duration_ms": 204666,
-        "external_ids": { "isrc": "AU2DY2300501" },
+        "external_ids": { "isrc": "AUAB01200697" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3YzWcuxzoiQHlJToM7iFdx"
+          "spotify": "https://open.spotify.com/track/4ahSBG8SxN63fJlTYYgoY3"
         },
-        "href": "https://api.spotify.com/v1/tracks/3YzWcuxzoiQHlJToM7iFdx",
-        "id": "3YzWcuxzoiQHlJToM7iFdx",
-        "name": "Lonely Boy - triple j Like A Version",
+        "href": "https://api.spotify.com/v1/tracks/4ahSBG8SxN63fJlTYYgoY3",
+        "id": "4ahSBG8SxN63fJlTYYgoY3",
+        "name": "Lonely Boy - Triple J Like a Version",
         "popularity": 30,
-        "uri": "spotify:track:3YzWcuxzoiQHlJToM7iFdx",
+        "uri": "spotify:track:4ahSBG8SxN63fJlTYYgoY3",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4973,394 +5431,6 @@
         "name": "Mainies",
         "popularity": 33,
         "uri": "spotify:track:1YU4qreEFZdl214igfmaD1",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": null,
-        "available_markets": [
-          "AR",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MT",
-          "MX",
-          "NL",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PL",
-          "PT",
-          "SK",
-          "ES",
-          "SE",
-          "CH",
-          "TR",
-          "UY",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "IN",
-          "BY",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "HT",
-          "JM",
-          "LS",
-          "LR",
-          "MW",
-          "ML",
-          "NA",
-          "NE",
-          "PR",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "KN",
-          "LC",
-          "VC",
-          "TT",
-          "AZ",
-          "BI",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "MR",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [
-            "AR",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MT",
-            "MX",
-            "NL",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PL",
-            "PT",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TR",
-            "UY",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "IN",
-            "BY",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "HT",
-            "JM",
-            "LS",
-            "LR",
-            "MW",
-            "ML",
-            "NA",
-            "NE",
-            "PR",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "KN",
-            "LC",
-            "VC",
-            "TT",
-            "AZ",
-            "BI",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "MR",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/70Ac4hfNxsbKtxq1FgIVf5",
-          "id": "70Ac4hfNxsbKtxq1FgIVf5",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27377c0d3d48b720068885632bd",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0277c0d3d48b720068885632bd",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485177c0d3d48b720068885632bd",
-              "width": 64
-            }
-          ],
-          "name": "Made of Stone",
-          "release_date": "2012-08-12",
-          "release_date_precision": "day",
-          "uri": "spotify:album:70Ac4hfNxsbKtxq1FgIVf5",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/70Ac4hfNxsbKtxq1FgIVf5"
-          },
-          "total_tracks": 3
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 236650,
-        "external_ids": { "isrc": "GBAHS1200314" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/75kHuG6iFGA7lOMKPiojr0"
-        },
-        "href": "https://api.spotify.com/v1/tracks/75kHuG6iFGA7lOMKPiojr0",
-        "id": "75kHuG6iFGA7lOMKPiojr0",
-        "name": "Made of Stone",
-        "popularity": 35,
-        "uri": "spotify:track:75kHuG6iFGA7lOMKPiojr0",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -5879,39 +5949,337 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
+        "preview_url": null,
+        "available_markets": [
+          "AR",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MT",
+          "MX",
+          "NL",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PL",
+          "PT",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TR",
+          "UY",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "HT",
+          "JM",
+          "LS",
+          "LR",
+          "MW",
+          "ML",
+          "NA",
+          "NE",
+          "PR",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "KN",
+          "LC",
+          "VC",
+          "TT",
+          "AZ",
+          "BI",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "MR",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["AU", "NZ"],
+          "available_markets": [
+            "AR",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MT",
+            "MX",
+            "NL",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PL",
+            "PT",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TR",
+            "UY",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "HT",
+            "JM",
+            "LS",
+            "LR",
+            "MW",
+            "ML",
+            "NA",
+            "NE",
+            "PR",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "KN",
+            "LC",
+            "VC",
+            "TT",
+            "AZ",
+            "BI",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "MR",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "href": "https://api.spotify.com/v1/albums/70Ac4hfNxsbKtxq1FgIVf5",
+          "id": "70Ac4hfNxsbKtxq1FgIVf5",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d0000b27377c0d3d48b720068885632bd",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d00001e0277c0d3d48b720068885632bd",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "url": "https://i.scdn.co/image/ab67616d0000485177c0d3d48b720068885632bd",
               "width": 64
             }
           ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
+          "name": "Made of Stone",
+          "release_date": "2012-08-12",
           "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "uri": "spotify:album:70Ac4hfNxsbKtxq1FgIVf5",
           "artists": [
             {
               "external_urls": {
@@ -5925,7 +6293,97 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+            "spotify": "https://open.spotify.com/album/70Ac4hfNxsbKtxq1FgIVf5"
+          },
+          "total_tracks": 3
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 236650,
+        "external_ids": { "isrc": "GBAHS1200314" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/75kHuG6iFGA7lOMKPiojr0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/75kHuG6iFGA7lOMKPiojr0",
+        "id": "75kHuG6iFGA7lOMKPiojr0",
+        "name": "Made of Stone",
+        "popularity": 35,
+        "uri": "spotify:track:75kHuG6iFGA7lOMKPiojr0",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
+          "id": "51ET6cqHUpWJRtIHdJI20H",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
+              "width": 64
+            }
+          ],
+          "name": "Into The Flame",
+          "release_date": "2011-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
           },
           "total_tracks": 4
         },
@@ -5942,17 +6400,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 190851,
-        "external_ids": { "isrc": "AU2DY2300422" },
+        "track_number": 2,
+        "duration_ms": 256773,
+        "external_ids": { "isrc": "AUUM71101249" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0eIXTxq5ScMa98AQq3zwyV"
+          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
         },
-        "href": "https://api.spotify.com/v1/tracks/0eIXTxq5ScMa98AQq3zwyV",
-        "id": "0eIXTxq5ScMa98AQq3zwyV",
-        "name": "No Scrubs - triple j Like A Version",
-        "popularity": 30,
-        "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
+        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
+        "id": "7nJn5fGLc6ViWm18HcNiln",
+        "name": "Souls A'Fire",
+        "popularity": 31,
+        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -6409,98 +6867,8 @@
         "href": "https://api.spotify.com/v1/tracks/4ajui34hnuTZyYSkp0GqgG",
         "id": "4ajui34hnuTZyYSkp0GqgG",
         "name": "Lover",
-        "popularity": 31,
+        "popularity": 32,
         "uri": "spotify:track:4ajui34hnuTZyYSkp0GqgG",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
-          "id": "51ET6cqHUpWJRtIHdJI20H",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
-              "width": 64
-            }
-          ],
-          "name": "Into The Flame",
-          "release_date": "2011-01-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 256773,
-        "external_ids": { "isrc": "AUUM71101249" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
-        "id": "7nJn5fGLc6ViWm18HcNiln",
-        "name": "Souls A'Fire",
-        "popularity": 31,
-        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7061,98 +7429,8 @@
         "href": "https://api.spotify.com/v1/tracks/71URuaiAZ6NV9kDVho8KO8",
         "id": "71URuaiAZ6NV9kDVho8KO8",
         "name": "All That I See",
-        "popularity": 29,
+        "popularity": 30,
         "uri": "spotify:track:71URuaiAZ6NV9kDVho8KO8",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bf74a65c39d40d5f98ccb64a0a4fd132dc5bbcfb?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/3wZ0ouF94SRD7EwX2NI4h0",
-          "id": "3wZ0ouF94SRD7EwX2NI4h0",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273663ba29386579087c7ea182c",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02663ba29386579087c7ea182c",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851663ba29386579087c7ea182c",
-              "width": 64
-            }
-          ],
-          "name": "Everything's Fine",
-          "release_date": "2023-03-24",
-          "release_date_precision": "day",
-          "uri": "spotify:album:3wZ0ouF94SRD7EwX2NI4h0",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3wZ0ouF94SRD7EwX2NI4h0"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 212269,
-        "external_ids": { "isrc": "GB6TW2200143" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4cgj3fYsQQbbCpbaMXgU7I"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4cgj3fYsQQbbCpbaMXgU7I",
-        "id": "4cgj3fYsQQbbCpbaMXgU7I",
-        "name": "Problems",
-        "popularity": 31,
-        "uri": "spotify:track:4cgj3fYsQQbbCpbaMXgU7I",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7243,6 +7521,96 @@
         "name": "Knife Edge",
         "popularity": 30,
         "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/bf74a65c39d40d5f98ccb64a0a4fd132dc5bbcfb?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/3wZ0ouF94SRD7EwX2NI4h0",
+          "id": "3wZ0ouF94SRD7EwX2NI4h0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273663ba29386579087c7ea182c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02663ba29386579087c7ea182c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851663ba29386579087c7ea182c",
+              "width": 64
+            }
+          ],
+          "name": "Everything's Fine",
+          "release_date": "2023-03-24",
+          "release_date_precision": "day",
+          "uri": "spotify:album:3wZ0ouF94SRD7EwX2NI4h0",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3wZ0ouF94SRD7EwX2NI4h0"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 212269,
+        "external_ids": { "isrc": "GB6TW2200143" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cgj3fYsQQbbCpbaMXgU7I"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4cgj3fYsQQbbCpbaMXgU7I",
+        "id": "4cgj3fYsQQbbCpbaMXgU7I",
+        "name": "Problems",
+        "popularity": 31,
+        "uri": "spotify:track:4cgj3fYsQQbbCpbaMXgU7I",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7601,7 +7969,7 @@
         "href": "https://api.spotify.com/v1/tracks/7LHUgPRGrmwJ2mSQWvBOMu",
         "id": "7LHUgPRGrmwJ2mSQWvBOMu",
         "name": "Wrong Man",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:7LHUgPRGrmwJ2mSQWvBOMu",
         "is_local": false
       },
@@ -8163,7 +8531,7 @@
         "href": "https://api.spotify.com/v1/tracks/2SypLi8dKk14pT8L3d2hH1",
         "id": "2SypLi8dKk14pT8L3d2hH1",
         "name": "Missing You (feat. Matt Corby) - Live",
-        "popularity": 23,
+        "popularity": 24,
         "uri": "spotify:track:2SypLi8dKk14pT8L3d2hH1",
         "is_local": false
       },
@@ -8343,7 +8711,7 @@
         "href": "https://api.spotify.com/v1/tracks/32RvpDu1WySHk37q8KaDys",
         "id": "32RvpDu1WySHk37q8KaDys",
         "name": "Oh Oh Oh",
-        "popularity": 26,
+        "popularity": 27,
         "uri": "spotify:track:32RvpDu1WySHk37q8KaDys",
         "is_local": false
       },
@@ -8883,7 +9251,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ef080ca7121949161204824c261be4c9533d37fa?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/514bed315ac4b1f5db553ba48645432d1d30e46d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
         "type": "track",
@@ -8892,30 +9260,30 @@
         "album": {
           "available_markets": ["AU", "NZ"],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/2W7szr7iVNuZL5cY6SftLl",
+          "id": "2W7szr7iVNuZL5cY6SftLl",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d0000b2738d599e3b10e8cc710eb800cd",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d00001e028d599e3b10e8cc710eb800cd",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "url": "https://i.scdn.co/image/ab67616d000048518d599e3b10e8cc710eb800cd",
               "width": 64
             }
           ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
+          "name": "If I Never Say A Word / Vitamin",
+          "release_date": "2020-08-19",
           "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "uri": "spotify:album:2W7szr7iVNuZL5cY6SftLl",
           "artists": [
             {
               "external_urls": {
@@ -8929,9 +9297,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+            "spotify": "https://open.spotify.com/album/2W7szr7iVNuZL5cY6SftLl"
           },
-          "total_tracks": 11
+          "total_tracks": 2
         },
         "artists": [
           {
@@ -8946,17 +9314,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 275466,
-        "external_ids": { "isrc": "AUUM71800932" },
+        "track_number": 2,
+        "duration_ms": 238289,
+        "external_ids": { "isrc": "AUUM72000580" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1F5Jj0oHJAiSiindKfmvgg"
+          "spotify": "https://open.spotify.com/track/54pCGNhM6N4oLG7MEaTNUF"
         },
-        "href": "https://api.spotify.com/v1/tracks/1F5Jj0oHJAiSiindKfmvgg",
-        "id": "1F5Jj0oHJAiSiindKfmvgg",
-        "name": "New Day Coming",
+        "href": "https://api.spotify.com/v1/tracks/54pCGNhM6N4oLG7MEaTNUF",
+        "id": "54pCGNhM6N4oLG7MEaTNUF",
+        "name": "Vitamin",
         "popularity": 25,
-        "uri": "spotify:track:1F5Jj0oHJAiSiindKfmvgg",
+        "uri": "spotify:track:54pCGNhM6N4oLG7MEaTNUF",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -9047,96 +9415,6 @@
         "name": "Belly Side Up",
         "popularity": 26,
         "uri": "spotify:track:3r58C0yF2VHo6CsldXT6kX",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/514bed315ac4b1f5db553ba48645432d1d30e46d?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/2W7szr7iVNuZL5cY6SftLl",
-          "id": "2W7szr7iVNuZL5cY6SftLl",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738d599e3b10e8cc710eb800cd",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e028d599e3b10e8cc710eb800cd",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048518d599e3b10e8cc710eb800cd",
-              "width": 64
-            }
-          ],
-          "name": "If I Never Say A Word / Vitamin",
-          "release_date": "2020-08-19",
-          "release_date_precision": "day",
-          "uri": "spotify:album:2W7szr7iVNuZL5cY6SftLl",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2W7szr7iVNuZL5cY6SftLl"
-          },
-          "total_tracks": 2
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 238289,
-        "external_ids": { "isrc": "AUUM72000580" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/54pCGNhM6N4oLG7MEaTNUF"
-        },
-        "href": "https://api.spotify.com/v1/tracks/54pCGNhM6N4oLG7MEaTNUF",
-        "id": "54pCGNhM6N4oLG7MEaTNUF",
-        "name": "Vitamin",
-        "popularity": 25,
-        "uri": "spotify:track:54pCGNhM6N4oLG7MEaTNUF",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -9253,6 +9531,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/151cebf560dfb2d7ce5d55a39bd03015dc03054b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
+          "id": "51ET6cqHUpWJRtIHdJI20H",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
+              "width": 64
+            }
+          ],
+          "name": "Into The Flame",
+          "release_date": "2011-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 4,
+        "duration_ms": 281960,
+        "external_ids": { "isrc": "AUUM71101251" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3XGI7w6DFAFCyvvpvuqRTu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3XGI7w6DFAFCyvvpvuqRTu",
+        "id": "3XGI7w6DFAFCyvvpvuqRTu",
+        "name": "Big Eyes",
+        "popularity": 27,
+        "uri": "spotify:track:3XGI7w6DFAFCyvvpvuqRTu",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/e143ae16869411bcbb7199a28f9fe5840bb5b2cd?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": true,
@@ -9327,6 +9695,96 @@
         "name": "Lay You Down",
         "popularity": 24,
         "uri": "spotify:track:1eBFoOugxeoEMKu8ODYIxp",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/a475419cc56b0af4adefa56850b95735f240dee3?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+          "id": "5jNjG588J6t474RR1Ch8NC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "width": 64
+            }
+          ],
+          "name": "Telluric",
+          "release_date": "2016-03-11",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 10,
+        "duration_ms": 301333,
+        "external_ids": { "isrc": "AUUM71501797" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2SStoQujJoT3scuaKSONQb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SStoQujJoT3scuaKSONQb",
+        "id": "2SStoQujJoT3scuaKSONQb",
+        "name": "Good To Be Alone",
+        "popularity": 27,
+        "uri": "spotify:track:2SStoQujJoT3scuaKSONQb",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -9847,7 +10305,7 @@
         "href": "https://api.spotify.com/v1/tracks/4RtXFqMwzzgVhdNvW3yZkZ",
         "id": "4RtXFqMwzzgVhdNvW3yZkZ",
         "name": "Almost Cut My Hair - Live on the Resolution Tour",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:4RtXFqMwzzgVhdNvW3yZkZ",
         "is_local": false
       },
@@ -10235,7 +10693,7 @@
         "href": "https://api.spotify.com/v1/tracks/3f03TGsibwcLDJ30uSKNXC",
         "id": "3f03TGsibwcLDJ30uSKNXC",
         "name": "Breathe",
-        "popularity": 20,
+        "popularity": 21,
         "uri": "spotify:track:3f03TGsibwcLDJ30uSKNXC",
         "is_local": false
       },
@@ -10325,7 +10783,7 @@
         "href": "https://api.spotify.com/v1/tracks/7A1lsKCoAofE8KRUt9Mos0",
         "id": "7A1lsKCoAofE8KRUt9Mos0",
         "name": "Winter",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:7A1lsKCoAofE8KRUt9Mos0",
         "is_local": false
       },
