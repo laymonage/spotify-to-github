@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 26857 },
+  "followers": { "href": null, "total": 26864 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "Zp2hAAAAAAAve2c1tr1pTAjgh/GjgU65",
+  "snapshot_id": "Zp7ygAAAAAAjFDsJ/MchoYYqITR6qL8T",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -485,7 +485,7 @@
         "href": "https://api.spotify.com/v1/tracks/6Ez7j7MPocvayb7J7WlaR7",
         "id": "6Ez7j7MPocvayb7J7WlaR7",
         "name": "Paranoid",
-        "popularity": 52,
+        "popularity": 53,
         "uri": "spotify:track:6Ez7j7MPocvayb7J7WlaR7",
         "is_local": false
       },
@@ -3427,96 +3427,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ebe410463fd74f0d32a661b9e1bb9657686e9e73?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/7zeuAUF8ieCxZ5P9wUxOBB",
-          "id": "7zeuAUF8ieCxZ5P9wUxOBB",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273860905b12810042749f948b8",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02860905b12810042749f948b8",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851860905b12810042749f948b8",
-              "width": 64
-            }
-          ],
-          "name": "Kick in the Teeth",
-          "release_date": "2023-02-21",
-          "release_date_precision": "day",
-          "uri": "spotify:album:7zeuAUF8ieCxZ5P9wUxOBB",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 167289,
-        "external_ids": { "isrc": "QM5BK1900623" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
-        },
-        "href": "https://api.spotify.com/v1/tracks/09IAjxegM08998hgb6ZScZ",
-        "id": "09IAjxegM08998hgb6ZScZ",
-        "name": "Kick in the Teeth",
-        "popularity": 39,
-        "uri": "spotify:track:09IAjxegM08998hgb6ZScZ",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/2e33ad547389f3574bbf0aad3c221e33651c5304?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AG",
@@ -3641,6 +3551,96 @@
         "name": "Ease up Kid - Demo",
         "popularity": 39,
         "uri": "spotify:track:3Q6crokpbPGwumkQ2KBnVn",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/ebe410463fd74f0d32a661b9e1bb9657686e9e73?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/7zeuAUF8ieCxZ5P9wUxOBB",
+          "id": "7zeuAUF8ieCxZ5P9wUxOBB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273860905b12810042749f948b8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02860905b12810042749f948b8",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851860905b12810042749f948b8",
+              "width": 64
+            }
+          ],
+          "name": "Kick in the Teeth",
+          "release_date": "2023-02-21",
+          "release_date_precision": "day",
+          "uri": "spotify:album:7zeuAUF8ieCxZ5P9wUxOBB",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7zeuAUF8ieCxZ5P9wUxOBB"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 167289,
+        "external_ids": { "isrc": "QM5BK1900623" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/09IAjxegM08998hgb6ZScZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/09IAjxegM08998hgb6ZScZ",
+        "id": "09IAjxegM08998hgb6ZScZ",
+        "name": "Kick in the Teeth",
+        "popularity": 39,
+        "uri": "spotify:track:09IAjxegM08998hgb6ZScZ",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -4207,96 +4207,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/0b405106ec3d568467e5a5ab84bb10925a201cbf?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": [],
-        "explicit": true,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/2YvJnCMTTHVUBcnZFjs0f1",
-          "id": "2YvJnCMTTHVUBcnZFjs0f1",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e9e1ccb2d6927ffc08d5fe55",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e9e1ccb2d6927ffc08d5fe55",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e9e1ccb2d6927ffc08d5fe55",
-              "width": 64
-            }
-          ],
-          "name": "Yippie Ki Yay",
-          "release_date": "2023-03-21",
-          "release_date_precision": "day",
-          "uri": "spotify:album:2YvJnCMTTHVUBcnZFjs0f1",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-              },
-              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-              "id": "1btWGBz4Uu1HozTwb2Lm8A",
-              "name": "Hippo Campus",
-              "type": "artist",
-              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-            },
-            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
-            "id": "1btWGBz4Uu1HozTwb2Lm8A",
-            "name": "Hippo Campus",
-            "type": "artist",
-            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 266911,
-        "external_ids": { "isrc": "QM5BK1900620" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7kqwuYDC4u3vgN1xevrmGp",
-        "id": "7kqwuYDC4u3vgN1xevrmGp",
-        "name": "Yippie Ki Yay",
-        "popularity": 38,
-        "uri": "spotify:track:7kqwuYDC4u3vgN1xevrmGp",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/a4a05b12cdc8e426f3f52fcb7418bb715bd7223f?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["CA", "MX", "US"],
         "explicit": false,
@@ -4371,6 +4281,96 @@
         "name": "Honestly",
         "popularity": 37,
         "uri": "spotify:track:6MtIerVDZGoo78DJqT4HoJ",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/0b405106ec3d568467e5a5ab84bb10925a201cbf?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": true,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/2YvJnCMTTHVUBcnZFjs0f1",
+          "id": "2YvJnCMTTHVUBcnZFjs0f1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e9e1ccb2d6927ffc08d5fe55",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02e9e1ccb2d6927ffc08d5fe55",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851e9e1ccb2d6927ffc08d5fe55",
+              "width": 64
+            }
+          ],
+          "name": "Yippie Ki Yay",
+          "release_date": "2023-03-21",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2YvJnCMTTHVUBcnZFjs0f1",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+              },
+              "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+              "id": "1btWGBz4Uu1HozTwb2Lm8A",
+              "name": "Hippo Campus",
+              "type": "artist",
+              "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+            },
+            "href": "https://api.spotify.com/v1/artists/1btWGBz4Uu1HozTwb2Lm8A",
+            "id": "1btWGBz4Uu1HozTwb2Lm8A",
+            "name": "Hippo Campus",
+            "type": "artist",
+            "uri": "spotify:artist:1btWGBz4Uu1HozTwb2Lm8A"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 266911,
+        "external_ids": { "isrc": "QM5BK1900620" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7kqwuYDC4u3vgN1xevrmGp",
+        "id": "7kqwuYDC4u3vgN1xevrmGp",
+        "name": "Yippie Ki Yay",
+        "popularity": 38,
+        "uri": "spotify:track:7kqwuYDC4u3vgN1xevrmGp",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -5401,7 +5401,7 @@
         "href": "https://api.spotify.com/v1/tracks/4CKRwn0AIG5Fmbf040suEj",
         "id": "4CKRwn0AIG5Fmbf040suEj",
         "name": "Maps",
-        "popularity": 37,
+        "popularity": 38,
         "uri": "spotify:track:4CKRwn0AIG5Fmbf040suEj",
         "is_local": false
       },
@@ -5951,7 +5951,7 @@
         "href": "https://api.spotify.com/v1/tracks/5khfbDDp5u3RtOem4m3are",
         "id": "5khfbDDp5u3RtOem4m3are",
         "name": "Ashtray",
-        "popularity": 36,
+        "popularity": 37,
         "uri": "spotify:track:5khfbDDp5u3RtOem4m3are",
         "is_local": false
       },
@@ -8473,7 +8473,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Ejo5HF3RNGNauRmq337fa",
         "id": "3Ejo5HF3RNGNauRmq337fa",
         "name": "Sex Tape",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:3Ejo5HF3RNGNauRmq337fa",
         "is_local": false
       },
