@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d"
   },
-  "followers": { "href": null, "total": 13903 },
+  "followers": { "href": null, "total": 13906 },
   "href": "https://api.spotify.com/v1/playlists/7m3EiJHdRAVPweCJLxDP3d?locale=*",
   "id": "7m3EiJHdRAVPweCJLxDP3d",
   "images": [
@@ -25,10 +25,190 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAAAkJ/6XmpkV3YflCGcRNkhzveeWvtb",
+  "snapshot_id": "AAAAl5Re6CxZhK/6hrZ1DJMe4OP0dQ2H",
   "type": "playlist",
   "uri": "spotify:playlist:7m3EiJHdRAVPweCJLxDP3d",
   "tracks": [
+    {
+      "added_at": "2024-08-05T16:19:43Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/iso50" },
+        "href": "https://api.spotify.com/v1/users/iso50",
+        "id": "iso50",
+        "type": "user",
+        "uri": "spotify:user:iso50"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/89a43bcc83de1c688ca184c7a404c474b3f9effe?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/01eGQwEZGTEvpu4Ui5uSEG",
+          "id": "01eGQwEZGTEvpu4Ui5uSEG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff209f9e762c1009ab51fa05",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff209f9e762c1009ab51fa05",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ff209f9e762c1009ab51fa05",
+              "width": 64
+            }
+          ],
+          "name": "Devices / Green",
+          "release_date": "2024-07-31",
+          "release_date_precision": "day",
+          "uri": "spotify:album:01eGQwEZGTEvpu4Ui5uSEG",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+              },
+              "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+              "id": "5oOhM2DFWab8XhSdQiITry",
+              "name": "Tycho",
+              "type": "artist",
+              "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/01eGQwEZGTEvpu4Ui5uSEG"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho",
+            "type": "artist",
+            "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 310560,
+        "external_ids": { "isrc": "GBCFB2400521" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3tJcIUcZrfJoaZScirWjqG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tJcIUcZrfJoaZScirWjqG",
+        "id": "3tJcIUcZrfJoaZScirWjqG",
+        "name": "Devices",
+        "popularity": 43,
+        "uri": "spotify:track:3tJcIUcZrfJoaZScirWjqG",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2024-08-05T16:19:38Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/iso50" },
+        "href": "https://api.spotify.com/v1/users/iso50",
+        "id": "iso50",
+        "type": "user",
+        "uri": "spotify:user:iso50"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/1bb2731f7bf3498d055d4a385f6b623b8c49936b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/01eGQwEZGTEvpu4Ui5uSEG",
+          "id": "01eGQwEZGTEvpu4Ui5uSEG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff209f9e762c1009ab51fa05",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff209f9e762c1009ab51fa05",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ff209f9e762c1009ab51fa05",
+              "width": 64
+            }
+          ],
+          "name": "Devices / Green",
+          "release_date": "2024-07-31",
+          "release_date_precision": "day",
+          "uri": "spotify:album:01eGQwEZGTEvpu4Ui5uSEG",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+              },
+              "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+              "id": "5oOhM2DFWab8XhSdQiITry",
+              "name": "Tycho",
+              "type": "artist",
+              "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/01eGQwEZGTEvpu4Ui5uSEG"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho",
+            "type": "artist",
+            "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 268293,
+        "external_ids": { "isrc": "GBCFB2400522" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qx08Qm00C4joo8NefXFRk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qx08Qm00C4joo8NefXFRk",
+        "id": "3qx08Qm00C4joo8NefXFRk",
+        "name": "Green",
+        "popularity": 39,
+        "uri": "spotify:track:3qx08Qm00C4joo8NefXFRk",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
     {
       "added_at": "2024-06-25T15:34:21Z",
       "added_by": {
@@ -115,6 +295,96 @@
         "name": "Phantom",
         "popularity": 46,
         "uri": "spotify:track:1sM70q8HETr85d99r1eWdL",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2024-08-05T16:19:32Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/iso50" },
+        "href": "https://api.spotify.com/v1/users/iso50",
+        "id": "iso50",
+        "type": "user",
+        "uri": "spotify:user:iso50"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/9ef9df8ee5f38098947cc29401013e0fd515f90e?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/01eGQwEZGTEvpu4Ui5uSEG",
+          "id": "01eGQwEZGTEvpu4Ui5uSEG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff209f9e762c1009ab51fa05",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff209f9e762c1009ab51fa05",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851ff209f9e762c1009ab51fa05",
+              "width": 64
+            }
+          ],
+          "name": "Devices / Green",
+          "release_date": "2024-07-31",
+          "release_date_precision": "day",
+          "uri": "spotify:album:01eGQwEZGTEvpu4Ui5uSEG",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+              },
+              "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+              "id": "5oOhM2DFWab8XhSdQiITry",
+              "name": "Tycho",
+              "type": "artist",
+              "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/01eGQwEZGTEvpu4Ui5uSEG"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho",
+            "type": "artist",
+            "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 85960,
+        "external_ids": { "isrc": "GBCFB2401019" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7f4rnBxI0rUIR2XPFddL8F"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7f4rnBxI0rUIR2XPFddL8F",
+        "id": "7f4rnBxI0rUIR2XPFddL8F",
+        "name": "Phantom - Edit",
+        "popularity": 36,
+        "uri": "spotify:track:7f4rnBxI0rUIR2XPFddL8F",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -213,7 +483,7 @@
         "href": "https://api.spotify.com/v1/tracks/18P8SsTjGnV08WHAaNPTHa",
         "id": "18P8SsTjGnV08WHAaNPTHa",
         "name": "Small Sanctuary - Edit",
-        "popularity": 17,
+        "popularity": 16,
         "uri": "spotify:track:18P8SsTjGnV08WHAaNPTHa",
         "is_local": false
       },
@@ -853,7 +1123,7 @@
         "href": "https://api.spotify.com/v1/tracks/2yHFuUQWOmGmF5wYTX4ime",
         "id": "2yHFuUQWOmGmF5wYTX4ime",
         "name": "PBS (Live Edit)",
-        "popularity": 19,
+        "popularity": 18,
         "uri": "spotify:track:2yHFuUQWOmGmF5wYTX4ime",
         "is_local": false
       },
@@ -2927,7 +3197,7 @@
         "href": "https://api.spotify.com/v1/tracks/1MrUQX327aKDnOawrNnRUJ",
         "id": "1MrUQX327aKDnOawrNnRUJ",
         "name": "Alright",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:1MrUQX327aKDnOawrNnRUJ",
         "is_local": false
       },
@@ -3017,7 +3287,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Zwo8D1koSzLJCYd5NlX81",
         "id": "4Zwo8D1koSzLJCYd5NlX81",
         "name": "Outer Sunset",
-        "popularity": 35,
+        "popularity": 34,
         "uri": "spotify:track:4Zwo8D1koSzLJCYd5NlX81",
         "is_local": false
       },
@@ -3197,7 +3467,7 @@
         "href": "https://api.spotify.com/v1/tracks/1NDyGJKRRDsS2Zr5bUCYik",
         "id": "1NDyGJKRRDsS2Zr5bUCYik",
         "name": "Easy",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:1NDyGJKRRDsS2Zr5bUCYik",
         "is_local": false
       },
@@ -3287,7 +3557,7 @@
         "href": "https://api.spotify.com/v1/tracks/2521f84tDaDF9wLtEVuLHn",
         "id": "2521f84tDaDF9wLtEVuLHn",
         "name": "PCH",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:2521f84tDaDF9wLtEVuLHn",
         "is_local": false
       },
@@ -3377,7 +3647,7 @@
         "href": "https://api.spotify.com/v1/tracks/7ys4rU0dCmLiOb7MzBzsY2",
         "id": "7ys4rU0dCmLiOb7MzBzsY2",
         "name": "Cypress",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:7ys4rU0dCmLiOb7MzBzsY2",
         "is_local": false
       },
@@ -3467,7 +3737,7 @@
         "href": "https://api.spotify.com/v1/tracks/5hQliH34jzYDtSjUwMHMSg",
         "id": "5hQliH34jzYDtSjUwMHMSg",
         "name": "Stress",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:5hQliH34jzYDtSjUwMHMSg",
         "is_local": false
       },
@@ -3757,7 +4027,7 @@
         "href": "https://api.spotify.com/v1/tracks/5VndRF0wlvbMQsZ25GErQM",
         "id": "5VndRF0wlvbMQsZ25GErQM",
         "name": "Japan",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:5VndRF0wlvbMQsZ25GErQM",
         "is_local": false
       },
@@ -3947,7 +4217,7 @@
         "href": "https://api.spotify.com/v1/tracks/566w1sloS9qx61zl7bN9GE",
         "id": "566w1sloS9qx61zl7bN9GE",
         "name": "Skate",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:566w1sloS9qx61zl7bN9GE",
         "is_local": false
       },
@@ -5177,7 +5447,7 @@
         "href": "https://api.spotify.com/v1/tracks/3r6yHtB3oX6CiWKKCXxtlq",
         "id": "3r6yHtB3oX6CiWKKCXxtlq",
         "name": "Live in the Moment - Tycho Sunset Remix",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:3r6yHtB3oX6CiWKKCXxtlq",
         "is_local": false
       },
@@ -6237,7 +6507,7 @@
         "href": "https://api.spotify.com/v1/tracks/1nzLNeyk835Q9h1zPS4gr9",
         "id": "1nzLNeyk835Q9h1zPS4gr9",
         "name": "Across The Room - Tycho Remix",
-        "popularity": 41,
+        "popularity": 40,
         "uri": "spotify:track:1nzLNeyk835Q9h1zPS4gr9",
         "is_local": false
       },
@@ -6707,7 +6977,7 @@
         "href": "https://api.spotify.com/v1/tracks/4hycQUf62qEZPdSJma3Z7I",
         "id": "4hycQUf62qEZPdSJma3Z7I",
         "name": "Alaska - Tycho Remix",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:4hycQUf62qEZPdSJma3Z7I",
         "is_local": false
       },
