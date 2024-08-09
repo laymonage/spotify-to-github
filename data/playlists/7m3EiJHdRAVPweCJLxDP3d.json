@@ -203,7 +203,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qx08Qm00C4joo8NefXFRk",
         "id": "3qx08Qm00C4joo8NefXFRk",
         "name": "Green",
-        "popularity": 41,
+        "popularity": 42,
         "uri": "spotify:track:3qx08Qm00C4joo8NefXFRk",
         "is_local": false
       },
@@ -383,7 +383,7 @@
         "href": "https://api.spotify.com/v1/tracks/7f4rnBxI0rUIR2XPFddL8F",
         "id": "7f4rnBxI0rUIR2XPFddL8F",
         "name": "Phantom - Edit",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:7f4rnBxI0rUIR2XPFddL8F",
         "is_local": false
       },
@@ -483,7 +483,7 @@
         "href": "https://api.spotify.com/v1/tracks/18P8SsTjGnV08WHAaNPTHa",
         "id": "18P8SsTjGnV08WHAaNPTHa",
         "name": "Small Sanctuary - Edit",
-        "popularity": 17,
+        "popularity": 16,
         "uri": "spotify:track:18P8SsTjGnV08WHAaNPTHa",
         "is_local": false
       },
@@ -1833,7 +1833,7 @@
         "href": "https://api.spotify.com/v1/tracks/2aF7nM7ML806C0eJMfHyby",
         "id": "2aF7nM7ML806C0eJMfHyby",
         "name": "Only Love",
-        "popularity": 19,
+        "popularity": 18,
         "uri": "spotify:track:2aF7nM7ML806C0eJMfHyby",
         "is_local": false
       },
@@ -1852,13 +1852,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/a68b1ae63516fbe28a9f83b8e61eef81f7adeb08?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/0TUxwnkbBEjBhriA5aTOL8",
@@ -1943,7 +1943,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Ef1QKChVVBQLt0wmTycUS",
         "id": "4Ef1QKChVVBQLt0wmTycUS",
         "name": "Run Away",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:4Ef1QKChVVBQLt0wmTycUS",
         "is_local": false
       },
@@ -1962,13 +1962,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/490aecacdf3232c100e1a32fd5fa8213f89c9c36?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/0TUxwnkbBEjBhriA5aTOL8",
@@ -2053,7 +2053,7 @@
         "href": "https://api.spotify.com/v1/tracks/11Vjeh6pUApZdW52ALTByH",
         "id": "11Vjeh6pUApZdW52ALTByH",
         "name": "Run Away - Acoustic",
-        "popularity": 12,
+        "popularity": 11,
         "uri": "spotify:track:11Vjeh6pUApZdW52ALTByH",
         "is_local": false
       },
@@ -3647,7 +3647,7 @@
         "href": "https://api.spotify.com/v1/tracks/7ys4rU0dCmLiOb7MzBzsY2",
         "id": "7ys4rU0dCmLiOb7MzBzsY2",
         "name": "Cypress",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:7ys4rU0dCmLiOb7MzBzsY2",
         "is_local": false
       },
@@ -3756,13 +3756,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/cbd419718ba60c5e8ff42fa0c61bd8b18b912657?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -3846,13 +3846,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/9f7981031a78d35c0649d219b4b4ff4775bb6d3d?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -3905,16 +3905,6 @@
             "name": "Tycho",
             "type": "artist",
             "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
-            },
-            "href": "https://api.spotify.com/v1/artists/0DoWlk1NzQp1VWVFtZOb8Y",
-            "id": "0DoWlk1NzQp1VWVFtZOb8Y",
-            "name": "Saint Sinner",
-            "type": "artist",
-            "uri": "spotify:artist:0DoWlk1NzQp1VWVFtZOb8Y"
           }
         ],
         "disc_number": 1,
@@ -3926,8 +3916,8 @@
         },
         "href": "https://api.spotify.com/v1/tracks/1TJqHWEHHQ7Z5mJ0P6rXqq",
         "id": "1TJqHWEHHQ7Z5mJ0P6rXqq",
-        "name": "Pink & Blue",
-        "popularity": 25,
+        "name": "Pink & Blue (feat. Saint Sinner)",
+        "popularity": 24,
         "uri": "spotify:track:1TJqHWEHHQ7Z5mJ0P6rXqq",
         "is_local": false
       },
@@ -3946,13 +3936,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/43d171fe063b2074c7a1a26189e455f6da2d618f?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -4026,7 +4016,7 @@
         },
         "href": "https://api.spotify.com/v1/tracks/5VndRF0wlvbMQsZ25GErQM",
         "id": "5VndRF0wlvbMQsZ25GErQM",
-        "name": "Japan",
+        "name": "Japan (feat. Saint Sinner)",
         "popularity": 30,
         "uri": "spotify:track:5VndRF0wlvbMQsZ25GErQM",
         "is_local": false
@@ -4046,13 +4036,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/149d7e484200a9d374e2a85f4895fc5e51fad39e?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -4136,13 +4126,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/b853fabe531d0f1a0d93650acef877ad761e0bd1?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -4195,16 +4185,6 @@
             "name": "Tycho",
             "type": "artist",
             "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
-            },
-            "href": "https://api.spotify.com/v1/artists/0DoWlk1NzQp1VWVFtZOb8Y",
-            "id": "0DoWlk1NzQp1VWVFtZOb8Y",
-            "name": "Saint Sinner",
-            "type": "artist",
-            "uri": "spotify:artist:0DoWlk1NzQp1VWVFtZOb8Y"
           }
         ],
         "disc_number": 1,
@@ -4216,7 +4196,7 @@
         },
         "href": "https://api.spotify.com/v1/tracks/566w1sloS9qx61zl7bN9GE",
         "id": "566w1sloS9qx61zl7bN9GE",
-        "name": "Skate",
+        "name": "Skate (feat. Saint Sinner)",
         "popularity": 32,
         "uri": "spotify:track:566w1sloS9qx61zl7bN9GE",
         "is_local": false
@@ -4236,13 +4216,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/c2852e677ae5e740a1f8a6a264305dbc594efdd6?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -4316,7 +4296,7 @@
         },
         "href": "https://api.spotify.com/v1/tracks/7fFP1CZiHjbxyoDqmVTQBi",
         "id": "7fFP1CZiHjbxyoDqmVTQBi",
-        "name": "For How Long",
+        "name": "For How Long (feat. Saint Sinner)",
         "popularity": 41,
         "uri": "spotify:track:7fFP1CZiHjbxyoDqmVTQBi",
         "is_local": false
@@ -4336,13 +4316,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/94bfbc64fe6865c48c5f5931c489ccf5d0f3a871?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -4416,7 +4396,7 @@
         },
         "href": "https://api.spotify.com/v1/tracks/77gipvI3N8oYcGNs411VIR",
         "id": "77gipvI3N8oYcGNs411VIR",
-        "name": "No Stress",
+        "name": "No Stress (feat. Saint Sinner)",
         "popularity": 24,
         "uri": "spotify:track:77gipvI3N8oYcGNs411VIR",
         "is_local": false
@@ -4436,13 +4416,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/c1273442617d0a0b0bf39bdbbb4538b0e6962a7b?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["US"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["US"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/1mRyfDR7Dc55GbC8V3kVis",
@@ -8537,7 +8517,7 @@
         "href": "https://api.spotify.com/v1/tracks/28Q5hNuXYYOVNEAorGFOiY",
         "id": "28Q5hNuXYYOVNEAorGFOiY",
         "name": "Inside Out - Tycho Remix",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:28Q5hNuXYYOVNEAorGFOiY",
         "is_local": false
       },
