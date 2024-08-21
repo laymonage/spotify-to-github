@@ -188,12 +188,12 @@
   ],
   "copyrights": [],
   "description": "If you've ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
+  "html_description": "If you&#39;ve ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
   "explicit": false,
   "external_urls": {
     "spotify": "https://open.spotify.com/show/0ofXAdFIQQRsCYj9754UFx"
   },
-  "href": "https://api.spotify.com/v1/shows/0ofXAdFIQQRsCYj9754UFx",
-  "html_description": "If you&#39;ve ever wanted to know about champagne, satanism, the Stonewall Uprising, chaos theory, LSD, El Nino, true crime and Rosa Parks, then look no further. Josh and Chuck have you covered.",
+  "href": "https://api.spotify.com/v1/shows/0ofXAdFIQQRsCYj9754UFx?locale=*",
   "id": "0ofXAdFIQQRsCYj9754UFx",
   "images": [
     {
@@ -217,10 +217,49 @@
   "media_type": "audio",
   "name": "Stuff You Should Know",
   "publisher": "iHeartPodcasts",
-  "total_episodes": 2389,
   "type": "show",
   "uri": "spotify:show:0ofXAdFIQQRsCYj9754UFx",
+  "total_episodes": 2390,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3QUCpcIAbwGRcTf8S1bYce/clip_1827100_1883000.mp3",
+      "description": "There is A LOT of made-up stuff on the internet that gets passed off as true. But once in a while something truly odd comes along. Here are three stories of real mysterious events in the internet’s recent history that are yet to be fully explained. See omnystudio.com/listener for privacy information.",
+      "duration_ms": 3299709,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/482onkxAIjR2qUihPBisk3"
+      },
+      "href": "https://api.spotify.com/v1/episodes/482onkxAIjR2qUihPBisk3",
+      "html_description": "<p>There is A LOT of made-up stuff on the internet that gets passed off as true. But once in a while something truly odd comes along. Here are three stories of real mysterious events in the internet’s recent history that are yet to be fully explained. </p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
+      "id": "482onkxAIjR2qUihPBisk3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a863cc2d69ef7958af5cca4b5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f863cc2d69ef7958af5cca4b5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d863cc2d69ef7958af5cca4b5",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "True Mysteries of the Internet",
+      "release_date": "2024-08-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:482onkxAIjR2qUihPBisk3"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1REU4SRpmUBVCgE10Y8dXD/clip_2314150_2360500.mp3",
       "description": "Body language is how you communicate without words. Some say it bears more impact in communication than speaking words. In this classic episode, learn about how you say what you say could mean more than you think.See omnystudio.com/listener for privacy information.",

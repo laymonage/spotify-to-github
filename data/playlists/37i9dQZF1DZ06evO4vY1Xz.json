@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 32742 },
+  "followers": { "href": null, "total": 32743 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZsE5gAAAAAC5aOpbcI0a59+AGHIkkCku",
+  "snapshot_id": "ZsKLAAAAAADk2MGlxyMT1GT64y9zrNaI",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -113,7 +113,7 @@
         "href": "https://api.spotify.com/v1/tracks/2c9n3ZMuQe2zhKVAO0ynBU",
         "id": "2c9n3ZMuQe2zhKVAO0ynBU",
         "name": "For Real",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:2c9n3ZMuQe2zhKVAO0ynBU",
         "is_local": false
       },
@@ -2807,6 +2807,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/02be421585d727e94776fac60b672b8638c32421?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
+          "id": "0FPU4TuKoO4CLUUXBBo6tW",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
+              "width": 64
+            }
+          ],
+          "name": "Rainbow Valley",
+          "release_date": "2018-11-02",
+          "release_date_precision": "day",
+          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 5,
+        "duration_ms": 270259,
+        "external_ids": { "isrc": "AUUM71800930" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/25NEH02wvMrt5mnPc2mzr7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25NEH02wvMrt5mnPc2mzr7",
+        "id": "25NEH02wvMrt5mnPc2mzr7",
+        "name": "All Fired Up",
+        "popularity": 37,
+        "uri": "spotify:track:25NEH02wvMrt5mnPc2mzr7",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/e9824799c40d781d1faa2f78015c74070aa1fdbf?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -3273,96 +3363,6 @@
         "name": "Same Page",
         "popularity": 37,
         "uri": "spotify:track:59urXGUpl1LIsSx4hyYDNO",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/02be421585d727e94776fac60b672b8638c32421?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0FPU4TuKoO4CLUUXBBo6tW",
-          "id": "0FPU4TuKoO4CLUUXBBo6tW",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737ba4f1a80497fa11ed7ad9f1",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e027ba4f1a80497fa11ed7ad9f1",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048517ba4f1a80497fa11ed7ad9f1",
-              "width": 64
-            }
-          ],
-          "name": "Rainbow Valley",
-          "release_date": "2018-11-02",
-          "release_date_precision": "day",
-          "uri": "spotify:album:0FPU4TuKoO4CLUUXBBo6tW",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 270259,
-        "external_ids": { "isrc": "AUUM71800930" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/25NEH02wvMrt5mnPc2mzr7"
-        },
-        "href": "https://api.spotify.com/v1/tracks/25NEH02wvMrt5mnPc2mzr7",
-        "id": "25NEH02wvMrt5mnPc2mzr7",
-        "name": "All Fired Up",
-        "popularity": 37,
-        "uri": "spotify:track:25NEH02wvMrt5mnPc2mzr7",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -3927,96 +3927,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a18b73a50a91355013f2a9f0d4a2ea2dab035ef9?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/6peqfIgoeUQdMxvXBnTUWR",
-          "id": "6peqfIgoeUQdMxvXBnTUWR",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a62bc4ddb17557a00e3ed5fc",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a62bc4ddb17557a00e3ed5fc",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a62bc4ddb17557a00e3ed5fc",
-              "width": 64
-            }
-          ],
-          "name": "Desert Land",
-          "release_date": "2023-10-19",
-          "release_date_precision": "day",
-          "uri": "spotify:album:6peqfIgoeUQdMxvXBnTUWR",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6peqfIgoeUQdMxvXBnTUWR"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 175781,
-        "external_ids": { "isrc": "GB6TW2300343" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1tAO0e9w5XXsNHmyxQ2Q9o"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
-        "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
-        "name": "Desert Land",
-        "popularity": 32,
-        "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/2fdd9bf4aad5334a56934eec682df600b6ebc999?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -4091,6 +4001,96 @@
         "name": "No Ordinary Life",
         "popularity": 35,
         "uri": "spotify:track:1DM2VSFbZm7NXJ9Snq8nyb",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/a18b73a50a91355013f2a9f0d4a2ea2dab035ef9?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/6peqfIgoeUQdMxvXBnTUWR",
+          "id": "6peqfIgoeUQdMxvXBnTUWR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a62bc4ddb17557a00e3ed5fc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a62bc4ddb17557a00e3ed5fc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a62bc4ddb17557a00e3ed5fc",
+              "width": 64
+            }
+          ],
+          "name": "Desert Land",
+          "release_date": "2023-10-19",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6peqfIgoeUQdMxvXBnTUWR",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6peqfIgoeUQdMxvXBnTUWR"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 175781,
+        "external_ids": { "isrc": "GB6TW2300343" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tAO0e9w5XXsNHmyxQ2Q9o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
+        "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
+        "name": "Desert Land",
+        "popularity": 32,
+        "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8451,96 +8451,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": null,
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/22RmdDp3ETPgQZrmqnoC2m",
-          "id": "22RmdDp3ETPgQZrmqnoC2m",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27399c9d51175e39425083f9e65",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0299c9d51175e39425083f9e65",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485199c9d51175e39425083f9e65",
-              "width": 64
-            }
-          ],
-          "name": "Song For...",
-          "release_date": "2009-01-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:22RmdDp3ETPgQZrmqnoC2m",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/22RmdDp3ETPgQZrmqnoC2m"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 205165,
-        "external_ids": { "isrc": "AUUM71400337" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4wJpiPhRFMcBlp8Oq2jBY2"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4wJpiPhRFMcBlp8Oq2jBY2",
-        "id": "4wJpiPhRFMcBlp8Oq2jBY2",
-        "name": "Letters",
-        "popularity": 23,
-        "uri": "spotify:track:4wJpiPhRFMcBlp8Oq2jBY2",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/80a09b2b42adc8f3e77a9a4882bcaecc55f2b672?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -8625,6 +8535,96 @@
         "name": "This Morning",
         "popularity": 26,
         "uri": "spotify:track:7IerZKWp0Ml3pVjVLscceX",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": null,
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/22RmdDp3ETPgQZrmqnoC2m",
+          "id": "22RmdDp3ETPgQZrmqnoC2m",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27399c9d51175e39425083f9e65",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0299c9d51175e39425083f9e65",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485199c9d51175e39425083f9e65",
+              "width": 64
+            }
+          ],
+          "name": "Song For...",
+          "release_date": "2009-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:22RmdDp3ETPgQZrmqnoC2m",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/22RmdDp3ETPgQZrmqnoC2m"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 205165,
+        "external_ids": { "isrc": "AUUM71400337" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wJpiPhRFMcBlp8Oq2jBY2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wJpiPhRFMcBlp8Oq2jBY2",
+        "id": "4wJpiPhRFMcBlp8Oq2jBY2",
+        "name": "Letters",
+        "popularity": 23,
+        "uri": "spotify:track:4wJpiPhRFMcBlp8Oq2jBY2",
         "is_local": false
       },
       "video_thumbnail": { "url": null }

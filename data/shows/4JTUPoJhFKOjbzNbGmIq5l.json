@@ -188,12 +188,12 @@
   ],
   "copyrights": [],
   "description": "A podcast on the Django Web Framework by Will Vincent and Carlton Gibson. NOTE: We are on a summer break but will return in September with our usual 2x/month releases of new episodes.",
+  "html_description": "A podcast on the Django Web Framework by Will Vincent and Carlton Gibson.<br/>NOTE: We are on a summer break but will return in September with our usual 2x/month releases of new episodes.",
   "explicit": false,
   "external_urls": {
     "spotify": "https://open.spotify.com/show/4JTUPoJhFKOjbzNbGmIq5l"
   },
-  "href": "https://api.spotify.com/v1/shows/4JTUPoJhFKOjbzNbGmIq5l",
-  "html_description": "A podcast on the Django Web Framework by Will Vincent and Carlton Gibson.<br/>NOTE: We are on a summer break but will return in September with our usual 2x/month releases of new episodes.",
+  "href": "https://api.spotify.com/v1/shows/4JTUPoJhFKOjbzNbGmIq5l?locale=*",
   "id": "4JTUPoJhFKOjbzNbGmIq5l",
   "images": [
     {
@@ -217,9 +217,9 @@
   "media_type": "audio",
   "name": "Django Chat",
   "publisher": "William Vincent and Carlton Gibson",
-  "total_episodes": 165,
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
+  "total_episodes": 165,
   "episodes": [
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/75T50CjHhuUYinb55KnE4o/clip_2089550_2150300.mp3",

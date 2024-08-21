@@ -188,12 +188,12 @@
   ],
   "copyrights": [],
   "description": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world's leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.",
+  "html_description": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world&#39;s leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.",
   "explicit": false,
   "external_urls": {
     "spotify": "https://open.spotify.com/show/1VXcH8QHkjRcTCEd88U3ti"
   },
-  "href": "https://api.spotify.com/v1/shows/1VXcH8QHkjRcTCEd88U3ti",
-  "html_description": "Every weekday, TED Talks Daily brings you the latest talks in audio. Join host and journalist Elise Hu for thought-provoking ideas on every subject imaginable — from Artificial Intelligence to Zoology, and everything in between — given by the world&#39;s leading thinkers and creators. With TED Talks Daily, find some space in your day to change your perspectives, ignite your curiosity, and learn something new.",
+  "href": "https://api.spotify.com/v1/shows/1VXcH8QHkjRcTCEd88U3ti?locale=*",
   "id": "1VXcH8QHkjRcTCEd88U3ti",
   "images": [
     {
@@ -217,10 +217,49 @@
   "media_type": "audio",
   "name": "TED Talks Daily",
   "publisher": "TED",
-  "total_episodes": 187,
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
+  "total_episodes": 187,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6eCH1BttkbLXXU3Mi3Qpxl/clip_551756_611756.mp3",
+      "description": "Malaria is a disease as old as humankind, yet we may be closer than ever to eliminating it, says medical entomologist Abdoulaye Diabaté. He explains the potential of \"gene drive\" technology — which aims to disrupt mosquito reproduction as a means of halting malaria transmission in Africa — and shows how his team is partnering with local communities to solve this public health challenge.",
+      "duration_ms": 835596,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6wU7txmOc0kxigFbBM0tKq"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6wU7txmOc0kxigFbBM0tKq",
+      "html_description": "<p>Malaria is a disease as old as humankind, yet we may be closer than ever to eliminating it, says medical entomologist Abdoulaye Diabaté. He explains the potential of &#34;gene drive&#34; technology — which aims to disrupt mosquito reproduction as a means of halting malaria transmission in Africa — and shows how his team is partnering with local communities to solve this public health challenge.</p>",
+      "id": "6wU7txmOc0kxigFbBM0tKq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae74f0e6590e3db01a2285c1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe74f0e6590e3db01a2285c1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de74f0e6590e3db01a2285c1f",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How to end malaria once and for all | Abdoulaye Diabaté",
+      "release_date": "2024-08-20",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:6wU7txmOc0kxigFbBM0tKq"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3h181Qt30L5cSiOqofwfoG/clip_549164_609164.mp3",
       "description": "You can't just \"find\" motivation, says scientist Ayelet Fishbach — you have to learn how to motivate yourself. She shares a handful of tips backed by 20 years of motivation research, offering surprisingly simple wisdom on how to optimize your goals, set yourself up for success and avoid the tempting calls of procrastination.",
@@ -7396,45 +7435,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:661LGsKAxSPn2ynINL1qjp"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/702Iqbho9me2pGfJig1vyq/clip_239700_296200.mp3",
-      "description": "When it comes to climate solutions, \"now is better than new, and time is more important than tech,\" says scientist Jonathan Foley. He presents a six-part framework to more efficiently address climate change, from better aligning capital with carbon to utilizing affordable solutions that are ready to go now. Learn more about what the data says to do — and how the solutions might be cheaper than we think.",
-      "duration_ms": 661788,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6ZBBcjtchzyTFJp1C5N46J"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6ZBBcjtchzyTFJp1C5N46J",
-      "html_description": "<p>When it comes to climate solutions, &#34;now is better than new, and time is more important than tech,&#34; says scientist Jonathan Foley. He presents a six-part framework to more efficiently address climate change, from better aligning capital with carbon to utilizing affordable solutions that are ready to go now. Learn more about what the data says to do — and how the solutions might be cheaper than we think.</p>",
-      "id": "6ZBBcjtchzyTFJp1C5N46J",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a26f02c3ab5fc842139f0814b",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f26f02c3ab5fc842139f0814b",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d26f02c3ab5fc842139f0814b",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The climate solutions worth funding — now | Jonathan Foley",
-      "release_date": "2024-02-08",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6ZBBcjtchzyTFJp1C5N46J"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0qleAB6gCOnF8BTUZCPmo8/clip_460200_520200.mp3",
