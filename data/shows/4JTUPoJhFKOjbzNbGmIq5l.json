@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 165,
+  "total_episodes": 166,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6bJzcO5tt7Hlns8s1uY543/clip_206606_266606.mp3",
+      "description": "The Stack ReportLearnDjango.com Podcast Sponsorship Info django-unique-user-email, neapolitan, and django-template-partialsawesome-django and djangox django-allauth Tutorial Carlton on Fosstodon and Will on Fosstodon",
+      "duration_ms": 2669061,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5nKoDvm3zqGFu1NyA7IhGh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5nKoDvm3zqGFu1NyA7IhGh",
+      "html_description": "<ul><li><a href=\"https://buttondown.com/carlton\" rel=\"nofollow\">The Stack Report</a></li><li><a href=\"https://learndjango.com\" rel=\"nofollow\">LearnDjango.com</a> </li><li><a href=\"https://docs.google.com/document/d/1o685nBm2z5S2cwPvK2kMeT2vPIL3UbD94tR4v26Wt-I/edit?usp&#61;sharing\" rel=\"nofollow\">Podcast Sponsorship Info</a> </li><li><a href=\"https://github.com/carltongibson/django-unique-user-email\" rel=\"nofollow\">django-unique-user-email</a>, <a href=\"https://github.com/carltongibson/neapolitan\" rel=\"nofollow\">neapolitan</a>, and <a href=\"https://github.com/carltongibson/django-template-partials\" rel=\"nofollow\">django-template-partials</a></li><li><a href=\"https://github.com/wsvincent/awesome-django\" rel=\"nofollow\">awesome-django</a> and <a href=\"https://github.com/wsvincent/djangox\" rel=\"nofollow\">djangox</a> </li><li><a href=\"https://learndjango.com/tutorials/django-allauth-tutorial\" rel=\"nofollow\">django-allauth Tutorial</a> </li><li><a href=\"https://fosstodon.org/&#64;carlton\" rel=\"nofollow\">Carlton on Fosstodon</a> and <a href=\"https://fosstodon.org/&#64;wsvincent\" rel=\"nofollow\">Will on Fosstodon</a></li></ul>",
+      "id": "5nKoDvm3zqGFu1NyA7IhGh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Fall 2024 Podcast Relaunch",
+      "release_date": "2024-09-11",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5nKoDvm3zqGFu1NyA7IhGh"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/75T50CjHhuUYinb55KnE4o/clip_2089550_2150300.mp3",
       "description": "Justin’s personal siteButtondownButtondown’s Tech StackUses ThisChoose Boring TechnologySponsorMailtrap.io",
@@ -295,7 +334,7 @@
       "name": "Funding Open Source - Jeff Triplett",
       "release_date": "2024-05-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
       "type": "episode",
       "uri": "spotify:episode:4dgHLSUimjdMGcaIZo817e"
     },
@@ -334,7 +373,7 @@
       "name": "Self-Hosted Open Source - Michael Kennedy",
       "release_date": "2024-05-01",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1SjsLD9t0drM2eA6d6l2H2"
     },
@@ -490,7 +529,7 @@
       "name": "The Future of Python - Deb Nicholson",
       "release_date": "2024-03-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4irVYvvtw9opoqXjJXUmQE"
     },
@@ -529,7 +568,7 @@
       "name": "GeoDjango - Harout Boujakjian and Andrew Hornstra",
       "release_date": "2024-02-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3tOdYYV1vJXPkaUUjaI2Cd"
     },
@@ -1894,7 +1933,7 @@
       "name": "Django @Instagram - Carl Meyer (Ep78 Replay)",
       "release_date": "2022-08-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
       "type": "episode",
       "uri": "spotify:episode:1wIuMJx8Vx7MnPbKq9utVv"
     },
@@ -1972,7 +2011,7 @@
       "name": "Django 4.1 Preview - Jeff Triplett (Ep 115 Replay)",
       "release_date": "2022-08-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4VlIIB9NuwgUjOVNRvRQN8"
     },
@@ -5794,7 +5833,7 @@
       "name": "Django for Professionals - Book Release",
       "release_date": "2019-07-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
       "type": "episode",
       "uri": "spotify:episode:2wDR8mkVT2Fe5lytZbCpFz"
     },
@@ -5833,7 +5872,7 @@
       "name": "Django Co-Creator - Simon Willison",
       "release_date": "2019-07-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:0f7q81gyNpOy4kB1OGt7Ul"
     },
@@ -6028,7 +6067,7 @@
       "name": "Django Admin",
       "release_date": "2019-06-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
       "type": "episode",
       "uri": "spotify:episode:2rgFEX5DuohMIl59DI5ive"
     },
@@ -6067,7 +6106,7 @@
       "name": "Deployments",
       "release_date": "2019-06-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
       "type": "episode",
       "uri": "spotify:episode:2XUWsmWbHQPGjM8MM1xabh"
     },
@@ -6106,7 +6145,7 @@
       "name": "Teaching Python - Nicholas Tollervey",
       "release_date": "2019-05-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3Tp7AhVuf1q7HAvDz1yHxB"
     },
