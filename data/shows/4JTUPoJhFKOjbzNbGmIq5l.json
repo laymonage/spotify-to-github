@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 166,
+  "total_episodes": 167,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5HC6GoXyAl8bXy29ATrv9h/clip_618750_695850.mp3",
+      "description": "Django Fellowship Program Django 5.1 Release Notes Natalia’s DjangoCon US Keynote Mastodon for Natalia and Sarah  Django Core Demystified talk by Sarah Inside Out: DjangoCon US 2023 talk by Natalia Djangonaut Space DjangoCon US 2024 Contributing to DjangoDEP 0014: Background Workers Everything CurlSponsorDjango + HTMX Course at TalkPython Training 10% off ",
+      "duration_ms": 3269433,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5mIkwielcVrE4bJ1FNzdc2"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5mIkwielcVrE4bJ1FNzdc2",
+      "html_description": "<ul><li><a href=\"https://www.djangoproject.com/fundraising/#fellowship-program\" rel=\"nofollow\">Django Fellowship Program</a> </li><li><a href=\"https://docs.djangoproject.com/en/5.1/releases/5.1/\" rel=\"nofollow\">Django 5.1 Release Notes</a> </li><li><a href=\"https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/\" rel=\"nofollow\">Natalia’s DjangoCon US Keynote</a> </li><li>Mastodon for <a href=\"https://fosstodon.org/&#64;nessita\" rel=\"nofollow\">Natalia</a> and <a href=\"https://fosstodon.org/&#64;sarahboyce&#64;mastodon.social\" rel=\"nofollow\">Sarah</a>  </li><li><a href=\"https://youtu.be/8rIylYYCmSI?si&#61;GEfUAKqMGtmvR1h1\" rel=\"nofollow\">Django Core Demystified talk by Sarah</a> </li><li><a href=\"https://youtu.be/jYAeO37-420?si&#61;aJgfujGvawhFd8eT\" rel=\"nofollow\">Inside Out: DjangoCon US 2023 talk by Natalia</a> </li><li><a href=\"https://djangonaut.space/\" rel=\"nofollow\">Djangonaut Space</a> </li><li><a href=\"https://2024.djangocon.us/\" rel=\"nofollow\">DjangoCon US 2024</a> </li><li><a href=\"https://docs.djangoproject.com/en/dev/internals/contributing/\" rel=\"nofollow\">Contributing to Django</a></li><li><a href=\"https://github.com/django/deps/blob/main/accepted/0014-background-workers.rst\" rel=\"nofollow\">DEP 0014: Background Workers</a> </li><li><a href=\"https://everything.curl.dev/index.html\" rel=\"nofollow\">Everything Curl</a></li></ul><h4>Sponsor</h4><ul><li><a href=\"talkpython.fm/django-chat-listeners\" rel=\"nofollow\">Django &#43; HTMX Course at TalkPython Training 10% off</a> </li></ul>",
+      "id": "5mIkwielcVrE4bJ1FNzdc2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django Fellows - Natalia Bidart & Sarah Boyce",
+      "release_date": "2024-09-18",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5mIkwielcVrE4bJ1FNzdc2"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6bJzcO5tt7Hlns8s1uY543/clip_206606_266606.mp3",
       "description": "The Stack ReportLearnDjango.com Podcast Sponsorship Info django-unique-user-email, neapolitan, and django-template-partialsawesome-django and djangox django-allauth Tutorial Carlton on Fosstodon and Will on Fosstodon",
@@ -295,7 +334,7 @@
       "name": "Buttondown - Justin Duke",
       "release_date": "2024-05-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
       "type": "episode",
       "uri": "spotify:episode:6kIFun12IC2w3yHhJ3NF1Y"
     },
@@ -334,7 +373,7 @@
       "name": "Funding Open Source - Jeff Triplett",
       "release_date": "2024-05-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 5000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4dgHLSUimjdMGcaIZo817e"
     },
@@ -490,7 +529,7 @@
       "name": "Django’s Evolution - Jacob Kaplan-Moss",
       "release_date": "2024-03-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:7gbwObTYq9EpEYNrU7k1yL"
     },
@@ -529,7 +568,7 @@
       "name": "The Future of Python - Deb Nicholson",
       "release_date": "2024-03-06",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4irVYvvtw9opoqXjJXUmQE"
     },
@@ -1894,7 +1933,7 @@
       "name": "DjangoCon Europe 2022 - Kojo Idrissa",
       "release_date": "2022-09-28",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
       "type": "episode",
       "uri": "spotify:episode:4L5AEMAG57ktLdJ6MG8JP1"
     },
@@ -1933,7 +1972,7 @@
       "name": "Django @Instagram - Carl Meyer (Ep78 Replay)",
       "release_date": "2022-08-31",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 823000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1wIuMJx8Vx7MnPbKq9utVv"
     },
@@ -4741,7 +4780,7 @@
       "name": "Technical Writing - Mikey Ariel",
       "release_date": "2020-02-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1CzXwULkwj8OSbgIOAQqcw"
     },
@@ -4819,7 +4858,7 @@
       "name": "GeoDjango - Anna Kiefer",
       "release_date": "2020-01-29",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:17zx8lSpZtcEPFvdD9hxsK"
     },
@@ -4975,7 +5014,7 @@
       "name": "Performance",
       "release_date": "2019-12-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 2612000 },
       "type": "episode",
       "uri": "spotify:episode:0L1eeYkFgVab9617JB4M8z"
     },
@@ -5014,7 +5053,7 @@
       "name": "Security",
       "release_date": "2019-12-11",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 2612000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2Qc0I121e6zWD20TlK5iO0"
     },
@@ -5443,7 +5482,7 @@
       "name": "Ruby on Rails & Django- David Heinemeier Hansson",
       "release_date": "2019-09-25",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 1069000 },
       "type": "episode",
       "uri": "spotify:episode:2CsAkZs4xERDQdkJn8gDwW"
     },
@@ -5482,7 +5521,7 @@
       "name": "Django 3.0 Preview",
       "release_date": "2019-09-18",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 1069000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4F4cZBlRBxDasNm2QgiQcR"
     },
@@ -5794,7 +5833,7 @@
       "name": "Async Django - Andrew Godwin",
       "release_date": "2019-07-24",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
       "type": "episode",
       "uri": "spotify:episode:4m6omGIEZoLVJL1TwYEEew"
     },
@@ -5833,7 +5872,7 @@
       "name": "Django for Professionals - Book Release",
       "release_date": "2019-07-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 3000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2wDR8mkVT2Fe5lytZbCpFz"
     },
@@ -6028,7 +6067,7 @@
       "name": "DjangoCon US 2019 - Jessica Deaton",
       "release_date": "2019-06-19",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
       "type": "episode",
       "uri": "spotify:episode:3uCDql5BjyCGJ1f6zLPsSH"
     },
@@ -6067,7 +6106,7 @@
       "name": "Django Admin",
       "release_date": "2019-06-12",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
       "type": "episode",
       "uri": "spotify:episode:2rgFEX5DuohMIl59DI5ive"
     },
@@ -6106,7 +6145,7 @@
       "name": "Deployments",
       "release_date": "2019-06-05",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:2XUWsmWbHQPGjM8MM1xabh"
     },
