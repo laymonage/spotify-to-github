@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 168,
+  "total_episodes": 169,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6XqELuCLIrmiOTV5B4Z9Sj/clip_581232_641232.mp3",
+      "description": "Thibaud on LinkedIn, on Mastodon  Django on Mastodon, on LinkedIn2025 DSF Board NominationsDjango Forum Discussion of 2025 DSF Board ElectionsDSF Individual Members and Steering Council MembersTorchbox CTO and senior dev job offersWagtail high-profile users, newsletter, roadmapSponsorDjango Chat Podcast Sponsorship Information",
+      "duration_ms": 3921815,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5iuMhaA0wdRHBqRtjDIBvU"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5iuMhaA0wdRHBqRtjDIBvU",
+      "html_description": "<ul><li>Thibaud <a href=\"https://www.linkedin.com/in/thibaudcolas/\" rel=\"nofollow\">on LinkedIn</a>, <a href=\"https://fosstodon.org/&#64;thibaudcolas\" rel=\"nofollow\">on Mastodon</a>  </li><li>Django <a href=\"https://fosstodon.org/&#64;django\" rel=\"nofollow\">on Mastodon</a>, <a href=\"https://www.linkedin.com/company/django-software-foundation/\" rel=\"nofollow\">on LinkedIn</a></li><li><a href=\"https://www.djangoproject.com/weblog/2024/sep/25/2025-dsf-board-nominations/\" rel=\"nofollow\">2025 DSF Board Nominations</a></li><li><a href=\"https://forum.djangoproject.com/t/2025-dsf-board-elections/35253\" rel=\"nofollow\">Django Forum Discussion of 2025 DSF Board Elections</a></li><li><a href=\"https://www.djangoproject.com/foundation/individual-members/\" rel=\"nofollow\">DSF Individual Members</a> and <a href=\"https://www.djangoproject.com/foundation/teams/#steering-council-team\" rel=\"nofollow\">Steering Council Members</a></li><li>Torchbox <a href=\"https://torchbox.com/about/careers/jobs/\" rel=\"nofollow\">CTO and senior dev job offers</a></li><li>Wagtail <a href=\"https://wagtail.org/showcase/\" rel=\"nofollow\">high-profile users</a>, <a href=\"https://wagtail.org/newsletter/\" rel=\"nofollow\">newsletter</a>, <a href=\"https://wagtail.org/roadmap/\" rel=\"nofollow\">roadmap</a></li></ul><h4>Sponsor</h4><ul><li><a href=\"https://docs.google.com/document/d/1o685nBm2z5S2cwPvK2kMeT2vPIL3UbD94tR4v26Wt-I/edit?usp&#61;sharing\" rel=\"nofollow\">Django Chat Podcast Sponsorship Information</a></li></ul>",
+      "id": "5iuMhaA0wdRHBqRtjDIBvU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Thibaud Colas - 2025 DSF Board Nominations",
+      "release_date": "2024-10-16",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:5iuMhaA0wdRHBqRtjDIBvU"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3nWGO0zdIPbeUXrkfuIndV/clip_467367_527367.mp3",
       "description": "Better Simple websiteTim on Mastodondjango-commonsDjango commons discussionsAspirEDUDjangonaut Space and on Open CollectiveDEFNADjangoCon US 2025 Call for VolunteersLacey’s interview with Jay Miller at DCUS2024Google Summer of Code - Django Debug ToolbarSponsorDjango + HTMX Course at TalkPython Training 10% off",
@@ -490,7 +529,7 @@
       "name": "Kraken - Çağıl Uluşahin Sönmez",
       "release_date": "2024-04-17",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 795000 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1tbbBLwxXRzTlJUh2H8HVM"
     },
@@ -529,7 +568,7 @@
       "name": "Django ORM - Simon Charette",
       "release_date": "2024-04-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 681000 },
       "type": "episode",
       "uri": "spotify:episode:3J0hA2QLZkFPLoJQtixIsT"
     },
