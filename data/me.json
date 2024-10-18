@@ -1,24 +1,24 @@
 {
+  "country": "ID",
   "display_name": "laymonage",
+  "explicit_content": { "filter_enabled": false, "filter_locked": false },
   "external_urls": { "spotify": "https://open.spotify.com/user/laymonage" },
+  "followers": { "href": null, "total": 19 },
   "href": "https://api.spotify.com/v1/users/laymonage",
   "id": "laymonage",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67757000003b82cbe6d03d0f550de3d727eae6",
-      "height": 64,
-      "width": 64
+      "height": 300,
+      "url": "https://i.scdn.co/image/ab6775700000ee85cbe6d03d0f550de3d727eae6",
+      "width": 300
     },
     {
-      "url": "https://i.scdn.co/image/ab6775700000ee85cbe6d03d0f550de3d727eae6",
-      "height": 300,
-      "width": 300
+      "height": 64,
+      "url": "https://i.scdn.co/image/ab67757000003b82cbe6d03d0f550de3d727eae6",
+      "width": 64
     }
   ],
-  "type": "user",
-  "uri": "spotify:user:laymonage",
-  "followers": { "href": null, "total": 19 },
-  "country": "ID",
   "product": "premium",
-  "explicit_content": { "filter_enabled": false, "filter_locked": false }
+  "type": "user",
+  "uri": "spotify:user:laymonage"
 }
