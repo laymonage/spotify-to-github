@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4ohLfG"
   },
-  "followers": { "href": null, "total": 70590 },
+  "followers": { "href": null, "total": 70604 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4ohLfG?locale=*",
   "id": "37i9dQZF1DZ06evO4ohLfG",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZxGlAAAAAAA6drix9pI76QqXhkWiMowD",
+  "snapshot_id": "ZxL2gAAAAADOzVff5SY37b6n12Kp964C",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4ohLfG",
   "tracks": [
@@ -3737,7 +3737,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b230f3273c2da27bf03eb065c980d7ee8c97a29d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/18678b1176853917f66d4bb4977fbf573dea0033?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -4169,30 +4169,20 @@
             "name": "Vulfpeck",
             "type": "artist",
             "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
-            },
-            "href": "https://api.spotify.com/v1/artists/7vWFpgyWJ9CXisL0x6vYJN",
-            "id": "7vWFpgyWJ9CXisL0x6vYJN",
-            "name": "Antwaun Stanley",
-            "type": "artist",
-            "uri": "spotify:artist:7vWFpgyWJ9CXisL0x6vYJN"
           }
         ],
         "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 165722,
-        "external_ids": { "isrc": "QZTAY2219033" },
+        "track_number": 1,
+        "duration_ms": 195223,
+        "external_ids": { "isrc": "QZTAZ2212399" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5"
+          "spotify": "https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY"
         },
-        "href": "https://api.spotify.com/v1/tracks/2D3UoXaFRyCP9trM5LtWQ5",
-        "id": "2D3UoXaFRyCP9trM5LtWQ5",
-        "name": "Simple Step",
-        "popularity": 47,
-        "uri": "spotify:track:2D3UoXaFRyCP9trM5LtWQ5",
+        "href": "https://api.spotify.com/v1/tracks/1DSl7kRrdWhwntiK6HOLVY",
+        "id": "1DSl7kRrdWhwntiK6HOLVY",
+        "name": "Sauna",
+        "popularity": 45,
+        "uri": "spotify:track:1DSl7kRrdWhwntiK6HOLVY",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -5605,7 +5595,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/18678b1176853917f66d4bb4977fbf573dea0033?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/b230f3273c2da27bf03eb065c980d7ee8c97a29d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -6037,20 +6027,30 @@
             "name": "Vulfpeck",
             "type": "artist",
             "uri": "spotify:artist:7pXu47GoqSYRajmBCjxdD6"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+            },
+            "href": "https://api.spotify.com/v1/artists/7vWFpgyWJ9CXisL0x6vYJN",
+            "id": "7vWFpgyWJ9CXisL0x6vYJN",
+            "name": "Antwaun Stanley",
+            "type": "artist",
+            "uri": "spotify:artist:7vWFpgyWJ9CXisL0x6vYJN"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 195223,
-        "external_ids": { "isrc": "QZTAZ2212399" },
+        "track_number": 5,
+        "duration_ms": 165722,
+        "external_ids": { "isrc": "QZTAY2219033" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY"
+          "spotify": "https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5"
         },
-        "href": "https://api.spotify.com/v1/tracks/1DSl7kRrdWhwntiK6HOLVY",
-        "id": "1DSl7kRrdWhwntiK6HOLVY",
-        "name": "Sauna",
-        "popularity": 45,
-        "uri": "spotify:track:1DSl7kRrdWhwntiK6HOLVY",
+        "href": "https://api.spotify.com/v1/tracks/2D3UoXaFRyCP9trM5LtWQ5",
+        "id": "2D3UoXaFRyCP9trM5LtWQ5",
+        "name": "Simple Step",
+        "popularity": 47,
+        "uri": "spotify:track:2D3UoXaFRyCP9trM5LtWQ5",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -12135,7 +12135,7 @@
         "href": "https://api.spotify.com/v1/tracks/2WvWRwqW9KFfyKUXBGAcXg",
         "id": "2WvWRwqW9KFfyKUXBGAcXg",
         "name": "The Birdwatcher",
-        "popularity": 38,
+        "popularity": 37,
         "uri": "spotify:track:2WvWRwqW9KFfyKUXBGAcXg",
         "is_local": false
       },
