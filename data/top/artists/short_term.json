@@ -1,11 +1,11 @@
 {
-  "total": 21,
+  "total": 22,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
-      "followers": { "href": null, "total": 18665 },
+      "followers": { "href": null, "total": 18668 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
       "id": "02nqs3YdfX7Th3gYTYFrqc",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
       },
-      "followers": { "href": null, "total": 247630 },
+      "followers": { "href": null, "total": 247670 },
       "genres": [
         "chamber pop",
         "metropopolis",
@@ -70,7 +70,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
       },
-      "followers": { "href": null, "total": 725211 },
+      "followers": { "href": null, "total": 725318 },
       "genres": [
         "la indie",
         "modern alternative rock",
@@ -105,7 +105,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU"
       },
-      "followers": { "href": null, "total": 464629 },
+      "followers": { "href": null, "total": 464697 },
       "genres": ["indie rock", "indietronica"],
       "href": "https://api.spotify.com/v1/artists/2Tz1DTzVJ5Gyh8ZwVr6ekU",
       "id": "2Tz1DTzVJ5Gyh8ZwVr6ekU",
@@ -135,7 +135,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0QwAWEp3r3Ut1dYNQb7JzS"
       },
-      "followers": { "href": null, "total": 10276 },
+      "followers": { "href": null, "total": 10281 },
       "genres": ["psychedelic pop"],
       "href": "https://api.spotify.com/v1/artists/0QwAWEp3r3Ut1dYNQb7JzS",
       "id": "0QwAWEp3r3Ut1dYNQb7JzS",
@@ -163,9 +163,46 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+      },
+      "followers": { "href": null, "total": 605087 },
+      "genres": [
+        "baroque pop",
+        "chamber pop",
+        "chicago indie",
+        "indie rock",
+        "melancholia",
+        "stomp and holler"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
+      "id": "4uSftVc3FPWe6RJuMZNEe9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba805478e833268d65883464e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a805478e833268d65883464e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a805478e833268d65883464e",
+          "width": 160
+        }
+      ],
+      "name": "Andrew Bird",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 8234033 },
+      "followers": { "href": null, "total": 8236636 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -195,7 +232,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX"
       },
-      "followers": { "href": null, "total": 283222 },
+      "followers": { "href": null, "total": 283292 },
       "genres": ["chillwave", "indietronica", "vaporwave"],
       "href": "https://api.spotify.com/v1/artists/2wouN3QXejYa5tKetYdcVX",
       "id": "2wouN3QXejYa5tKetYdcVX",
@@ -225,7 +262,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL"
       },
-      "followers": { "href": null, "total": 38012 },
+      "followers": { "href": null, "total": 38016 },
       "genres": ["canadian indie rock", "vancouver indie"],
       "href": "https://api.spotify.com/v1/artists/0BVWMc7JEHdh2Ku6xgKuYL",
       "id": "0BVWMc7JEHdh2Ku6xgKuYL",
@@ -255,7 +292,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
       },
-      "followers": { "href": null, "total": 421461 },
+      "followers": { "href": null, "total": 421842 },
       "genres": ["bedroom pop", "rochester mn indie"],
       "href": "https://api.spotify.com/v1/artists/6ft7JnxMyZhp7N52qzHymY",
       "id": "6ft7JnxMyZhp7N52qzHymY",
@@ -285,7 +322,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
       },
-      "followers": { "href": null, "total": 610492 },
+      "followers": { "href": null, "total": 610531 },
       "genres": [
         "chamber pop",
         "indie rock",
@@ -321,7 +358,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
       },
-      "followers": { "href": null, "total": 242623 },
+      "followers": { "href": null, "total": 242733 },
       "genres": [
         "classic j-rock",
         "j-rock",
@@ -356,7 +393,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
       },
-      "followers": { "href": null, "total": 3217859 },
+      "followers": { "href": null, "total": 3218717 },
       "genres": [
         "alternative rock",
         "indie rock",
@@ -392,7 +429,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
       },
-      "followers": { "href": null, "total": 61615 },
+      "followers": { "href": null, "total": 61622 },
       "genres": ["psychedelic pop"],
       "href": "https://api.spotify.com/v1/artists/3M8JKaNdIRChzvxVK1XxKm",
       "id": "3M8JKaNdIRChzvxVK1XxKm",
@@ -420,46 +457,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-      },
-      "followers": { "href": null, "total": 604918 },
-      "genres": [
-        "baroque pop",
-        "chamber pop",
-        "chicago indie",
-        "indie rock",
-        "melancholia",
-        "stomp and holler"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4uSftVc3FPWe6RJuMZNEe9",
-      "id": "4uSftVc3FPWe6RJuMZNEe9",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba805478e833268d65883464e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a805478e833268d65883464e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a805478e833268d65883464e",
-          "width": 160
-        }
-      ],
-      "name": "Andrew Bird",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:4uSftVc3FPWe6RJuMZNEe9"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7"
       },
-      "followers": { "href": null, "total": 10598 },
+      "followers": { "href": null, "total": 10603 },
       "genres": ["new orleans indie"],
       "href": "https://api.spotify.com/v1/artists/69tXKp8pHBX6ZoVMkNdvt7",
       "id": "69tXKp8pHBX6ZoVMkNdvt7",
@@ -489,7 +489,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
       },
-      "followers": { "href": null, "total": 115446 },
+      "followers": { "href": null, "total": 115592 },
       "genres": ["alabama indie"],
       "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
       "id": "4dWtsQvuME6tCWFycaTvO7",
@@ -519,7 +519,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
       },
-      "followers": { "href": null, "total": 1192925 },
+      "followers": { "href": null, "total": 1193068 },
       "genres": [
         "albuquerque indie",
         "alternative rock",
@@ -558,9 +558,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+      },
+      "followers": { "href": null, "total": 93010 },
+      "genres": ["melbourne indie"],
+      "href": "https://api.spotify.com/v1/artists/6Vf4rmMsQbAwiCG00YeEI7",
+      "id": "6Vf4rmMsQbAwiCG00YeEI7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7fbbf512c6d2b03a0a32ddb9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747fbbf512c6d2b03a0a32ddb9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787fbbf512c6d2b03a0a32ddb9",
+          "width": 160
+        }
+      ],
+      "name": "RICEWINE",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify:artist:6Vf4rmMsQbAwiCG00YeEI7"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
       },
-      "followers": { "href": null, "total": 658600 },
+      "followers": { "href": null, "total": 658692 },
       "genres": ["alternative rock", "austindie", "indie rock", "modern rock"],
       "href": "https://api.spotify.com/v1/artists/0K1q0nXQ8is36PzOKAMbNe",
       "id": "0K1q0nXQ8is36PzOKAMbNe",
@@ -590,7 +620,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
       },
-      "followers": { "href": null, "total": 82038 },
+      "followers": { "href": null, "total": 82080 },
       "genres": ["shimmer pop"],
       "href": "https://api.spotify.com/v1/artists/6xriZDSK3wPXhOoZXr9fzF",
       "id": "6xriZDSK3wPXhOoZXr9fzF",
@@ -612,7 +642,7 @@
         }
       ],
       "name": "Rubblebucket",
-      "popularity": 43,
+      "popularity": 44,
       "type": "artist",
       "uri": "spotify:artist:6xriZDSK3wPXhOoZXr9fzF"
     },
@@ -620,7 +650,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
       },
-      "followers": { "href": null, "total": 603984 },
+      "followers": { "href": null, "total": 604087 },
       "genres": ["chamber pop", "indie rock", "indietronica", "seattle indie"],
       "href": "https://api.spotify.com/v1/artists/5yV1qdnmxyIYiSFB02wpDj",
       "id": "5yV1qdnmxyIYiSFB02wpDj",
@@ -650,7 +680,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk"
       },
-      "followers": { "href": null, "total": 3879647 },
+      "followers": { "href": null, "total": 3885183 },
       "genres": ["indonesian idol pop"],
       "href": "https://api.spotify.com/v1/artists/2l8I5pWUnfF7bMK1z6EJRk",
       "id": "2l8I5pWUnfF7bMK1z6EJRk",
