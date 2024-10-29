@@ -943,7 +943,7 @@
         "href": "https://api.spotify.com/v1/tracks/01iiEi9h8CQGUN2K1xBbTj",
         "id": "01iiEi9h8CQGUN2K1xBbTj",
         "name": "List Of People (To Try And Forget About)",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:01iiEi9h8CQGUN2K1xBbTj",
         "is_local": false
       },
@@ -15192,9 +15192,16 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
           "SI",
           "KR",
           "BD",
@@ -15226,6 +15233,7 @@
           "JM",
           "KI",
           "LS",
+          "LR",
           "MW",
           "MV",
           "ML",
@@ -15273,17 +15281,23 @@
           "RW",
           "TG",
           "UZ",
+          "ZW",
           "BJ",
           "MG",
           "MU",
           "MZ",
           "AO",
+          "CI",
           "DJ",
           "ZM",
+          "CD",
           "CG",
+          "IQ",
+          "LY",
           "TJ",
           "VE",
-          "ET"
+          "ET",
+          "XK"
         ],
         "explicit": false,
         "type": "track",
@@ -15370,9 +15384,16 @@
             "JO",
             "PS",
             "IN",
+            "BY",
             "KZ",
             "MD",
             "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
             "SI",
             "KR",
             "BD",
@@ -15404,6 +15425,7 @@
             "JM",
             "KI",
             "LS",
+            "LR",
             "MW",
             "MV",
             "ML",
@@ -15451,17 +15473,23 @@
             "RW",
             "TG",
             "UZ",
+            "ZW",
             "BJ",
             "MG",
             "MU",
             "MZ",
             "AO",
+            "CI",
             "DJ",
             "ZM",
+            "CD",
             "CG",
+            "IQ",
+            "LY",
             "TJ",
             "VE",
-            "ET"
+            "ET",
+            "XK"
           ],
           "type": "album",
           "album_type": "single",
@@ -15470,34 +15498,34 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273eb6e0e7c50d4ca842d658a6a",
+              "url": "https://i.scdn.co/image/ab67616d0000b2737e13485609eb0c548288d06e",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02eb6e0e7c50d4ca842d658a6a",
+              "url": "https://i.scdn.co/image/ab67616d00001e027e13485609eb0c548288d06e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851eb6e0e7c50d4ca842d658a6a",
+              "url": "https://i.scdn.co/image/ab67616d000048517e13485609eb0c548288d06e",
               "width": 64
             }
           ],
           "name": "Elle",
-          "release_date": "2018-03-16",
+          "release_date": "2018-04-09",
           "release_date_precision": "day",
           "uri": "spotify:album:19ljnGIxNHaHPoP3fDNslG",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+                "spotify": "https://open.spotify.com/artist/3TywsrRz1pBseLa6jNpq73"
               },
-              "href": "https://api.spotify.com/v1/artists/7HjjdBLZHCZEIjlLbGVLi0",
-              "id": "7HjjdBLZHCZEIjlLbGVLi0",
-              "name": "R.O",
+              "href": "https://api.spotify.com/v1/artists/3TywsrRz1pBseLa6jNpq73",
+              "id": "3TywsrRz1pBseLa6jNpq73",
+              "name": "RUGI",
               "type": "artist",
-              "uri": "spotify:artist:7HjjdBLZHCZEIjlLbGVLi0"
+              "uri": "spotify:artist:3TywsrRz1pBseLa6jNpq73"
             },
             {
               "external_urls": {
@@ -15518,13 +15546,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+              "spotify": "https://open.spotify.com/artist/3TywsrRz1pBseLa6jNpq73"
             },
-            "href": "https://api.spotify.com/v1/artists/7HjjdBLZHCZEIjlLbGVLi0",
-            "id": "7HjjdBLZHCZEIjlLbGVLi0",
-            "name": "R.O",
+            "href": "https://api.spotify.com/v1/artists/3TywsrRz1pBseLa6jNpq73",
+            "id": "3TywsrRz1pBseLa6jNpq73",
+            "name": "RUGI",
             "type": "artist",
-            "uri": "spotify:artist:7HjjdBLZHCZEIjlLbGVLi0"
+            "uri": "spotify:artist:3TywsrRz1pBseLa6jNpq73"
           },
           {
             "external_urls": {
@@ -20317,7 +20345,7 @@
         "href": "https://api.spotify.com/v1/tracks/0bfY17lNbEp2Wnw6YipXQB",
         "id": "0bfY17lNbEp2Wnw6YipXQB",
         "name": "My Body",
-        "popularity": 35,
+        "popularity": 34,
         "uri": "spotify:track:0bfY17lNbEp2Wnw6YipXQB",
         "is_local": false
       },
