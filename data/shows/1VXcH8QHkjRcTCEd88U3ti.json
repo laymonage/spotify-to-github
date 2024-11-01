@@ -219,8 +219,47 @@
   "publisher": "TED",
   "type": "show",
   "uri": "spotify:show:1VXcH8QHkjRcTCEd88U3ti",
-  "total_episodes": 199,
+  "total_episodes": 197,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1adogyO8EDgfGISjTD3O4b/clip_374043_434043.mp3",
+      "description": "What will the world look like in 2030? International business consultant Nikolaus S. Lang predicts the evolution of a multipolar world, with multiple emerging coalitions of countries acting in new ways to achieve their economic, technological and military goals. He dives into what this will mean for the global economy, offering five tips for business leaders to prepare for the coming geopolitical landscape.",
+      "duration_ms": 868644,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4yHlh4jwuWlTemi60ZoWT4"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4yHlh4jwuWlTemi60ZoWT4",
+      "html_description": "<p>What will the world look like in 2030? International business consultant Nikolaus S. Lang predicts the evolution of a multipolar world, with multiple emerging coalitions of countries acting in new ways to achieve their economic, technological and military goals. He dives into what this will mean for the global economy, offering five tips for business leaders to prepare for the coming geopolitical landscape.</p>",
+      "id": "4yHlh4jwuWlTemi60ZoWT4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad9b76648be12040dbb83eaeb",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd9b76648be12040dbb83eaeb",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd9b76648be12040dbb83eaeb",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "5 ways leaders can adapt to shifting geopolitics | Nikolaus S. Lang",
+      "release_date": "2024-10-31",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:4yHlh4jwuWlTemi60ZoWT4"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3URGuQCRWeIrsMeaLvsgaJ/clip_167239_227239.mp3",
       "description": "In this whimsical talk and performance, musician and comedian Elle Cordova ponders what happened before the Big Bang. She’s then joined by guitarist Toni Lindgren for the original song “Carl Sagan,” exploring social media, human connection and how we’re all just reaching out like stars in the night sky.",
@@ -6501,45 +6540,6 @@
       "uri": "spotify:episode:0La7tixP6nCBDHexg828j4"
     },
     {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2KK8gyRnyn2KZbB1zEWQoV/clip_142088_202088.mp3",
-      "description": "As climate change leads to more and more natural disasters, a group of workers is showing up at one site after another to rebuild and repair. Labor organizer Saket Soni tells the stories of Resilience Force — the group of mostly immigrant workers restoring homes after hurricanes, floods and fires — and describes the unexpected bonds developing between the residents whose lives have been turned upside down and the laborers helping put things back together.",
-      "duration_ms": 825060,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/2pHpJE864YnqakOaB3yQoD"
-      },
-      "href": "https://api.spotify.com/v1/episodes/2pHpJE864YnqakOaB3yQoD",
-      "html_description": "<p>As climate change leads to more and more natural disasters, a group of workers is showing up at one site after another to rebuild and repair. Labor organizer Saket Soni tells the stories of Resilience Force — the group of mostly immigrant workers restoring homes after hurricanes, floods and fires — and describes the unexpected bonds developing between the residents whose lives have been turned upside down and the laborers helping put things back together.</p>",
-      "id": "2pHpJE864YnqakOaB3yQoD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a8fc4ea827d2c97228ec7296d",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f8fc4ea827d2c97228ec7296d",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d8fc4ea827d2c97228ec7296d",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "The workers rebuilding communities after natural disasters | Saket Soni",
-      "release_date": "2024-05-16",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:2pHpJE864YnqakOaB3yQoD"
-    },
-    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6TeTf5UGBLBuB49oYGT2gE/clip_458919_518919.mp3",
       "description": "In the beginning of the universe, all was darkness — until the first organisms developed sight, which ushered in an explosion of life, learning and progress. AI pioneer Fei-Fei Li says a similar moment is about to happen for computers and robots. She shows how machines are gaining \"spatial intelligence\" — the ability to process visual data, make predictions and act upon those predictions — and shares how this could enable AI to interact with humans in the real world.",
       "duration_ms": 923220,
@@ -7084,84 +7084,6 @@
       "resume_point": { "fully_played": false, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:5U7WvGxVo20Zbb3nK2X9qy"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5nEtjDPge1Ep7Bf1JnRuBX/clip_301270_361270.mp3",
-      "description": "What challenges lie ahead of a staggering 12,700-kilometer paddle around the entire continent of Australia? Crocodiles and sharks were just the beginning, says Ironwoman Bonnie Hancock. Reflecting on her remarkable feat of becoming the fastest person to paddle around Australia, she shares lessons on perseverance, resilience and finding meaning in life's toughest moments.",
-      "duration_ms": 634308,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/3xAFtjdfkMUDxY2wHqo8kK"
-      },
-      "href": "https://api.spotify.com/v1/episodes/3xAFtjdfkMUDxY2wHqo8kK",
-      "html_description": "<p>What challenges lie ahead of a staggering 12,700-kilometer paddle around the entire continent of Australia? Crocodiles and sharks were just the beginning, says Ironwoman Bonnie Hancock. Reflecting on her remarkable feat of becoming the fastest person to paddle around Australia, she shares lessons on perseverance, resilience and finding meaning in life&#39;s toughest moments.</p>",
-      "id": "3xAFtjdfkMUDxY2wHqo8kK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a2a9ab978343ddc6db643481f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f2a9ab978343ddc6db643481f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d2a9ab978343ddc6db643481f",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "My epic journey becoming the fastest person to paddle around Australia | Bonnie Hancock",
-      "release_date": "2024-04-30",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:3xAFtjdfkMUDxY2wHqo8kK"
-    },
-    {
-      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1nvjzdv8JBwxGalReyjdW6/clip_134120_194120.mp3",
-      "description": "Can AI help us answer life's biggest questions? In this visionary conversation, Google DeepMind cofounder and CEO Demis Hassabis delves into the history and incredible capabilities of AI with head of TED Chris Anderson. Hassabis explains how AI models like AlphaFold — which accurately predicted the shapes of all 200 million proteins known to science in under a year — have already accelerated scientific discovery in ways that will benefit humanity. Next up? Hassabis says AI has the potential to unlock the greatest mysteries surrounding our minds, bodies and the universe.",
-      "duration_ms": 1512876,
-      "explicit": false,
-      "external_urls": {
-        "spotify": "https://open.spotify.com/episode/6Vwi4s0P6d9VZKVdVVIqAw"
-      },
-      "href": "https://api.spotify.com/v1/episodes/6Vwi4s0P6d9VZKVdVVIqAw",
-      "html_description": "<p>Can AI help us answer life&#39;s biggest questions? In this visionary conversation, Google DeepMind cofounder and CEO Demis Hassabis delves into the history and incredible capabilities of AI with head of TED Chris Anderson. Hassabis explains how AI models like AlphaFold — which accurately predicted the shapes of all 200 million proteins known to science in under a year — have already accelerated scientific discovery in ways that will benefit humanity. Next up? Hassabis says AI has the potential to unlock the greatest mysteries surrounding our minds, bodies and the universe.</p>",
-      "id": "6Vwi4s0P6d9VZKVdVVIqAw",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6765630000ba8a93b767b2cddbd5b2fac1a7af",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67656300005f1f93b767b2cddbd5b2fac1a7af",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab6765630000f68d93b767b2cddbd5b2fac1a7af",
-          "width": 64
-        }
-      ],
-      "is_externally_hosted": false,
-      "is_playable": true,
-      "language": "en",
-      "languages": ["en"],
-      "name": "How AI is unlocking the secrets of nature and the universe | Demis Hassabis",
-      "release_date": "2024-04-29",
-      "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
-      "type": "episode",
-      "uri": "spotify:episode:6Vwi4s0P6d9VZKVdVVIqAw"
     },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6Ws3oUTpDTNTk2LfcKNZqy/clip_401213_461213.mp3",

@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DJSWk"
   },
-  "followers": { "href": null, "total": 27178 },
+  "followers": { "href": null, "total": 27183 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0DJSWk?locale=*",
   "id": "37i9dQZF1DZ06evO0DJSWk",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZyAlgAAAAADtf0ZtXUg1nIfpO2QKIhiA",
+  "snapshot_id": "ZyF3AAAAAACtTRw9XuYiuENlqsTPeFD/",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0DJSWk",
   "tracks": [
@@ -113,7 +113,7 @@
         "href": "https://api.spotify.com/v1/tracks/6iCJCZqDJjmBxt07Oid6FI",
         "id": "6iCJCZqDJjmBxt07Oid6FI",
         "name": "Buttercup",
-        "popularity": 57,
+        "popularity": 56,
         "uri": "spotify:track:6iCJCZqDJjmBxt07Oid6FI",
         "is_local": false
       },
@@ -2055,7 +2055,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/587edcd42195d84304d21e5c809643ce9ec8f04f?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/4a95fd4682954d2e15f4d1ad53a85196a393d580?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -2243,7 +2243,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -2490,17 +2490,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 218453,
-        "external_ids": { "isrc": "QZPKV2405101" },
+        "track_number": 2,
+        "duration_ms": 221373,
+        "external_ids": { "isrc": "QZPKV2405102" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5bwX27BYWQDeUj5qVCTGc6"
+          "spotify": "https://open.spotify.com/track/5y1a1A7CMlgF6OAlQILQbY"
         },
-        "href": "https://api.spotify.com/v1/tracks/5bwX27BYWQDeUj5qVCTGc6",
-        "id": "5bwX27BYWQDeUj5qVCTGc6",
-        "name": "Prayer Man",
+        "href": "https://api.spotify.com/v1/tracks/5y1a1A7CMlgF6OAlQILQbY",
+        "id": "5y1a1A7CMlgF6OAlQILQbY",
+        "name": "Paranoid",
         "popularity": 47,
-        "uri": "spotify:track:5bwX27BYWQDeUj5qVCTGc6",
+        "uri": "spotify:track:5y1a1A7CMlgF6OAlQILQbY",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -3049,7 +3049,7 @@
         "href": "https://api.spotify.com/v1/tracks/448V07W0zPY7ep7Dtc9Ukm",
         "id": "448V07W0zPY7ep7Dtc9Ukm",
         "name": "Vines",
-        "popularity": 42,
+        "popularity": 41,
         "uri": "spotify:track:448V07W0zPY7ep7Dtc9Ukm",
         "is_local": false
       },
@@ -3529,7 +3529,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4a95fd4682954d2e15f4d1ad53a85196a393d580?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/587edcd42195d84304d21e5c809643ce9ec8f04f?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -3717,7 +3717,7 @@
           "ET",
           "XK"
         ],
-        "explicit": true,
+        "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
@@ -3964,17 +3964,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 221373,
-        "external_ids": { "isrc": "QZPKV2405102" },
+        "track_number": 1,
+        "duration_ms": 218453,
+        "external_ids": { "isrc": "QZPKV2405101" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/5y1a1A7CMlgF6OAlQILQbY"
+          "spotify": "https://open.spotify.com/track/5bwX27BYWQDeUj5qVCTGc6"
         },
-        "href": "https://api.spotify.com/v1/tracks/5y1a1A7CMlgF6OAlQILQbY",
-        "id": "5y1a1A7CMlgF6OAlQILQbY",
-        "name": "Paranoid",
+        "href": "https://api.spotify.com/v1/tracks/5bwX27BYWQDeUj5qVCTGc6",
+        "id": "5bwX27BYWQDeUj5qVCTGc6",
+        "name": "Prayer Man",
         "popularity": 47,
-        "uri": "spotify:track:5y1a1A7CMlgF6OAlQILQbY",
+        "uri": "spotify:track:5bwX27BYWQDeUj5qVCTGc6",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -9833,7 +9833,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ybukMc8uKKc6b3FdBioEO",
         "id": "1ybukMc8uKKc6b3FdBioEO",
         "name": "Where to Now",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:1ybukMc8uKKc6b3FdBioEO",
         "is_local": false
       },
@@ -11805,7 +11805,7 @@
         "href": "https://api.spotify.com/v1/tracks/79LfU5ufUmiLvLURU23Yyf",
         "id": "79LfU5ufUmiLvLURU23Yyf",
         "name": "Opportunistic",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:79LfU5ufUmiLvLURU23Yyf",
         "is_local": false
       },
