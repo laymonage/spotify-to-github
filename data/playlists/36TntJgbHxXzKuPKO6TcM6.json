@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8460cb3327c7072aab246df11e",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8460cb3327c7072aab246df11e",
       "width": null
     }
   ],
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAAAJiJt0MUva+mXXpVdjx1lq9FNQT7s",
+  "snapshot_id": "AAAAKVp12L0CM1Dt9CHEBxR43xMAZ0L/",
   "type": "playlist",
   "uri": "spotify:playlist:36TntJgbHxXzKuPKO6TcM6",
   "tracks": [
@@ -1942,6 +1942,98 @@
         "popularity": 0,
         "track_number": 0,
         "is_local": true
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2024-11-04T20:45:47Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laymonage"
+        },
+        "href": "https://api.spotify.com/v1/users/laymonage",
+        "id": "laymonage",
+        "type": "user",
+        "uri": "spotify:user:laymonage"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": null,
+        "available_markets": ["BE", "CW", "GB", "IE", "LU", "NL"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["BE", "CW", "GB", "IE", "LU", "NL"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/14onjcwGXJFQnTmmCnTUfQ",
+          "id": "14onjcwGXJFQnTmmCnTUfQ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27328302ceade7600d1fbbe298a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0228302ceade7600d1fbbe298a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485128302ceade7600d1fbbe298a",
+              "width": 64
+            }
+          ],
+          "name": "Vessel (with Bonus Tracks)",
+          "release_date": "2013-01-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:14onjcwGXJFQnTmmCnTUfQ",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/14onjcwGXJFQnTmmCnTUfQ"
+          },
+          "total_tracks": 16
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 15,
+        "duration_ms": 258781,
+        "external_ids": { "isrc": "USAT21301009" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qb6rXjIeCQl1br4JBYHYs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qb6rXjIeCQl1br4JBYHYs",
+        "id": "3qb6rXjIeCQl1br4JBYHYs",
+        "name": "Lovely - Bonus Track",
+        "popularity": 34,
+        "uri": "spotify:track:3qb6rXjIeCQl1br4JBYHYs",
+        "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
@@ -7931,7 +8023,7 @@
         "href": "https://api.spotify.com/v1/tracks/6vcdiwrCVXnTLASFdjEV8r",
         "id": "6vcdiwrCVXnTLASFdjEV8r",
         "name": "How Are You True",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:6vcdiwrCVXnTLASFdjEV8r",
         "is_local": false
       },
@@ -10343,7 +10435,7 @@
         "href": "https://api.spotify.com/v1/tracks/5C8yqeMo9nwjRIv2B5W4dH",
         "id": "5C8yqeMo9nwjRIv2B5W4dH",
         "name": "Polen",
-        "popularity": 15,
+        "popularity": 16,
         "uri": "spotify:track:5C8yqeMo9nwjRIv2B5W4dH",
         "is_local": false
       },
