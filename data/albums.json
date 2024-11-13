@@ -1,6 +1,489 @@
 {
-  "total": 479,
+  "total": 480,
   "albums": [
+    {
+      "added_at": "2024-11-11T11:36:26Z",
+      "album": {
+        "album_type": "album",
+        "total_tracks": 11,
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3ny76FkTfcxrUEoQcpbNHl"
+        },
+        "href": "https://api.spotify.com/v1/albums/3ny76FkTfcxrUEoQcpbNHl?locale=*",
+        "id": "3ny76FkTfcxrUEoQcpbNHl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eaf4bd3099efbd3eb6782085",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eaf4bd3099efbd3eb6782085",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eaf4bd3099efbd3eb6782085",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Talking Through Tin Cans",
+        "release_date": "2008",
+        "release_date_precision": "year",
+        "type": "album",
+        "uri": "spotify:album:3ny76FkTfcxrUEoQcpbNHl",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+            },
+            "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+            "id": "5UqjSHztpMyc0liXncNbGD",
+            "name": "The Morning Benders",
+            "type": "artist",
+            "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+          }
+        ],
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/3ny76FkTfcxrUEoQcpbNHl/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 11,
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 118133,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/3ThS0Oen5O2to7jZZ3tO1w"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4xWjmrCEOGsGC2yAObYL8q",
+              "id": "4xWjmrCEOGsGC2yAObYL8q",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3ThS0Oen5O2to7jZZ3tO1w"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3ThS0Oen5O2to7jZZ3tO1w",
+                "id": "3ThS0Oen5O2to7jZZ3tO1w",
+                "type": "track",
+                "uri": "spotify:track:3ThS0Oen5O2to7jZZ3tO1w"
+              },
+              "name": "Dammit Anna",
+              "preview_url": "https://p.scdn.co/mp3-preview/3030127d540e2eeae8acd6af52bfb08685f1124a?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:4xWjmrCEOGsGC2yAObYL8q",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 199533,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/2PJlYhfFXomo12MqO2vssd"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4inVqpWZIrVHuPubBev0SR",
+              "id": "4inVqpWZIrVHuPubBev0SR",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2PJlYhfFXomo12MqO2vssd"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2PJlYhfFXomo12MqO2vssd",
+                "id": "2PJlYhfFXomo12MqO2vssd",
+                "type": "track",
+                "uri": "spotify:track:2PJlYhfFXomo12MqO2vssd"
+              },
+              "name": "I Was Wrong",
+              "preview_url": "https://p.scdn.co/mp3-preview/0b2e1a3a58e900637baa31c3d8f2670938ce13be?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:4inVqpWZIrVHuPubBev0SR",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 182760,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0ZcVMFsVPccEXcsUmYgdSH"
+              },
+              "href": "https://api.spotify.com/v1/tracks/562fH8oROA0mk3mr90wEX9",
+              "id": "562fH8oROA0mk3mr90wEX9",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0ZcVMFsVPccEXcsUmYgdSH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ZcVMFsVPccEXcsUmYgdSH",
+                "id": "0ZcVMFsVPccEXcsUmYgdSH",
+                "type": "track",
+                "uri": "spotify:track:0ZcVMFsVPccEXcsUmYgdSH"
+              },
+              "name": "Loose Change",
+              "preview_url": "https://p.scdn.co/mp3-preview/08dd57fd58f861708bd264c851dcbca37fcc64f4?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:562fH8oROA0mk3mr90wEX9",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 152666,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/25tSQZ3sk55jyx2MKcrTs2"
+              },
+              "href": "https://api.spotify.com/v1/tracks/1FDWWXuothtYfIhTF8FDoN",
+              "id": "1FDWWXuothtYfIhTF8FDoN",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/25tSQZ3sk55jyx2MKcrTs2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/25tSQZ3sk55jyx2MKcrTs2",
+                "id": "25tSQZ3sk55jyx2MKcrTs2",
+                "type": "track",
+                "uri": "spotify:track:25tSQZ3sk55jyx2MKcrTs2"
+              },
+              "name": "Patient Patient",
+              "preview_url": "https://p.scdn.co/mp3-preview/75dc75cdb97271f3c5ea33e531917c0a80eea343?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:1FDWWXuothtYfIhTF8FDoN",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 167800,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0ppNrmIsXmcmkQqA93wev1"
+              },
+              "href": "https://api.spotify.com/v1/tracks/3hc6cOyXeL1K2nSFgkb0Ui",
+              "id": "3hc6cOyXeL1K2nSFgkb0Ui",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0ppNrmIsXmcmkQqA93wev1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0ppNrmIsXmcmkQqA93wev1",
+                "id": "0ppNrmIsXmcmkQqA93wev1",
+                "type": "track",
+                "uri": "spotify:track:0ppNrmIsXmcmkQqA93wev1"
+              },
+              "name": "Crosseyed",
+              "preview_url": "https://p.scdn.co/mp3-preview/89a476bb75de4567ba03dbbb24b6dff6f63df622?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:3hc6cOyXeL1K2nSFgkb0Ui",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 158600,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/3DrIpkN7MNVqme2MmyuqqD"
+              },
+              "href": "https://api.spotify.com/v1/tracks/0Fpw6eiMX96yDfGHDCocpu",
+              "id": "0Fpw6eiMX96yDfGHDCocpu",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3DrIpkN7MNVqme2MmyuqqD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3DrIpkN7MNVqme2MmyuqqD",
+                "id": "3DrIpkN7MNVqme2MmyuqqD",
+                "type": "track",
+                "uri": "spotify:track:3DrIpkN7MNVqme2MmyuqqD"
+              },
+              "name": "Waiting For A War",
+              "preview_url": "https://p.scdn.co/mp3-preview/d3791020fd656ae1bc4ac65c40a1cec910473666?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:0Fpw6eiMX96yDfGHDCocpu",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 231266,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/5q1BYOHlUtpRFqpcQG8PJG"
+              },
+              "href": "https://api.spotify.com/v1/tracks/48CPJsmQvW0dhDqTgUsBCO",
+              "id": "48CPJsmQvW0dhDqTgUsBCO",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5q1BYOHlUtpRFqpcQG8PJG"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5q1BYOHlUtpRFqpcQG8PJG",
+                "id": "5q1BYOHlUtpRFqpcQG8PJG",
+                "type": "track",
+                "uri": "spotify:track:5q1BYOHlUtpRFqpcQG8PJG"
+              },
+              "name": "Heavy Hearts",
+              "preview_url": "https://p.scdn.co/mp3-preview/233695e74836c7437883c4083bccbcb090495fe1?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:48CPJsmQvW0dhDqTgUsBCO",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 207400,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0WXjR1IXln83i3ZsBTDuBe"
+              },
+              "href": "https://api.spotify.com/v1/tracks/5RPovA153NWTpEuxXtgq5k",
+              "id": "5RPovA153NWTpEuxXtgq5k",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0WXjR1IXln83i3ZsBTDuBe"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0WXjR1IXln83i3ZsBTDuBe",
+                "id": "0WXjR1IXln83i3ZsBTDuBe",
+                "type": "track",
+                "uri": "spotify:track:0WXjR1IXln83i3ZsBTDuBe"
+              },
+              "name": "Boarded Doors",
+              "preview_url": "https://p.scdn.co/mp3-preview/c9d7e555cbac4b86fa288729e6d714bb34448ae0?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 8,
+              "type": "track",
+              "uri": "spotify:track:5RPovA153NWTpEuxXtgq5k",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 205533,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/6hBD1ZoIGGceRDW31s5yrn"
+              },
+              "href": "https://api.spotify.com/v1/tracks/7t2v1lCCAPAlA1aUzoovwG",
+              "id": "7t2v1lCCAPAlA1aUzoovwG",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/6hBD1ZoIGGceRDW31s5yrn"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6hBD1ZoIGGceRDW31s5yrn",
+                "id": "6hBD1ZoIGGceRDW31s5yrn",
+                "type": "track",
+                "uri": "spotify:track:6hBD1ZoIGGceRDW31s5yrn"
+              },
+              "name": "Grain Of Salt",
+              "preview_url": "https://p.scdn.co/mp3-preview/ee23404a5357ebc3c3066b7584582110ecbf076e?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 9,
+              "type": "track",
+              "uri": "spotify:track:7t2v1lCCAPAlA1aUzoovwG",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 233600,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/1SNon9ynVMqoAqYV3eenaw"
+              },
+              "href": "https://api.spotify.com/v1/tracks/3gvl9z2nwb7DCVTQ1chSNU",
+              "id": "3gvl9z2nwb7DCVTQ1chSNU",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1SNon9ynVMqoAqYV3eenaw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1SNon9ynVMqoAqYV3eenaw",
+                "id": "1SNon9ynVMqoAqYV3eenaw",
+                "type": "track",
+                "uri": "spotify:track:1SNon9ynVMqoAqYV3eenaw"
+              },
+              "name": "Morning Fog",
+              "preview_url": "https://p.scdn.co/mp3-preview/a4275a0cb4cddb0173b7d3fd07e5e5a300e6463a?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 10,
+              "type": "track",
+              "uri": "spotify:track:3gvl9z2nwb7DCVTQ1chSNU",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/5UqjSHztpMyc0liXncNbGD",
+                  "id": "5UqjSHztpMyc0liXncNbGD",
+                  "name": "The Morning Benders",
+                  "type": "artist",
+                  "uri": "spotify:artist:5UqjSHztpMyc0liXncNbGD"
+                }
+              ],
+              "available_markets": [],
+              "disc_number": 1,
+              "duration_ms": 91573,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/4cgHZAJ7M6xvwrGrDo9HuQ"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4kJDaUNietTgz2EQiaEbXP",
+              "id": "4kJDaUNietTgz2EQiaEbXP",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/4cgHZAJ7M6xvwrGrDo9HuQ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4cgHZAJ7M6xvwrGrDo9HuQ",
+                "id": "4cgHZAJ7M6xvwrGrDo9HuQ",
+                "type": "track",
+                "uri": "spotify:track:4cgHZAJ7M6xvwrGrDo9HuQ"
+              },
+              "name": "When Were Apart",
+              "preview_url": "https://p.scdn.co/mp3-preview/c4ab9c6634bc0e915ae1c5d7cce1f33bf757ee34?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 11,
+              "type": "track",
+              "uri": "spotify:track:4kJDaUNietTgz2EQiaEbXP",
+              "is_local": false
+            }
+          ]
+        },
+        "copyrights": [
+          { "text": "2008 +1 Records", "type": "C" },
+          { "text": "2008 +1 Records", "type": "P" }
+        ],
+        "external_ids": { "upc": "893583002642" },
+        "genres": [],
+        "label": "+1 Records",
+        "popularity": 0
+      }
+    },
     {
       "added_at": "2024-10-30T12:09:09Z",
       "album": {
@@ -17219,7 +17702,7 @@
         "external_ids": { "upc": "4524135184986" },
         "genres": [],
         "label": "PONY CANYON INC.",
-        "popularity": 25
+        "popularity": 24
       }
     },
     {
@@ -36926,7 +37409,7 @@
         "external_ids": { "upc": "075679763259" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 54
+        "popularity": 55
       }
     },
     {
@@ -37390,7 +37873,7 @@
         "external_ids": { "upc": "5054429197020" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 20
+        "popularity": 19
       }
     },
     {
@@ -49515,7 +49998,7 @@
         "external_ids": { "upc": "887833002964" },
         "genres": [],
         "label": "Weird World",
-        "popularity": 11
+        "popularity": 10
       }
     },
     {
@@ -59201,7 +59684,7 @@
         "external_ids": { "upc": "634457158986" },
         "genres": [],
         "label": "Egghunt Records",
-        "popularity": 14
+        "popularity": 15
       }
     },
     {
@@ -78165,7 +78648,7 @@
         "external_ids": { "upc": "196165713173" },
         "genres": [],
         "label": "Malfroy Records",
-        "popularity": 4
+        "popularity": 5
       }
     },
     {
@@ -81217,7 +81700,7 @@
         "external_ids": { "upc": "5056494917336" },
         "genres": [],
         "label": "Djo",
-        "popularity": 84
+        "popularity": 85
       }
     },
     {
@@ -109752,7 +110235,7 @@
         "external_ids": { "upc": "634904078164" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 83
+        "popularity": 84
       }
     },
     {
@@ -110686,7 +111169,7 @@
         "external_ids": { "upc": "5054429176735" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -143323,7 +143806,7 @@
         "external_ids": { "upc": "184923124866" },
         "genres": [],
         "label": "Mexican Summer",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -176752,7 +177235,7 @@
         "external_ids": { "upc": "5054960548657" },
         "genres": [],
         "label": "Independent",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -187361,7 +187844,7 @@
         "external_ids": { "upc": "018736046018" },
         "genres": [],
         "label": "夕陽音樂產業有限公司 Sunset Music Productions Co., Ltd",
-        "popularity": 18
+        "popularity": 17
       }
     },
     {
@@ -187540,7 +188023,7 @@
         "external_ids": { "upc": "4710243777268" },
         "genres": [],
         "label": "夕陽音樂產業有限公司",
-        "popularity": 18
+        "popularity": 17
       }
     },
     {
@@ -187719,7 +188202,7 @@
         "external_ids": { "upc": "4712972340034" },
         "genres": [],
         "label": "夕陽音樂產業有限公司",
-        "popularity": 25
+        "popularity": 24
       }
     },
     {
@@ -221505,7 +221988,7 @@
         "external_ids": { "upc": "196626428684" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 28
+        "popularity": 29
       }
     },
     {
@@ -222831,7 +223314,7 @@
         "external_ids": { "upc": "194525158534" },
         "genres": [],
         "label": "Good Luck Finding Iris",
-        "popularity": 11
+        "popularity": 12
       }
     },
     {
@@ -224372,7 +224855,7 @@
         "external_ids": { "upc": "5054960516731" },
         "genres": [],
         "label": "Independent",
-        "popularity": 23
+        "popularity": 24
       }
     },
     {
@@ -261362,7 +261845,7 @@
         "external_ids": { "upc": "859748286586" },
         "genres": [],
         "label": "A Great Big of Pile of Leaves and Many Hats Distribution",
-        "popularity": 27
+        "popularity": 26
       }
     },
     {
@@ -265702,7 +266185,7 @@
         "external_ids": { "upc": "5059806545395" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -266157,7 +266640,7 @@
         "external_ids": { "upc": "0850014129385" },
         "genres": [],
         "label": "Bright Antenna",
-        "popularity": 4
+        "popularity": 5
       }
     },
     {
@@ -272746,7 +273229,7 @@
         "external_ids": { "upc": "825646489053" },
         "genres": [],
         "label": "Atlantic Records UK",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -276999,7 +277482,7 @@
         "external_ids": { "upc": "195497917198" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 11
+        "popularity": 10
       }
     },
     {
@@ -279390,7 +279873,7 @@
         "external_ids": { "upc": "195497916085" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 13
+        "popularity": 14
       }
     },
     {
@@ -279817,7 +280300,7 @@
         "external_ids": { "upc": "4710679475783" },
         "genres": [],
         "label": "夕陽音樂產業有限公司",
-        "popularity": 17
+        "popularity": 16
       }
     },
     {
@@ -295858,7 +296341,7 @@
         "external_ids": { "upc": "00602435149332" },
         "genres": [],
         "label": "Still Woozy Productions Inc., under exclusive license to Interscope Records",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -346034,7 +346517,7 @@
         "external_ids": { "upc": "5057728690186" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -369433,7 +369916,7 @@
         "external_ids": { "upc": "5054429137347" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 11
+        "popularity": 12
       }
     },
     {
@@ -375256,7 +375739,7 @@
         "external_ids": { "upc": "00888072089839" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -376404,7 +376887,7 @@
         "external_ids": { "upc": "00602577630033" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 51
+        "popularity": 52
       }
     },
     {
@@ -384730,7 +385213,7 @@
         "external_ids": { "upc": "193665571371" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -421880,7 +422363,7 @@
         "external_ids": { "upc": "192378312165" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 8
+        "popularity": 9
       }
     },
     {
@@ -422812,7 +423295,7 @@
         "external_ids": { "upc": "840093396433" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -423382,7 +423865,7 @@
         "external_ids": { "upc": "840093396341" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 7
+        "popularity": 8
       }
     },
     {
@@ -424502,7 +424985,7 @@
         "external_ids": { "upc": "840092455629" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 24
+        "popularity": 25
       }
     },
     {
@@ -466641,7 +467124,7 @@
         "external_ids": { "upc": "859715827538" },
         "genres": [],
         "label": "Konoba",
-        "popularity": 13
+        "popularity": 14
       }
     },
     {
@@ -470586,7 +471069,7 @@
         "external_ids": { "upc": "5050954271488" },
         "genres": [],
         "label": "Infectious",
-        "popularity": 9
+        "popularity": 8
       }
     },
     {
@@ -484510,7 +484993,7 @@
         "external_ids": { "upc": "00602537901937" },
         "genres": [],
         "label": "Loma Vista",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -492190,7 +492673,7 @@
         "external_ids": { "upc": "886443338418" },
         "genres": [],
         "label": "Aural Apothecary/Columbia",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -495111,7 +495594,7 @@
         "external_ids": { "upc": "825646191406" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 31
+        "popularity": 32
       }
     },
     {
@@ -512588,7 +513071,7 @@
         "external_ids": { "upc": "075679946713" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 65
+        "popularity": 66
       }
     },
     {
@@ -554522,7 +555005,7 @@
         "external_ids": { "upc": "00602527585239" },
         "genres": [],
         "label": "EMI",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -567720,7 +568203,7 @@
         "external_ids": { "upc": "075679954572" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -651392,7 +651875,7 @@
         "external_ids": { "upc": "886444614719" },
         "genres": [],
         "label": "Arista/Legacy",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
