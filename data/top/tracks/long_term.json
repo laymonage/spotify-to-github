@@ -3,7 +3,7 @@
   "tracks": [
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -225,6 +225,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -441,6 +442,7 @@
       "href": "https://api.spotify.com/v1/tracks/0iJe81g5tUhKEjpc7Rfcq9",
       "id": "0iJe81g5tUhKEjpc7Rfcq9",
       "is_local": false,
+      "is_playable": true,
       "name": "Giving Up",
       "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/e9c102b1999f0f9a452e89520e527d4350713db3?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -450,7 +452,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -486,6 +488,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -516,6 +519,7 @@
       "href": "https://api.spotify.com/v1/tracks/7ooBfrRJnHqqYlMqAKGsop",
       "id": "7ooBfrRJnHqqYlMqAKGsop",
       "is_local": false,
+      "is_playable": true,
       "name": "Muerto",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/a9eecf62e9ceacae196bc2f7fd1872511d542269?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -525,7 +529,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -746,6 +750,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -961,6 +966,7 @@
       "href": "https://api.spotify.com/v1/tracks/5KPXcfXaGOaWUqOHLDXFRP",
       "id": "5KPXcfXaGOaWUqOHLDXFRP",
       "is_local": false,
+      "is_playable": true,
       "name": "No Woman",
       "popularity": 54,
       "preview_url": "https://p.scdn.co/mp3-preview/0d47c039e6499b04bdb39532ca4595674ff425ce?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -970,7 +976,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -1192,6 +1198,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -1408,6 +1415,7 @@
       "href": "https://api.spotify.com/v1/tracks/5qspeKX1xBacLJMm2t3Yc0",
       "id": "5qspeKX1xBacLJMm2t3Yc0",
       "is_local": false,
+      "is_playable": true,
       "name": "A Lot's Gonna Change",
       "popularity": 55,
       "preview_url": "https://p.scdn.co/mp3-preview/a901ddf97be474f5fa6a60674897fd573f2478ad?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -1417,7 +1425,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -1639,6 +1647,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -1855,6 +1864,7 @@
       "href": "https://api.spotify.com/v1/tracks/0NnqnWbds7RRoSnuR1tzSO",
       "id": "0NnqnWbds7RRoSnuR1tzSO",
       "is_local": false,
+      "is_playable": true,
       "name": "Far Rockaway Theme",
       "popularity": 22,
       "preview_url": "https://p.scdn.co/mp3-preview/feb4764278ddba0e0a847c57b3e60dc66bad40cf?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -1864,7 +1874,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -2028,6 +2038,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -2186,6 +2197,7 @@
       "href": "https://api.spotify.com/v1/tracks/3KatbDjdXZI6l1tL1HQH7z",
       "id": "3KatbDjdXZI6l1tL1HQH7z",
       "is_local": false,
+      "is_playable": true,
       "name": "Down for the Count",
       "popularity": 11,
       "preview_url": "https://p.scdn.co/mp3-preview/08cd33334ffe21b0ac9811a2d0327d1b941a25e6?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -2195,7 +2207,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -2417,6 +2429,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "And In The Darkness, Hearts Aglow",
         "release_date": "2022-11-18",
         "release_date_precision": "day",
@@ -2633,6 +2646,7 @@
       "href": "https://api.spotify.com/v1/tracks/7G6NU3cp3ufNMEFCI2l90X",
       "id": "7G6NU3cp3ufNMEFCI2l90X",
       "is_local": false,
+      "is_playable": true,
       "name": "It's Not Just Me, It's Everybody",
       "popularity": 45,
       "preview_url": "https://p.scdn.co/mp3-preview/b6ebd7d2690a3e6e39c37f16be36b2dc999a4bac?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -2642,7 +2656,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -2864,6 +2878,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Decorating",
         "release_date": "2018-07-06",
         "release_date_precision": "day",
@@ -3080,6 +3095,7 @@
       "href": "https://api.spotify.com/v1/tracks/14iERgfj0sV3dasJsEGWLY",
       "id": "14iERgfj0sV3dasJsEGWLY",
       "is_local": false,
+      "is_playable": true,
       "name": "Penelope",
       "popularity": 11,
       "preview_url": "https://p.scdn.co/mp3-preview/24e1647e830c201859d49fa32baeb5a01124af27?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -3089,7 +3105,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -3125,6 +3141,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -3155,6 +3172,7 @@
       "href": "https://api.spotify.com/v1/tracks/16yq5bVZYIPgdeoD5eAHNw",
       "id": "16yq5bVZYIPgdeoD5eAHNw",
       "is_local": false,
+      "is_playable": true,
       "name": "Down for the Count",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/08cd33334ffe21b0ac9811a2d0327d1b941a25e6?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -3164,7 +3182,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -3386,6 +3404,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -3602,6 +3621,7 @@
       "href": "https://api.spotify.com/v1/tracks/1FqPEPY3hXqYDNIuvw2WqJ",
       "id": "1FqPEPY3hXqYDNIuvw2WqJ",
       "is_local": false,
+      "is_playable": true,
       "name": "Deep Green",
       "popularity": 24,
       "preview_url": "https://p.scdn.co/mp3-preview/b452f1dc29a38ae195b6378a8ec415f9e568469d?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -3611,7 +3631,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -3647,6 +3667,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -3677,6 +3698,7 @@
       "href": "https://api.spotify.com/v1/tracks/0CrwP01XIpTfoidvXl8h6H",
       "id": "0CrwP01XIpTfoidvXl8h6H",
       "is_local": false,
+      "is_playable": true,
       "name": "Habit Creature",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/678129433546a96fc92f006244ffe88ada42c97b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -3686,7 +3708,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -3908,6 +3930,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -4134,6 +4157,7 @@
       "href": "https://api.spotify.com/v1/tracks/40PRp88YqFp5fM0MtG2j1N",
       "id": "40PRp88YqFp5fM0MtG2j1N",
       "is_local": false,
+      "is_playable": true,
       "name": "The End Of Comedy",
       "popularity": 34,
       "preview_url": "https://p.scdn.co/mp3-preview/b83d17b7b5772f89c5af2a1fbf74a26b268c630f?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -4143,7 +4167,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -4179,6 +4203,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -4209,6 +4234,7 @@
       "href": "https://api.spotify.com/v1/tracks/4VHSVYpPz7SJj8UXITmJMi",
       "id": "4VHSVYpPz7SJj8UXITmJMi",
       "is_local": false,
+      "is_playable": true,
       "name": "What Is Your Deal Man?",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/ea201716000bf5263857539a597dd72e02168eb2?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -4218,7 +4244,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -4440,6 +4466,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -4656,6 +4683,7 @@
       "href": "https://api.spotify.com/v1/tracks/7LYVDh003mW2jl5D1UBPhR",
       "id": "7LYVDh003mW2jl5D1UBPhR",
       "is_local": false,
+      "is_playable": true,
       "name": "Valleys (My Love)",
       "popularity": 44,
       "preview_url": "https://p.scdn.co/mp3-preview/eac2872fe684f98c5c8d969a369f66012351590d?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -4665,7 +4693,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -4887,6 +4915,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -5113,6 +5142,7 @@
       "href": "https://api.spotify.com/v1/tracks/77iRifbhkJGvGBBRNykUwN",
       "id": "77iRifbhkJGvGBBRNykUwN",
       "is_local": false,
+      "is_playable": true,
       "name": "Suddenly",
       "popularity": 51,
       "preview_url": "https://p.scdn.co/mp3-preview/dcfe1b469e34384a87cd0f9fca37ecdb6b599f80?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -5122,7 +5152,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -5344,6 +5374,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -5560,6 +5591,7 @@
       "href": "https://api.spotify.com/v1/tracks/0z0cDJiHTy9tGx0tvPhiDX",
       "id": "0z0cDJiHTy9tGx0tvPhiDX",
       "is_local": false,
+      "is_playable": true,
       "name": "Habit Creature",
       "popularity": 21,
       "preview_url": "https://p.scdn.co/mp3-preview/678129433546a96fc92f006244ffe88ada42c97b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -5569,7 +5601,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -5787,6 +5819,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Raw Honey",
         "release_date": "2019-04-19",
         "release_date_precision": "day",
@@ -5999,6 +6032,7 @@
       "href": "https://api.spotify.com/v1/tracks/1zCQfW6eZNnp86bsRyXVPx",
       "id": "1zCQfW6eZNnp86bsRyXVPx",
       "is_local": false,
+      "is_playable": true,
       "name": "You've Got to Be Kidding",
       "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/be0c9bb747719c0d688b9dee9653ca9207a6253c?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -6008,7 +6042,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -6044,6 +6078,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -6074,6 +6109,7 @@
       "href": "https://api.spotify.com/v1/tracks/6LpCKnFlRRCmVmPGdiudcf",
       "id": "6LpCKnFlRRCmVmPGdiudcf",
       "is_local": false,
+      "is_playable": true,
       "name": "Hey Dude Etude",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/60223e0bb40403429b5503640525caa81dcc4158?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -6083,7 +6119,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -6305,6 +6341,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -6521,6 +6558,7 @@
       "href": "https://api.spotify.com/v1/tracks/211zfgFVnQLj4X1vFXizyF",
       "id": "211zfgFVnQLj4X1vFXizyF",
       "is_local": false,
+      "is_playable": true,
       "name": "Butterflies From Monaco",
       "popularity": 28,
       "preview_url": "https://p.scdn.co/mp3-preview/ad34bfd765661d106b32f3b820c9bc1be0b7250f?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -6530,7 +6568,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -6566,6 +6604,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -6596,6 +6635,7 @@
       "href": "https://api.spotify.com/v1/tracks/6z1LHucP7BDVHoX51kIKJ4",
       "id": "6z1LHucP7BDVHoX51kIKJ4",
       "is_local": false,
+      "is_playable": true,
       "name": "FKA Bluets",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/66d8d3124267105fd472ce8cc01a495b3deaf3d6?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -6605,7 +6645,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -6827,6 +6867,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -7043,6 +7084,7 @@
       "href": "https://api.spotify.com/v1/tracks/51EMSRpNm9Rg5rGViVCczv",
       "id": "51EMSRpNm9Rg5rGViVCczv",
       "is_local": false,
+      "is_playable": true,
       "name": "Andromeda",
       "popularity": 65,
       "preview_url": "https://p.scdn.co/mp3-preview/6026e44361cf28d7bfb3f823b7392eb4b4a3eefb?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7052,7 +7094,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -7088,6 +7130,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -7118,6 +7161,7 @@
       "href": "https://api.spotify.com/v1/tracks/5uKH4nY6ALq8jGNZ0BYlBH",
       "id": "5uKH4nY6ALq8jGNZ0BYlBH",
       "is_local": false,
+      "is_playable": true,
       "name": "I Might Be",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/b7626fe440dff308834730706fed344b3e3176c5?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7127,7 +7171,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -7163,6 +7207,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -7193,6 +7238,7 @@
       "href": "https://api.spotify.com/v1/tracks/2HKGSswGICUkJ4oTW8emNm",
       "id": "2HKGSswGICUkJ4oTW8emNm",
       "is_local": false,
+      "is_playable": true,
       "name": "Cockroach",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/a367453f79622dbaaf754d47b9c8ba5198c51a24?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7202,7 +7248,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -7424,6 +7470,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Sunbathing",
         "release_date": "2020-11-13",
         "release_date_precision": "day",
@@ -7640,6 +7687,7 @@
       "href": "https://api.spotify.com/v1/tracks/7GH38UQWKT7T5QphfgCiYm",
       "id": "7GH38UQWKT7T5QphfgCiYm",
       "is_local": false,
+      "is_playable": true,
       "name": "Wander",
       "popularity": 23,
       "preview_url": "https://p.scdn.co/mp3-preview/92afe616d6ffab1211ef4f2631b0d6dac7504629?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7649,7 +7697,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -7685,6 +7733,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -7715,6 +7764,7 @@
       "href": "https://api.spotify.com/v1/tracks/3eoC3fgMgbTHWibJwbY2iN",
       "id": "3eoC3fgMgbTHWibJwbY2iN",
       "is_local": false,
+      "is_playable": true,
       "name": "Turnaround (Cocaine Song)",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/6fab17a428b1beda85487e9ed4625a71c4a2218e?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7724,7 +7774,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -7760,6 +7810,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -7790,6 +7841,7 @@
       "href": "https://api.spotify.com/v1/tracks/0PoXJm9bYpjZhDLQOr5cop",
       "id": "0PoXJm9bYpjZhDLQOr5cop",
       "is_local": false,
+      "is_playable": true,
       "name": "Guitars Are Better Than Synthesizers for Writing Through Hard Times",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/6fa24edfb8dcb052dab1157296f1d11c6c13a6a9?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -7799,7 +7851,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -8021,6 +8073,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -8247,6 +8300,7 @@
       "href": "https://api.spotify.com/v1/tracks/3Rc94e3TOA1K4vHnWeFVrn",
       "id": "3Rc94e3TOA1K4vHnWeFVrn",
       "is_local": false,
+      "is_playable": true,
       "name": "The Real World",
       "popularity": 35,
       "preview_url": "https://p.scdn.co/mp3-preview/0b30658b080fef40432fcd50ff3756e447b1c8f3?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -8256,7 +8310,7 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -8292,6 +8346,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Juliette",
         "release_date": "2019-11-12",
         "release_date_precision": "day",
@@ -8322,6 +8377,7 @@
       "href": "https://api.spotify.com/v1/tracks/3sLE6NNNk9CjXZv1zh5rm4",
       "id": "3sLE6NNNk9CjXZv1zh5rm4",
       "is_local": false,
+      "is_playable": true,
       "name": "Juliette",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/e8e7820a327b8f8a738ec5bc2677292ad5a17e60?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -8331,7 +8387,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -8552,6 +8608,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -8767,6 +8824,7 @@
       "href": "https://api.spotify.com/v1/tracks/7midhUSAQfwD3aFwQrLZYc",
       "id": "7midhUSAQfwD3aFwQrLZYc",
       "is_local": false,
+      "is_playable": true,
       "name": "Golden Days",
       "popularity": 43,
       "preview_url": "https://p.scdn.co/mp3-preview/bcf3035dffafd57950d39945b2a1dd2d26459c17?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -8776,7 +8834,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -8998,6 +9056,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -9214,6 +9273,7 @@
       "href": "https://api.spotify.com/v1/tracks/2VYqgye3Wf9ySE4qYM3iJn",
       "id": "2VYqgye3Wf9ySE4qYM3iJn",
       "is_local": false,
+      "is_playable": true,
       "name": "Everyday",
       "popularity": 44,
       "preview_url": "https://p.scdn.co/mp3-preview/a384653d499e9787d2babb301fe6b22f0d1d71be?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -9223,7 +9283,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -9445,6 +9505,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -9661,6 +9722,7 @@
       "href": "https://api.spotify.com/v1/tracks/30TCAxiC8zVb5NVdUoUuCS",
       "id": "30TCAxiC8zVb5NVdUoUuCS",
       "is_local": false,
+      "is_playable": true,
       "name": "Something to Believe",
       "popularity": 48,
       "preview_url": "https://p.scdn.co/mp3-preview/4158fef2c17dac209bdaadaa56ae35510da8bf48?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -9670,7 +9732,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -9892,6 +9954,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -10108,6 +10171,7 @@
       "href": "https://api.spotify.com/v1/tracks/2ya75bvL17SgjKvytJrBAm",
       "id": "2ya75bvL17SgjKvytJrBAm",
       "is_local": false,
+      "is_playable": true,
       "name": "Used To Be Lonely",
       "popularity": 35,
       "preview_url": "https://p.scdn.co/mp3-preview/8d6b025f912b86abb524d897f106eddca22a8881?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -10117,7 +10181,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -10335,6 +10399,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Raw Honey",
         "release_date": "2019-04-19",
         "release_date_precision": "day",
@@ -10557,6 +10622,7 @@
       "href": "https://api.spotify.com/v1/tracks/1XU6JOnyH8fSW0vzofEMCb",
       "id": "1XU6JOnyH8fSW0vzofEMCb",
       "is_local": false,
+      "is_playable": true,
       "name": "Honey",
       "popularity": 38,
       "preview_url": "https://p.scdn.co/mp3-preview/fbdd5aaf3194b8bdc17a1a4e10298e8728e094c8?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -10566,7 +10632,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -10788,6 +10854,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Bluebeard",
         "release_date": "2023-09-15",
         "release_date_precision": "day",
@@ -11004,6 +11071,7 @@
       "href": "https://api.spotify.com/v1/tracks/1DlreThaCF1QEE55NuwtLN",
       "id": "1DlreThaCF1QEE55NuwtLN",
       "is_local": false,
+      "is_playable": true,
       "name": "Normal Things",
       "popularity": 34,
       "preview_url": "https://p.scdn.co/mp3-preview/2d03f20ab07b2202d6e5813491061d536151640c?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -11013,7 +11081,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -11049,6 +11117,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -11079,6 +11148,7 @@
       "href": "https://api.spotify.com/v1/tracks/2vcCHqDdGPi4zTeOfxanuO",
       "id": "2vcCHqDdGPi4zTeOfxanuO",
       "is_local": false,
+      "is_playable": true,
       "name": "Copilot",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/2dff352075c5a99057f31d6d2f218bb1221c2719?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -11088,7 +11158,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -11124,6 +11194,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -11154,6 +11225,7 @@
       "href": "https://api.spotify.com/v1/tracks/5M1TXdS2EjFDSUBIlZdvPs",
       "id": "5M1TXdS2EjFDSUBIlZdvPs",
       "is_local": false,
+      "is_playable": true,
       "name": "No Reason",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/af597204f275fa2e041c39b335364a1a6270df72?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -11163,7 +11235,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -11199,6 +11271,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -11239,6 +11312,7 @@
       "href": "https://api.spotify.com/v1/tracks/0UG2CtCKV62BK6Y2MJwOzR",
       "id": "0UG2CtCKV62BK6Y2MJwOzR",
       "is_local": false,
+      "is_playable": true,
       "name": "Daffadowndilly",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/d0c6d6deda9894f312a499591682ea27bb2dcb31?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -11248,7 +11322,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -11470,6 +11544,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -11686,6 +11761,7 @@
       "href": "https://api.spotify.com/v1/tracks/1UCjWZ6jsZW4hkZTrbQSMy",
       "id": "1UCjWZ6jsZW4hkZTrbQSMy",
       "is_local": false,
+      "is_playable": true,
       "name": "Dogologue",
       "popularity": 8,
       "preview_url": "https://p.scdn.co/mp3-preview/6eb5175e058ef1b06960add1dc63aa104e875577?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -11695,7 +11771,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -11917,6 +11993,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -12133,6 +12210,7 @@
       "href": "https://api.spotify.com/v1/tracks/5BJFaJRLHBCyK52izBKwFj",
       "id": "5BJFaJRLHBCyK52izBKwFj",
       "is_local": false,
+      "is_playable": true,
       "name": "Were You Saying Something?",
       "popularity": 27,
       "preview_url": "https://p.scdn.co/mp3-preview/107b0580d3921f9b91b2bb962180de730b60160a?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -12142,7 +12220,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -12178,6 +12256,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -12208,6 +12287,7 @@
       "href": "https://api.spotify.com/v1/tracks/0OruRmzEfjDPIabdJTi9RF",
       "id": "0OruRmzEfjDPIabdJTi9RF",
       "is_local": false,
+      "is_playable": true,
       "name": "Picture of You",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/eed9ec98904652019b107b0736dfefb3b8bc290b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -12217,7 +12297,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -12439,6 +12519,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -12655,6 +12736,7 @@
       "href": "https://api.spotify.com/v1/tracks/5uDu4d1lqK92UcNnRDMbGv",
       "id": "5uDu4d1lqK92UcNnRDMbGv",
       "is_local": false,
+      "is_playable": true,
       "name": "A Day Or Two",
       "popularity": 11,
       "preview_url": "https://p.scdn.co/mp3-preview/f8d97f6dd29a856adcfa081a2341c17de50f5c84?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -12664,7 +12746,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -12886,6 +12968,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Shame, Shame (Deluxe Edition)",
         "release_date": "2010-11-02",
         "release_date_precision": "day",
@@ -13102,6 +13185,7 @@
       "href": "https://api.spotify.com/v1/tracks/0UV5zxRMz6AO4ZwUOZNIKI",
       "id": "0UV5zxRMz6AO4ZwUOZNIKI",
       "is_local": false,
+      "is_playable": true,
       "name": "Where'd All the Time Go?",
       "popularity": 77,
       "preview_url": "https://p.scdn.co/mp3-preview/7000261f94bf9cdb8158ebef1aabee6bc4df8c6b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -13111,7 +13195,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -13147,6 +13231,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -13187,6 +13272,7 @@
       "href": "https://api.spotify.com/v1/tracks/1OKJwf4b6l1vEAujhHkeGZ",
       "id": "1OKJwf4b6l1vEAujhHkeGZ",
       "is_local": false,
+      "is_playable": true,
       "name": "Thirsty",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/d959e57ae8c6f495930f96881df6accc7d67166d?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -13196,7 +13282,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -13418,6 +13504,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -13634,6 +13721,7 @@
       "href": "https://api.spotify.com/v1/tracks/2QiFwKcCpNz426j2PXYYTZ",
       "id": "2QiFwKcCpNz426j2PXYYTZ",
       "is_local": false,
+      "is_playable": true,
       "name": "Before I Know It",
       "popularity": 24,
       "preview_url": "https://p.scdn.co/mp3-preview/9a841233f2e5d1bbc09c7279f8a95483090a0bf8?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -13643,7 +13731,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -13865,6 +13953,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -14081,6 +14170,7 @@
       "href": "https://api.spotify.com/v1/tracks/4mPFy2ZXSluiG67fcbzamN",
       "id": "4mPFy2ZXSluiG67fcbzamN",
       "is_local": false,
+      "is_playable": true,
       "name": "Rhododendron",
       "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/30b935fdad7fdba3539a92c495786682a359a738?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -14090,7 +14180,7 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -14312,6 +14402,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Heart It Races (Cover Version)",
         "release_date": "2007-06-05",
         "release_date_precision": "day",
@@ -14528,6 +14619,7 @@
       "href": "https://api.spotify.com/v1/tracks/0SyOHG2V9CgMSlebbnyoLJ",
       "id": "0SyOHG2V9CgMSlebbnyoLJ",
       "is_local": false,
+      "is_playable": true,
       "name": "Heart It Races - Cover Version",
       "popularity": 54,
       "preview_url": "https://p.scdn.co/mp3-preview/f9e232b450e607b55f9b115a8f3a6301e8e67613?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -14537,7 +14629,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -14759,6 +14851,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -14985,6 +15078,7 @@
       "href": "https://api.spotify.com/v1/tracks/0AvaN1Y5bv0C0xrDeDZjDh",
       "id": "0AvaN1Y5bv0C0xrDeDZjDh",
       "is_local": false,
+      "is_playable": true,
       "name": "Easy to Forget",
       "popularity": 29,
       "preview_url": "https://p.scdn.co/mp3-preview/a8fac67b90745109bc28ed06782c34d53168ab8c?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -14994,7 +15088,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -15216,6 +15310,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -15432,6 +15527,7 @@
       "href": "https://api.spotify.com/v1/tracks/5SzG3mZhauFYc16ZGpHIsi",
       "id": "5SzG3mZhauFYc16ZGpHIsi",
       "is_local": false,
+      "is_playable": true,
       "name": "Song For Ty",
       "popularity": 21,
       "preview_url": "https://p.scdn.co/mp3-preview/196675dcea8bae8d845adc9ee8853421013b95c7?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -15441,7 +15537,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -15663,6 +15759,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Decorating",
         "release_date": "2018-07-06",
         "release_date_precision": "day",
@@ -15879,6 +15976,7 @@
       "href": "https://api.spotify.com/v1/tracks/1ozwU1ggxXX11hDrVR93P1",
       "id": "1ozwU1ggxXX11hDrVR93P1",
       "is_local": false,
+      "is_playable": true,
       "name": "Feathers",
       "popularity": 19,
       "preview_url": "https://p.scdn.co/mp3-preview/1ba750297d9fdd5eb29f09c82138c98f3bba8e61?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -15888,7 +15986,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -15924,6 +16022,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -15954,6 +16053,7 @@
       "href": "https://api.spotify.com/v1/tracks/2roYKk0xtwJpooY5A3GxJR",
       "id": "2roYKk0xtwJpooY5A3GxJR",
       "is_local": false,
+      "is_playable": true,
       "name": "Song to Make You Fall in Love With Me",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/931df6d70f88e400193a13234c3de5cb32e8b5b1?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -15963,7 +16063,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -16185,6 +16285,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -16401,6 +16502,7 @@
       "href": "https://api.spotify.com/v1/tracks/7bwXB7Y0vxlccccuWD52VG",
       "id": "7bwXB7Y0vxlccccuWD52VG",
       "is_local": false,
+      "is_playable": true,
       "name": "My Life Alone",
       "popularity": 21,
       "preview_url": "https://p.scdn.co/mp3-preview/a00babbbbd58e4a61c7be1a03afa7ce837bbf82a?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -16410,7 +16512,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -16632,6 +16734,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -16848,6 +16951,7 @@
       "href": "https://api.spotify.com/v1/tracks/5V25JNAs17PQ3dJfmMIqSG",
       "id": "5V25JNAs17PQ3dJfmMIqSG",
       "is_local": false,
+      "is_playable": true,
       "name": "Wild Time",
       "popularity": 46,
       "preview_url": "https://p.scdn.co/mp3-preview/45c107c34fa68827efd83b190f707c2e98973c0d?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -16857,7 +16961,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -17076,6 +17180,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Front Row Seat to Earth",
         "release_date": "2016-10-21",
         "release_date_precision": "day",
@@ -17289,6 +17394,7 @@
       "href": "https://api.spotify.com/v1/tracks/0CuYdqb2SsZd9UxaZXMY68",
       "id": "0CuYdqb2SsZd9UxaZXMY68",
       "is_local": false,
+      "is_playable": true,
       "name": "Diary",
       "popularity": 26,
       "preview_url": "https://p.scdn.co/mp3-preview/a5a3ebdc00ddf5bf47cd82c8c0d7e4b3f7936270?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -17298,7 +17404,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -17520,6 +17626,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -17736,6 +17843,7 @@
       "href": "https://api.spotify.com/v1/tracks/3MJ2tFX9EcXLxMsDekgioA",
       "id": "3MJ2tFX9EcXLxMsDekgioA",
       "is_local": false,
+      "is_playable": true,
       "name": "Memory Loss",
       "popularity": 8,
       "preview_url": "https://p.scdn.co/mp3-preview/b04adebb5111500098e62875bf738be4f6dd3a1b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -17745,7 +17853,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -17967,6 +18075,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -18183,6 +18292,7 @@
       "href": "https://api.spotify.com/v1/tracks/4ioqqjlXUEPOljrNyOlLJy",
       "id": "4ioqqjlXUEPOljrNyOlLJy",
       "is_local": false,
+      "is_playable": true,
       "name": "Day & Night",
       "popularity": 23,
       "preview_url": "https://p.scdn.co/mp3-preview/aaa34eda9dc6a014cad8481bddcff821745e47e6?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -18192,7 +18302,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -18414,6 +18524,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -18630,6 +18741,7 @@
       "href": "https://api.spotify.com/v1/tracks/0BfcfdZd85CmmkE5pdbUdE",
       "id": "0BfcfdZd85CmmkE5pdbUdE",
       "is_local": false,
+      "is_playable": true,
       "name": "Sea of Nothing",
       "popularity": 31,
       "preview_url": "https://p.scdn.co/mp3-preview/c213533bf733e0768515523c6587d7924806da70?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -18639,7 +18751,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -18861,6 +18973,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -19077,6 +19190,7 @@
       "href": "https://api.spotify.com/v1/tracks/1ZtEfPy1aWHGz4IKDMVIpm",
       "id": "1ZtEfPy1aWHGz4IKDMVIpm",
       "is_local": false,
+      "is_playable": true,
       "name": "Theme For Alessandro",
       "popularity": 19,
       "preview_url": "https://p.scdn.co/mp3-preview/c5234a021d9eb985cde1cba4f5262bd7be6a6d55?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -19086,7 +19200,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -19308,6 +19422,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -19524,6 +19639,7 @@
       "href": "https://api.spotify.com/v1/tracks/5XLye2xYwqnq1aOFsbP1Ac",
       "id": "5XLye2xYwqnq1aOFsbP1Ac",
       "is_local": false,
+      "is_playable": true,
       "name": "It's Only Raining Right Where You're Standing",
       "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/5df27cf11574c3a4738bbb31930de88a9fa23d70?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -19533,7 +19649,7 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -19755,6 +19871,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Things Will Never Change",
         "release_date": "2022-08-05",
         "release_date_precision": "day",
@@ -19971,6 +20088,7 @@
       "href": "https://api.spotify.com/v1/tracks/6DSVCAcyBeEedtQGVnBimn",
       "id": "6DSVCAcyBeEedtQGVnBimn",
       "is_local": false,
+      "is_playable": true,
       "name": "Things Will Never Change",
       "popularity": 23,
       "preview_url": "https://p.scdn.co/mp3-preview/89890a28f0adeafacf1c9b36bde35bcca6d47f21?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -19980,7 +20098,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -20016,6 +20134,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -20046,6 +20165,7 @@
       "href": "https://api.spotify.com/v1/tracks/0S4INFPPP9Wyxjwag9lPqp",
       "id": "0S4INFPPP9Wyxjwag9lPqp",
       "is_local": false,
+      "is_playable": true,
       "name": "The Driving",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/8eeb40cbec5faf32bb21b1cc184c52f48fbd4a16?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -20055,7 +20175,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -20277,6 +20397,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -20493,6 +20614,7 @@
       "href": "https://api.spotify.com/v1/tracks/3pmRyRMzCIKx7gLCPcAyii",
       "id": "3pmRyRMzCIKx7gLCPcAyii",
       "is_local": false,
+      "is_playable": true,
       "name": "Friend Of Mine",
       "popularity": 24,
       "preview_url": "https://p.scdn.co/mp3-preview/432770978331f6a2f9e29089489a6160e3a485a9?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -20502,7 +20624,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -20724,6 +20846,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Fate",
         "release_date": "2008-05-02",
         "release_date_precision": "day",
@@ -20940,6 +21063,7 @@
       "href": "https://api.spotify.com/v1/tracks/3EN4LzHTjEDHt4s5n3Fix5",
       "id": "3EN4LzHTjEDHt4s5n3Fix5",
       "is_local": false,
+      "is_playable": true,
       "name": "The Breeze",
       "popularity": 47,
       "preview_url": "https://p.scdn.co/mp3-preview/bd90d494e2575c8664403657bc82dd761152ab6e?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -20949,7 +21073,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -21113,6 +21237,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -21271,6 +21396,7 @@
       "href": "https://api.spotify.com/v1/tracks/33YlbRTC8dZBex3CvhYR8G",
       "id": "33YlbRTC8dZBex3CvhYR8G",
       "is_local": false,
+      "is_playable": true,
       "name": "Copilot",
       "popularity": 25,
       "preview_url": "https://p.scdn.co/mp3-preview/2dff352075c5a99057f31d6d2f218bb1221c2719?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -21280,7 +21406,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -21444,6 +21570,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -21602,6 +21729,7 @@
       "href": "https://api.spotify.com/v1/tracks/6uamXLhBaOLWaDkaftKTzr",
       "id": "6uamXLhBaOLWaDkaftKTzr",
       "is_local": false,
+      "is_playable": true,
       "name": "Song to Make You Fall in Love With Me",
       "popularity": 30,
       "preview_url": "https://p.scdn.co/mp3-preview/931df6d70f88e400193a13234c3de5cb32e8b5b1?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -21611,7 +21739,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -21833,6 +21961,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -22049,6 +22178,7 @@
       "href": "https://api.spotify.com/v1/tracks/6f4itfvWzS59Qu7JWorhxn",
       "id": "6f4itfvWzS59Qu7JWorhxn",
       "is_local": false,
+      "is_playable": true,
       "name": "Movies",
       "popularity": 52,
       "preview_url": "https://p.scdn.co/mp3-preview/5901e1331547247d90519fd06e462ec61fc3a2cd?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -22058,7 +22188,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -22094,6 +22224,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -22124,6 +22255,7 @@
       "href": "https://api.spotify.com/v1/tracks/1TYWN8WPb2R2RCu8ghESEC",
       "id": "1TYWN8WPb2R2RCu8ghESEC",
       "is_local": false,
+      "is_playable": true,
       "name": "Sentientiment",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/605a683a7d732d33713037eaf86d48786d56a393?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -22133,7 +22265,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -22354,6 +22486,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -22569,6 +22702,7 @@
       "href": "https://api.spotify.com/v1/tracks/50QvF1sqBi8kOGtNHJoE6t",
       "id": "50QvF1sqBi8kOGtNHJoE6t",
       "is_local": false,
+      "is_playable": true,
       "name": "Dave’s Song",
       "popularity": 37,
       "preview_url": "https://p.scdn.co/mp3-preview/e3c1ee8eae94739e04e3cb55b5ab06c2f734b1ef?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -22578,7 +22712,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -22800,6 +22934,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Abandoned Mansion",
         "release_date": "2017-01-31",
         "release_date_precision": "day",
@@ -23016,6 +23151,7 @@
       "href": "https://api.spotify.com/v1/tracks/5KmIorcuJzIlzjgz1HR6fr",
       "id": "5KmIorcuJzIlzjgz1HR6fr",
       "is_local": false,
+      "is_playable": true,
       "name": "I Saw Her for the First Time",
       "popularity": 36,
       "preview_url": "https://p.scdn.co/mp3-preview/d1c6cc86890f3865b375b0d28ef2dc0271c97772?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -23025,7 +23161,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -23247,6 +23383,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -23463,6 +23600,7 @@
       "href": "https://api.spotify.com/v1/tracks/1ki6pB2iYh9nSmlG4WPdqf",
       "id": "1ki6pB2iYh9nSmlG4WPdqf",
       "is_local": false,
+      "is_playable": true,
       "name": "Titanic Rising",
       "popularity": 39,
       "preview_url": "https://p.scdn.co/mp3-preview/e1aa509f242f9e21765f8b80ccd05e096e1c91ab?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -23472,7 +23610,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -23694,6 +23832,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -23910,6 +24049,7 @@
       "href": "https://api.spotify.com/v1/tracks/266wqiF6TrfSkG2oPhouCB",
       "id": "266wqiF6TrfSkG2oPhouCB",
       "is_local": false,
+      "is_playable": true,
       "name": "Candy Cane Rainbow",
       "popularity": 8,
       "preview_url": "https://p.scdn.co/mp3-preview/bc9813c3a018973e25c02eee7877495e8b709395?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -23919,7 +24059,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -24140,6 +24280,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -24355,6 +24496,7 @@
       "href": "https://api.spotify.com/v1/tracks/4yj7fYPcqWXHLj4fAay2yA",
       "id": "4yj7fYPcqWXHLj4fAay2yA",
       "is_local": false,
+      "is_playable": true,
       "name": "The Falls",
       "popularity": 30,
       "preview_url": "https://p.scdn.co/mp3-preview/1d70c021669bc1aa82db015768354d6d0e5ae9a8?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -24364,7 +24506,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -24585,6 +24727,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -24800,6 +24943,7 @@
       "href": "https://api.spotify.com/v1/tracks/6GH5wjtkTqJsS7tC3TjaWq",
       "id": "6GH5wjtkTqJsS7tC3TjaWq",
       "is_local": false,
+      "is_playable": true,
       "name": "On My Own",
       "popularity": 39,
       "preview_url": "https://p.scdn.co/mp3-preview/6711c38b54e68653eee3615132599e8eeab92851?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -24809,7 +24953,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -25031,6 +25175,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -25257,6 +25402,7 @@
       "href": "https://api.spotify.com/v1/tracks/6cKytSAcbdqKPIPk9T7sIU",
       "id": "6cKytSAcbdqKPIPk9T7sIU",
       "is_local": false,
+      "is_playable": true,
       "name": "My Life",
       "popularity": 17,
       "preview_url": "https://p.scdn.co/mp3-preview/84e72e202d67ecc297318a12419c8e4e97103e53?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -25266,7 +25412,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -25488,6 +25634,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Forever Turned Around",
         "release_date": "2019-08-30",
         "release_date_precision": "day",
@@ -25704,6 +25851,7 @@
       "href": "https://api.spotify.com/v1/tracks/4NsJKGs8x7wllzRkuqKAok",
       "id": "4NsJKGs8x7wllzRkuqKAok",
       "is_local": false,
+      "is_playable": true,
       "name": "Forever Turned Around",
       "popularity": 30,
       "preview_url": "https://p.scdn.co/mp3-preview/7bc226eff8b4a89a839f36a96cf83201ff0b1515?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -25713,7 +25861,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -25935,6 +26083,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "All Shades of Teal",
         "release_date": "2018-10-26",
         "release_date_precision": "day",
@@ -26151,6 +26300,7 @@
       "href": "https://api.spotify.com/v1/tracks/5I7419zU7uwAC5tkLNeoOV",
       "id": "5I7419zU7uwAC5tkLNeoOV",
       "is_local": false,
+      "is_playable": true,
       "name": "Apple Cider",
       "popularity": 27,
       "preview_url": "https://p.scdn.co/mp3-preview/cddee7c5c08449ddc52512343101e6f87ecc6f3b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -26160,7 +26310,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -26382,6 +26532,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Figures",
         "release_date": "2019-09-13",
         "release_date_precision": "day",
@@ -26598,6 +26749,7 @@
       "href": "https://api.spotify.com/v1/tracks/48N0y9mgsRrczreQKhgxXz",
       "id": "48N0y9mgsRrczreQKhgxXz",
       "is_local": false,
+      "is_playable": true,
       "name": "Scene",
       "popularity": 10,
       "preview_url": "https://p.scdn.co/mp3-preview/cb8afbe49270c6dd58fdce91e8c88e0e5d9ff1c8?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -26607,7 +26759,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -26829,6 +26981,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -27045,6 +27198,7 @@
       "href": "https://api.spotify.com/v1/tracks/0JANuHeOtJa3fsadWiU0mS",
       "id": "0JANuHeOtJa3fsadWiU0mS",
       "is_local": false,
+      "is_playable": true,
       "name": "Somerville - Demo",
       "popularity": 6,
       "preview_url": "https://p.scdn.co/mp3-preview/162dd9ecba1933f845541f66a6f262458f3d2636?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -27054,7 +27208,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -27275,6 +27429,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -27490,6 +27645,7 @@
       "href": "https://api.spotify.com/v1/tracks/1uB2akBAGtDbw9rGM4rjWA",
       "id": "1uB2akBAGtDbw9rGM4rjWA",
       "is_local": false,
+      "is_playable": true,
       "name": "Light Upon the Lake",
       "popularity": 34,
       "preview_url": "https://p.scdn.co/mp3-preview/157c72ad63147be26c757f660da6649294570348?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -27499,7 +27655,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -27535,6 +27691,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -27565,6 +27722,7 @@
       "href": "https://api.spotify.com/v1/tracks/4jaMg1HgvoIqX9tNYJP3xR",
       "id": "4jaMg1HgvoIqX9tNYJP3xR",
       "is_local": false,
+      "is_playable": true,
       "name": "Guts to Fly",
       "popularity": 0,
       "preview_url": "https://p.scdn.co/mp3-preview/159c4534fa58353729e791b99a51e35a4c08fd4b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -27574,7 +27732,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -27796,6 +27954,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Stunning & Atrocious",
         "release_date": "2021-08-20",
         "release_date_precision": "day",
@@ -28012,6 +28171,7 @@
       "href": "https://api.spotify.com/v1/tracks/6ZOL0jgpDnQ4cp8FKSShZ6",
       "id": "6ZOL0jgpDnQ4cp8FKSShZ6",
       "is_local": false,
+      "is_playable": true,
       "name": "All My Money",
       "popularity": 13,
       "preview_url": "https://p.scdn.co/mp3-preview/984e914316196ac397b4d0c53c81d5ccfd62460c?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -28021,7 +28181,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -28242,6 +28402,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Light Upon the Lake",
         "release_date": "2016-06-03",
         "release_date_precision": "day",
@@ -28457,6 +28618,7 @@
       "href": "https://api.spotify.com/v1/tracks/7BC3jwxMgfKYpGOqTEUYyh",
       "id": "7BC3jwxMgfKYpGOqTEUYyh",
       "is_local": false,
+      "is_playable": true,
       "name": "No Matter Where We Go",
       "popularity": 35,
       "preview_url": "https://p.scdn.co/mp3-preview/cc597b012988e82fd6699351b7ed4783c0daaba1?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -28466,7 +28628,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -28688,6 +28850,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -28904,6 +29067,7 @@
       "href": "https://api.spotify.com/v1/tracks/6Jy6p1xGv0n4c5hH0CH3VP",
       "id": "6Jy6p1xGv0n4c5hH0CH3VP",
       "is_local": false,
+      "is_playable": true,
       "name": "Picture Me Better",
       "popularity": 50,
       "preview_url": "https://p.scdn.co/mp3-preview/fb885c588711743d40840eadc37a53f58fd90bf7?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -28913,7 +29077,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -29135,6 +29299,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "The End Of Comedy",
         "release_date": "2016-09-09",
         "release_date_precision": "day",
@@ -29351,6 +29516,7 @@
       "href": "https://api.spotify.com/v1/tracks/7E1UJfkzOcO2Tcag6mTi6d",
       "id": "7E1UJfkzOcO2Tcag6mTi6d",
       "is_local": false,
+      "is_playable": true,
       "name": "Comedy Outro",
       "popularity": 16,
       "preview_url": "https://p.scdn.co/mp3-preview/763315e7669129f92f53d3a19a009aa79b231789?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -29360,7 +29526,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -29582,6 +29748,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Titanic Rising",
         "release_date": "2019-04-05",
         "release_date_precision": "day",
@@ -29798,6 +29965,7 @@
       "href": "https://api.spotify.com/v1/tracks/2ujzo6cl7jAcLCnyKyYWwM",
       "id": "2ujzo6cl7jAcLCnyKyYWwM",
       "is_local": false,
+      "is_playable": true,
       "name": "Mirror Forever",
       "popularity": 40,
       "preview_url": "https://p.scdn.co/mp3-preview/247b99f3e32e99f9d7e0f828b679389633c24b29?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -29807,7 +29975,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -30029,6 +30197,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "You and Me and Everything",
         "release_date": "2021-04-30",
         "release_date_precision": "day",
@@ -30245,6 +30414,7 @@
       "href": "https://api.spotify.com/v1/tracks/5Xn7YNELSHUulgaumQZqyV",
       "id": "5Xn7YNELSHUulgaumQZqyV",
       "is_local": false,
+      "is_playable": true,
       "name": "I Might Be",
       "popularity": 46,
       "preview_url": "https://p.scdn.co/mp3-preview/b7626fe440dff308834730706fed344b3e3176c5?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -30254,7 +30424,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -30476,6 +30646,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Off (EP)",
         "release_date": "2016-09-05",
         "release_date_precision": "day",
@@ -30692,6 +30863,7 @@
       "href": "https://api.spotify.com/v1/tracks/62r1BayY2eEAZe2lzRqXMQ",
       "id": "62r1BayY2eEAZe2lzRqXMQ",
       "is_local": false,
+      "is_playable": true,
       "name": "Giuseppe",
       "popularity": 23,
       "preview_url": "https://p.scdn.co/mp3-preview/45c281c5f61d66376b4170154a605c5e79ee92fa?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -30701,7 +30873,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -30923,6 +31095,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -31139,6 +31312,7 @@
       "href": "https://api.spotify.com/v1/tracks/6YtsIzIpce6raqolVWi6mr",
       "id": "6YtsIzIpce6raqolVWi6mr",
       "is_local": false,
+      "is_playable": true,
       "name": "Of The Past",
       "popularity": 21,
       "preview_url": "https://p.scdn.co/mp3-preview/e5df8137d66d3ab96b9f5b1a2efeba8a66c1d0f1?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -31148,7 +31322,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -31312,6 +31486,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -31470,6 +31645,7 @@
       "href": "https://api.spotify.com/v1/tracks/3owARy4k0mWfcN24of76jA",
       "id": "3owARy4k0mWfcN24of76jA",
       "is_local": false,
+      "is_playable": true,
       "name": "Picture of You",
       "popularity": 10,
       "preview_url": "https://p.scdn.co/mp3-preview/eed9ec98904652019b107b0736dfefb3b8bc290b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -31479,7 +31655,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -31701,6 +31877,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Decorating",
         "release_date": "2018-07-06",
         "release_date_precision": "day",
@@ -31917,6 +32094,7 @@
       "href": "https://api.spotify.com/v1/tracks/1IDXizQPqymcVM8Y568ztz",
       "id": "1IDXizQPqymcVM8Y568ztz",
       "is_local": false,
+      "is_playable": true,
       "name": "Decorating",
       "popularity": 8,
       "preview_url": "https://p.scdn.co/mp3-preview/dcafbd0c931db2a3719b75e6f786c15df69c16dc?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -31926,7 +32104,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -32148,6 +32326,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Decorating",
         "release_date": "2018-07-06",
         "release_date_precision": "day",
@@ -32364,6 +32543,7 @@
       "href": "https://api.spotify.com/v1/tracks/2Kt8DrnYsXhcpn2WxQnUlY",
       "id": "2Kt8DrnYsXhcpn2WxQnUlY",
       "is_local": false,
+      "is_playable": true,
       "name": "The Basement",
       "popularity": 20,
       "preview_url": "https://p.scdn.co/mp3-preview/a58bec2205359f16c0bf5b6e0d87f06c5de91135?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -32373,7 +32553,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -32594,6 +32774,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Favorite Holiday, Vol. 1",
         "release_date": "2019-12-24",
         "release_date_precision": "day",
@@ -32809,6 +32990,7 @@
       "href": "https://api.spotify.com/v1/tracks/2zgpMaaXfVJqUJoMbjmfH2",
       "id": "2zgpMaaXfVJqUJoMbjmfH2",
       "is_local": false,
+      "is_playable": true,
       "name": "Fire Flower",
       "popularity": 42,
       "preview_url": "https://p.scdn.co/mp3-preview/e8cd13ad438e49fb4aa9a620e595625201527e12?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -32818,7 +33000,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -33040,6 +33222,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -33256,6 +33439,7 @@
       "href": "https://api.spotify.com/v1/tracks/0pe1ThgUZCbRnvcCfPz2AC",
       "id": "0pe1ThgUZCbRnvcCfPz2AC",
       "is_local": false,
+      "is_playable": true,
       "name": "Cockroach",
       "popularity": 2,
       "preview_url": "https://p.scdn.co/mp3-preview/a367453f79622dbaaf754d47b9c8ba5198c51a24?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -33265,7 +33449,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -33487,6 +33671,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -33703,6 +33888,7 @@
       "href": "https://api.spotify.com/v1/tracks/3ml5q30nkowPLizzVsJqGk",
       "id": "3ml5q30nkowPLizzVsJqGk",
       "is_local": false,
+      "is_playable": true,
       "name": "Two Voices",
       "popularity": 7,
       "preview_url": "https://p.scdn.co/mp3-preview/adf2271999c612d189b1c4f99936f9e2229abd81?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -33712,7 +33898,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -33876,6 +34062,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -34034,6 +34221,7 @@
       "href": "https://api.spotify.com/v1/tracks/3yeU9oVEJHeb3IHGyIxCgz",
       "id": "3yeU9oVEJHeb3IHGyIxCgz",
       "is_local": false,
+      "is_playable": true,
       "name": "No Reason",
       "popularity": 25,
       "preview_url": "https://p.scdn.co/mp3-preview/af597204f275fa2e041c39b335364a1a6270df72?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -34043,7 +34231,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -34265,6 +34453,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Jules",
         "release_date": "2019-10-11",
         "release_date_precision": "day",
@@ -34481,6 +34670,7 @@
       "href": "https://api.spotify.com/v1/tracks/4WrU5X70A0oAaYa42MrAKr",
       "id": "4WrU5X70A0oAaYa42MrAKr",
       "is_local": false,
+      "is_playable": true,
       "name": "Moving Parts",
       "popularity": 6,
       "preview_url": "https://p.scdn.co/mp3-preview/abc9b60cd08ff0483635d14f2ba399c8495371c4?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -34490,7 +34680,7 @@
     },
     {
       "album": {
-        "album_type": "EP",
+        "album_type": "single",
         "artists": [
           {
             "external_urls": {
@@ -34712,6 +34902,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "DEATH EP",
         "release_date": "2021-10-29",
         "release_date_precision": "day",
@@ -34928,6 +35119,7 @@
       "href": "https://api.spotify.com/v1/tracks/4n6Dp3JzC7Seq3XD5tWP6d",
       "id": "4n6Dp3JzC7Seq3XD5tWP6d",
       "is_local": false,
+      "is_playable": true,
       "name": "What Is Your Deal Man?",
       "popularity": 3,
       "preview_url": "https://p.scdn.co/mp3-preview/ea201716000bf5263857539a597dd72e02168eb2?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -34937,7 +35129,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -35159,6 +35351,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "He's About To Blow",
         "release_date": "2022-04-21",
         "release_date_precision": "day",
@@ -35375,6 +35568,7 @@
       "href": "https://api.spotify.com/v1/tracks/5Iu1Hv9IAR7XUxWk379XeT",
       "id": "5Iu1Hv9IAR7XUxWk379XeT",
       "is_local": false,
+      "is_playable": true,
       "name": "Vincent Violet (prologue)",
       "popularity": 2,
       "preview_url": "https://p.scdn.co/mp3-preview/73b9415157ae254e2df32aadf49c003d592674ca?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -35384,7 +35578,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -35548,6 +35742,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "Practice Magic and Seek Professional Help When Necessary",
         "release_date": "2019-05-10",
         "release_date_precision": "day",
@@ -35706,6 +35901,7 @@
       "href": "https://api.spotify.com/v1/tracks/5Ss4XzqJCrKyvGZLL8xX1n",
       "id": "5Ss4XzqJCrKyvGZLL8xX1n",
       "is_local": false,
+      "is_playable": true,
       "name": "Guts to Fly",
       "popularity": 7,
       "preview_url": "https://p.scdn.co/mp3-preview/159c4534fa58353729e791b99a51e35a4c08fd4b?cid=c73100e39ab6406dae4c4479ff75d174",
@@ -35715,7 +35911,7 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "album",
         "artists": [
           {
             "external_urls": {
@@ -35937,6 +36133,7 @@
             "width": 64
           }
         ],
+        "is_playable": true,
         "name": "B-Room (Deluxe Edition)",
         "release_date": "2013-10-01",
         "release_date_precision": "day",
@@ -36153,6 +36350,7 @@
       "href": "https://api.spotify.com/v1/tracks/1aRvUHgMe9ichgcHAAs12f",
       "id": "1aRvUHgMe9ichgcHAAs12f",
       "is_local": false,
+      "is_playable": true,
       "name": "Nellie",
       "popularity": 58,
       "preview_url": "https://p.scdn.co/mp3-preview/cde0ce7297fc7310d7383465e7c15f2e4d89d9f5?cid=c73100e39ab6406dae4c4479ff75d174",

@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 170,
+  "total_episodes": 171,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4b9Ab2FEN99xOV8jzNayaG/clip_578544_638544.mp3",
+      "description": "Cured ComplicanceArticlesCured Compliance on nbn Australiadjango-two-factor-authSponsorsThe Stack Report - Carlton's Monthly Premium NewsletterLearnDjango.com - Free Tutorials and Premium Courses",
+      "duration_ms": 3030177,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3b7GlczFpIdNO5VGOvOTwW"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3b7GlczFpIdNO5VGOvOTwW",
+      "html_description": "<ul><li><a href=\"https://curedcompliance.com/\" rel=\"nofollow\">Cured Complicance</a></li><li><a href=\"https://www.dailytelegraph.com.au/news/nbn-technology-used-to-power-new-compliance-tool-for-butchers/news-story/eabc3b7ff51f27f96ab9bf99970990e7\" rel=\"nofollow\">Articles</a></li><li><a href=\"https://youtu.be/G95rr9pQu4M?si&#61;u-ExDjxyISN-uXVQ\" rel=\"nofollow\">Cured Compliance on nbn Australia</a></li><li><a href=\"https://github.com/jazzband/django-two-factor-auth\" rel=\"nofollow\">django-two-factor-auth</a></li></ul><h4>Sponsors</h4><ul><li><a href=\"https://buttondown.com/carlton\" rel=\"nofollow\">The Stack Report - Carlton&#39;s Monthly Premium Newsletter</a></li><li><a href=\"https://learndjango.com\" rel=\"nofollow\">LearnDjango.com - Free Tutorials and Premium Courses</a></li></ul>",
+      "id": "3b7GlczFpIdNO5VGOvOTwW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django for the Meat Industry - Bryton Wishart",
+      "release_date": "2024-11-13",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:3b7GlczFpIdNO5VGOvOTwW"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1NBQH4LjNq80foCblYuyTR/clip_1627400_1670700.mp3",
       "description": "Mariatta’s personal site  Mariatta on GitHub, Fosstodon, Instagram, and LinkedIn  GitHub stories  Hidden Figures of Python podcast  CMDLines  Python discussion forumSponsorThe Stack Report - Carlton's Monthly Premium Newsletter",
@@ -1816,7 +1855,7 @@
       "name": "Django LMS - Sheena O'Connell",
       "release_date": "2022-12-21",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 7000 },
       "type": "episode",
       "uri": "spotify:episode:5sLq68QJx43zb1Vd3okKhl"
     },
@@ -1855,7 +1894,7 @@
       "name": "Postgres - Craig Kerstiens",
       "release_date": "2022-12-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 2319000 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6giiMBzLYAE2YQeDxkICyL"
     },
@@ -1894,7 +1933,7 @@
       "name": "Butter CMS - Jake Lumetta",
       "release_date": "2022-11-23",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 449000 },
       "type": "episode",
       "uri": "spotify:episode:1tnfocfd1ry2Ua4ES4Yyae"
     },
