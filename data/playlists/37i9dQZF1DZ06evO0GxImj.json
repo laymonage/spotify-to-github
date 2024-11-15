@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 9979 },
+  "followers": { "href": null, "total": 9982 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZzKagAAAAAB03GCCA7yf212DLrX0iZ7/",
+  "snapshot_id": "ZzPsAAAAAACwM3XUz2DosBORx+lbRC4F",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -11717,96 +11717,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
-          "id": "1ceJwYjHkIJ82pnsjPZVjU",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
-              "width": 64
-            }
-          ],
-          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
-          "release_date": "2018-08-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 2,
-        "track_number": 2,
-        "duration_ms": 260480,
-        "external_ids": { "isrc": "JPPC09225235" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
-        "id": "0kbx77PVV3YYWHGjMDtmNl",
-        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
-        "popularity": 14,
-        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/3b666147111df28be4105ae7a2668641407c6c7d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -12251,6 +12161,96 @@
         "name": "Nantettano",
         "popularity": 22,
         "uri": "spotify:track:66MJbtZKkYxCURbYXqQtx4",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
+          "id": "1ceJwYjHkIJ82pnsjPZVjU",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
+              "width": 64
+            }
+          ],
+          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
+          "release_date": "2018-08-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 2,
+        "track_number": 2,
+        "duration_ms": 260480,
+        "external_ids": { "isrc": "JPPC09225235" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
+        "id": "0kbx77PVV3YYWHGjMDtmNl",
+        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
+        "popularity": 14,
+        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -12997,7 +12997,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/70682a9497c7128c76daecfa9561b9122f51002b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/82a0b278e909f0cc63d9721482190e0474697a07?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -13078,7 +13078,6 @@
           "JO",
           "PS",
           "IN",
-          "BY",
           "KZ",
           "MD",
           "UA",
@@ -13269,7 +13268,6 @@
             "JO",
             "PS",
             "IN",
-            "BY",
             "KZ",
             "MD",
             "UA",
@@ -13376,30 +13374,30 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1Lii01xZUhjyCQa7BVsvpq",
-          "id": "1Lii01xZUhjyCQa7BVsvpq",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/0F1zBh1GbXJYKzopaf9vLb",
+          "id": "0F1zBh1GbXJYKzopaf9vLb",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ea1eac675d35d1a9c064ee1",
+              "url": "https://i.scdn.co/image/ab67616d0000b2731cf9f1147750255a1e7e6693",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026ea1eac675d35d1a9c064ee1",
+              "url": "https://i.scdn.co/image/ab67616d00001e021cf9f1147750255a1e7e6693",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516ea1eac675d35d1a9c064ee1",
+              "url": "https://i.scdn.co/image/ab67616d000048511cf9f1147750255a1e7e6693",
               "width": 64
             }
           ],
-          "name": "SEASON",
-          "release_date": "1996-09-26",
+          "name": "宇宙 ベスト・オブ・フィッシュマンズ",
+          "release_date": "2005-04-21",
           "release_date_precision": "day",
-          "uri": "spotify:album:1Lii01xZUhjyCQa7BVsvpq",
+          "uri": "spotify:album:0F1zBh1GbXJYKzopaf9vLb",
           "artists": [
             {
               "external_urls": {
@@ -13413,9 +13411,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1Lii01xZUhjyCQa7BVsvpq"
+            "spotify": "https://open.spotify.com/album/0F1zBh1GbXJYKzopaf9vLb"
           },
-          "total_tracks": 2
+          "total_tracks": 14
         },
         "artists": [
           {
@@ -13430,17 +13428,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 341400,
-        "external_ids": { "isrc": "JPPO09606200" },
+        "track_number": 5,
+        "duration_ms": 234053,
+        "external_ids": { "isrc": "JPPC09334197" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/16lvE72mk9RrxIfgKSysGc"
+          "spotify": "https://open.spotify.com/track/1fEbs2StyAwO5CzLP2Xbus"
         },
-        "href": "https://api.spotify.com/v1/tracks/16lvE72mk9RrxIfgKSysGc",
-        "id": "16lvE72mk9RrxIfgKSysGc",
-        "name": "SEASON",
-        "popularity": 19,
-        "uri": "spotify:track:16lvE72mk9RrxIfgKSysGc",
+        "href": "https://api.spotify.com/v1/tracks/1fEbs2StyAwO5CzLP2Xbus",
+        "id": "1fEbs2StyAwO5CzLP2Xbus",
+        "name": "Just Thing",
+        "popularity": 14,
+        "uri": "spotify:track:1fEbs2StyAwO5CzLP2Xbus",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -14377,7 +14375,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/82a0b278e909f0cc63d9721482190e0474697a07?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/70682a9497c7128c76daecfa9561b9122f51002b?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -14458,6 +14456,7 @@
           "JO",
           "PS",
           "IN",
+          "BY",
           "KZ",
           "MD",
           "UA",
@@ -14648,6 +14647,7 @@
             "JO",
             "PS",
             "IN",
+            "BY",
             "KZ",
             "MD",
             "UA",
@@ -14754,30 +14754,30 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/0F1zBh1GbXJYKzopaf9vLb",
-          "id": "0F1zBh1GbXJYKzopaf9vLb",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1Lii01xZUhjyCQa7BVsvpq",
+          "id": "1Lii01xZUhjyCQa7BVsvpq",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731cf9f1147750255a1e7e6693",
+              "url": "https://i.scdn.co/image/ab67616d0000b2736ea1eac675d35d1a9c064ee1",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021cf9f1147750255a1e7e6693",
+              "url": "https://i.scdn.co/image/ab67616d00001e026ea1eac675d35d1a9c064ee1",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511cf9f1147750255a1e7e6693",
+              "url": "https://i.scdn.co/image/ab67616d000048516ea1eac675d35d1a9c064ee1",
               "width": 64
             }
           ],
-          "name": "宇宙 ベスト・オブ・フィッシュマンズ",
-          "release_date": "2005-04-21",
+          "name": "SEASON",
+          "release_date": "1996-09-26",
           "release_date_precision": "day",
-          "uri": "spotify:album:0F1zBh1GbXJYKzopaf9vLb",
+          "uri": "spotify:album:1Lii01xZUhjyCQa7BVsvpq",
           "artists": [
             {
               "external_urls": {
@@ -14791,9 +14791,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/0F1zBh1GbXJYKzopaf9vLb"
+            "spotify": "https://open.spotify.com/album/1Lii01xZUhjyCQa7BVsvpq"
           },
-          "total_tracks": 14
+          "total_tracks": 2
         },
         "artists": [
           {
@@ -14808,17 +14808,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 234053,
-        "external_ids": { "isrc": "JPPC09334197" },
+        "track_number": 1,
+        "duration_ms": 341400,
+        "external_ids": { "isrc": "JPPO09606200" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1fEbs2StyAwO5CzLP2Xbus"
+          "spotify": "https://open.spotify.com/track/16lvE72mk9RrxIfgKSysGc"
         },
-        "href": "https://api.spotify.com/v1/tracks/1fEbs2StyAwO5CzLP2Xbus",
-        "id": "1fEbs2StyAwO5CzLP2Xbus",
-        "name": "Just Thing",
-        "popularity": 14,
-        "uri": "spotify:track:1fEbs2StyAwO5CzLP2Xbus",
+        "href": "https://api.spotify.com/v1/tracks/16lvE72mk9RrxIfgKSysGc",
+        "id": "16lvE72mk9RrxIfgKSysGc",
+        "name": "SEASON",
+        "popularity": 19,
+        "uri": "spotify:track:16lvE72mk9RrxIfgKSysGc",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
