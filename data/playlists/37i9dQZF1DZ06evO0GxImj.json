@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 9982 },
+  "followers": { "href": null, "total": 9987 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZzPsAAAAAACwM3XUz2DosBORx+lbRC4F",
+  "snapshot_id": "ZzU9gAAAAAAtxJ1wmuzgcpyYonKoO2fy",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -12177,7 +12177,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/be028fe73367b4db3cc75803a16a7f78239f682f?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["JP"],
         "explicit": false,
         "type": "track",
@@ -12186,30 +12186,30 @@
         "album": {
           "available_markets": ["JP"],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
-          "id": "1ceJwYjHkIJ82pnsjPZVjU",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/5v4sFlR2KRXUDgmaQK2ou2",
+          "id": "5v4sFlR2KRXUDgmaQK2ou2",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
+              "url": "https://i.scdn.co/image/ab67616d0000b273d50a190fd09a7ba2d30785fb",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
+              "url": "https://i.scdn.co/image/ab67616d00001e02d50a190fd09a7ba2d30785fb",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
+              "url": "https://i.scdn.co/image/ab67616d00004851d50a190fd09a7ba2d30785fb",
               "width": 64
             }
           ],
-          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
-          "release_date": "2018-08-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
+          "name": "Corduroy's Mood",
+          "release_date": "1998",
+          "release_date_precision": "year",
+          "uri": "spotify:album:5v4sFlR2KRXUDgmaQK2ou2",
           "artists": [
             {
               "external_urls": {
@@ -12223,9 +12223,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
+            "spotify": "https://open.spotify.com/album/5v4sFlR2KRXUDgmaQK2ou2"
           },
-          "total_tracks": 13
+          "total_tracks": 4
         },
         "artists": [
           {
@@ -12239,18 +12239,18 @@
             "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
           }
         ],
-        "disc_number": 2,
-        "track_number": 2,
-        "duration_ms": 260480,
-        "external_ids": { "isrc": "JPPC09225235" },
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 167133,
+        "external_ids": { "isrc": "JPPC09225152" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
+          "spotify": "https://open.spotify.com/track/7BS6mpT2BV3GSWRGlPFy17"
         },
-        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
-        "id": "0kbx77PVV3YYWHGjMDtmNl",
-        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
-        "popularity": 14,
-        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
+        "href": "https://api.spotify.com/v1/tracks/7BS6mpT2BV3GSWRGlPFy17",
+        "id": "7BS6mpT2BV3GSWRGlPFy17",
+        "name": "ごきげんはいかがですか",
+        "popularity": 13,
+        "uri": "spotify:track:7BS6mpT2BV3GSWRGlPFy17",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -12817,97 +12817,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/be028fe73367b4db3cc75803a16a7f78239f682f?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/5v4sFlR2KRXUDgmaQK2ou2",
-          "id": "5v4sFlR2KRXUDgmaQK2ou2",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d50a190fd09a7ba2d30785fb",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d50a190fd09a7ba2d30785fb",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d50a190fd09a7ba2d30785fb",
-              "width": 64
-            }
-          ],
-          "name": "Corduroy's Mood",
-          "release_date": "1998",
-          "release_date_precision": "year",
-          "uri": "spotify:album:5v4sFlR2KRXUDgmaQK2ou2",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5v4sFlR2KRXUDgmaQK2ou2"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 167133,
-        "external_ids": { "isrc": "JPPC09225152" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7BS6mpT2BV3GSWRGlPFy17"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7BS6mpT2BV3GSWRGlPFy17",
-        "id": "7BS6mpT2BV3GSWRGlPFy17",
-        "name": "ごきげんはいかがですか",
-        "popularity": 13,
-        "uri": "spotify:track:7BS6mpT2BV3GSWRGlPFy17",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d6a4e0a85b29fe6ce04a7b4f4f70f02ee489284c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["JP"],
         "explicit": false,
         "type": "track",
@@ -12917,29 +12827,29 @@
           "available_markets": ["JP"],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4r5Ms2hc7WUFdlapwOx9fB",
-          "id": "4r5Ms2hc7WUFdlapwOx9fB",
+          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
+          "id": "1ceJwYjHkIJ82pnsjPZVjU",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a6c8b34e1ac7712e64814377",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a6c8b34e1ac7712e64814377",
+              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a6c8b34e1ac7712e64814377",
+              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
               "width": 64
             }
           ],
-          "name": "KING MASTER GEORGE",
-          "release_date": "1992",
-          "release_date_precision": "year",
-          "uri": "spotify:album:4r5Ms2hc7WUFdlapwOx9fB",
+          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
+          "release_date": "2018-08-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
           "artists": [
             {
               "external_urls": {
@@ -12953,9 +12863,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4r5Ms2hc7WUFdlapwOx9fB"
+            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
           },
-          "total_tracks": 16
+          "total_tracks": 13
         },
         "artists": [
           {
@@ -12969,18 +12879,18 @@
             "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
           }
         ],
-        "disc_number": 1,
-        "track_number": 10,
-        "duration_ms": 276906,
-        "external_ids": { "isrc": "JPPC09225204" },
+        "disc_number": 2,
+        "track_number": 2,
+        "duration_ms": 260480,
+        "external_ids": { "isrc": "JPPC09225235" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4cGZezDK1WxYbU7rypgr09"
+          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
         },
-        "href": "https://api.spotify.com/v1/tracks/4cGZezDK1WxYbU7rypgr09",
-        "id": "4cGZezDK1WxYbU7rypgr09",
-        "name": "頼りない天使",
-        "popularity": 17,
-        "uri": "spotify:track:4cGZezDK1WxYbU7rypgr09",
+        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
+        "id": "0kbx77PVV3YYWHGjMDtmNl",
+        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
+        "popularity": 14,
+        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -13437,8 +13347,98 @@
         "href": "https://api.spotify.com/v1/tracks/1fEbs2StyAwO5CzLP2Xbus",
         "id": "1fEbs2StyAwO5CzLP2Xbus",
         "name": "Just Thing",
-        "popularity": 14,
+        "popularity": 15,
         "uri": "spotify:track:1fEbs2StyAwO5CzLP2Xbus",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/d6a4e0a85b29fe6ce04a7b4f4f70f02ee489284c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/4r5Ms2hc7WUFdlapwOx9fB",
+          "id": "4r5Ms2hc7WUFdlapwOx9fB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a6c8b34e1ac7712e64814377",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a6c8b34e1ac7712e64814377",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a6c8b34e1ac7712e64814377",
+              "width": 64
+            }
+          ],
+          "name": "KING MASTER GEORGE",
+          "release_date": "1992",
+          "release_date_precision": "year",
+          "uri": "spotify:album:4r5Ms2hc7WUFdlapwOx9fB",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4r5Ms2hc7WUFdlapwOx9fB"
+          },
+          "total_tracks": 16
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 10,
+        "duration_ms": 276906,
+        "external_ids": { "isrc": "JPPC09225204" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cGZezDK1WxYbU7rypgr09"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4cGZezDK1WxYbU7rypgr09",
+        "id": "4cGZezDK1WxYbU7rypgr09",
+        "name": "頼りない天使",
+        "popularity": 17,
+        "uri": "spotify:track:4cGZezDK1WxYbU7rypgr09",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
