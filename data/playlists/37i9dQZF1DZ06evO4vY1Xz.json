@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 33224 },
+  "followers": { "href": null, "total": 33229 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "ZzqDgAAAAACmch+5Z2vCXFXcU6IOf9Rf",
+  "snapshot_id": "ZzvVAAAAAABEdQMjB5UV2k9gYazSWnF3",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -2511,7 +2511,7 @@
         "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
         "id": "0OcfxEcuVKzc9CpaPklhS7",
         "name": "Monday",
-        "popularity": 36,
+        "popularity": 37,
         "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7",
         "is_local": false
       },
@@ -5793,96 +5793,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
-          "id": "49RdQIyAf7vp1aBGiq13fM",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
-              "width": 64
-            }
-          ],
-          "name": "Like A Versions",
-          "release_date": "2023-08-25",
-          "release_date_precision": "day",
-          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 285446,
-        "external_ids": { "isrc": "AU2DY2300502" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/29A690qW67wNGUBTGu9kTy"
-        },
-        "href": "https://api.spotify.com/v1/tracks/29A690qW67wNGUBTGu9kTy",
-        "id": "29A690qW67wNGUBTGu9kTy",
-        "name": "Chains - triple j Like A Version",
-        "popularity": 30,
-        "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -5957,6 +5867,96 @@
         "name": "Souls A'Fire",
         "popularity": 31,
         "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/49RdQIyAf7vp1aBGiq13fM",
+          "id": "49RdQIyAf7vp1aBGiq13fM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27311e283b2e6610e04d9ca0ff2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0211e283b2e6610e04d9ca0ff2",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485111e283b2e6610e04d9ca0ff2",
+              "width": 64
+            }
+          ],
+          "name": "Like A Versions",
+          "release_date": "2023-08-25",
+          "release_date_precision": "day",
+          "uri": "spotify:album:49RdQIyAf7vp1aBGiq13fM",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/49RdQIyAf7vp1aBGiq13fM"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 285446,
+        "external_ids": { "isrc": "AU2DY2300502" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29A690qW67wNGUBTGu9kTy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29A690qW67wNGUBTGu9kTy",
+        "id": "29A690qW67wNGUBTGu9kTy",
+        "name": "Chains - triple j Like A Version",
+        "popularity": 30,
+        "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7031,7 +7031,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FO620NLce2koHOhsHheJ6",
         "id": "3FO620NLce2koHOhsHheJ6",
         "name": "Untitled",
-        "popularity": 29,
+        "popularity": 30,
         "uri": "spotify:track:3FO620NLce2koHOhsHheJ6",
         "is_local": false
       },
@@ -8051,7 +8051,7 @@
         "href": "https://api.spotify.com/v1/tracks/2SypLi8dKk14pT8L3d2hH1",
         "id": "2SypLi8dKk14pT8L3d2hH1",
         "name": "Missing You (feat. Matt Corby) - Live",
-        "popularity": 25,
+        "popularity": 26,
         "uri": "spotify:track:2SypLi8dKk14pT8L3d2hH1",
         "is_local": false
       },
