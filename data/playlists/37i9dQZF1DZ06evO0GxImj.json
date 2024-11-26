@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 10004 },
+  "followers": { "href": null, "total": 10007 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "Z0EbAAAAAADfHOYX0cqCZ1Bl3BZe4/LO",
+  "snapshot_id": "Z0JsgAAAAACNqQOywvEXtM9hC6LO+6+t",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -10707,96 +10707,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7be845e008292125d8e4cffee749f0838bd0a26?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6ax8P9umfqRFPqrwvqwSDo",
-          "id": "6ax8P9umfqRFPqrwvqwSDo",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c89c11657fd71bad93b97493",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c89c11657fd71bad93b97493",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c89c11657fd71bad93b97493",
-              "width": 64
-            }
-          ],
-          "name": "空中 ベスト・オブ・フィッシュマンズ",
-          "release_date": "2024-08-28",
-          "release_date_precision": "day",
-          "uri": "spotify:album:6ax8P9umfqRFPqrwvqwSDo",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6ax8P9umfqRFPqrwvqwSDo"
-          },
-          "total_tracks": 14
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 337920,
-        "external_ids": { "isrc": "JPPC09225193" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/29zz44ID8UTYEc5vvGu6nS"
-        },
-        "href": "https://api.spotify.com/v1/tracks/29zz44ID8UTYEc5vvGu6nS",
-        "id": "29zz44ID8UTYEc5vvGu6nS",
-        "name": "チャンス",
-        "popularity": 18,
-        "uri": "spotify:track:29zz44ID8UTYEc5vvGu6nS",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/7e838fdd419d44dec0334d4a844e7f7251302cfd?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -11241,6 +11151,96 @@
         "name": "Running Man",
         "popularity": 20,
         "uri": "spotify:track:68S0mELPD51ptet6BtNpAF",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f7be845e008292125d8e4cffee749f0838bd0a26?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/6ax8P9umfqRFPqrwvqwSDo",
+          "id": "6ax8P9umfqRFPqrwvqwSDo",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c89c11657fd71bad93b97493",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02c89c11657fd71bad93b97493",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851c89c11657fd71bad93b97493",
+              "width": 64
+            }
+          ],
+          "name": "空中 ベスト・オブ・フィッシュマンズ",
+          "release_date": "2024-08-28",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6ax8P9umfqRFPqrwvqwSDo",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6ax8P9umfqRFPqrwvqwSDo"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 337920,
+        "external_ids": { "isrc": "JPPC09225193" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/29zz44ID8UTYEc5vvGu6nS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/29zz44ID8UTYEc5vvGu6nS",
+        "id": "29zz44ID8UTYEc5vvGu6nS",
+        "name": "チャンス",
+        "popularity": 18,
+        "uri": "spotify:track:29zz44ID8UTYEc5vvGu6nS",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -12175,96 +12175,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["JP"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["JP"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
-          "id": "1ceJwYjHkIJ82pnsjPZVjU",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
-              "width": 64
-            }
-          ],
-          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
-          "release_date": "2018-08-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-              },
-              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-              "id": "1g8HCTiMwBtFtpRR9JXAZR",
-              "name": "Fishmans",
-              "type": "artist",
-              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
-          },
-          "total_tracks": 13
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
-            },
-            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
-            "id": "1g8HCTiMwBtFtpRR9JXAZR",
-            "name": "Fishmans",
-            "type": "artist",
-            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
-          }
-        ],
-        "disc_number": 2,
-        "track_number": 2,
-        "duration_ms": 260480,
-        "external_ids": { "isrc": "JPPC09225235" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
-        },
-        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
-        "id": "0kbx77PVV3YYWHGjMDtmNl",
-        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
-        "popularity": 15,
-        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/74dd07b6e0b868a1bf2559b911acf9cc29f3109f?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["JP"],
         "explicit": false,
@@ -12339,6 +12249,96 @@
         "name": "エブリディ・エブリナイト",
         "popularity": 15,
         "uri": "spotify:track:29SbBIeh1JtpN3eZmCjYvz",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/f7d53543b0deb7eee62126934abda5dcd4e548bb?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["JP"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["JP"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/1ceJwYjHkIJ82pnsjPZVjU",
+          "id": "1ceJwYjHkIJ82pnsjPZVjU",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730b81e5b6ec6dc968f00738e5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e020b81e5b6ec6dc968f00738e5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048510b81e5b6ec6dc968f00738e5",
+              "width": 64
+            }
+          ],
+          "name": "BLUE SUMMER~Selected Tracks 1991-1995~",
+          "release_date": "2018-08-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1ceJwYjHkIJ82pnsjPZVjU",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+              },
+              "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+              "id": "1g8HCTiMwBtFtpRR9JXAZR",
+              "name": "Fishmans",
+              "type": "artist",
+              "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1ceJwYjHkIJ82pnsjPZVjU"
+          },
+          "total_tracks": 13
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+            },
+            "href": "https://api.spotify.com/v1/artists/1g8HCTiMwBtFtpRR9JXAZR",
+            "id": "1g8HCTiMwBtFtpRR9JXAZR",
+            "name": "Fishmans",
+            "type": "artist",
+            "uri": "spotify:artist:1g8HCTiMwBtFtpRR9JXAZR"
+          }
+        ],
+        "disc_number": 2,
+        "track_number": 2,
+        "duration_ms": 260480,
+        "external_ids": { "isrc": "JPPC09225235" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0kbx77PVV3YYWHGjMDtmNl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kbx77PVV3YYWHGjMDtmNl",
+        "id": "0kbx77PVV3YYWHGjMDtmNl",
+        "name": "あの娘が眠ってる[from \"Corduroy's Mood\"] - Remastered",
+        "popularity": 15,
+        "uri": "spotify:track:0kbx77PVV3YYWHGjMDtmNl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -17207,7 +17207,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Norqj1CGcVxpWPZzWwiQL",
         "id": "4Norqj1CGcVxpWPZzWwiQL",
         "name": "Woofer Girl",
-        "popularity": 20,
+        "popularity": 19,
         "uri": "spotify:track:4Norqj1CGcVxpWPZzWwiQL",
         "is_local": false
       },

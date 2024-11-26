@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 33238 },
+  "followers": { "href": null, "total": 33241 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "Z0EbAAAAAACW7acBjyIGiS1EKcW7ulKU",
+  "snapshot_id": "Z0JsgAAAAAA7wrdKmuGrZDMIeda3gw7N",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -3609,7 +3609,7 @@
         "href": "https://api.spotify.com/v1/tracks/59urXGUpl1LIsSx4hyYDNO",
         "id": "59urXGUpl1LIsSx4hyYDNO",
         "name": "Same Page",
-        "popularity": 34,
+        "popularity": 33,
         "uri": "spotify:track:59urXGUpl1LIsSx4hyYDNO",
         "is_local": false
       },
@@ -4175,96 +4175,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a18b73a50a91355013f2a9f0d4a2ea2dab035ef9?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/6peqfIgoeUQdMxvXBnTUWR",
-          "id": "6peqfIgoeUQdMxvXBnTUWR",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a62bc4ddb17557a00e3ed5fc",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02a62bc4ddb17557a00e3ed5fc",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851a62bc4ddb17557a00e3ed5fc",
-              "width": 64
-            }
-          ],
-          "name": "Desert Land",
-          "release_date": "2023-10-19",
-          "release_date_precision": "day",
-          "uri": "spotify:album:6peqfIgoeUQdMxvXBnTUWR",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/6peqfIgoeUQdMxvXBnTUWR"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 175781,
-        "external_ids": { "isrc": "GB6TW2300343" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/1tAO0e9w5XXsNHmyxQ2Q9o"
-        },
-        "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
-        "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
-        "name": "Desert Land",
-        "popularity": 30,
-        "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": null,
         "available_markets": [
           "AR",
@@ -4637,6 +4547,96 @@
         "name": "Made of Stone",
         "popularity": 35,
         "uri": "spotify:track:75kHuG6iFGA7lOMKPiojr0",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/a18b73a50a91355013f2a9f0d4a2ea2dab035ef9?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/6peqfIgoeUQdMxvXBnTUWR",
+          "id": "6peqfIgoeUQdMxvXBnTUWR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a62bc4ddb17557a00e3ed5fc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02a62bc4ddb17557a00e3ed5fc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851a62bc4ddb17557a00e3ed5fc",
+              "width": 64
+            }
+          ],
+          "name": "Desert Land",
+          "release_date": "2023-10-19",
+          "release_date_precision": "day",
+          "uri": "spotify:album:6peqfIgoeUQdMxvXBnTUWR",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6peqfIgoeUQdMxvXBnTUWR"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 175781,
+        "external_ids": { "isrc": "GB6TW2300343" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1tAO0e9w5XXsNHmyxQ2Q9o"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1tAO0e9w5XXsNHmyxQ2Q9o",
+        "id": "1tAO0e9w5XXsNHmyxQ2Q9o",
+        "name": "Desert Land",
+        "popularity": 30,
+        "uri": "spotify:track:1tAO0e9w5XXsNHmyxQ2Q9o",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
