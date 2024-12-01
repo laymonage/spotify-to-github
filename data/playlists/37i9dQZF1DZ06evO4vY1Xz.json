@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 33248 },
+  "followers": { "href": null, "total": 33249 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "Z0ZhAAAAAAA5+lj3BV6JSl1PDRtGZE+1",
+  "snapshot_id": "Z0kEAAAAAADqUx1R2FyPWLHvKXFQNL42",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -2511,7 +2511,7 @@
         "href": "https://api.spotify.com/v1/tracks/0OcfxEcuVKzc9CpaPklhS7",
         "id": "0OcfxEcuVKzc9CpaPklhS7",
         "name": "Monday",
-        "popularity": 37,
+        "popularity": 36,
         "uri": "spotify:track:0OcfxEcuVKzc9CpaPklhS7",
         "is_local": false
       },
@@ -4653,96 +4653,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
-          "id": "5jNjG588J6t474RR1Ch8NC",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
-              "width": 64
-            }
-          ],
-          "name": "Telluric",
-          "release_date": "2016-03-11",
-          "release_date_precision": "day",
-          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
-          },
-          "total_tracks": 11
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 3,
-        "duration_ms": 223706,
-        "external_ids": { "isrc": "AUUM71501793" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
-        },
-        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
-        "id": "5iEY4CC4feFZdYzVYVhIFl",
-        "name": "Knife Edge",
-        "popularity": 30,
-        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/4e5bc961d5cd603041988a314e6d067677d2317e?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -4817,6 +4727,96 @@
         "name": "No Scrubs - triple j Like A Version",
         "popularity": 29,
         "uri": "spotify:track:0eIXTxq5ScMa98AQq3zwyV",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/b462c2a0e8109a07f8c7acda35fcb559a41df446?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5jNjG588J6t474RR1Ch8NC",
+          "id": "5jNjG588J6t474RR1Ch8NC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27320dc2346c5cfe86dff133eb4",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0220dc2346c5cfe86dff133eb4",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485120dc2346c5cfe86dff133eb4",
+              "width": 64
+            }
+          ],
+          "name": "Telluric",
+          "release_date": "2016-03-11",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5jNjG588J6t474RR1Ch8NC",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC"
+          },
+          "total_tracks": 11
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 223706,
+        "external_ids": { "isrc": "AUUM71501793" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5iEY4CC4feFZdYzVYVhIFl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5iEY4CC4feFZdYzVYVhIFl",
+        "id": "5iEY4CC4feFZdYzVYVhIFl",
+        "name": "Knife Edge",
+        "popularity": 30,
+        "uri": "spotify:track:5iEY4CC4feFZdYzVYVhIFl",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -5793,96 +5793,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
-          "id": "51ET6cqHUpWJRtIHdJI20H",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
-              "width": 64
-            }
-          ],
-          "name": "Into The Flame",
-          "release_date": "2011-01-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 256773,
-        "external_ids": { "isrc": "AUUM71101249" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
-        },
-        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
-        "id": "7nJn5fGLc6ViWm18HcNiln",
-        "name": "Souls A'Fire",
-        "popularity": 31,
-        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/d9d31e9cb437dceb1e8eeb26db20f876a68a9131?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": ["AU", "NZ"],
         "explicit": false,
@@ -5957,6 +5867,96 @@
         "name": "Chains - triple j Like A Version",
         "popularity": 30,
         "uri": "spotify:track:29A690qW67wNGUBTGu9kTy",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/95a255bf7f57720e2a65d341e6768bd58326cf73?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/51ET6cqHUpWJRtIHdJI20H",
+          "id": "51ET6cqHUpWJRtIHdJI20H",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2736cf9ff064c7da3c6e4d910f5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e026cf9ff064c7da3c6e4d910f5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048516cf9ff064c7da3c6e4d910f5",
+              "width": 64
+            }
+          ],
+          "name": "Into The Flame",
+          "release_date": "2011-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:51ET6cqHUpWJRtIHdJI20H",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 256773,
+        "external_ids": { "isrc": "AUUM71101249" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7nJn5fGLc6ViWm18HcNiln"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7nJn5fGLc6ViWm18HcNiln",
+        "id": "7nJn5fGLc6ViWm18HcNiln",
+        "name": "Souls A'Fire",
+        "popularity": 31,
+        "uri": "spotify:track:7nJn5fGLc6ViWm18HcNiln",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -8989,7 +8989,7 @@
         "href": "https://api.spotify.com/v1/tracks/4wJpiPhRFMcBlp8Oq2jBY2",
         "id": "4wJpiPhRFMcBlp8Oq2jBY2",
         "name": "Letters",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:4wJpiPhRFMcBlp8Oq2jBY2",
         "is_local": false
       },
