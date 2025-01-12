@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 173,
+  "total_episodes": 174,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0j2JZVrStfUCbcYR2Yz4Bj/clip_602067_662067.mp3",
+      "description": "LearnDjango Three Course BundleThe Stack ReportLeuchtturm Weekly PlannerRereading Working in Public Fosstodon Thread DjangoCon Europe CFP Open Until January 12thAn Obvious Statement About Open Source | Christopher Neugebauer | Monktoberfest 2024Django 6.x Steering Council Results DjangoCon Japan, Europe, Africa, and USReimagining OSS Licensing and Commercialization with Fair Source - Adam Jacob, System Initiative",
+      "duration_ms": 3034618,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0KdW2SuZC6nmBMIbQ9p31h"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0KdW2SuZC6nmBMIbQ9p31h",
+      "html_description": "<ul><li><a href=\"https://learndjango.com/courses/\" rel=\"nofollow\">LearnDjango Three Course Bundle</a></li><li><a href=\"https://buttondown.com/carlton\" rel=\"nofollow\">The Stack Report</a></li><li><a href=\"https://www.leuchtturm1917.us/weekly-planner-and-notebook-2025.html\" rel=\"nofollow\">Leuchtturm Weekly Planner</a></li><li><a href=\"https://fosstodon.org/&#64;carlton/113754033154421894\" rel=\"nofollow\">Rereading Working in Public Fosstodon Thread</a> </li><li><a href=\"https://2025.djangocon.eu/talks/cfp/\" rel=\"nofollow\">DjangoCon Europe CFP Open Until January 12th</a></li><li><a href=\"https://youtu.be/bf_6EVTlZOY?si&#61;JV-ZB9KnjyLxTHL9\" rel=\"nofollow\">An Obvious Statement About Open Source | Christopher Neugebauer | Monktoberfest 2024</a></li><li><a href=\"https://www.djangoproject.com/weblog/2024/dec/18/django-6x-steering-council-election-results/\" rel=\"nofollow\">Django 6.x Steering Council Results</a> </li><li>DjangoCon <a href=\"https://djangocongress.jp/\" rel=\"nofollow\">Japan</a>, <a href=\"https://2025.djangocon.eu/\" rel=\"nofollow\">Europe</a>, <a href=\"https://2025.djangocon.africa/\" rel=\"nofollow\">Africa</a>, and <a href=\"https://www.defna.org/announcements/2024/12/31/djangoconus-2025-announced/\" rel=\"nofollow\">US</a></li><li><a href=\"https://youtu.be/rmhYHzJpkuo?si&#61;zow6KOBb7f-glLhF\" rel=\"nofollow\">Reimagining OSS Licensing and Commercialization with Fair Source - Adam Jacob, System Initiative</a></li></ul>",
+      "id": "0KdW2SuZC6nmBMIbQ9p31h",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django in 2025",
+      "release_date": "2025-01-08",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0KdW2SuZC6nmBMIbQ9p31h"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4YRnlVYhTl2S8uOu8ycoME/clip_352442_412442.mp3",
       "description": "pretix and on GitHubrami.ioDjangoCon Europe 2023 | Building and scaling a live event platform with django-channelsDjangoCon Europe 2024 | Fast on my machine: How to debug slow requests in productionBuilding a business on open-source applicationsDjangoCon Europe 2020 | Security strategies for multi-tenant applicationsDjangoCon Europe 2019 | Plugin architectures for Python web applicationsDjangoCon Europe 2017 | Data internationalization in DjangoDjangoCon Europe Organizers Support Working GroupAnnouncing DjangoCon Europe 2025 in DublinSponsorsThe Stack Report - Carlton's Monthly Premium NewsletterLearnDjango.com - Free Tutorials and Premium Courses",
@@ -295,7 +334,7 @@
       "name": "Python Tooling - Hynek Schlawack",
       "release_date": "2024-11-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 439000 },
       "type": "episode",
       "uri": "spotify:episode:02IT2z5UP8vSbBnZHcyy2x"
     },
@@ -334,7 +373,7 @@
       "name": "Django for the Meat Industry - Bryton Wishart",
       "release_date": "2024-11-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:3b7GlczFpIdNO5VGOvOTwW"
     },
