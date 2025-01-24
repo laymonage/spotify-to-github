@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 174,
+  "total_episodes": 175,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7LrPXz4dVZoK8A9WqFlVTg/clip_272372_332372.mp3",
+      "description": "Sheena's Personal SitePreludeGuild of EducatorsDjangoCon US Keynote - Power to the People who Teach the PeoplePyCon Italia Keynote - A Tale from the TrenchesEscape conf - Testing Python Web Apps using PlaywrightWebinar: Why HTMX makes good business senseUsing Cursor to Port Django tests to pytestSponsorThis episode was brought to you by Buttondown, the easiest way to start, send, and grow your email newsletter. New customers can save 50% off their first year with Buttondown using the coupon code DJANGO.",
+      "duration_ms": 4489508,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4Uc0r3X0smXq5p4XAqbcFB"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4Uc0r3X0smXq5p4XAqbcFB",
+      "html_description": "<ul><li><a href=\"https://www.sheenaoc.com/\" rel=\"nofollow\">Sheena&#39;s Personal Site</a></li><li><a href=\"https://prelude.tech/upcoming_workshops\" rel=\"nofollow\">Prelude</a></li><li><a href=\"https://guildofeducators.org/\" rel=\"nofollow\">Guild of Educators</a></li><li><a href=\"https://youtu.be/RPCCkQab9_g?si&#61;akmTYzfiM4bT4Koy\" rel=\"nofollow\">DjangoCon US Keynote - Power to the People who Teach the People</a></li><li><a href=\"https://youtu.be/93zAMQMGKaM?si&#61;RiZ_f3jsItcLmbtj\" rel=\"nofollow\">PyCon Italia Keynote - A Tale from the Trenches</a></li><li><a href=\"https://youtu.be/dvwGBKUKAqo?si&#61;6u92KCpa6_P0Bpbx\" rel=\"nofollow\">Escape conf - Testing Python Web Apps using Playwright</a></li><li><a href=\"https://youtu.be/iP0XX9xkEGw?si&#61;JVr1sIP1sRUJq-NW\" rel=\"nofollow\">Webinar: Why HTMX makes good business sense</a></li><li><a href=\"https://jmduke.com/posts/post/cursor/\" rel=\"nofollow\">Using Cursor to Port Django tests to pytest</a></li></ul><h3>Sponsor</h3><p>This episode was brought to you by <a href=\"https://buttondown.com/django\" rel=\"nofollow\">Buttondown</a>, the easiest way to start, send, and grow your email newsletter. New customers can save 50% off their first year with <a href=\"https://buttondown.com/django\" rel=\"nofollow\">Buttondown</a> using the coupon code DJANGO.</p>",
+      "id": "4Uc0r3X0smXq5p4XAqbcFB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Beyond Golden Pathways - Teaching Django with Sheena O’Connell",
+      "release_date": "2025-01-22",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 3399000 },
+      "type": "episode",
+      "uri": "spotify:episode:4Uc0r3X0smXq5p4XAqbcFB"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0j2JZVrStfUCbcYR2Yz4Bj/clip_602067_662067.mp3",
       "description": "LearnDjango Three Course BundleThe Stack ReportLeuchtturm Weekly PlannerRereading Working in Public Fosstodon Thread DjangoCon Europe CFP Open Until January 12thAn Obvious Statement About Open Source | Christopher Neugebauer | Monktoberfest 2024Django 6.x Steering Council Results DjangoCon Japan, Europe, Africa, and USReimagining OSS Licensing and Commercialization with Fair Source - Adam Jacob, System Initiative",
@@ -6730,7 +6769,7 @@
       "name": "Django Fellow - Tim Graham",
       "release_date": "2019-04-10",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 129000 },
+      "resume_point": { "fully_played": false, "resume_position_ms": 1050000 },
       "type": "episode",
       "uri": "spotify:episode:5malqBhcSJ0a96Q46DAGQd"
     },
@@ -6769,7 +6808,7 @@
       "name": "Django Versions",
       "release_date": "2019-04-03",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6vai9MZs8foTSrrBUKfT34"
     },
@@ -6808,7 +6847,7 @@
       "name": "Django REST Framework",
       "release_date": "2019-03-27",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4TDmtyJYGQAsCgGbBoMoS2"
     },
@@ -6847,7 +6886,7 @@
       "name": "Third Party Packages",
       "release_date": "2019-03-20",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:4ZaJ7x2GmuuMgbzwWhOLUN"
     },
@@ -6886,7 +6925,7 @@
       "name": "Breaking Django",
       "release_date": "2019-03-15",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6EbUuIsoPIfydq8y0NQ7Lw"
     },
@@ -6925,7 +6964,7 @@
       "name": "How to Learn Django",
       "release_date": "2019-03-13",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:1bHf2hN4sYv9mAS9c9cLBk"
     },
@@ -6964,7 +7003,7 @@
       "name": "What is Django?",
       "release_date": "2019-03-07",
       "release_date_precision": "day",
-      "resume_point": { "fully_played": false, "resume_position_ms": 1000 },
+      "resume_point": { "fully_played": true, "resume_position_ms": 0 },
       "type": "episode",
       "uri": "spotify:episode:6tKWl4l1zxjKK3vkJvMBLn"
     },
