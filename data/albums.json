@@ -1,6 +1,2045 @@
 {
-  "total": 488,
+  "total": 489,
   "albums": [
+    {
+      "added_at": "2025-04-27T00:09:04Z",
+      "album": {
+        "album_type": "album",
+        "total_tracks": 8,
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe"
+        },
+        "href": "https://api.spotify.com/v1/albums/5TmpFE7Xus70ko1QYGxFIe?locale=*",
+        "id": "5TmpFE7Xus70ko1QYGxFIe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c70aa05c55b6fb116863f6f5",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c70aa05c55b6fb116863f6f5",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c70aa05c55b6fb116863f6f5",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Solid State Survivor",
+        "release_date": "1979-09-25",
+        "release_date_precision": "day",
+        "type": "album",
+        "uri": "spotify:album:5TmpFE7Xus70ko1QYGxFIe",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+            },
+            "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+            "id": "2JIf5JxI3ypOSfrfNIIMQE",
+            "name": "YELLOW MAGIC ORCHESTRA",
+            "type": "artist",
+            "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+          }
+        ],
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/5TmpFE7Xus70ko1QYGxFIe/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 8,
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 254960,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI"
+              },
+              "href": "https://api.spotify.com/v1/tracks/025rboHEX5F2T0jRBMjuxI",
+              "id": "025rboHEX5F2T0jRBMjuxI",
+              "name": "TECHNOPOLIS",
+              "preview_url": "https://p.scdn.co/mp3-preview/dc312b520476e1f86f51efe879894bb31ecd59bd?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:025rboHEX5F2T0jRBMjuxI",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 277280,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/2t3jp9JAOZHYR6bwlixsVb"
+              },
+              "href": "https://api.spotify.com/v1/tracks/2t3jp9JAOZHYR6bwlixsVb",
+              "id": "2t3jp9JAOZHYR6bwlixsVb",
+              "name": "ABSOLUTE EGO DANCE",
+              "preview_url": "https://p.scdn.co/mp3-preview/ca119f7aec762b1a47fbd3c07f32334566738fe0?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:2t3jp9JAOZHYR6bwlixsVb",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 266360,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/0RAXoT7hwOoqAXI95ryxT5"
+              },
+              "href": "https://api.spotify.com/v1/tracks/0RAXoT7hwOoqAXI95ryxT5",
+              "id": "0RAXoT7hwOoqAXI95ryxT5",
+              "name": "RYDEEN",
+              "preview_url": "https://p.scdn.co/mp3-preview/42536650a02dec52e9fa83e16cd25d0a860d24c6?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:0RAXoT7hwOoqAXI95ryxT5",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 211000,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/54BGCSPBNTVzDfl15SF1jC"
+              },
+              "href": "https://api.spotify.com/v1/tracks/54BGCSPBNTVzDfl15SF1jC",
+              "id": "54BGCSPBNTVzDfl15SF1jC",
+              "name": "CASTALIA",
+              "preview_url": "https://p.scdn.co/mp3-preview/9a6b3ccc96dcdc1257253ccd43cc751a1798a111?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:54BGCSPBNTVzDfl15SF1jC",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 216973,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/6fcvo9Gfgx5V4XfMbWtUOZ"
+              },
+              "href": "https://api.spotify.com/v1/tracks/6fcvo9Gfgx5V4XfMbWtUOZ",
+              "id": "6fcvo9Gfgx5V4XfMbWtUOZ",
+              "name": "BEHIND THE MASK",
+              "preview_url": "https://p.scdn.co/mp3-preview/acb45705361bf6033ab8ba8fa4d9b5d940e6048d?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:6fcvo9Gfgx5V4XfMbWtUOZ",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 160933,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/57PsrPYLuIsGYimrkG9xpi"
+              },
+              "href": "https://api.spotify.com/v1/tracks/57PsrPYLuIsGYimrkG9xpi",
+              "id": "57PsrPYLuIsGYimrkG9xpi",
+              "name": "DAY TRIPPER",
+              "preview_url": "https://p.scdn.co/mp3-preview/0f08953d878c5377a272744023575ad225db078e?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:57PsrPYLuIsGYimrkG9xpi",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 297893,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/4KD9cNZdAH9L8xFytzMba3"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4KD9cNZdAH9L8xFytzMba3",
+              "id": "4KD9cNZdAH9L8xFytzMba3",
+              "name": "INSOMNIA",
+              "preview_url": "https://p.scdn.co/mp3-preview/228ecc4096cf2094b51eb56d651f59783a865b2e?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:4KD9cNZdAH9L8xFytzMba3",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/2JIf5JxI3ypOSfrfNIIMQE",
+                  "id": "2JIf5JxI3ypOSfrfNIIMQE",
+                  "name": "YELLOW MAGIC ORCHESTRA",
+                  "type": "artist",
+                  "uri": "spotify:artist:2JIf5JxI3ypOSfrfNIIMQE"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1i8hb3SegIZOYl2av3jGSO",
+                  "id": "1i8hb3SegIZOYl2av3jGSO",
+                  "name": "吉沢典夫",
+                  "type": "artist",
+                  "uri": "spotify:artist:1i8hb3SegIZOYl2av3jGSO"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 238133,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/3rAluZ29n7zj10Ukg1E7Ic"
+              },
+              "href": "https://api.spotify.com/v1/tracks/3rAluZ29n7zj10Ukg1E7Ic",
+              "id": "3rAluZ29n7zj10Ukg1E7Ic",
+              "name": "SOLID STATE SURVIVOR",
+              "preview_url": "https://p.scdn.co/mp3-preview/e09c214a8916b046ce4d96d701e84a941a7d45fe?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 8,
+              "type": "track",
+              "uri": "spotify:track:3rAluZ29n7zj10Ukg1E7Ic",
+              "is_local": false
+            }
+          ]
+        },
+        "copyrights": [{ "text": "(P) 1979 Alfa Music, Inc.", "type": "P" }],
+        "external_ids": { "upc": "884977794632" },
+        "genres": [],
+        "label": "Sony Music Direct (Japan) Inc.",
+        "popularity": 38
+      }
+    },
     {
       "added_at": "2025-03-24T10:21:46Z",
       "album": {
@@ -7365,7 +9404,7 @@
         "external_ids": { "upc": "5056628041227" },
         "genres": [],
         "label": "Oh Papa",
-        "popularity": 6
+        "popularity": 7
       }
     },
     {
@@ -8046,7 +10085,7 @@
         "external_ids": { "upc": "656605039466" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -23830,7 +25869,7 @@
         "external_ids": { "upc": "197188957636" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -27076,7 +29115,7 @@
         "external_ids": { "upc": "4524135184986" },
         "genres": [],
         "label": "PONY CANYON INC.",
-        "popularity": 15
+        "popularity": 16
       }
     },
     {
@@ -38888,7 +40927,7 @@
         "external_ids": { "upc": "884977433104" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 58
+        "popularity": 59
       }
     },
     {
@@ -46745,7 +48784,7 @@
         "external_ids": { "upc": "075679763259" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 51
+        "popularity": 52
       }
     },
     {
@@ -61751,7 +63790,7 @@
         "external_ids": { "upc": "810090094113" },
         "genres": [],
         "label": "Mom+Pop",
-        "popularity": 47
+        "popularity": 48
       }
     },
     {
@@ -64361,7 +66400,7 @@
         "external_ids": { "upc": "00888072089921" },
         "genres": [],
         "label": "Fantasy",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -68309,7 +70348,7 @@
         "external_ids": { "upc": "5400863157067" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 17
+        "popularity": 16
       }
     },
     {
@@ -98868,7 +100907,7 @@
         "external_ids": { "upc": "00888072554597" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 30
+        "popularity": 31
       }
     },
     {
@@ -103638,7 +105677,7 @@
         "external_ids": { "upc": "093624867593" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -105850,7 +107889,7 @@
         "external_ids": { "upc": "093624885931" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -107263,7 +109302,7 @@
         "external_ids": { "upc": "098787112269" },
         "genres": [],
         "label": "Apple Orchard Music",
-        "popularity": 65
+        "popularity": 66
       }
     },
     {
@@ -108891,7 +110930,7 @@
         "external_ids": { "upc": "098787096569" },
         "genres": [],
         "label": "Apple Orchard Music",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -120033,7 +122072,7 @@
         "external_ids": { "upc": "054391429483" },
         "genres": [],
         "label": "R&R Digital/Warner Records",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -122253,7 +124292,7 @@
         "external_ids": { "upc": "5063341252892" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 24
+        "popularity": 25
       }
     },
     {
@@ -126209,7 +128248,7 @@
         "external_ids": { "upc": "886447488812" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 66
+        "popularity": 67
       }
     },
     {
@@ -129027,7 +131066,7 @@
         "external_ids": { "upc": "8720923197961" },
         "genres": [],
         "label": "Wax Bodega and Cherry Lime Records",
-        "popularity": 32
+        "popularity": 33
       }
     },
     {
@@ -130568,7 +132607,7 @@
         "external_ids": { "upc": "193036006235" },
         "genres": [],
         "label": "Birds Plural",
-        "popularity": 20
+        "popularity": 21
       }
     },
     {
@@ -138260,7 +140299,7 @@
         "external_ids": { "upc": "191400056657" },
         "genres": [],
         "label": "4AD",
-        "popularity": 58
+        "popularity": 59
       }
     },
     {
@@ -141074,7 +143113,7 @@
         "external_ids": { "upc": "098787148565" },
         "genres": [],
         "label": "Sub Pop Records",
-        "popularity": 51
+        "popularity": 52
       }
     },
     {
@@ -143475,7 +145514,7 @@
         "external_ids": { "upc": "098787123265" },
         "genres": [],
         "label": "Sub Pop Records",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -149203,7 +151242,7 @@
         "external_ids": { "upc": "887833004968" },
         "genres": [],
         "label": "Weird World",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -152047,7 +154086,7 @@
         "external_ids": { "upc": "656605037769" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -154578,7 +156617,7 @@
         "external_ids": { "upc": "656605033761" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 51
+        "popularity": 52
       }
     },
     {
@@ -160437,7 +162476,7 @@
         "external_ids": { "upc": "5060496189912" },
         "genres": [],
         "label": "Communion Records",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -175123,7 +177162,7 @@
         "external_ids": { "upc": "5400863016326" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -183075,7 +185114,7 @@
         "external_ids": { "upc": "5054960548657" },
         "genres": [],
         "label": "Independent",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -193278,7 +195317,7 @@
         "external_ids": { "upc": "886449563654" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -198008,7 +200047,7 @@
         "external_ids": { "upc": "193036130459" },
         "genres": [],
         "label": "Fuji Apple Records",
-        "popularity": 32
+        "popularity": 33
       }
     },
     {
@@ -199033,7 +201072,7 @@
         "external_ids": { "upc": "886446191041" },
         "genres": [],
         "label": "Grand Jury (RED)",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -201631,7 +203670,7 @@
         "external_ids": { "upc": "00888072442719" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -208970,7 +211009,7 @@
         "external_ids": { "upc": "195729693104" },
         "genres": [],
         "label": "Vansire",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -214688,7 +216727,7 @@
         "external_ids": { "upc": "196626689214" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 12
+        "popularity": 13
       }
     },
     {
@@ -225439,7 +227478,7 @@
         "external_ids": { "upc": "9324690178148" },
         "genres": [],
         "label": "Chugg Music / London Cowboys",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -250547,7 +252586,7 @@
         "external_ids": { "upc": "093624882145" },
         "genres": [],
         "label": "R&R Digital/Warner Records",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -255355,7 +257394,7 @@
         "external_ids": { "upc": "195497414307" },
         "genres": [],
         "label": "Reunion Tour",
-        "popularity": 8
+        "popularity": 9
       }
     },
     {
@@ -256025,7 +258064,7 @@
         "external_ids": { "upc": "884977019797" },
         "genres": [],
         "label": "Arista/Legacy",
-        "popularity": 47
+        "popularity": 48
       }
     },
     {
@@ -261093,7 +263132,7 @@
         "external_ids": { "upc": "753936908642" },
         "genres": [],
         "label": "Refresh Records",
-        "popularity": 41
+        "popularity": 42
       }
     },
     {
@@ -264463,7 +266502,7 @@
         "external_ids": { "upc": "00602438467372" },
         "genres": [],
         "label": "Still Woozy Productions Inc., under exclusive license to Interscope Records",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -266870,7 +268909,7 @@
         "external_ids": { "upc": "859748286586" },
         "genres": [],
         "label": "A Great Big of Pile of Leaves and Many Hats Distribution",
-        "popularity": 22
+        "popularity": 23
       }
     },
     {
@@ -270744,7 +272783,7 @@
         "external_ids": { "upc": "196006534738" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 28
+        "popularity": 29
       }
     },
     {
@@ -271210,7 +273249,7 @@
         "external_ids": { "upc": "5059806545395" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -275680,7 +277719,7 @@
         "external_ids": { "upc": "00602567924357" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -294184,7 +296223,7 @@
         "external_ids": { "upc": "859735597459" },
         "genres": [],
         "label": "Old Wave Records",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -299225,7 +301264,7 @@
         "external_ids": { "upc": "8992880106861" },
         "genres": [],
         "label": "Musica Studios",
-        "popularity": 5
+        "popularity": 6
       }
     },
     {
@@ -303612,7 +305651,7 @@
         "external_ids": { "upc": "00829299206135" },
         "genres": [],
         "label": "FADER Label",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -306445,7 +308484,7 @@
         "external_ids": { "upc": "886448157793" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -316327,7 +318366,7 @@
         "external_ids": { "upc": "194937449244" },
         "genres": [],
         "label": "LPA Tavern",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -323322,7 +325361,7 @@
         "external_ids": { "upc": "859715293791" },
         "genres": [],
         "label": "Eloper Music",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -325284,7 +327323,7 @@
         "external_ids": { "upc": "5054429139075" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 36
+        "popularity": 37
       }
     },
     {
@@ -338462,7 +340501,7 @@
         "external_ids": { "upc": "886448085089" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 15
+        "popularity": 16
       }
     },
     {
@@ -342302,7 +344341,7 @@
         "external_ids": { "upc": "00602508184604" },
         "genres": [],
         "label": "Island Records",
-        "popularity": 47
+        "popularity": 48
       }
     },
     {
@@ -351716,7 +353755,7 @@
         "external_ids": { "upc": "840093235954" },
         "genres": [],
         "label": "Senyawa Records",
-        "popularity": 31
+        "popularity": 32
       }
     },
     {
@@ -360722,7 +362761,7 @@
         "external_ids": { "upc": "886447136270" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -374171,7 +376210,7 @@
         "external_ids": { "upc": "840094808140" },
         "genres": [],
         "label": "aritech",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -377620,7 +379659,7 @@
         "external_ids": { "upc": "075679858962" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -389795,7 +391834,7 @@
         "external_ids": { "upc": "00602567151517" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 53
+        "popularity": 54
       }
     },
     {
@@ -392702,7 +394741,7 @@
         "external_ids": { "upc": "192641179129" },
         "genres": [],
         "label": "U OK?",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -395526,7 +397565,7 @@
         "external_ids": { "upc": "075679864482" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -404966,7 +407005,7 @@
         "external_ids": { "upc": "826853453875" },
         "genres": [],
         "label": "Light In The Attic",
-        "popularity": 8
+        "popularity": 7
       }
     },
     {
@@ -419679,7 +421718,7 @@
         "external_ids": { "upc": "840094713499" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 12
+        "popularity": 13
       }
     },
     {
@@ -421077,7 +423116,7 @@
         "external_ids": { "upc": "840093971098" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -424729,7 +426768,7 @@
         "external_ids": { "upc": "840093396341" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 5
+        "popularity": 6
       }
     },
     {
@@ -430259,7 +432298,7 @@
         "external_ids": { "upc": "840094539303" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 13
+        "popularity": 14
       }
     },
     {
@@ -430834,7 +432873,7 @@
         "external_ids": { "upc": "3615930865598" },
         "genres": [],
         "label": "Rats Records",
-        "popularity": 48
+        "popularity": 49
       }
     },
     {
@@ -433430,7 +435469,7 @@
         "external_ids": { "upc": "859725548195" },
         "genres": [],
         "label": "Mouda Music",
-        "popularity": 18
+        "popularity": 19
       }
     },
     {
@@ -434352,7 +436391,7 @@
         "external_ids": { "upc": "888880661012" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -446610,7 +448649,7 @@
         "external_ids": { "upc": "886446439082" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -451075,7 +453114,7 @@
         "external_ids": { "upc": "888880287779" },
         "genres": [],
         "label": "Red Ink/Columbia",
-        "popularity": 79
+        "popularity": 80
       }
     },
     {
@@ -455843,7 +457882,7 @@
         "external_ids": { "upc": "886446397429" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 54
+        "popularity": 55
       }
     },
     {
@@ -458676,7 +460715,7 @@
         "external_ids": { "upc": "886446550589" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 66
+        "popularity": 67
       }
     },
     {
@@ -462979,7 +465018,7 @@
         "external_ids": { "upc": "817949013172" },
         "genres": [],
         "label": "Captured Tracks",
-        "popularity": 2
+        "popularity": 3
       }
     },
     {
@@ -471465,7 +473504,7 @@
         "external_ids": { "upc": "0602561607058" },
         "genres": [],
         "label": "Konoba",
-        "popularity": 40
+        "popularity": 41
       }
     },
     {
@@ -477189,7 +479228,7 @@
         "external_ids": { "upc": "886444398190" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -486371,7 +488410,7 @@
         "external_ids": { "upc": "00602537901937" },
         "genres": [],
         "label": "Loma Vista",
-        "popularity": 2
+        "popularity": 3
       }
     },
     {
@@ -489692,7 +491731,8 @@
           ]
         },
         "copyrights": [
-          { "text": "(C) 2008 Badman Recording Co.", "type": "C" }
+          { "text": "(C) 2008 Badman Recording Co.", "type": "C" },
+          { "text": "(P) 2008 Badman Recording Co.", "type": "P" }
         ],
         "external_ids": { "upc": "655037093329" },
         "genres": [],
@@ -491670,7 +493710,7 @@
         "external_ids": { "upc": "075679901392" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -499368,7 +501408,7 @@
         "external_ids": { "upc": "075679915320" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 59
+        "popularity": 60
       }
     },
     {
@@ -506622,7 +508662,7 @@
         "external_ids": { "upc": "889211330799" },
         "genres": [],
         "label": "The Symposium",
-        "popularity": 42
+        "popularity": 43
       }
     },
     {
@@ -510486,7 +512526,7 @@
         "external_ids": { "upc": "075679952233" },
         "genres": [],
         "label": "Canvasback/ATL",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -521619,7 +523659,7 @@
         "external_ids": { "upc": "075679911971" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -522210,7 +524250,7 @@
         "external_ids": { "upc": "884977369953" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 30
+        "popularity": 29
       }
     },
     {
@@ -522699,7 +524739,7 @@
         "external_ids": { "upc": "634904031862" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 4
+        "popularity": 3
       }
     },
     {
@@ -534100,7 +536140,7 @@
         "external_ids": { "upc": "603497976140" },
         "genres": [],
         "label": "Rhino/Warner Records",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -541616,7 +543656,7 @@
         "external_ids": { "upc": "00602557014365" },
         "genres": [],
         "label": "EMI",
-        "popularity": 26
+        "popularity": 27
       }
     },
     {
@@ -548950,7 +550990,7 @@
         "external_ids": { "upc": "634904079062" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 1
+        "popularity": 0
       }
     },
     {
@@ -575592,7 +577632,7 @@
         "external_ids": { "upc": "00602537493869" },
         "genres": [],
         "label": "Universal Music Group",
-        "popularity": 0
+        "popularity": 1
       }
     },
     {
@@ -582890,7 +584930,7 @@
         "external_ids": { "upc": "825646568741" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 65
+        "popularity": 66
       }
     },
     {
@@ -592207,7 +594247,7 @@
         "external_ids": { "upc": "825646911486" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 75
+        "popularity": 76
       }
     },
     {
@@ -604956,7 +606996,7 @@
         "external_ids": { "upc": "9346062000109" },
         "genres": [],
         "label": "The Jungle Giants",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -653624,7 +655664,7 @@
         "external_ids": { "upc": "884501253109" },
         "genres": [],
         "label": "Twenty One Pilots",
-        "popularity": 21
+        "popularity": 20
       }
     },
     {
@@ -659258,7 +661298,7 @@
         "external_ids": { "upc": "075679928160" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 84
+        "popularity": 85
       }
     },
     {
@@ -669087,7 +671127,7 @@
         "external_ids": { "upc": "886445613841" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 80
+        "popularity": 81
       }
     },
     {
@@ -670415,7 +672455,7 @@
         "external_ids": { "upc": "886445613278" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 75
+        "popularity": 76
       }
     },
     {
@@ -672818,7 +674858,7 @@
         "external_ids": { "upc": "886445613261" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 78
+        "popularity": 79
       }
     }
   ]
