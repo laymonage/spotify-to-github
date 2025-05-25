@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1wTa28Avu5rW8LEWO9jYUm"
   },
-  "followers": { "href": null, "total": 68263 },
+  "followers": { "href": null, "total": 68626 },
   "href": "https://api.spotify.com/v1/playlists/1wTa28Avu5rW8LEWO9jYUm?locale=*",
   "id": "1wTa28Avu5rW8LEWO9jYUm",
   "images": [
@@ -479,7 +479,7 @@
         "href": "https://api.spotify.com/v1/tracks/3gv4AhWWneEu2oh1Egz652",
         "id": "3gv4AhWWneEu2oh1Egz652",
         "name": "Personal Jesus - 2006 Remaster",
-        "popularity": 8,
+        "popularity": 5,
         "uri": "spotify:track:3gv4AhWWneEu2oh1Egz652",
         "is_local": false
       },
@@ -1508,13 +1508,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/62c4231844eaebd083aa209f10cc51039235b555?cid=c73100e39ab6406dae4c4479ff75d174",
-        "available_markets": ["CA", "US"],
+        "available_markets": ["CA", "PR", "US"],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["CA", "US"],
+          "available_markets": ["CA", "PR", "US"],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/4TECsw2dFHZ1ULrT7OA3OL",
@@ -1856,7 +1856,7 @@
         "href": "https://api.spotify.com/v1/tracks/4fnGw1e3iYLlRqzJjhXUQI",
         "id": "4fnGw1e3iYLlRqzJjhXUQI",
         "name": "Welcome To The Jungle",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:4fnGw1e3iYLlRqzJjhXUQI",
         "is_local": false
       },
@@ -2966,7 +2966,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FUS56gKr9mVBmzvlnodlh",
         "id": "3FUS56gKr9mVBmzvlnodlh",
         "name": "Killing In the Name",
-        "popularity": 58,
+        "popularity": 59,
         "uri": "spotify:track:3FUS56gKr9mVBmzvlnodlh",
         "is_local": false
       },
@@ -3058,7 +3058,7 @@
         "href": "https://api.spotify.com/v1/tracks/51Gkc1TxvyQ9K8y0pQRmQM",
         "id": "51Gkc1TxvyQ9K8y0pQRmQM",
         "name": "Been Caught Stealing",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:51Gkc1TxvyQ9K8y0pQRmQM",
         "is_local": false
       },
@@ -3522,7 +3522,7 @@
         "href": "https://api.spotify.com/v1/tracks/2mv6GY70UsHiTCGQZ4JfgC",
         "id": "2mv6GY70UsHiTCGQZ4JfgC",
         "name": "Fools Gold - Remastered 2009",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:2mv6GY70UsHiTCGQZ4JfgC",
         "is_local": false
       },

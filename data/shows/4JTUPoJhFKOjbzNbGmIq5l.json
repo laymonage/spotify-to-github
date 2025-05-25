@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 182,
+  "total_episodes": 183,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Cf3htBSbhCzw3MyZVlv4U/clip_602300_653900.mp3",
+      "description": "Everyday Superpowers*Chris on Fosstodon and BlueSkyWhy I Finally Embraced Event Sourcing and You Should TooDjangoCon US 2023: HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTMLSponsorThis episode was brought to you by HackSoft, your development partner beyond code. From custom software development to consulting, team augmentation, or opening an office in Bulgaria, they’re ready to take your Django project to the next level!",
+      "duration_ms": 3236728,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1jVM9HJS9rfjz0KhecxD5r"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1jVM9HJS9rfjz0KhecxD5r",
+      "html_description": "<ul><li><a href=\"https://everydaysuperpowers.dev\" rel=\"nofollow\">Everyday Superpowers</a>*</li><li>Chris on <a href=\"https://fosstodon.org/&#64;_chrismay\" rel=\"nofollow\">Fosstodon</a> and <a href=\"https://bsky.app/profile/chris-may-python.bsky.social\" rel=\"nofollow\">BlueSky</a></li><li><a href=\"https://everydaysuperpowers.dev/articles/why-i-finally-embraced-event-sourcingand-why-you-should-too/\" rel=\"nofollow\">Why I Finally Embraced Event Sourcing and You Should Too</a></li><li><a href=\"https://www.youtube.com/watch?v&#61;kYV8K71pY64\" rel=\"nofollow\">DjangoCon US 2023: HTML-ivating your Django web app&#39;s experience with HTMX, AlpineJS, and streaming HTML</a></li></ul><h3>Sponsor</h3><p>This episode was brought to you by <a href=\"https://www.hacksoft.io/solutions/django\" rel=\"nofollow\">HackSoft</a>, your development partner beyond code. From custom software development to consulting, team augmentation, or opening an office in Bulgaria, they’re ready to take your Django project to the next level!</p>",
+      "id": "1jVM9HJS9rfjz0KhecxD5r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Event Sourcing - Chris May",
+      "release_date": "2025-05-14",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:1jVM9HJS9rfjz0KhecxD5r"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6pIdA4dDCB9nElEkPTiQOc/clip_348987_408987.mp3",
       "description": "DjangoCon Europe 2025DjangoCon Europe on YouTube - subscribe to be notified when talks are postedGet Started With AI Assistant in PyCharm neapolitan - Quick CRUD views for DjangoDjango Social Django Events Foundation of North America ",

@@ -1,6 +1,678 @@
 {
-  "total": 491,
+  "total": 492,
   "albums": [
+    {
+      "added_at": "2025-05-19T18:48:43Z",
+      "album": {
+        "album_type": "album",
+        "total_tracks": 11,
+        "available_markets": [
+          "BD",
+          "BN",
+          "BT",
+          "CY",
+          "GE",
+          "ID",
+          "IN",
+          "JP",
+          "KG",
+          "KH",
+          "KZ",
+          "LA",
+          "LK",
+          "MN",
+          "MO",
+          "MV",
+          "NP",
+          "PH",
+          "PK",
+          "TJ",
+          "TL",
+          "UZ",
+          "VN"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4kdsD9oa2xroza0qY8eCQn"
+        },
+        "href": "https://api.spotify.com/v1/albums/4kdsD9oa2xroza0qY8eCQn?locale=*",
+        "id": "4kdsD9oa2xroza0qY8eCQn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b2fedf46c2be2857721c3cd",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027b2fedf46c2be2857721c3cd",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517b2fedf46c2be2857721c3cd",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "HOSONO HOUSE",
+        "release_date": "1973-05-25",
+        "release_date_precision": "day",
+        "type": "album",
+        "uri": "spotify:album:4kdsD9oa2xroza0qY8eCQn",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+            },
+            "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+            "id": "370nbSkMB9kDWyTypwWYak",
+            "name": "Haruomi Hosono",
+            "type": "artist",
+            "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+          }
+        ],
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/4kdsD9oa2xroza0qY8eCQn/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 11,
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 199066,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/55sLor5O8QGYkpa9jWe7NO"
+              },
+              "href": "https://api.spotify.com/v1/tracks/55sLor5O8QGYkpa9jWe7NO",
+              "id": "55sLor5O8QGYkpa9jWe7NO",
+              "name": "ろっかばいまいべいびい",
+              "preview_url": "https://p.scdn.co/mp3-preview/c0257c17cb0773d9ce8ef6f5c23458c5c26bdb29?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:55sLor5O8QGYkpa9jWe7NO",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 235333,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/1M1RRjdMv4qbwUgBUMHJa4"
+              },
+              "href": "https://api.spotify.com/v1/tracks/1M1RRjdMv4qbwUgBUMHJa4",
+              "id": "1M1RRjdMv4qbwUgBUMHJa4",
+              "name": "僕は一寸",
+              "preview_url": "https://p.scdn.co/mp3-preview/2b4f7a8bdf4f8063b4d0a32b71f8a54c57a64a69?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:1M1RRjdMv4qbwUgBUMHJa4",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 208200,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/4Rgv1R30tdrJQ6dCb27WNy"
+              },
+              "href": "https://api.spotify.com/v1/tracks/4Rgv1R30tdrJQ6dCb27WNy",
+              "id": "4Rgv1R30tdrJQ6dCb27WNy",
+              "name": "CHOOーCHOOガタゴト",
+              "preview_url": "https://p.scdn.co/mp3-preview/51846b871f9eed9b86e1c702e60af842a3865f66?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:4Rgv1R30tdrJQ6dCb27WNy",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 194266,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/3A3jFEwb5raJMXWEVCnvig"
+              },
+              "href": "https://api.spotify.com/v1/tracks/3A3jFEwb5raJMXWEVCnvig",
+              "id": "3A3jFEwb5raJMXWEVCnvig",
+              "name": "終りの季節",
+              "preview_url": "https://p.scdn.co/mp3-preview/0c8065133dfb59bcd6d895ba7ad6adbc9ef6322a?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:3A3jFEwb5raJMXWEVCnvig",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 196000,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/5cgOnWEklZKjQWco6BlIzs"
+              },
+              "href": "https://api.spotify.com/v1/tracks/5cgOnWEklZKjQWco6BlIzs",
+              "id": "5cgOnWEklZKjQWco6BlIzs",
+              "name": "冬越え",
+              "preview_url": "https://p.scdn.co/mp3-preview/0dd99f43764f831e21bb2b3dc554581e7461b10f?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:5cgOnWEklZKjQWco6BlIzs",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 124493,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/1nqccljltwwYgukOOYYcW1"
+              },
+              "href": "https://api.spotify.com/v1/tracks/1nqccljltwwYgukOOYYcW1",
+              "id": "1nqccljltwwYgukOOYYcW1",
+              "name": "パーティー",
+              "preview_url": "https://p.scdn.co/mp3-preview/96b24204a9040e58a23619e6e21a7b940cb9fa03?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:1nqccljltwwYgukOOYYcW1",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 152533,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/232bE9u62kp2JYo2Nhe2li"
+              },
+              "href": "https://api.spotify.com/v1/tracks/232bE9u62kp2JYo2Nhe2li",
+              "id": "232bE9u62kp2JYo2Nhe2li",
+              "name": "福は内 鬼は外",
+              "preview_url": "https://p.scdn.co/mp3-preview/5d8905ce67ed5dae098b1dc48fb61bdf4278cdb0?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:232bE9u62kp2JYo2Nhe2li",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 157640,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/1FkcbQQQKuXxBFYuCqx7ln"
+              },
+              "href": "https://api.spotify.com/v1/tracks/1FkcbQQQKuXxBFYuCqx7ln",
+              "id": "1FkcbQQQKuXxBFYuCqx7ln",
+              "name": "住所不定無職低収入",
+              "preview_url": "https://p.scdn.co/mp3-preview/bc82b499621daa5921e11f25660c7ca1d1ee9703?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 8,
+              "type": "track",
+              "uri": "spotify:track:1FkcbQQQKuXxBFYuCqx7ln",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 168800,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/1WxNKlBeInfGqSAilagfE6"
+              },
+              "href": "https://api.spotify.com/v1/tracks/1WxNKlBeInfGqSAilagfE6",
+              "id": "1WxNKlBeInfGqSAilagfE6",
+              "name": "恋は桃色",
+              "preview_url": "https://p.scdn.co/mp3-preview/c1e5f7ca1ae5bd7289b0f0b3f06dedefee8e5390?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 9,
+              "type": "track",
+              "uri": "spotify:track:1WxNKlBeInfGqSAilagfE6",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 272133,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/2EiXFYYoIEzheBVJOCQwcl"
+              },
+              "href": "https://api.spotify.com/v1/tracks/2EiXFYYoIEzheBVJOCQwcl",
+              "id": "2EiXFYYoIEzheBVJOCQwcl",
+              "name": "薔薇と野獣",
+              "preview_url": "https://p.scdn.co/mp3-preview/6fd384e3c20e05f4a047dd8bd0b6bde98e86073b?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 10,
+              "type": "track",
+              "uri": "spotify:track:2EiXFYYoIEzheBVJOCQwcl",
+              "is_local": false
+            },
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/370nbSkMB9kDWyTypwWYak",
+                  "id": "370nbSkMB9kDWyTypwWYak",
+                  "name": "Haruomi Hosono",
+                  "type": "artist",
+                  "uri": "spotify:artist:370nbSkMB9kDWyTypwWYak"
+                }
+              ],
+              "available_markets": [
+                "BD",
+                "BN",
+                "BT",
+                "CY",
+                "GE",
+                "ID",
+                "IN",
+                "JP",
+                "KG",
+                "KH",
+                "KZ",
+                "LA",
+                "LK",
+                "MN",
+                "MO",
+                "MV",
+                "NP",
+                "PH",
+                "PK",
+                "TJ",
+                "TL",
+                "UZ",
+                "VN"
+              ],
+              "disc_number": 1,
+              "duration_ms": 19293,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/6iqUiRNhkwiLzMmyQqBAvl"
+              },
+              "href": "https://api.spotify.com/v1/tracks/6iqUiRNhkwiLzMmyQqBAvl",
+              "id": "6iqUiRNhkwiLzMmyQqBAvl",
+              "name": "相合傘(インストルメンタル)",
+              "preview_url": "https://p.scdn.co/mp3-preview/43db76d038de45f937911ff69a615cd712413024?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 11,
+              "type": "track",
+              "uri": "spotify:track:6iqUiRNhkwiLzMmyQqBAvl",
+              "is_local": false
+            }
+          ]
+        },
+        "copyrights": [
+          { "text": "1973 King Record Co.,Ltd", "type": "C" },
+          { "text": "1973 King Record Co.,Ltd", "type": "P" }
+        ],
+        "external_ids": { "upc": "4988003306298" },
+        "genres": [],
+        "label": "KING RECORDS",
+        "popularity": 31
+      }
+    },
     {
       "added_at": "2025-05-09T16:28:18Z",
       "album": {
@@ -6984,7 +7656,7 @@
         "external_ids": { "upc": "8800312826129" },
         "genres": [],
         "label": "DOOROODOOROO ARTIST COMPANY, Sunset Music Productions Co., Ltd",
-        "popularity": 46
+        "popularity": 50
       }
     },
     {
@@ -8525,7 +9197,7 @@
         "external_ids": { "upc": "199257303603" },
         "genres": [],
         "label": "TOLEDO",
-        "popularity": 4
+        "popularity": 37
       }
     },
     {
@@ -10564,7 +11236,7 @@
         "external_ids": { "upc": "884977794632" },
         "genres": [],
         "label": "Sony Music Direct (Japan) Inc.",
-        "popularity": 39
+        "popularity": 38
       }
     },
     {
@@ -15494,7 +16166,7 @@
         "external_ids": { "upc": "0729085655324" },
         "genres": [],
         "label": "Easy Does It Records",
-        "popularity": 18
+        "popularity": 17
       }
     },
     {
@@ -19938,7 +20610,7 @@
         "external_ids": { "upc": "198846365831" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 36
+        "popularity": 35
       }
     },
     {
@@ -28660,7 +29332,7 @@
         "external_ids": { "upc": "198622737302" },
         "genres": [],
         "label": "Perpetual Eschaton",
-        "popularity": 16
+        "popularity": 15
       }
     },
     {
@@ -37642,7 +38314,7 @@
         "external_ids": { "upc": "4524135184986" },
         "genres": [],
         "label": "PONY CANYON INC.",
-        "popularity": 16
+        "popularity": 15
       }
     },
     {
@@ -39828,7 +40500,7 @@
         "external_ids": { "upc": "5054429195170" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 38
+        "popularity": 37
       }
     },
     {
@@ -45513,7 +46185,7 @@
         "external_ids": { "upc": "602309899165" },
         "genres": [],
         "label": "Joyful Noise Recordings",
-        "popularity": 37
+        "popularity": 36
       }
     },
     {
@@ -53962,7 +54634,7 @@
         "external_ids": { "upc": "193436384223" },
         "genres": [],
         "label": "Alexander 23",
-        "popularity": 26
+        "popularity": 25
       }
     },
     {
@@ -54637,7 +55309,7 @@
         "external_ids": { "upc": "00602455729996" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 32
+        "popularity": 31
       }
     },
     {
@@ -72317,7 +72989,7 @@
         "external_ids": { "upc": "810090094113" },
         "genres": [],
         "label": "Mom+Pop",
-        "popularity": 48
+        "popularity": 47
       }
     },
     {
@@ -77758,7 +78430,7 @@
         "external_ids": { "upc": "197188834722" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 42
+        "popularity": 41
       }
     },
     {
@@ -78875,7 +79547,7 @@
         "external_ids": { "upc": "5400863157067" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 15
+        "popularity": 14
       }
     },
     {
@@ -79576,7 +80248,7 @@
         "external_ids": { "upc": "634457158986" },
         "genres": [],
         "label": "Egghunt Records",
-        "popularity": 11
+        "popularity": 10
       }
     },
     {
@@ -85731,7 +86403,7 @@
         "external_ids": { "upc": "644110040893" },
         "genres": [],
         "label": "Polyvinyl Records",
-        "popularity": 43
+        "popularity": 42
       }
     },
     {
@@ -88027,6 +88699,7 @@
         "total_tracks": 4,
         "available_markets": [
           "AR",
+          "AT",
           "BE",
           "BO",
           "BR",
@@ -88035,9 +88708,11 @@
           "CL",
           "CO",
           "CR",
+          "CY",
           "CZ",
           "DK",
           "DO",
+          "DE",
           "EC",
           "EE",
           "SV",
@@ -88070,6 +88745,7 @@
           "SK",
           "ES",
           "SE",
+          "CH",
           "TW",
           "TR",
           "UY",
@@ -88124,6 +88800,7 @@
           "BS",
           "BB",
           "BZ",
+          "BT",
           "BW",
           "BF",
           "CV",
@@ -88134,27 +88811,39 @@
           "GE",
           "GD",
           "GW",
+          "GY",
           "HT",
           "JM",
+          "KI",
           "LS",
           "LR",
           "MW",
+          "MV",
           "ML",
+          "MH",
           "FM",
           "NA",
+          "NR",
           "NE",
+          "PW",
           "PG",
           "PR",
+          "WS",
           "SM",
           "ST",
           "SN",
           "SC",
           "SL",
+          "SB",
           "KN",
           "LC",
           "VC",
+          "SR",
           "TL",
+          "TO",
           "TT",
+          "TV",
+          "VU",
           "AZ",
           "BN",
           "BI",
@@ -88255,6 +88944,7 @@
               ],
               "available_markets": [
                 "AR",
+                "AT",
                 "BE",
                 "BO",
                 "BR",
@@ -88263,9 +88953,11 @@
                 "CL",
                 "CO",
                 "CR",
+                "CY",
                 "CZ",
                 "DK",
                 "DO",
+                "DE",
                 "EC",
                 "EE",
                 "SV",
@@ -88298,6 +88990,7 @@
                 "SK",
                 "ES",
                 "SE",
+                "CH",
                 "TW",
                 "TR",
                 "UY",
@@ -88352,6 +89045,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -88362,27 +89056,39 @@
                 "GE",
                 "GD",
                 "GW",
+                "GY",
                 "HT",
                 "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
                 "PR",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
                 "LC",
                 "VC",
+                "SR",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -88451,6 +89157,7 @@
               ],
               "available_markets": [
                 "AR",
+                "AT",
                 "BE",
                 "BO",
                 "BR",
@@ -88459,9 +89166,11 @@
                 "CL",
                 "CO",
                 "CR",
+                "CY",
                 "CZ",
                 "DK",
                 "DO",
+                "DE",
                 "EC",
                 "EE",
                 "SV",
@@ -88494,6 +89203,7 @@
                 "SK",
                 "ES",
                 "SE",
+                "CH",
                 "TW",
                 "TR",
                 "UY",
@@ -88548,6 +89258,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -88558,27 +89269,39 @@
                 "GE",
                 "GD",
                 "GW",
+                "GY",
                 "HT",
                 "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
                 "PR",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
                 "LC",
                 "VC",
+                "SR",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -88647,6 +89370,7 @@
               ],
               "available_markets": [
                 "AR",
+                "AT",
                 "BE",
                 "BO",
                 "BR",
@@ -88655,9 +89379,11 @@
                 "CL",
                 "CO",
                 "CR",
+                "CY",
                 "CZ",
                 "DK",
                 "DO",
+                "DE",
                 "EC",
                 "EE",
                 "SV",
@@ -88690,6 +89416,7 @@
                 "SK",
                 "ES",
                 "SE",
+                "CH",
                 "TW",
                 "TR",
                 "UY",
@@ -88744,6 +89471,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -88754,27 +89482,39 @@
                 "GE",
                 "GD",
                 "GW",
+                "GY",
                 "HT",
                 "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
                 "PR",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
                 "LC",
                 "VC",
+                "SR",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -88843,6 +89583,7 @@
               ],
               "available_markets": [
                 "AR",
+                "AT",
                 "BE",
                 "BO",
                 "BR",
@@ -88851,9 +89592,11 @@
                 "CL",
                 "CO",
                 "CR",
+                "CY",
                 "CZ",
                 "DK",
                 "DO",
+                "DE",
                 "EC",
                 "EE",
                 "SV",
@@ -88886,6 +89629,7 @@
                 "SK",
                 "ES",
                 "SE",
+                "CH",
                 "TW",
                 "TR",
                 "UY",
@@ -88940,6 +89684,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -88950,27 +89695,39 @@
                 "GE",
                 "GD",
                 "GW",
+                "GY",
                 "HT",
                 "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
                 "PR",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
                 "LC",
                 "VC",
+                "SR",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -116416,7 +117173,7 @@
         "external_ids": { "upc": "093624885931" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 61
+        "popularity": 60
       }
     },
     {
@@ -119457,7 +120214,7 @@
         "external_ids": { "upc": "098787096569" },
         "genres": [],
         "label": "Apple Orchard Music",
-        "popularity": 50
+        "popularity": 51
       }
     },
     {
@@ -130129,7 +130886,7 @@
         "external_ids": { "upc": "634904078164" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 84
+        "popularity": 85
       }
     },
     {
@@ -142470,7 +143227,7 @@
         "external_ids": { "upc": "193078089913" },
         "genres": [],
         "label": "Birds Plural",
-        "popularity": 25
+        "popularity": 24
       }
     },
     {
@@ -143796,7 +144553,7 @@
         "external_ids": { "upc": "0045778774562" },
         "genres": [],
         "label": "Epitaph",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -151640,7 +152397,7 @@
         "external_ids": { "upc": "098787148565" },
         "genres": [],
         "label": "Sub Pop Records",
-        "popularity": 52
+        "popularity": 51
       }
     },
     {
@@ -154041,7 +154798,7 @@
         "external_ids": { "upc": "098787123265" },
         "genres": [],
         "label": "Sub Pop Records",
-        "popularity": 64
+        "popularity": 63
       }
     },
     {
@@ -171003,7 +171760,7 @@
         "external_ids": { "upc": "5060496189912" },
         "genres": [],
         "label": "Communion Records",
-        "popularity": 39
+        "popularity": 38
       }
     },
     {
@@ -172691,7 +173448,7 @@
         "external_ids": { "upc": "8720923109100" },
         "genres": [],
         "label": "Audiotree Music",
-        "popularity": 13
+        "popularity": 12
       }
     },
     {
@@ -174224,7 +174981,7 @@
         "external_ids": { "upc": "00829299248432" },
         "genres": [],
         "label": "FADER Label",
-        "popularity": 13
+        "popularity": 12
       }
     },
     {
@@ -183282,7 +184039,7 @@
         "external_ids": { "upc": "5400863091637" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 17
+        "popularity": 18
       }
     },
     {
@@ -185689,7 +186446,7 @@
         "external_ids": { "upc": "5400863016326" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -189052,7 +189809,7 @@
         "external_ids": { "upc": "703669153376" },
         "genres": [],
         "label": "Tender Loving Empire",
-        "popularity": 47
+        "popularity": 46
       }
     },
     {
@@ -190768,7 +191525,7 @@
         "external_ids": { "upc": "5055489298771" },
         "genres": [],
         "label": "Wegawam Music Co.",
-        "popularity": 40
+        "popularity": 39
       }
     },
     {
@@ -195612,7 +196369,7 @@
         "external_ids": { "upc": "656605143262" },
         "genres": [],
         "label": "Dead Oceans",
-        "popularity": 59
+        "popularity": 58
       }
     },
     {
@@ -196080,7 +196837,7 @@
         "external_ids": { "upc": "5060496189844" },
         "genres": [],
         "label": "Communion Records",
-        "popularity": 9
+        "popularity": 8
       }
     },
     {
@@ -199692,7 +200449,7 @@
         "external_ids": { "upc": "093624865322" },
         "genres": [],
         "label": "R&R Digital/Warner Records",
-        "popularity": 33
+        "popularity": 32
       }
     },
     {
@@ -209040,7 +209797,7 @@
         "external_ids": { "upc": "196865497984" },
         "genres": [],
         "label": "Seiichi",
-        "popularity": 14
+        "popularity": 13
       }
     },
     {
@@ -219536,7 +220293,7 @@
         "external_ids": { "upc": "195729693104" },
         "genres": [],
         "label": "Vansire",
-        "popularity": 57
+        "popularity": 56
       }
     },
     {
@@ -220003,7 +220760,7 @@
         "external_ids": { "upc": "780163622928" },
         "genres": [],
         "label": "Endeavor Content",
-        "popularity": 40
+        "popularity": 38
       }
     },
     {
@@ -224322,7 +225079,7 @@
         "external_ids": { "upc": "780163617825" },
         "genres": [],
         "label": "Endeavor Content",
-        "popularity": 55
+        "popularity": 53
       }
     },
     {
@@ -225254,7 +226011,7 @@
         "external_ids": { "upc": "196626689214" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 13
+        "popularity": 12
       }
     },
     {
@@ -241262,7 +242019,7 @@
         "external_ids": { "upc": "5054960516731" },
         "genres": [],
         "label": "Independent",
-        "popularity": 21
+        "popularity": 20
       }
     },
     {
@@ -258276,7 +259033,7 @@
         "external_ids": { "upc": "193436199896" },
         "genres": [],
         "label": "R&R Digital",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -261113,7 +261870,7 @@
         "external_ids": { "upc": "093624882145" },
         "genres": [],
         "label": "R&R Digital/Warner Records",
-        "popularity": 40
+        "popularity": 39
       }
     },
     {
@@ -265921,7 +266678,7 @@
         "external_ids": { "upc": "195497414307" },
         "genres": [],
         "label": "Reunion Tour",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -288820,7 +289577,7 @@
         "external_ids": { "upc": "825646489053" },
         "genres": [],
         "label": "Atlantic Records UK",
-        "popularity": 37
+        "popularity": 36
       }
     },
     {
@@ -294821,7 +295578,7 @@
         "external_ids": { "upc": "193436188616" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 45
+        "popularity": 44
       }
     },
     {
@@ -304750,7 +305507,7 @@
         "external_ids": { "upc": "859735597459" },
         "genres": [],
         "label": "Old Wave Records",
-        "popularity": 10
+        "popularity": 11
       }
     },
     {
@@ -309070,7 +309827,7 @@
         "external_ids": { "upc": "859725816010" },
         "genres": [],
         "label": "Lonely Benson",
-        "popularity": 27
+        "popularity": 26
       }
     },
     {
@@ -312271,7 +313028,7 @@
         "external_ids": { "upc": "00829299206234" },
         "genres": [],
         "label": "FADER Label",
-        "popularity": 17
+        "popularity": 16
       }
     },
     {
@@ -314178,7 +314935,7 @@
         "external_ids": { "upc": "00829299206135" },
         "genres": [],
         "label": "FADER Label",
-        "popularity": 45
+        "popularity": 44
       }
     },
     {
@@ -319034,7 +319791,7 @@
         "external_ids": { "upc": "889326153924" },
         "genres": [],
         "label": "Audiotree Music",
-        "popularity": 5
+        "popularity": 6
       }
     },
     {
@@ -336828,7 +337585,7 @@
         "external_ids": { "upc": "00842812122125" },
         "genres": [],
         "label": "Surfaces Music / TenThousand Projects, LLC",
-        "popularity": 1
+        "popularity": 0
       }
     },
     {
@@ -349494,7 +350251,7 @@
         "external_ids": { "upc": "5059366705857" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 10
+        "popularity": 9
       }
     },
     {
@@ -355624,7 +356381,7 @@
         "external_ids": { "upc": "5057302992576" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 42
+        "popularity": 41
       }
     },
     {
@@ -358280,7 +359037,7 @@
         "external_ids": { "upc": "5057728690186" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 25
+        "popularity": 24
       }
     },
     {
@@ -359620,7 +360377,7 @@
         "external_ids": { "upc": "193666035605" },
         "genres": [],
         "label": "Senyawa Records",
-        "popularity": 6
+        "popularity": 5
       }
     },
     {
@@ -365784,7 +366541,7 @@
         "external_ids": { "upc": "00842812112638" },
         "genres": [],
         "label": "Mac’s Record Label",
-        "popularity": 76
+        "popularity": 75
       }
     },
     {
@@ -381679,7 +382436,7 @@
         "external_ids": { "upc": "5054429137347" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 10
+        "popularity": 9
       }
     },
     {
@@ -400828,7 +401585,7 @@
         "external_ids": { "upc": "00602577333545" },
         "genres": [],
         "label": "Astralwerks",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -415532,7 +416289,7 @@
         "external_ids": { "upc": "826853453875" },
         "genres": [],
         "label": "Light In The Attic",
-        "popularity": 4
+        "popularity": 2
       }
     },
     {
@@ -425824,7 +426581,7 @@
         "external_ids": { "upc": "0885014582984" },
         "genres": [],
         "label": "777 Music",
-        "popularity": 34
+        "popularity": 33
       }
     },
     {
@@ -428444,7 +429201,7 @@
         "external_ids": { "upc": "840095514804" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 16
+        "popularity": 15
       }
     },
     {
@@ -432299,7 +433056,7 @@
         "external_ids": { "upc": "192378312301" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 2
+        "popularity": 3
       }
     },
     {
@@ -434724,7 +435481,7 @@
         "external_ids": { "upc": "840093396433" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 27
+        "popularity": 26
       }
     },
     {
@@ -435856,7 +436613,7 @@
         "external_ids": { "upc": "840093396259" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 21
+        "popularity": 20
       }
     },
     {
@@ -436417,7 +437174,7 @@
         "external_ids": { "upc": "840092455629" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 22
+        "popularity": 23
       }
     },
     {
@@ -439069,7 +439826,7 @@
         "external_ids": { "upc": "840095514903" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 23
+        "popularity": 24
       }
     },
     {
@@ -444918,7 +445675,7 @@
         "external_ids": { "upc": "888880661012" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 17
+        "popularity": 16
       }
     },
     {
@@ -445386,7 +446143,7 @@
         "external_ids": { "upc": "886446987996" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 14
+        "popularity": 13
       }
     },
     {
@@ -457863,7 +458620,7 @@
         "external_ids": { "upc": "075679893765" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -473548,7 +474305,7 @@
         "external_ids": { "upc": "817949013172" },
         "genres": [],
         "label": "Captured Tracks",
-        "popularity": 5
+        "popularity": 4
       }
     },
     {
@@ -477232,7 +477989,7 @@
         "external_ids": { "upc": "075679916082" },
         "genres": [],
         "label": "Downtown/Atlantic",
-        "popularity": 55
+        "popularity": 54
       }
     },
     {
@@ -483114,7 +483871,7 @@
         "external_ids": { "upc": "098787055061" },
         "genres": [],
         "label": "Sub Pop",
-        "popularity": 7
+        "popularity": 5
       }
     },
     {
@@ -485140,7 +485897,7 @@
         "external_ids": { "upc": "886445613247" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 62
+        "popularity": 61
       }
     },
     {
@@ -494173,7 +494930,7 @@
         "external_ids": { "upc": "191018126322" },
         "genres": [],
         "label": "Nine Mile Records",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -496489,7 +497246,7 @@
         "external_ids": { "upc": "00602517350144" },
         "genres": [],
         "label": "Island Def Jam",
-        "popularity": 14
+        "popularity": 13
       }
     },
     {
@@ -496940,7 +497697,7 @@
         "external_ids": { "upc": "00602537901937" },
         "genres": [],
         "label": "Loma Vista",
-        "popularity": 6
+        "popularity": 5
       }
     },
     {
@@ -507243,7 +508000,7 @@
         "external_ids": { "upc": "0724359863559" },
         "genres": [],
         "label": "Parlophone (France)",
-        "popularity": 45
+        "popularity": 44
       }
     },
     {
@@ -507542,7 +508299,7 @@
         "external_ids": { "upc": "825646191406" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 31
+        "popularity": 30
       }
     },
     {
@@ -529579,7 +530336,7 @@
         "external_ids": { "upc": "886445411881" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 69
+        "popularity": 68
       }
     },
     {
@@ -532780,7 +533537,7 @@
         "external_ids": { "upc": "884977369953" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 24
+        "popularity": 19
       }
     },
     {
@@ -533269,7 +534026,7 @@
         "external_ids": { "upc": "634904031862" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 4
+        "popularity": 2
       }
     },
     {
@@ -535227,7 +535984,7 @@
         "external_ids": { "upc": "886445613834" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 62
+        "popularity": 61
       }
     },
     {
@@ -546522,14 +547279,19 @@
           "AT",
           "BE",
           "BG",
+          "CR",
           "CY",
           "CZ",
           "DK",
+          "DO",
           "DE",
           "EE",
+          "SV",
           "FI",
           "FR",
           "GR",
+          "GT",
+          "HN",
           "HK",
           "HU",
           "IS",
@@ -546540,9 +547302,12 @@
           "LU",
           "MY",
           "MT",
+          "MX",
           "NL",
           "NZ",
+          "NI",
           "NO",
+          "PA",
           "PH",
           "PL",
           "PT",
@@ -546603,6 +547368,7 @@
           "BS",
           "BB",
           "BZ",
+          "BT",
           "BW",
           "BF",
           "CV",
@@ -546610,24 +547376,39 @@
           "DM",
           "FJ",
           "GM",
+          "GE",
           "GD",
           "GW",
+          "HT",
+          "JM",
+          "KI",
           "LS",
           "LR",
           "MW",
+          "MV",
           "ML",
+          "MH",
           "FM",
           "NA",
+          "NR",
           "NE",
+          "PW",
           "PG",
+          "WS",
           "SM",
           "ST",
           "SN",
           "SC",
           "SL",
+          "SB",
           "KN",
+          "LC",
+          "VC",
           "TL",
+          "TO",
           "TT",
+          "TV",
+          "VU",
           "AZ",
           "BN",
           "BI",
@@ -546730,14 +547511,19 @@
                 "AT",
                 "BE",
                 "BG",
+                "CR",
                 "CY",
                 "CZ",
                 "DK",
+                "DO",
                 "DE",
                 "EE",
+                "SV",
                 "FI",
                 "FR",
                 "GR",
+                "GT",
+                "HN",
                 "HK",
                 "HU",
                 "IS",
@@ -546748,9 +547534,12 @@
                 "LU",
                 "MY",
                 "MT",
+                "MX",
                 "NL",
                 "NZ",
+                "NI",
                 "NO",
+                "PA",
                 "PH",
                 "PL",
                 "PT",
@@ -546811,6 +547600,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -546818,24 +547608,39 @@
                 "DM",
                 "FJ",
                 "GM",
+                "GE",
                 "GD",
                 "GW",
+                "HT",
+                "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
+                "LC",
+                "VC",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -546906,14 +547711,19 @@
                 "AT",
                 "BE",
                 "BG",
+                "CR",
                 "CY",
                 "CZ",
                 "DK",
+                "DO",
                 "DE",
                 "EE",
+                "SV",
                 "FI",
                 "FR",
                 "GR",
+                "GT",
+                "HN",
                 "HK",
                 "HU",
                 "IS",
@@ -546924,9 +547734,12 @@
                 "LU",
                 "MY",
                 "MT",
+                "MX",
                 "NL",
                 "NZ",
+                "NI",
                 "NO",
+                "PA",
                 "PH",
                 "PL",
                 "PT",
@@ -546987,6 +547800,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -546994,24 +547808,39 @@
                 "DM",
                 "FJ",
                 "GM",
+                "GE",
                 "GD",
                 "GW",
+                "HT",
+                "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
+                "LC",
+                "VC",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -547082,14 +547911,19 @@
                 "AT",
                 "BE",
                 "BG",
+                "CR",
                 "CY",
                 "CZ",
                 "DK",
+                "DO",
                 "DE",
                 "EE",
+                "SV",
                 "FI",
                 "FR",
                 "GR",
+                "GT",
+                "HN",
                 "HK",
                 "HU",
                 "IS",
@@ -547100,9 +547934,12 @@
                 "LU",
                 "MY",
                 "MT",
+                "MX",
                 "NL",
                 "NZ",
+                "NI",
                 "NO",
+                "PA",
                 "PH",
                 "PL",
                 "PT",
@@ -547163,6 +548000,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -547170,24 +548008,39 @@
                 "DM",
                 "FJ",
                 "GM",
+                "GE",
                 "GD",
                 "GW",
+                "HT",
+                "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
+                "LC",
+                "VC",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -547268,14 +548121,19 @@
                 "AT",
                 "BE",
                 "BG",
+                "CR",
                 "CY",
                 "CZ",
                 "DK",
+                "DO",
                 "DE",
                 "EE",
+                "SV",
                 "FI",
                 "FR",
                 "GR",
+                "GT",
+                "HN",
                 "HK",
                 "HU",
                 "IS",
@@ -547286,9 +548144,12 @@
                 "LU",
                 "MY",
                 "MT",
+                "MX",
                 "NL",
                 "NZ",
+                "NI",
                 "NO",
+                "PA",
                 "PH",
                 "PL",
                 "PT",
@@ -547349,6 +548210,7 @@
                 "BS",
                 "BB",
                 "BZ",
+                "BT",
                 "BW",
                 "BF",
                 "CV",
@@ -547356,24 +548218,39 @@
                 "DM",
                 "FJ",
                 "GM",
+                "GE",
                 "GD",
                 "GW",
+                "HT",
+                "JM",
+                "KI",
                 "LS",
                 "LR",
                 "MW",
+                "MV",
                 "ML",
+                "MH",
                 "FM",
                 "NA",
+                "NR",
                 "NE",
+                "PW",
                 "PG",
+                "WS",
                 "SM",
                 "ST",
                 "SN",
                 "SC",
                 "SL",
+                "SB",
                 "KN",
+                "LC",
+                "VC",
                 "TL",
+                "TO",
                 "TT",
+                "TV",
+                "VU",
                 "AZ",
                 "BN",
                 "BI",
@@ -547441,7 +548318,7 @@
         "external_ids": { "upc": "825646411689" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 44
+        "popularity": 43
       }
     },
     {
@@ -555176,7 +556053,7 @@
         "external_ids": { "upc": "751937305620" },
         "genres": [],
         "label": "Expunged Records",
-        "popularity": 17
+        "popularity": 18
       }
     },
     {
@@ -593460,7 +594337,7 @@
         "external_ids": { "upc": "825646568741" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 66
+        "popularity": 65
       }
     },
     {
@@ -596506,7 +597383,7 @@
         "external_ids": { "upc": "825646912650" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 61
+        "popularity": 60
       }
     },
     {
@@ -599946,7 +600823,7 @@
         "external_ids": { "upc": "825646911820" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 6
+        "popularity": 5
       }
     },
     {
@@ -611066,7 +611943,7 @@
         "external_ids": { "upc": "817949016449" },
         "genres": [],
         "label": "Captured Tracks",
-        "popularity": 6
+        "popularity": 5
       }
     },
     {
@@ -618292,7 +619169,7 @@
         "external_ids": { "upc": "859715489231" },
         "genres": [],
         "label": "Amplifire Music",
-        "popularity": 28
+        "popularity": 27
       }
     },
     {
@@ -653713,7 +654590,7 @@
         "external_ids": { "upc": "5034202016250" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 2
+        "popularity": 1
       }
     },
     {
@@ -654234,7 +655111,7 @@
         "external_ids": { "upc": "5034202018858" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 2
+        "popularity": 0
       }
     },
     {
@@ -655721,7 +656598,7 @@
         "external_ids": { "upc": "887828031795" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 3
+        "popularity": 1
       }
     },
     {
@@ -657043,7 +657920,7 @@
         "external_ids": { "upc": "5050954421883" },
         "genres": [],
         "label": "Infectious",
-        "popularity": 1
+        "popularity": 0
       }
     },
     {
@@ -664194,7 +665071,7 @@
         "external_ids": { "upc": "884501253109" },
         "genres": [],
         "label": "Twenty One Pilots",
-        "popularity": 17
+        "popularity": 13
       }
     },
     {
