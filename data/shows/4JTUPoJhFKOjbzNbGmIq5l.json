@@ -219,8 +219,47 @@
   "publisher": "William Vincent and Carlton Gibson",
   "type": "show",
   "uri": "spotify:show:4JTUPoJhFKOjbzNbGmIq5l",
-  "total_episodes": 183,
+  "total_episodes": 184,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3ExbQzQI5V7srh9xGUVAne/clip_300023_360023.mp3",
+      "description": "Python Crash Course, 3rd Editiondjango-simple-deployMostly Python NewsletterDjango From First Principles SeriesDJP: A Plugin System for Djangodsd-vpsdjango-productionSponsorThis episode was brought to you by Buttondown, the easiest way to start, send, and grow your email newsletter. New customers can save 50% off their first year with Buttondown using the coupon code DJANGO.",
+      "duration_ms": 4080822,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0fTlTXEgoZxmQOjk8z4C1M"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0fTlTXEgoZxmQOjk8z4C1M",
+      "html_description": "<ul><li><a href=\"https://ehmatthes.github.io/pcc_3e/\" rel=\"nofollow\">Python Crash Course, 3rd Edition</a></li><li><a href=\"https://github.com/django-simple-deploy/django-simple-deploy\" rel=\"nofollow\">django-simple-deploy</a></li><li><a href=\"https://www.mostlypython.com/\" rel=\"nofollow\">Mostly Python Newsletter</a></li><li><a href=\"https://www.mostlypython.com/django-from-first-principles-2/\" rel=\"nofollow\">Django From First Principles Series</a></li><li><a href=\"https://simonwillison.net/2024/Sep/25/djp-a-plugin-system-for-django/\" rel=\"nofollow\">DJP: A Plugin System for Django</a></li><li><a href=\"https://github.com/django-simple-deploy/dsd-vps\" rel=\"nofollow\">dsd-vps</a></li><li><a href=\"https://github.com/lincolnloop/django-production\" rel=\"nofollow\">django-production</a></li></ul><h3>Sponsor</h3><p>This episode was brought to you by <a href=\"https://buttondown.com/django\" rel=\"nofollow\">Buttondown</a>, the easiest way to start, send, and grow your email newsletter. New customers can save 50% off their first year with <a href=\"https://buttondown.com/django\" rel=\"nofollow\">Buttondown</a> using the coupon code DJANGO.</p>",
+      "id": "0fTlTXEgoZxmQOjk8z4C1M",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a614aea6c495e7d36cbafd121",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f614aea6c495e7d36cbafd121",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d614aea6c495e7d36cbafd121",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en-US",
+      "languages": ["en-US"],
+      "name": "Django Deployments in 2025 - Eric Matthes",
+      "release_date": "2025-05-28",
+      "release_date_precision": "day",
+      "resume_point": { "fully_played": false, "resume_position_ms": 0 },
+      "type": "episode",
+      "uri": "spotify:episode:0fTlTXEgoZxmQOjk8z4C1M"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5Cf3htBSbhCzw3MyZVlv4U/clip_602300_653900.mp3",
       "description": "Everyday Superpowers*Chris on Fosstodon and BlueSkyWhy I Finally Embraced Event Sourcing and You Should TooDjangoCon US 2023: HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTMLSponsorThis episode was brought to you by HackSoft, your development partner beyond code. From custom software development to consulting, team augmentation, or opening an office in Bulgaria, they’re ready to take your Django project to the next level!",
