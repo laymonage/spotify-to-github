@@ -3203,7 +3203,7 @@
         "href": "https://api.spotify.com/v1/tracks/4ZFHITy0bAeZ3oFfvR0HaI",
         "id": "4ZFHITy0bAeZ3oFfvR0HaI",
         "name": "Put a Light On",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:4ZFHITy0bAeZ3oFfvR0HaI",
         "is_local": false
       },
@@ -3939,7 +3939,7 @@
         "href": "https://api.spotify.com/v1/tracks/7qCZgvV98j6RjUULW1s1it",
         "id": "7qCZgvV98j6RjUULW1s1it",
         "name": "Inside Out",
-        "popularity": 11,
+        "popularity": 9,
         "uri": "spotify:track:7qCZgvV98j6RjUULW1s1it",
         "is_local": false
       },
@@ -4031,7 +4031,7 @@
         "href": "https://api.spotify.com/v1/tracks/08a6PhXyXeN3lv1DCKW9qY",
         "id": "08a6PhXyXeN3lv1DCKW9qY",
         "name": "Do You",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:08a6PhXyXeN3lv1DCKW9qY",
         "is_local": false
       },
@@ -4429,7 +4429,7 @@
         "href": "https://api.spotify.com/v1/tracks/0ZXmGxjtSWLD1KO8IRRuIg",
         "id": "0ZXmGxjtSWLD1KO8IRRuIg",
         "name": "The Way We Get By",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:0ZXmGxjtSWLD1KO8IRRuIg",
         "is_local": false
       },
@@ -5215,7 +5215,7 @@
             }
           ],
           "name": "Port Of Morrow",
-          "release_date": "2012-03-16",
+          "release_date": "2012-03-19",
           "release_date_precision": "day",
           "uri": "spotify:album:4ZTcGoOrNro2aCAStXEjZi",
           "artists": [
@@ -5228,6 +5228,16 @@
               "name": "The Shins",
               "type": "artist",
               "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+              },
+              "href": "https://api.spotify.com/v1/artists/1og8fy01lbguVA5plZZRtd",
+              "id": "1og8fy01lbguVA5plZZRtd",
+              "name": "James Mercer",
+              "type": "artist",
+              "uri": "spotify:artist:1og8fy01lbguVA5plZZRtd"
             }
           ],
           "external_urls": {
@@ -5245,6 +5255,16 @@
             "name": "The Shins",
             "type": "artist",
             "uri": "spotify:artist:4LG4Bs1Gadht7TCrMytQUO"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+            },
+            "href": "https://api.spotify.com/v1/artists/1og8fy01lbguVA5plZZRtd",
+            "id": "1og8fy01lbguVA5plZZRtd",
+            "name": "James Mercer",
+            "type": "artist",
+            "uri": "spotify:artist:1og8fy01lbguVA5plZZRtd"
           }
         ],
         "disc_number": 1,
