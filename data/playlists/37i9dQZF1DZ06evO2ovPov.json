@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "aEtqAAAAAAB09d32ekpBdJxRH8J/5Yx8",
+  "snapshot_id": "aEy7gAAAAABsxGrrDomXZ5jiMcNbcYlG",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO2ovPov",
   "tracks": [
@@ -1821,7 +1821,7 @@
         "href": "https://api.spotify.com/v1/tracks/0XeGpgZu5sHEUI8Y4jMXIn",
         "id": "0XeGpgZu5sHEUI8Y4jMXIn",
         "name": "Love Is a Town",
-        "popularity": 23,
+        "popularity": 24,
         "uri": "spotify:track:0XeGpgZu5sHEUI8Y4jMXIn",
         "is_local": false
       },
@@ -4615,7 +4615,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e177e3d73496284c708b5b10b62f1e287339eae2?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/cf52a89610559fd38c8e2ca37e8d628529e22073?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -4996,48 +4996,58 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/7as1CphMoIEm4UnkuvQ3mE",
-          "id": "7as1CphMoIEm4UnkuvQ3mE",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/51p37xCLmZq7HzCc1JouXs",
+          "id": "51p37xCLmZq7HzCc1JouXs",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739b8c5e639dd5b11c1180a51d",
+              "url": "https://i.scdn.co/image/ab67616d0000b273bff3a650d765f78ae6afe8c3",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e029b8c5e639dd5b11c1180a51d",
+              "url": "https://i.scdn.co/image/ab67616d00001e02bff3a650d765f78ae6afe8c3",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048519b8c5e639dd5b11c1180a51d",
+              "url": "https://i.scdn.co/image/ab67616d00004851bff3a650d765f78ae6afe8c3",
               "width": 64
             }
           ],
-          "name": "Where Can I Go",
-          "release_date": "2020-12-11",
+          "name": "I Hold out My Hands",
+          "release_date": "2021-07-30",
           "release_date_precision": "day",
-          "uri": "spotify:album:7as1CphMoIEm4UnkuvQ3mE",
+          "uri": "spotify:album:51p37xCLmZq7HzCc1JouXs",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
+                "spotify": "https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No"
               },
-              "href": "https://api.spotify.com/v1/artists/46g5hcuu0pLv0KYtk3m899",
-              "id": "46g5hcuu0pLv0KYtk3m899",
-              "name": "Josh Gilligan",
+              "href": "https://api.spotify.com/v1/artists/3o1tKzbhMLOZzGlkeLz3No",
+              "id": "3o1tKzbhMLOZzGlkeLz3No",
+              "name": "Thad Kopec",
               "type": "artist",
-              "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+              "uri": "spotify:artist:3o1tKzbhMLOZzGlkeLz3No"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/7as1CphMoIEm4UnkuvQ3mE"
+            "spotify": "https://open.spotify.com/album/51p37xCLmZq7HzCc1JouXs"
           },
-          "total_tracks": 1
+          "total_tracks": 8
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No"
+            },
+            "href": "https://api.spotify.com/v1/artists/3o1tKzbhMLOZzGlkeLz3No",
+            "id": "3o1tKzbhMLOZzGlkeLz3No",
+            "name": "Thad Kopec",
+            "type": "artist",
+            "uri": "spotify:artist:3o1tKzbhMLOZzGlkeLz3No"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
@@ -5047,20 +5057,30 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Irw7KGshB5ZOMQJryKzU3"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Irw7KGshB5ZOMQJryKzU3",
+            "id": "1Irw7KGshB5ZOMQJryKzU3",
+            "name": "Allison Young",
+            "type": "artist",
+            "uri": "spotify:artist:1Irw7KGshB5ZOMQJryKzU3"
           }
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 265175,
-        "external_ids": { "isrc": "TCAFF2098678" },
+        "duration_ms": 174680,
+        "external_ids": { "isrc": "TCAFP2154195" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/4xDkoGMmvhzH0LG7qh76AT"
+          "spotify": "https://open.spotify.com/track/1j5bgTJqWviTS1IpejRE6M"
         },
-        "href": "https://api.spotify.com/v1/tracks/4xDkoGMmvhzH0LG7qh76AT",
-        "id": "4xDkoGMmvhzH0LG7qh76AT",
-        "name": "Where Can I Go",
-        "popularity": 13,
-        "uri": "spotify:track:4xDkoGMmvhzH0LG7qh76AT",
+        "href": "https://api.spotify.com/v1/tracks/1j5bgTJqWviTS1IpejRE6M",
+        "id": "1j5bgTJqWviTS1IpejRE6M",
+        "name": "Bereft of the Myth",
+        "popularity": 12,
+        "uri": "spotify:track:1j5bgTJqWviTS1IpejRE6M",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -5539,7 +5559,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/cf52a89610559fd38c8e2ca37e8d628529e22073?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/e177e3d73496284c708b5b10b62f1e287339eae2?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -5920,58 +5940,48 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/51p37xCLmZq7HzCc1JouXs",
-          "id": "51p37xCLmZq7HzCc1JouXs",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/7as1CphMoIEm4UnkuvQ3mE",
+          "id": "7as1CphMoIEm4UnkuvQ3mE",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bff3a650d765f78ae6afe8c3",
+              "url": "https://i.scdn.co/image/ab67616d0000b2739b8c5e639dd5b11c1180a51d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02bff3a650d765f78ae6afe8c3",
+              "url": "https://i.scdn.co/image/ab67616d00001e029b8c5e639dd5b11c1180a51d",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851bff3a650d765f78ae6afe8c3",
+              "url": "https://i.scdn.co/image/ab67616d000048519b8c5e639dd5b11c1180a51d",
               "width": 64
             }
           ],
-          "name": "I Hold out My Hands",
-          "release_date": "2021-07-30",
+          "name": "Where Can I Go",
+          "release_date": "2020-12-11",
           "release_date_precision": "day",
-          "uri": "spotify:album:51p37xCLmZq7HzCc1JouXs",
+          "uri": "spotify:album:7as1CphMoIEm4UnkuvQ3mE",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No"
+                "spotify": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
               },
-              "href": "https://api.spotify.com/v1/artists/3o1tKzbhMLOZzGlkeLz3No",
-              "id": "3o1tKzbhMLOZzGlkeLz3No",
-              "name": "Thad Kopec",
+              "href": "https://api.spotify.com/v1/artists/46g5hcuu0pLv0KYtk3m899",
+              "id": "46g5hcuu0pLv0KYtk3m899",
+              "name": "Josh Gilligan",
               "type": "artist",
-              "uri": "spotify:artist:3o1tKzbhMLOZzGlkeLz3No"
+              "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/51p37xCLmZq7HzCc1JouXs"
+            "spotify": "https://open.spotify.com/album/7as1CphMoIEm4UnkuvQ3mE"
           },
-          "total_tracks": 8
+          "total_tracks": 1
         },
         "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No"
-            },
-            "href": "https://api.spotify.com/v1/artists/3o1tKzbhMLOZzGlkeLz3No",
-            "id": "3o1tKzbhMLOZzGlkeLz3No",
-            "name": "Thad Kopec",
-            "type": "artist",
-            "uri": "spotify:artist:3o1tKzbhMLOZzGlkeLz3No"
-          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
@@ -5981,30 +5991,20 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1Irw7KGshB5ZOMQJryKzU3"
-            },
-            "href": "https://api.spotify.com/v1/artists/1Irw7KGshB5ZOMQJryKzU3",
-            "id": "1Irw7KGshB5ZOMQJryKzU3",
-            "name": "Allison Young",
-            "type": "artist",
-            "uri": "spotify:artist:1Irw7KGshB5ZOMQJryKzU3"
           }
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 174680,
-        "external_ids": { "isrc": "TCAFP2154195" },
+        "duration_ms": 265175,
+        "external_ids": { "isrc": "TCAFF2098678" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1j5bgTJqWviTS1IpejRE6M"
+          "spotify": "https://open.spotify.com/track/4xDkoGMmvhzH0LG7qh76AT"
         },
-        "href": "https://api.spotify.com/v1/tracks/1j5bgTJqWviTS1IpejRE6M",
-        "id": "1j5bgTJqWviTS1IpejRE6M",
-        "name": "Bereft of the Myth",
-        "popularity": 12,
-        "uri": "spotify:track:1j5bgTJqWviTS1IpejRE6M",
+        "href": "https://api.spotify.com/v1/tracks/4xDkoGMmvhzH0LG7qh76AT",
+        "id": "4xDkoGMmvhzH0LG7qh76AT",
+        "name": "Where Can I Go",
+        "popularity": 13,
+        "uri": "spotify:track:4xDkoGMmvhzH0LG7qh76AT",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
