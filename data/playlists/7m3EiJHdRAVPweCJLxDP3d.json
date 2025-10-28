@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/7m3EiJHdRAVPweCJLxDP3d"
   },
-  "followers": { "href": null, "total": 14000 },
+  "followers": { "href": null, "total": 13997 },
   "href": "https://api.spotify.com/v1/playlists/7m3EiJHdRAVPweCJLxDP3d?locale=*",
   "id": "7m3EiJHdRAVPweCJLxDP3d",
   "images": [
@@ -25,10 +25,120 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAAArcHIyNJ6u9ARWVppC6viifC6aRhl",
+  "snapshot_id": "AAAAr//coKZSVcyj4o3z6WUZTyUkquWK",
   "type": "playlist",
   "uri": "spotify:playlist:7m3EiJHdRAVPweCJLxDP3d",
   "tracks": [
+    {
+      "added_at": "2025-10-22T20:21:31Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/iso50" },
+        "href": "https://api.spotify.com/v1/users/iso50",
+        "id": "iso50",
+        "type": "user",
+        "uri": "spotify:user:iso50"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/89d8bb3626f5b288be83d64725d8ccd67223e594?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": ["US"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["US"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/4IYLlTCgDJs5qKnWwZ8rxn",
+          "id": "4IYLlTCgDJs5qKnWwZ8rxn",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27360bb1065ada1af800b13c4eb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0260bb1065ada1af800b13c4eb",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485160bb1065ada1af800b13c4eb",
+              "width": 64
+            }
+          ],
+          "name": "Boundary Rider",
+          "release_date": "2025-10-22",
+          "release_date_precision": "day",
+          "uri": "spotify:album:4IYLlTCgDJs5qKnWwZ8rxn",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+              },
+              "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+              "id": "5oOhM2DFWab8XhSdQiITry",
+              "name": "Tycho",
+              "type": "artist",
+              "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4"
+              },
+              "href": "https://api.spotify.com/v1/artists/6h7Y3QR7IjzAD05Qw5QYO4",
+              "id": "6h7Y3QR7IjzAD05Qw5QYO4",
+              "name": "Paul Banks",
+              "type": "artist",
+              "uri": "spotify:artist:6h7Y3QR7IjzAD05Qw5QYO4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4IYLlTCgDJs5qKnWwZ8rxn"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+            },
+            "href": "https://api.spotify.com/v1/artists/5oOhM2DFWab8XhSdQiITry",
+            "id": "5oOhM2DFWab8XhSdQiITry",
+            "name": "Tycho",
+            "type": "artist",
+            "uri": "spotify:artist:5oOhM2DFWab8XhSdQiITry"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6h7Y3QR7IjzAD05Qw5QYO4",
+            "id": "6h7Y3QR7IjzAD05Qw5QYO4",
+            "name": "Paul Banks",
+            "type": "artist",
+            "uri": "spotify:artist:6h7Y3QR7IjzAD05Qw5QYO4"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 224943,
+        "external_ids": { "isrc": "GBCFB2500543" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6pVETleBrWqseIfVEFevgP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pVETleBrWqseIfVEFevgP",
+        "id": "6pVETleBrWqseIfVEFevgP",
+        "name": "Boundary Rider",
+        "popularity": 42,
+        "uri": "spotify:track:6pVETleBrWqseIfVEFevgP",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
     {
       "added_at": "2024-12-18T17:02:42Z",
       "added_by": {
@@ -973,7 +1083,7 @@
         "href": "https://api.spotify.com/v1/tracks/6s4zTSAWRU0u8GpONNCGmC",
         "id": "6s4zTSAWRU0u8GpONNCGmC",
         "name": "To Everywhere Pt. 1",
-        "popularity": 19,
+        "popularity": 18,
         "uri": "spotify:track:6s4zTSAWRU0u8GpONNCGmC",
         "is_local": false
       },
@@ -1443,7 +1553,7 @@
         "href": "https://api.spotify.com/v1/tracks/2OwlprcWchNsSUXpKdDu7j",
         "id": "2OwlprcWchNsSUXpKdDu7j",
         "name": "To Everywhere Pt. 2",
-        "popularity": 21,
+        "popularity": 19,
         "uri": "spotify:track:2OwlprcWchNsSUXpKdDu7j",
         "is_local": false
       },
@@ -1923,7 +2033,7 @@
         "href": "https://api.spotify.com/v1/tracks/5u9X7etehSl4EnvOOkM9JM",
         "id": "5u9X7etehSl4EnvOOkM9JM",
         "name": "Infinite Health - Extended Edit",
-        "popularity": 15,
+        "popularity": 14,
         "uri": "spotify:track:5u9X7etehSl4EnvOOkM9JM",
         "is_local": false
       },
@@ -2843,7 +2953,7 @@
         "href": "https://api.spotify.com/v1/tracks/4UWn32WXxQjQFXRMrtC0Uz",
         "id": "4UWn32WXxQjQFXRMrtC0Uz",
         "name": "Phantom",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:4UWn32WXxQjQFXRMrtC0Uz",
         "is_local": false
       },
@@ -3763,7 +3873,7 @@
         "href": "https://api.spotify.com/v1/tracks/2W3aVDOfZl1MKdesuNE6Mn",
         "id": "2W3aVDOfZl1MKdesuNE6Mn",
         "name": "Devices",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:2W3aVDOfZl1MKdesuNE6Mn",
         "is_local": false
       },
@@ -4233,7 +4343,7 @@
         "href": "https://api.spotify.com/v1/tracks/4lsvsAmyrWSMjPngrTVHla",
         "id": "4lsvsAmyrWSMjPngrTVHla",
         "name": "Infinite Health",
-        "popularity": 26,
+        "popularity": 25,
         "uri": "spotify:track:4lsvsAmyrWSMjPngrTVHla",
         "is_local": false
       },
@@ -5613,7 +5723,7 @@
         "href": "https://api.spotify.com/v1/tracks/4LgTZ7yelUcMU6B3uelSop",
         "id": "4LgTZ7yelUcMU6B3uelSop",
         "name": "Totem",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:4LgTZ7yelUcMU6B3uelSop",
         "is_local": false
       },
@@ -6073,7 +6183,7 @@
         "href": "https://api.spotify.com/v1/tracks/0FQEVywS3Q9lsYWkV1kEap",
         "id": "0FQEVywS3Q9lsYWkV1kEap",
         "name": "Epilogue",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:0FQEVywS3Q9lsYWkV1kEap",
         "is_local": false
       },
@@ -6173,7 +6283,7 @@
         "href": "https://api.spotify.com/v1/tracks/18P8SsTjGnV08WHAaNPTHa",
         "id": "18P8SsTjGnV08WHAaNPTHa",
         "name": "Small Sanctuary - Edit",
-        "popularity": 15,
+        "popularity": 14,
         "uri": "spotify:track:18P8SsTjGnV08WHAaNPTHa",
         "is_local": false
       },
@@ -6263,7 +6373,7 @@
         "href": "https://api.spotify.com/v1/tracks/7Lx1FPVrAunBz3ykpmFxsN",
         "id": "7Lx1FPVrAunBz3ykpmFxsN",
         "name": "Small Sanctuary",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:7Lx1FPVrAunBz3ykpmFxsN",
         "is_local": false
       },
@@ -6353,7 +6463,7 @@
         "href": "https://api.spotify.com/v1/tracks/7kcGTBLBblNXP2tSs49s5k",
         "id": "7kcGTBLBblNXP2tSs49s5k",
         "name": "Time To Run",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:7kcGTBLBblNXP2tSs49s5k",
         "is_local": false
       },
@@ -6813,7 +6923,7 @@
         "href": "https://api.spotify.com/v1/tracks/2yHFuUQWOmGmF5wYTX4ime",
         "id": "2yHFuUQWOmGmF5wYTX4ime",
         "name": "PBS (Live Edit)",
-        "popularity": 17,
+        "popularity": 16,
         "uri": "spotify:track:2yHFuUQWOmGmF5wYTX4ime",
         "is_local": false
       },
@@ -7283,7 +7393,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Nj6FdLGoD8vCxM2w8eHWB",
         "id": "2Nj6FdLGoD8vCxM2w8eHWB",
         "name": "Little Man (Tycho Remix) - Mixed",
-        "popularity": 25,
+        "popularity": 24,
         "uri": "spotify:track:2Nj6FdLGoD8vCxM2w8eHWB",
         "is_local": false
       },
@@ -7523,7 +7633,7 @@
         "href": "https://api.spotify.com/v1/tracks/2aF7nM7ML806C0eJMfHyby",
         "id": "2aF7nM7ML806C0eJMfHyby",
         "name": "Only Love",
-        "popularity": 19,
+        "popularity": 18,
         "uri": "spotify:track:2aF7nM7ML806C0eJMfHyby",
         "is_local": false
       },
@@ -10637,7 +10747,7 @@
         "href": "https://api.spotify.com/v1/tracks/4e0YtDwcwZuf8FCdjaMDWs",
         "id": "4e0YtDwcwZuf8FCdjaMDWs",
         "name": "Jetty",
-        "popularity": 37,
+        "popularity": 36,
         "uri": "spotify:track:4e0YtDwcwZuf8FCdjaMDWs",
         "is_local": false
       },
@@ -11117,7 +11227,7 @@
         "href": "https://api.spotify.com/v1/tracks/3r6yHtB3oX6CiWKKCXxtlq",
         "id": "3r6yHtB3oX6CiWKKCXxtlq",
         "name": "Live in the Moment - Tycho Sunset Remix",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:3r6yHtB3oX6CiWKKCXxtlq",
         "is_local": false
       },
@@ -12657,7 +12767,7 @@
         "href": "https://api.spotify.com/v1/tracks/4hycQUf62qEZPdSJma3Z7I",
         "id": "4hycQUf62qEZPdSJma3Z7I",
         "name": "Alaska - Tycho Remix",
-        "popularity": 36,
+        "popularity": 35,
         "uri": "spotify:track:4hycQUf62qEZPdSJma3Z7I",
         "is_local": false
       },
