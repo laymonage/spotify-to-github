@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GxImj"
   },
-  "followers": { "href": null, "total": 12333 },
+  "followers": { "href": null, "total": 12336 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0GxImj?locale=*",
   "id": "37i9dQZF1DZ06evO0GxImj",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "aRJ8gAAAAABT5gPk2FadjNZz/at98TQE",
+  "snapshot_id": "aRPOAAAAAADoUbTcBICXwLn8jnkbTcn2",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO0GxImj",
   "tracks": [
@@ -943,7 +943,7 @@
         "href": "https://api.spotify.com/v1/tracks/2diC2THH55uAw4GGpZQjwn",
         "id": "2diC2THH55uAw4GGpZQjwn",
         "name": "POKKA POKKA",
-        "popularity": 42,
+        "popularity": 43,
         "uri": "spotify:track:2diC2THH55uAw4GGpZQjwn",
         "is_local": false
       },
@@ -5543,7 +5543,7 @@
         "href": "https://api.spotify.com/v1/tracks/5CfPX45bbRvUtu46Zk5Xy6",
         "id": "5CfPX45bbRvUtu46Zk5Xy6",
         "name": "幸せ者 - Live",
-        "popularity": 32,
+        "popularity": 33,
         "uri": "spotify:track:5CfPX45bbRvUtu46Zk5Xy6",
         "is_local": false
       },
@@ -6021,7 +6021,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e70bdfa3a1ca94c711d9160a78499cc695100818?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/69ef71297ced56038bca3057b07c13370dc271dd?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -6454,17 +6454,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 522253,
-        "external_ids": { "isrc": "JPPO09730250" },
+        "track_number": 4,
+        "duration_ms": 336720,
+        "external_ids": { "isrc": "JPPO09730270" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/682TDtMAq9UcKN0QqVN019"
+          "spotify": "https://open.spotify.com/track/0msOgZw6XpjSXTyNr6Jkd8"
         },
-        "href": "https://api.spotify.com/v1/tracks/682TDtMAq9UcKN0QqVN019",
-        "id": "682TDtMAq9UcKN0QqVN019",
-        "name": "WEATHER REPORT",
-        "popularity": 41,
-        "uri": "spotify:track:682TDtMAq9UcKN0QqVN019",
+        "href": "https://api.spotify.com/v1/tracks/0msOgZw6XpjSXTyNr6Jkd8",
+        "id": "0msOgZw6XpjSXTyNr6Jkd8",
+        "name": "IN THE FLIGHT",
+        "popularity": 35,
+        "uri": "spotify:track:0msOgZw6XpjSXTyNr6Jkd8",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -7861,7 +7861,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/69ef71297ced56038bca3057b07c13370dc271dd?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/e70bdfa3a1ca94c711d9160a78499cc695100818?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -8294,17 +8294,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 336720,
-        "external_ids": { "isrc": "JPPO09730270" },
+        "track_number": 2,
+        "duration_ms": 522253,
+        "external_ids": { "isrc": "JPPO09730250" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0msOgZw6XpjSXTyNr6Jkd8"
+          "spotify": "https://open.spotify.com/track/682TDtMAq9UcKN0QqVN019"
         },
-        "href": "https://api.spotify.com/v1/tracks/0msOgZw6XpjSXTyNr6Jkd8",
-        "id": "0msOgZw6XpjSXTyNr6Jkd8",
-        "name": "IN THE FLIGHT",
-        "popularity": 35,
-        "uri": "spotify:track:0msOgZw6XpjSXTyNr6Jkd8",
+        "href": "https://api.spotify.com/v1/tracks/682TDtMAq9UcKN0QqVN019",
+        "id": "682TDtMAq9UcKN0QqVN019",
+        "name": "WEATHER REPORT",
+        "popularity": 41,
+        "uri": "spotify:track:682TDtMAq9UcKN0QqVN019",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
