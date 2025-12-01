@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 34054 },
+  "followers": { "href": null, "total": 34056 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "aSeUgAAAAABNGEO98wD4CrDkUqw95y6o",
+  "snapshot_id": "aSo3gAAAAAB8ppHsNP5We5/xRuqAuPfu",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -939,7 +939,7 @@
         "href": "https://api.spotify.com/v1/tracks/75epmKQsn2S7ZGKKGHiupK",
         "id": "75epmKQsn2S7ZGKKGHiupK",
         "name": "Big Ideas",
-        "popularity": 47,
+        "popularity": 49,
         "uri": "spotify:track:75epmKQsn2S7ZGKKGHiupK",
         "is_local": false
       },
@@ -17869,96 +17869,6 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": null,
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1NBxGaBKiNLuUpXpc1mnqE",
-          "id": "1NBxGaBKiNLuUpXpc1mnqE",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273352cc19879631a8732b015d6",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02352cc19879631a8732b015d6",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851352cc19879631a8732b015d6",
-              "width": 64
-            }
-          ],
-          "name": "What The Devil Has Made (From The Film 'Spirit of Akasha')",
-          "release_date": "2014-01-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:1NBxGaBKiNLuUpXpc1mnqE",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/1NBxGaBKiNLuUpXpc1mnqE"
-          },
-          "total_tracks": 1
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 287128,
-        "external_ids": { "isrc": "AUUM71400068" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6RxXF14G5pBPC1e5que9QC"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6RxXF14G5pBPC1e5que9QC",
-        "id": "6RxXF14G5pBPC1e5que9QC",
-        "name": "What The Devil Has Made - From The Film 'Spirit of Akasha'",
-        "popularity": 24,
-        "uri": "spotify:track:6RxXF14G5pBPC1e5que9QC",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/9abb9b13a33435f60fcdc8fda95e55e48209e165?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -18415,6 +18325,96 @@
         "name": "Missing You (feat. Matt Corby) - Live",
         "popularity": 23,
         "uri": "spotify:track:2SypLi8dKk14pT8L3d2hH1",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": null,
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/1NBxGaBKiNLuUpXpc1mnqE",
+          "id": "1NBxGaBKiNLuUpXpc1mnqE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273352cc19879631a8732b015d6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02352cc19879631a8732b015d6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851352cc19879631a8732b015d6",
+              "width": 64
+            }
+          ],
+          "name": "What The Devil Has Made (From The Film 'Spirit of Akasha')",
+          "release_date": "2014-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:1NBxGaBKiNLuUpXpc1mnqE",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1NBxGaBKiNLuUpXpc1mnqE"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 287128,
+        "external_ids": { "isrc": "AUUM71400068" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6RxXF14G5pBPC1e5que9QC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6RxXF14G5pBPC1e5que9QC",
+        "id": "6RxXF14G5pBPC1e5que9QC",
+        "name": "What The Devil Has Made - From The Film 'Spirit of Akasha'",
+        "popularity": 24,
+        "uri": "spotify:track:6RxXF14G5pBPC1e5que9QC",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
