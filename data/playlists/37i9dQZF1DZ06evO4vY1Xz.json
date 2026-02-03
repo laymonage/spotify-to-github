@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4vY1Xz"
   },
-  "followers": { "href": null, "total": 34355 },
+  "followers": { "href": null, "total": 34357 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO4vY1Xz?locale=*",
   "id": "37i9dQZF1DZ06evO4vY1Xz",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "aX1GAAAAAABq9fC/miYMBib26IDJRx10",
+  "snapshot_id": "aX6XgAAAAABBIXRA2zIA8gmP/SOQxsbD",
   "type": "playlist",
   "uri": "spotify:playlist:37i9dQZF1DZ06evO4vY1Xz",
   "tracks": [
@@ -2279,7 +2279,7 @@
         "href": "https://api.spotify.com/v1/tracks/75epmKQsn2S7ZGKKGHiupK",
         "id": "75epmKQsn2S7ZGKKGHiupK",
         "name": "Big Ideas",
-        "popularity": 50,
+        "popularity": 49,
         "uri": "spotify:track:75epmKQsn2S7ZGKKGHiupK",
         "is_local": false
       },
@@ -8249,7 +8249,7 @@
         "href": "https://api.spotify.com/v1/tracks/4ajui34hnuTZyYSkp0GqgG",
         "id": "4ajui34hnuTZyYSkp0GqgG",
         "name": "Lover",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:4ajui34hnuTZyYSkp0GqgG",
         "is_local": false
       },
@@ -13699,7 +13699,7 @@
         "href": "https://api.spotify.com/v1/tracks/4G39iutvZ7Iqh82k61BGVV",
         "id": "4G39iutvZ7Iqh82k61BGVV",
         "name": "Problems",
-        "popularity": 27,
+        "popularity": 26,
         "uri": "spotify:track:4G39iutvZ7Iqh82k61BGVV",
         "is_local": false
       },
@@ -14615,7 +14615,7 @@
         "href": "https://api.spotify.com/v1/tracks/2SklmBvPC7WFFZVVI5Qnig",
         "id": "2SklmBvPC7WFFZVVI5Qnig",
         "name": "Desert Land",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:2SklmBvPC7WFFZVVI5Qnig",
         "is_local": false
       },
@@ -20263,6 +20263,96 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": ["AU", "NZ"],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": ["AU", "NZ"],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/22RmdDp3ETPgQZrmqnoC2m",
+          "id": "22RmdDp3ETPgQZrmqnoC2m",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27399c9d51175e39425083f9e65",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e0299c9d51175e39425083f9e65",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d0000485199c9d51175e39425083f9e65",
+              "width": 64
+            }
+          ],
+          "name": "Song For...",
+          "release_date": "2009-01-01",
+          "release_date_precision": "day",
+          "uri": "spotify:album:22RmdDp3ETPgQZrmqnoC2m",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+              },
+              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+              "id": "7CIW23FQUXPc1zebnO1TDG",
+              "name": "Matt Corby",
+              "type": "artist",
+              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/22RmdDp3ETPgQZrmqnoC2m"
+          },
+          "total_tracks": 4
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+            },
+            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
+            "id": "7CIW23FQUXPc1zebnO1TDG",
+            "name": "Matt Corby",
+            "type": "artist",
+            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 205165,
+        "external_ids": { "isrc": "AUUM71400337" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4wJpiPhRFMcBlp8Oq2jBY2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wJpiPhRFMcBlp8Oq2jBY2",
+        "id": "4wJpiPhRFMcBlp8Oq2jBY2",
+        "name": "Letters",
+        "popularity": 20,
+        "uri": "spotify:track:4wJpiPhRFMcBlp8Oq2jBY2",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "1970-01-01T00:00:00Z",
+      "added_by": {
+        "external_urls": { "spotify": "https://open.spotify.com/user/" },
+        "href": "https://api.spotify.com/v1/users/",
+        "id": "",
+        "type": "user",
+        "uri": "spotify:user:"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/80a09b2b42adc8f3e77a9a4882bcaecc55f2b672?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
@@ -20799,98 +20889,8 @@
         "href": "https://api.spotify.com/v1/tracks/25n85g1IhB3JRran4cnWJ0",
         "id": "25n85g1IhB3JRran4cnWJ0",
         "name": "Coloured Stones And Walls",
-        "popularity": 21,
-        "uri": "spotify:track:25n85g1IhB3JRran4cnWJ0",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "1970-01-01T00:00:00Z",
-      "added_by": {
-        "external_urls": { "spotify": "https://open.spotify.com/user/" },
-        "href": "https://api.spotify.com/v1/users/",
-        "id": "",
-        "type": "user",
-        "uri": "spotify:user:"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": null,
-        "available_markets": ["AU", "NZ"],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": ["AU", "NZ"],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/22RmdDp3ETPgQZrmqnoC2m",
-          "id": "22RmdDp3ETPgQZrmqnoC2m",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27399c9d51175e39425083f9e65",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0299c9d51175e39425083f9e65",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485199c9d51175e39425083f9e65",
-              "width": 64
-            }
-          ],
-          "name": "Song For...",
-          "release_date": "2009-01-01",
-          "release_date_precision": "day",
-          "uri": "spotify:album:22RmdDp3ETPgQZrmqnoC2m",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-              },
-              "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-              "id": "7CIW23FQUXPc1zebnO1TDG",
-              "name": "Matt Corby",
-              "type": "artist",
-              "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/22RmdDp3ETPgQZrmqnoC2m"
-          },
-          "total_tracks": 4
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-            },
-            "href": "https://api.spotify.com/v1/artists/7CIW23FQUXPc1zebnO1TDG",
-            "id": "7CIW23FQUXPc1zebnO1TDG",
-            "name": "Matt Corby",
-            "type": "artist",
-            "uri": "spotify:artist:7CIW23FQUXPc1zebnO1TDG"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 205165,
-        "external_ids": { "isrc": "AUUM71400337" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/4wJpiPhRFMcBlp8Oq2jBY2"
-        },
-        "href": "https://api.spotify.com/v1/tracks/4wJpiPhRFMcBlp8Oq2jBY2",
-        "id": "4wJpiPhRFMcBlp8Oq2jBY2",
-        "name": "Letters",
         "popularity": 20,
-        "uri": "spotify:track:4wJpiPhRFMcBlp8Oq2jBY2",
+        "uri": "spotify:track:25n85g1IhB3JRran4cnWJ0",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
