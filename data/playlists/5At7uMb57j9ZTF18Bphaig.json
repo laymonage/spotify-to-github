@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fe046a3d45d3dea9b339cfe6",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84fe046a3d45d3dea9b339cfe6",
       "width": null
     }
   ],
@@ -26,6 +26,2576 @@
   "primary_color": null,
   "public": true,
   "snapshot_id": "AAAACSO6bOyUiFdcRQKZ0BUcAlRk6rpv",
+  "items": {
+    "href": "https://api.spotify.com/v1/playlists/5At7uMb57j9ZTF18Bphaig/items?offset=0&limit=100&locale=*",
+    "items": [
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 1,
+          "duration_ms": 277226,
+          "external_ids": { "isrc": "ushm21159139" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5TSYKvgjxqZwyip5VgDGRL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5TSYKvgjxqZwyip5VgDGRL",
+          "id": "5TSYKvgjxqZwyip5VgDGRL",
+          "name": "Guns For Hands",
+          "popularity": 0,
+          "uri": "spotify:track:5TSYKvgjxqZwyip5VgDGRL",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 1,
+          "duration_ms": 277226,
+          "external_ids": { "isrc": "ushm21159139" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5TSYKvgjxqZwyip5VgDGRL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5TSYKvgjxqZwyip5VgDGRL",
+          "id": "5TSYKvgjxqZwyip5VgDGRL",
+          "name": "Guns For Hands",
+          "popularity": 0,
+          "uri": "spotify:track:5TSYKvgjxqZwyip5VgDGRL",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 2,
+          "duration_ms": 266333,
+          "external_ids": { "isrc": "ushm21159140" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2wTzfwgEVFvKnzCTJKcyFr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2wTzfwgEVFvKnzCTJKcyFr",
+          "id": "2wTzfwgEVFvKnzCTJKcyFr",
+          "name": "Holding On To You",
+          "popularity": 0,
+          "uri": "spotify:track:2wTzfwgEVFvKnzCTJKcyFr",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 2,
+          "duration_ms": 266333,
+          "external_ids": { "isrc": "ushm21159140" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2wTzfwgEVFvKnzCTJKcyFr"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2wTzfwgEVFvKnzCTJKcyFr",
+          "id": "2wTzfwgEVFvKnzCTJKcyFr",
+          "name": "Holding On To You",
+          "popularity": 0,
+          "uri": "spotify:track:2wTzfwgEVFvKnzCTJKcyFr",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 3,
+          "duration_ms": 313586,
+          "external_ids": { "isrc": "ushm21159141" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/141du6JLKcQdA0TpKiywX6"
+          },
+          "href": "https://api.spotify.com/v1/tracks/141du6JLKcQdA0TpKiywX6",
+          "id": "141du6JLKcQdA0TpKiywX6",
+          "name": "Ode To Sleep",
+          "popularity": 0,
+          "uri": "spotify:track:141du6JLKcQdA0TpKiywX6",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 3,
+          "duration_ms": 313586,
+          "external_ids": { "isrc": "ushm21159141" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/141du6JLKcQdA0TpKiywX6"
+          },
+          "href": "https://api.spotify.com/v1/tracks/141du6JLKcQdA0TpKiywX6",
+          "id": "141du6JLKcQdA0TpKiywX6",
+          "name": "Ode To Sleep",
+          "popularity": 0,
+          "uri": "spotify:track:141du6JLKcQdA0TpKiywX6",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 4,
+          "duration_ms": 297800,
+          "external_ids": { "isrc": "ushm21159142" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3qSjn0K6i4mp0FVlYKKn5v"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3qSjn0K6i4mp0FVlYKKn5v",
+          "id": "3qSjn0K6i4mp0FVlYKKn5v",
+          "name": "Slowtown",
+          "popularity": 0,
+          "uri": "spotify:track:3qSjn0K6i4mp0FVlYKKn5v",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 4,
+          "duration_ms": 297800,
+          "external_ids": { "isrc": "ushm21159142" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3qSjn0K6i4mp0FVlYKKn5v"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3qSjn0K6i4mp0FVlYKKn5v",
+          "id": "3qSjn0K6i4mp0FVlYKKn5v",
+          "name": "Slowtown",
+          "popularity": 0,
+          "uri": "spotify:track:3qSjn0K6i4mp0FVlYKKn5v",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 5,
+          "duration_ms": 289573,
+          "external_ids": { "isrc": "ushm21159143" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0r1Lwr0yomY8ORHAp3PIGT"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0r1Lwr0yomY8ORHAp3PIGT",
+          "id": "0r1Lwr0yomY8ORHAp3PIGT",
+          "name": "Car Radio",
+          "popularity": 0,
+          "uri": "spotify:track:0r1Lwr0yomY8ORHAp3PIGT",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 5,
+          "duration_ms": 289573,
+          "external_ids": { "isrc": "ushm21159143" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0r1Lwr0yomY8ORHAp3PIGT"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0r1Lwr0yomY8ORHAp3PIGT",
+          "id": "0r1Lwr0yomY8ORHAp3PIGT",
+          "name": "Car Radio",
+          "popularity": 0,
+          "uri": "spotify:track:0r1Lwr0yomY8ORHAp3PIGT",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 6,
+          "duration_ms": 251000,
+          "external_ids": { "isrc": "ushm21159144" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2b9UxmjpkuYfeDeKxUH9D9"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2b9UxmjpkuYfeDeKxUH9D9",
+          "id": "2b9UxmjpkuYfeDeKxUH9D9",
+          "name": "Forest",
+          "popularity": 0,
+          "uri": "spotify:track:2b9UxmjpkuYfeDeKxUH9D9",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 6,
+          "duration_ms": 251000,
+          "external_ids": { "isrc": "ushm21159144" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2b9UxmjpkuYfeDeKxUH9D9"
+          },
+          "href": "https://api.spotify.com/v1/tracks/2b9UxmjpkuYfeDeKxUH9D9",
+          "id": "2b9UxmjpkuYfeDeKxUH9D9",
+          "name": "Forest",
+          "popularity": 0,
+          "uri": "spotify:track:2b9UxmjpkuYfeDeKxUH9D9",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 7,
+          "duration_ms": 266306,
+          "external_ids": { "isrc": "ushm21159145" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4XvPIfb0MW8bdBuYkdk8wP"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4XvPIfb0MW8bdBuYkdk8wP",
+          "id": "4XvPIfb0MW8bdBuYkdk8wP",
+          "name": "Glowing Eyes",
+          "popularity": 0,
+          "uri": "spotify:track:4XvPIfb0MW8bdBuYkdk8wP",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 7,
+          "duration_ms": 266306,
+          "external_ids": { "isrc": "ushm21159145" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4XvPIfb0MW8bdBuYkdk8wP"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4XvPIfb0MW8bdBuYkdk8wP",
+          "id": "4XvPIfb0MW8bdBuYkdk8wP",
+          "name": "Glowing Eyes",
+          "popularity": 0,
+          "uri": "spotify:track:4XvPIfb0MW8bdBuYkdk8wP",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 8,
+          "duration_ms": 334000,
+          "external_ids": { "isrc": "ushm21159146" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5bIi1wkJNvveAp7xkpYEu0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5bIi1wkJNvveAp7xkpYEu0",
+          "id": "5bIi1wkJNvveAp7xkpYEu0",
+          "name": "Kitchen Sink",
+          "popularity": 0,
+          "uri": "spotify:track:5bIi1wkJNvveAp7xkpYEu0",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 8,
+          "duration_ms": 334000,
+          "external_ids": { "isrc": "ushm21159146" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5bIi1wkJNvveAp7xkpYEu0"
+          },
+          "href": "https://api.spotify.com/v1/tracks/5bIi1wkJNvveAp7xkpYEu0",
+          "id": "5bIi1wkJNvveAp7xkpYEu0",
+          "name": "Kitchen Sink",
+          "popularity": 0,
+          "uri": "spotify:track:5bIi1wkJNvveAp7xkpYEu0",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 9,
+          "duration_ms": 239920,
+          "external_ids": { "isrc": "ushm21159147" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4CPShfKiRh6xg3HQeDJQwX"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4CPShfKiRh6xg3HQeDJQwX",
+          "id": "4CPShfKiRh6xg3HQeDJQwX",
+          "name": "Anathema",
+          "popularity": 0,
+          "uri": "spotify:track:4CPShfKiRh6xg3HQeDJQwX",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 9,
+          "duration_ms": 239920,
+          "external_ids": { "isrc": "ushm21159147" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4CPShfKiRh6xg3HQeDJQwX"
+          },
+          "href": "https://api.spotify.com/v1/tracks/4CPShfKiRh6xg3HQeDJQwX",
+          "id": "4CPShfKiRh6xg3HQeDJQwX",
+          "name": "Anathema",
+          "popularity": 0,
+          "uri": "spotify:track:4CPShfKiRh6xg3HQeDJQwX",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 10,
+          "duration_ms": 260586,
+          "external_ids": { "isrc": "ushm21159148" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/62aCPQdNepQcAVrvOzoiw5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/62aCPQdNepQcAVrvOzoiw5",
+          "id": "62aCPQdNepQcAVrvOzoiw5",
+          "name": "Lovely",
+          "popularity": 0,
+          "uri": "spotify:track:62aCPQdNepQcAVrvOzoiw5",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 10,
+          "duration_ms": 260586,
+          "external_ids": { "isrc": "ushm21159148" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/62aCPQdNepQcAVrvOzoiw5"
+          },
+          "href": "https://api.spotify.com/v1/tracks/62aCPQdNepQcAVrvOzoiw5",
+          "id": "62aCPQdNepQcAVrvOzoiw5",
+          "name": "Lovely",
+          "popularity": 0,
+          "uri": "spotify:track:62aCPQdNepQcAVrvOzoiw5",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": "https://p.scdn.co/mp3-preview/8ffc16fa66c09b78a6a809f4a8e4bcc5105e9b59?cid=c73100e39ab6406dae4c4479ff75d174",
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 11,
+          "duration_ms": 270186,
+          "external_ids": { "isrc": "ushm21159149" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0GJh3Pe3FxrV1DL8TM5QJL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0GJh3Pe3FxrV1DL8TM5QJL",
+          "id": "0GJh3Pe3FxrV1DL8TM5QJL",
+          "name": "Ruby",
+          "popularity": 0,
+          "uri": "spotify:track:0GJh3Pe3FxrV1DL8TM5QJL",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": "https://p.scdn.co/mp3-preview/8ffc16fa66c09b78a6a809f4a8e4bcc5105e9b59?cid=c73100e39ab6406dae4c4479ff75d174",
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 11,
+          "duration_ms": 270186,
+          "external_ids": { "isrc": "ushm21159149" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0GJh3Pe3FxrV1DL8TM5QJL"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0GJh3Pe3FxrV1DL8TM5QJL",
+          "id": "0GJh3Pe3FxrV1DL8TM5QJL",
+          "name": "Ruby",
+          "popularity": 0,
+          "uri": "spotify:track:0GJh3Pe3FxrV1DL8TM5QJL",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 12,
+          "duration_ms": 260586,
+          "external_ids": { "isrc": "ushm21159150" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1jgtUep3ENhXbOnl61fx5i"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1jgtUep3ENhXbOnl61fx5i",
+          "id": "1jgtUep3ENhXbOnl61fx5i",
+          "name": "Trees",
+          "popularity": 0,
+          "uri": "spotify:track:1jgtUep3ENhXbOnl61fx5i",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 12,
+          "duration_ms": 260586,
+          "external_ids": { "isrc": "ushm21159150" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1jgtUep3ENhXbOnl61fx5i"
+          },
+          "href": "https://api.spotify.com/v1/tracks/1jgtUep3ENhXbOnl61fx5i",
+          "id": "1jgtUep3ENhXbOnl61fx5i",
+          "name": "Trees",
+          "popularity": 0,
+          "uri": "spotify:track:1jgtUep3ENhXbOnl61fx5i",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 13,
+          "duration_ms": 248000,
+          "external_ids": { "isrc": "ushm21159151" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6whqhVOHjgOI7XIxOXvLFD"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6whqhVOHjgOI7XIxOXvLFD",
+          "id": "6whqhVOHjgOI7XIxOXvLFD",
+          "name": "Be Concerned",
+          "popularity": 0,
+          "uri": "spotify:track:6whqhVOHjgOI7XIxOXvLFD",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 13,
+          "duration_ms": 248000,
+          "external_ids": { "isrc": "ushm21159151" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6whqhVOHjgOI7XIxOXvLFD"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6whqhVOHjgOI7XIxOXvLFD",
+          "id": "6whqhVOHjgOI7XIxOXvLFD",
+          "name": "Be Concerned",
+          "popularity": 0,
+          "uri": "spotify:track:6whqhVOHjgOI7XIxOXvLFD",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 14,
+          "duration_ms": 218666,
+          "external_ids": { "isrc": "ushm21159152" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0FSmVmI5jRC1MKAYRhgcgK"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0FSmVmI5jRC1MKAYRhgcgK",
+          "id": "0FSmVmI5jRC1MKAYRhgcgK",
+          "name": "Clear",
+          "popularity": 0,
+          "uri": "spotify:track:0FSmVmI5jRC1MKAYRhgcgK",
+          "is_local": false
+        },
+        "item": {
+          "preview_url": null,
+          "available_markets": [],
+          "explicit": false,
+          "type": "track",
+          "episode": false,
+          "track": true,
+          "album": {
+            "available_markets": [],
+            "type": "album",
+            "album_type": "album",
+            "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+            "id": "2pvaY5uQvitGuztVNfsRR8",
+            "images": [
+              {
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+                "width": 640,
+                "height": 640
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+                "width": 300,
+                "height": 300
+              },
+              {
+                "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+                "width": 64,
+                "height": 64
+              }
+            ],
+            "name": "Regional At Best",
+            "release_date": "2011-07-08",
+            "release_date_precision": "day",
+            "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+                },
+                "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+                "id": "3YQKmKGau1PzlVlkL1iodx",
+                "name": "Twenty One Pilots",
+                "type": "artist",
+                "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+              }
+            ],
+            "external_urls": {
+              "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+            },
+            "total_tracks": 14
+          },
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "disc_number": 1,
+          "track_number": 14,
+          "duration_ms": 218666,
+          "external_ids": { "isrc": "ushm21159152" },
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0FSmVmI5jRC1MKAYRhgcgK"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0FSmVmI5jRC1MKAYRhgcgK",
+          "id": "0FSmVmI5jRC1MKAYRhgcgK",
+          "name": "Clear",
+          "popularity": 0,
+          "uri": "spotify:track:0FSmVmI5jRC1MKAYRhgcgK",
+          "is_local": false
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2016-09-18T07:56:11Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": true,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": null,
+            "available_markets": [],
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "images": [],
+            "name": "Regional at Best",
+            "release_date": null,
+            "release_date_precision": null,
+            "type": "album",
+            "uri": null,
+            "artists": []
+          },
+          "artists": [
+            {
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "name": "twenty one pilots",
+              "type": "artist",
+              "uri": null
+            }
+          ],
+          "available_markets": [],
+          "explicit": false,
+          "preview_url": null,
+          "type": "track",
+          "disc_number": 0,
+          "external_ids": {},
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "duration_ms": 163000,
+          "name": "House Of Gold (Bonus Track)",
+          "uri": "spotify:local:twenty+one+pilots:Regional+at+Best:House+Of+Gold+%28Bonus+Track%29:163",
+          "popularity": 0,
+          "track_number": 0,
+          "is_local": true
+        },
+        "item": {
+          "album": {
+            "album_type": null,
+            "available_markets": [],
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "images": [],
+            "name": "Regional at Best",
+            "release_date": null,
+            "release_date_precision": null,
+            "type": "album",
+            "uri": null,
+            "artists": []
+          },
+          "artists": [
+            {
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "name": "twenty one pilots",
+              "type": "artist",
+              "uri": null
+            }
+          ],
+          "available_markets": [],
+          "explicit": false,
+          "preview_url": null,
+          "type": "track",
+          "disc_number": 0,
+          "external_ids": {},
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "duration_ms": 163000,
+          "name": "House Of Gold (Bonus Track)",
+          "uri": "spotify:local:twenty+one+pilots:Regional+at+Best:House+Of+Gold+%28Bonus+Track%29:163",
+          "popularity": 0,
+          "track_number": 0,
+          "is_local": true
+        },
+        "video_thumbnail": { "url": null }
+      },
+      {
+        "added_at": "2017-02-04T10:57:46Z",
+        "added_by": {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/laymonage"
+          },
+          "href": "https://api.spotify.com/v1/users/laymonage",
+          "id": "laymonage",
+          "type": "user",
+          "uri": "spotify:user:laymonage"
+        },
+        "is_local": true,
+        "primary_color": null,
+        "track": {
+          "album": {
+            "album_type": null,
+            "available_markets": [],
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "images": [],
+            "name": "Vessel",
+            "release_date": null,
+            "release_date_precision": null,
+            "type": "album",
+            "uri": null,
+            "artists": []
+          },
+          "artists": [
+            {
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "name": "twenty one pilots",
+              "type": "artist",
+              "uri": null
+            }
+          ],
+          "available_markets": [],
+          "explicit": false,
+          "preview_url": null,
+          "type": "track",
+          "disc_number": 0,
+          "external_ids": {},
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "duration_ms": 259000,
+          "name": "Lovely (Remastered)",
+          "uri": "spotify:local:twenty+one+pilots:Vessel:Lovely+%28Remastered%29:259",
+          "popularity": 0,
+          "track_number": 0,
+          "is_local": true
+        },
+        "item": {
+          "album": {
+            "album_type": null,
+            "available_markets": [],
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "images": [],
+            "name": "Vessel",
+            "release_date": null,
+            "release_date_precision": null,
+            "type": "album",
+            "uri": null,
+            "artists": []
+          },
+          "artists": [
+            {
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "name": "twenty one pilots",
+              "type": "artist",
+              "uri": null
+            }
+          ],
+          "available_markets": [],
+          "explicit": false,
+          "preview_url": null,
+          "type": "track",
+          "disc_number": 0,
+          "external_ids": {},
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "duration_ms": 259000,
+          "name": "Lovely (Remastered)",
+          "uri": "spotify:local:twenty+one+pilots:Vessel:Lovely+%28Remastered%29:259",
+          "popularity": 0,
+          "track_number": 0,
+          "is_local": true
+        },
+        "video_thumbnail": { "url": null }
+      }
+    ],
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  },
   "type": "playlist",
   "uri": "spotify:playlist:5At7uMb57j9ZTF18Bphaig",
   "tracks": [
@@ -43,6 +2613,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 277226,
+        "external_ids": { "isrc": "ushm21159139" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5TSYKvgjxqZwyip5VgDGRL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TSYKvgjxqZwyip5VgDGRL",
+        "id": "5TSYKvgjxqZwyip5VgDGRL",
+        "name": "Guns For Hands",
+        "popularity": 0,
+        "uri": "spotify:track:5TSYKvgjxqZwyip5VgDGRL",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -211,6 +2858,83 @@
         "uri": "spotify:track:2wTzfwgEVFvKnzCTJKcyFr",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 2,
+        "duration_ms": 266333,
+        "external_ids": { "isrc": "ushm21159140" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2wTzfwgEVFvKnzCTJKcyFr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2wTzfwgEVFvKnzCTJKcyFr",
+        "id": "2wTzfwgEVFvKnzCTJKcyFr",
+        "name": "Holding On To You",
+        "popularity": 0,
+        "uri": "spotify:track:2wTzfwgEVFvKnzCTJKcyFr",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -227,6 +2951,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 3,
+        "duration_ms": 313586,
+        "external_ids": { "isrc": "ushm21159141" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/141du6JLKcQdA0TpKiywX6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/141du6JLKcQdA0TpKiywX6",
+        "id": "141du6JLKcQdA0TpKiywX6",
+        "name": "Ode To Sleep",
+        "popularity": 0,
+        "uri": "spotify:track:141du6JLKcQdA0TpKiywX6",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -395,6 +3196,83 @@
         "uri": "spotify:track:3qSjn0K6i4mp0FVlYKKn5v",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 4,
+        "duration_ms": 297800,
+        "external_ids": { "isrc": "ushm21159142" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3qSjn0K6i4mp0FVlYKKn5v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qSjn0K6i4mp0FVlYKKn5v",
+        "id": "3qSjn0K6i4mp0FVlYKKn5v",
+        "name": "Slowtown",
+        "popularity": 0,
+        "uri": "spotify:track:3qSjn0K6i4mp0FVlYKKn5v",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -411,6 +3289,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 5,
+        "duration_ms": 289573,
+        "external_ids": { "isrc": "ushm21159143" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0r1Lwr0yomY8ORHAp3PIGT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0r1Lwr0yomY8ORHAp3PIGT",
+        "id": "0r1Lwr0yomY8ORHAp3PIGT",
+        "name": "Car Radio",
+        "popularity": 0,
+        "uri": "spotify:track:0r1Lwr0yomY8ORHAp3PIGT",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -579,6 +3534,83 @@
         "uri": "spotify:track:2b9UxmjpkuYfeDeKxUH9D9",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 6,
+        "duration_ms": 251000,
+        "external_ids": { "isrc": "ushm21159144" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2b9UxmjpkuYfeDeKxUH9D9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2b9UxmjpkuYfeDeKxUH9D9",
+        "id": "2b9UxmjpkuYfeDeKxUH9D9",
+        "name": "Forest",
+        "popularity": 0,
+        "uri": "spotify:track:2b9UxmjpkuYfeDeKxUH9D9",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -595,6 +3627,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 7,
+        "duration_ms": 266306,
+        "external_ids": { "isrc": "ushm21159145" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4XvPIfb0MW8bdBuYkdk8wP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4XvPIfb0MW8bdBuYkdk8wP",
+        "id": "4XvPIfb0MW8bdBuYkdk8wP",
+        "name": "Glowing Eyes",
+        "popularity": 0,
+        "uri": "spotify:track:4XvPIfb0MW8bdBuYkdk8wP",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -763,6 +3872,83 @@
         "uri": "spotify:track:5bIi1wkJNvveAp7xkpYEu0",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 8,
+        "duration_ms": 334000,
+        "external_ids": { "isrc": "ushm21159146" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5bIi1wkJNvveAp7xkpYEu0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5bIi1wkJNvveAp7xkpYEu0",
+        "id": "5bIi1wkJNvveAp7xkpYEu0",
+        "name": "Kitchen Sink",
+        "popularity": 0,
+        "uri": "spotify:track:5bIi1wkJNvveAp7xkpYEu0",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -779,6 +3965,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 9,
+        "duration_ms": 239920,
+        "external_ids": { "isrc": "ushm21159147" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4CPShfKiRh6xg3HQeDJQwX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4CPShfKiRh6xg3HQeDJQwX",
+        "id": "4CPShfKiRh6xg3HQeDJQwX",
+        "name": "Anathema",
+        "popularity": 0,
+        "uri": "spotify:track:4CPShfKiRh6xg3HQeDJQwX",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -947,6 +4210,83 @@
         "uri": "spotify:track:62aCPQdNepQcAVrvOzoiw5",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 10,
+        "duration_ms": 260586,
+        "external_ids": { "isrc": "ushm21159148" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/62aCPQdNepQcAVrvOzoiw5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62aCPQdNepQcAVrvOzoiw5",
+        "id": "62aCPQdNepQcAVrvOzoiw5",
+        "name": "Lovely",
+        "popularity": 0,
+        "uri": "spotify:track:62aCPQdNepQcAVrvOzoiw5",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -963,6 +4303,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": "https://p.scdn.co/mp3-preview/8ffc16fa66c09b78a6a809f4a8e4bcc5105e9b59?cid=c73100e39ab6406dae4c4479ff75d174",
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 11,
+        "duration_ms": 270186,
+        "external_ids": { "isrc": "ushm21159149" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0GJh3Pe3FxrV1DL8TM5QJL"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GJh3Pe3FxrV1DL8TM5QJL",
+        "id": "0GJh3Pe3FxrV1DL8TM5QJL",
+        "name": "Ruby",
+        "popularity": 0,
+        "uri": "spotify:track:0GJh3Pe3FxrV1DL8TM5QJL",
+        "is_local": false
+      },
+      "item": {
         "preview_url": "https://p.scdn.co/mp3-preview/8ffc16fa66c09b78a6a809f4a8e4bcc5105e9b59?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [],
         "explicit": false,
@@ -1131,6 +4548,83 @@
         "uri": "spotify:track:1jgtUep3ENhXbOnl61fx5i",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 12,
+        "duration_ms": 260586,
+        "external_ids": { "isrc": "ushm21159150" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1jgtUep3ENhXbOnl61fx5i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1jgtUep3ENhXbOnl61fx5i",
+        "id": "1jgtUep3ENhXbOnl61fx5i",
+        "name": "Trees",
+        "popularity": 0,
+        "uri": "spotify:track:1jgtUep3ENhXbOnl61fx5i",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -1147,6 +4641,83 @@
       "is_local": false,
       "primary_color": null,
       "track": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 13,
+        "duration_ms": 248000,
+        "external_ids": { "isrc": "ushm21159151" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6whqhVOHjgOI7XIxOXvLFD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6whqhVOHjgOI7XIxOXvLFD",
+        "id": "6whqhVOHjgOI7XIxOXvLFD",
+        "name": "Be Concerned",
+        "popularity": 0,
+        "uri": "spotify:track:6whqhVOHjgOI7XIxOXvLFD",
+        "is_local": false
+      },
+      "item": {
         "preview_url": null,
         "available_markets": [],
         "explicit": false,
@@ -1315,6 +4886,83 @@
         "uri": "spotify:track:0FSmVmI5jRC1MKAYRhgcgK",
         "is_local": false
       },
+      "item": {
+        "preview_url": null,
+        "available_markets": [],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [],
+          "type": "album",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/2pvaY5uQvitGuztVNfsRR8",
+          "id": "2pvaY5uQvitGuztVNfsRR8",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e09415e1975a4fae4389f1d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e029e09415e1975a4fae4389f1d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d000048519e09415e1975a4fae4389f1d",
+              "width": 64
+            }
+          ],
+          "name": "Regional At Best",
+          "release_date": "2011-07-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:2pvaY5uQvitGuztVNfsRR8",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2pvaY5uQvitGuztVNfsRR8"
+          },
+          "total_tracks": 14
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 14,
+        "duration_ms": 218666,
+        "external_ids": { "isrc": "ushm21159152" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0FSmVmI5jRC1MKAYRhgcgK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FSmVmI5jRC1MKAYRhgcgK",
+        "id": "0FSmVmI5jRC1MKAYRhgcgK",
+        "name": "Clear",
+        "popularity": 0,
+        "uri": "spotify:track:0FSmVmI5jRC1MKAYRhgcgK",
+        "is_local": false
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -1371,6 +5019,47 @@
         "track_number": 0,
         "is_local": true
       },
+      "item": {
+        "album": {
+          "album_type": null,
+          "available_markets": [],
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "images": [],
+          "name": "Regional at Best",
+          "release_date": null,
+          "release_date_precision": null,
+          "type": "album",
+          "uri": null,
+          "artists": []
+        },
+        "artists": [
+          {
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "name": "twenty one pilots",
+            "type": "artist",
+            "uri": null
+          }
+        ],
+        "available_markets": [],
+        "explicit": false,
+        "preview_url": null,
+        "type": "track",
+        "disc_number": 0,
+        "external_ids": {},
+        "external_urls": {},
+        "href": null,
+        "id": null,
+        "duration_ms": 163000,
+        "name": "House Of Gold (Bonus Track)",
+        "uri": "spotify:local:twenty+one+pilots:Regional+at+Best:House+Of+Gold+%28Bonus+Track%29:163",
+        "popularity": 0,
+        "track_number": 0,
+        "is_local": true
+      },
       "video_thumbnail": { "url": null }
     },
     {
@@ -1387,6 +5076,47 @@
       "is_local": true,
       "primary_color": null,
       "track": {
+        "album": {
+          "album_type": null,
+          "available_markets": [],
+          "external_urls": {},
+          "href": null,
+          "id": null,
+          "images": [],
+          "name": "Vessel",
+          "release_date": null,
+          "release_date_precision": null,
+          "type": "album",
+          "uri": null,
+          "artists": []
+        },
+        "artists": [
+          {
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "name": "twenty one pilots",
+            "type": "artist",
+            "uri": null
+          }
+        ],
+        "available_markets": [],
+        "explicit": false,
+        "preview_url": null,
+        "type": "track",
+        "disc_number": 0,
+        "external_ids": {},
+        "external_urls": {},
+        "href": null,
+        "id": null,
+        "duration_ms": 259000,
+        "name": "Lovely (Remastered)",
+        "uri": "spotify:local:twenty+one+pilots:Vessel:Lovely+%28Remastered%29:259",
+        "popularity": 0,
+        "track_number": 0,
+        "is_local": true
+      },
+      "item": {
         "album": {
           "album_type": null,
           "available_markets": [],
