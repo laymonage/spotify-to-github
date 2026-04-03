@@ -1,6 +1,472 @@
 {
-  "total": 526,
+  "total": 527,
   "albums": [
+    {
+      "added_at": "2026-03-30T08:29:59Z",
+      "album": {
+        "album_type": "single",
+        "total_tracks": 1,
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1JKdIQSktLrujxCQnHXbYO"
+        },
+        "href": "https://api.spotify.com/v1/albums/1JKdIQSktLrujxCQnHXbYO?locale=*",
+        "id": "1JKdIQSktLrujxCQnHXbYO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c39d96775c0c5498d8e45f58",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c39d96775c0c5498d8e45f58",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c39d96775c0c5498d8e45f58",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "Life",
+        "release_date": "2025-08-15",
+        "release_date_precision": "day",
+        "type": "album",
+        "uri": "spotify:album:1JKdIQSktLrujxCQnHXbYO",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ptF78Rbo8yHj9IxdSYZI4"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ptF78Rbo8yHj9IxdSYZI4",
+            "id": "6ptF78Rbo8yHj9IxdSYZI4",
+            "name": "Steven James Boal",
+            "type": "artist",
+            "uri": "spotify:artist:6ptF78Rbo8yHj9IxdSYZI4"
+          }
+        ],
+        "tracks": {
+          "href": "https://api.spotify.com/v1/albums/1JKdIQSktLrujxCQnHXbYO/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 1,
+          "items": [
+            {
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ptF78Rbo8yHj9IxdSYZI4"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/6ptF78Rbo8yHj9IxdSYZI4",
+                  "id": "6ptF78Rbo8yHj9IxdSYZI4",
+                  "name": "Steven James Boal",
+                  "type": "artist",
+                  "uri": "spotify:artist:6ptF78Rbo8yHj9IxdSYZI4"
+                }
+              ],
+              "available_markets": [
+                "AR",
+                "AU",
+                "AT",
+                "BE",
+                "BO",
+                "BR",
+                "BG",
+                "CA",
+                "CL",
+                "CO",
+                "CR",
+                "CY",
+                "CZ",
+                "DK",
+                "DO",
+                "DE",
+                "EC",
+                "EE",
+                "SV",
+                "FI",
+                "FR",
+                "GR",
+                "GT",
+                "HN",
+                "HK",
+                "HU",
+                "IS",
+                "IE",
+                "IT",
+                "LV",
+                "LT",
+                "LU",
+                "MY",
+                "MT",
+                "MX",
+                "NL",
+                "NZ",
+                "NI",
+                "NO",
+                "PA",
+                "PY",
+                "PE",
+                "PH",
+                "PL",
+                "PT",
+                "SG",
+                "SK",
+                "ES",
+                "SE",
+                "CH",
+                "TW",
+                "TR",
+                "UY",
+                "US",
+                "GB",
+                "AD",
+                "LI",
+                "MC",
+                "ID",
+                "JP",
+                "TH",
+                "VN",
+                "RO",
+                "IL",
+                "ZA",
+                "SA",
+                "AE",
+                "BH",
+                "QA",
+                "OM",
+                "KW",
+                "EG",
+                "MA",
+                "DZ",
+                "TN",
+                "LB",
+                "JO",
+                "PS",
+                "IN",
+                "BY",
+                "KZ",
+                "MD",
+                "UA",
+                "AL",
+                "BA",
+                "HR",
+                "ME",
+                "MK",
+                "RS",
+                "SI",
+                "KR",
+                "BD",
+                "PK",
+                "LK",
+                "GH",
+                "KE",
+                "NG",
+                "TZ",
+                "UG",
+                "AG",
+                "AM",
+                "BS",
+                "BB",
+                "BZ",
+                "BT",
+                "BW",
+                "BF",
+                "CV",
+                "CW",
+                "DM",
+                "FJ",
+                "GM",
+                "GE",
+                "GD",
+                "GW",
+                "GY",
+                "HT",
+                "JM",
+                "KI",
+                "LS",
+                "LR",
+                "MW",
+                "MV",
+                "ML",
+                "MH",
+                "FM",
+                "NA",
+                "NR",
+                "NE",
+                "PW",
+                "PG",
+                "PR",
+                "WS",
+                "SM",
+                "ST",
+                "SN",
+                "SC",
+                "SL",
+                "SB",
+                "KN",
+                "LC",
+                "VC",
+                "SR",
+                "TL",
+                "TO",
+                "TT",
+                "TV",
+                "VU",
+                "AZ",
+                "BN",
+                "BI",
+                "KH",
+                "CM",
+                "TD",
+                "KM",
+                "GQ",
+                "SZ",
+                "GA",
+                "GN",
+                "KG",
+                "LA",
+                "MO",
+                "MR",
+                "MN",
+                "NP",
+                "RW",
+                "TG",
+                "UZ",
+                "ZW",
+                "BJ",
+                "MG",
+                "MU",
+                "MZ",
+                "AO",
+                "CI",
+                "DJ",
+                "ZM",
+                "CD",
+                "CG",
+                "IQ",
+                "LY",
+                "TJ",
+                "VE",
+                "ET",
+                "XK"
+              ],
+              "disc_number": 1,
+              "duration_ms": 227863,
+              "explicit": false,
+              "external_urls": {
+                "spotify": "https://open.spotify.com/track/43KJt42ZlLPOYUc9EikRwT"
+              },
+              "href": "https://api.spotify.com/v1/tracks/43KJt42ZlLPOYUc9EikRwT",
+              "id": "43KJt42ZlLPOYUc9EikRwT",
+              "name": "Life",
+              "preview_url": "https://p.scdn.co/mp3-preview/8f667b6a27a34b5fda7cad1bed0ce381d6e73d4a?cid=c73100e39ab6406dae4c4479ff75d174",
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:43KJt42ZlLPOYUc9EikRwT",
+              "is_local": false
+            }
+          ]
+        },
+        "copyrights": [
+          { "text": "2025 Steven James Boal", "type": "C" },
+          { "text": "2025 Steven James Boal", "type": "P" }
+        ],
+        "external_ids": { "upc": "9361713655583" },
+        "genres": [],
+        "label": "Steven James Boal",
+        "popularity": 6
+      }
+    },
     {
       "added_at": "2026-03-10T19:43:08Z",
       "album": {
@@ -2865,7 +3331,7 @@
         "external_ids": { "upc": "803020304062" },
         "genres": [],
         "label": "Dualtone Music Group",
-        "popularity": 50
+        "popularity": 52
       }
     },
     {
@@ -10307,7 +10773,7 @@
         "external_ids": { "upc": "634457239456" },
         "genres": [],
         "label": "Egghunt Records",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -13174,7 +13640,7 @@
         "external_ids": { "upc": "3616405608948" },
         "genres": [],
         "label": "22TWENTY",
-        "popularity": 30
+        "popularity": 31
       }
     },
     {
@@ -15778,7 +16244,7 @@
         "external_ids": { "upc": "634457114289" },
         "genres": [],
         "label": "22TWENTY",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -19684,7 +20150,7 @@
         "external_ids": { "upc": "8721416350375" },
         "genres": [],
         "label": "Wizard Artists",
-        "popularity": 35
+        "popularity": 37
       }
     },
     {
@@ -20805,7 +21271,7 @@
         "external_ids": { "upc": "634457240551" },
         "genres": [],
         "label": "Egghunt Records",
-        "popularity": 30
+        "popularity": 27
       }
     },
     {
@@ -22131,7 +22597,7 @@
         "external_ids": { "upc": "199502974992" },
         "genres": [],
         "label": "Vansire",
-        "popularity": 25
+        "popularity": 26
       }
     },
     {
@@ -24101,7 +24567,7 @@
         "external_ids": { "upc": "4547366711370" },
         "genres": [],
         "label": "Sony Music Labels Inc.",
-        "popularity": 48
+        "popularity": 49
       }
     },
     {
@@ -34491,7 +34957,7 @@
         "external_ids": { "upc": "4988018308546" },
         "genres": [],
         "label": "FOR LIFE MUSIC ENTERTAINMENT, INC.",
-        "popularity": 12
+        "popularity": 11
       }
     },
     {
@@ -37752,7 +38218,7 @@
         "external_ids": { "upc": "840096258509" },
         "genres": [],
         "label": "Vansire",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -40808,7 +41274,7 @@
         "external_ids": { "upc": "074417031209" },
         "genres": [],
         "label": "Summer Salt",
-        "popularity": 33
+        "popularity": 32
       }
     },
     {
@@ -46050,7 +46516,7 @@
         "external_ids": { "upc": "858824002775" },
         "genres": [],
         "label": "Roll Call Records",
-        "popularity": 21
+        "popularity": 22
       }
     },
     {
@@ -48883,7 +49349,7 @@
         "external_ids": { "upc": "196873555331" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 78
+        "popularity": 80
       }
     },
     {
@@ -51196,7 +51662,7 @@
         "external_ids": { "upc": "713757608817" },
         "genres": [],
         "label": "Buffalo Jump Records",
-        "popularity": 44
+        "popularity": 45
       }
     },
     {
@@ -52737,7 +53203,7 @@
         "external_ids": { "upc": "192562274798" },
         "genres": [],
         "label": "Roll Call Records",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -53487,7 +53953,7 @@
         "external_ids": { "upc": "4711232791265" },
         "genres": [],
         "label": "夕陽音樂產業有限公司",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -54429,7 +54895,7 @@
         "external_ids": { "upc": "197188589639" },
         "genres": [],
         "label": "夕陽音樂產業有限公司",
-        "popularity": 1
+        "popularity": 0
       }
     },
     {
@@ -59846,7 +60312,7 @@
         "external_ids": { "upc": "199538683622" },
         "genres": [],
         "label": "Djo",
-        "popularity": 69
+        "popularity": 68
       }
     },
     {
@@ -62132,7 +62598,7 @@
         "external_ids": { "upc": "859764615698" },
         "genres": [],
         "label": "Mark Whalen & Niko Bokos",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -67583,7 +68049,7 @@
         "external_ids": { "upc": "5021732943903" },
         "genres": [],
         "label": "WM Taiwan",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -75626,7 +76092,7 @@
         "external_ids": { "upc": "4547366655728" },
         "genres": [],
         "label": "SDR Inc.",
-        "popularity": 72
+        "popularity": 73
       }
     },
     {
@@ -78182,7 +78648,7 @@
         "external_ids": { "upc": "197189864599" },
         "genres": [],
         "label": "SDR Inc.",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -82926,7 +83392,7 @@
         "external_ids": { "upc": "00602577087103" },
         "genres": [],
         "label": "Universal Music LLC",
-        "popularity": 24
+        "popularity": 25
       }
     },
     {
@@ -86600,7 +87066,7 @@
         "external_ids": { "upc": "00094633251656" },
         "genres": [],
         "label": "EMI MUSIC JAPAN INC.",
-        "popularity": 29
+        "popularity": 30
       }
     },
     {
@@ -96979,7 +97445,7 @@
         "external_ids": { "upc": "4988018307877" },
         "genres": [],
         "label": "FOR LIFE MUSIC ENTERTAINMENT, INC.",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -97651,7 +98117,7 @@
         "external_ids": { "upc": "4988003306298" },
         "genres": [],
         "label": "KING RECORDS",
-        "popularity": 31
+        "popularity": 32
       }
     },
     {
@@ -104637,7 +105103,7 @@
         "external_ids": { "upc": "8800312826129" },
         "genres": [],
         "label": "DOOROODOOROO ARTIST COMPANY, Sunset Music Productions Co., Ltd",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -108201,7 +108667,7 @@
         "external_ids": { "upc": "884977794632" },
         "genres": [],
         "label": "Sony Music Direct (Japan) Inc.",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -116249,7 +116715,7 @@
         "external_ids": { "upc": "656605039466" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -117575,7 +118041,7 @@
         "external_ids": { "upc": "198846365831" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 28
+        "popularity": 29
       }
     },
     {
@@ -126297,7 +126763,7 @@
         "external_ids": { "upc": "198622737302" },
         "genres": [],
         "label": "Perpetual Eschaton",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -132033,7 +132499,7 @@
         "external_ids": { "upc": "197188957636" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -135279,7 +135745,7 @@
         "external_ids": { "upc": "4524135184986" },
         "genres": [],
         "label": "PONY CANYON INC.",
-        "popularity": 13
+        "popularity": 14
       }
     },
     {
@@ -137465,7 +137931,7 @@
         "external_ids": { "upc": "5054429195170" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 32
+        "popularity": 33
       }
     },
     {
@@ -140299,7 +140765,7 @@
         "external_ids": { "upc": "8721093585046" },
         "genres": [],
         "label": "Many Hats Distribution",
-        "popularity": 42
+        "popularity": 43
       }
     },
     {
@@ -144684,7 +145150,7 @@
         "external_ids": { "upc": "195937318530" },
         "genres": [],
         "label": "TOLEDO",
-        "popularity": 34
+        "popularity": 35
       }
     },
     {
@@ -147294,7 +147760,7 @@
         "external_ids": { "upc": "884977433104" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -151802,7 +152268,7 @@
         "external_ids": { "upc": "193436384223" },
         "genres": [],
         "label": "Alexander 23",
-        "popularity": 19
+        "popularity": 21
       }
     },
     {
@@ -152477,7 +152943,7 @@
         "external_ids": { "upc": "00602455729996" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 30
+        "popularity": 31
       }
     },
     {
@@ -164932,7 +165398,7 @@
         "external_ids": { "upc": "634904078065" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 78
+        "popularity": 79
       }
     },
     {
@@ -167333,7 +167799,7 @@
         "external_ids": { "upc": "617308024609" },
         "genres": [],
         "label": "Single Lock Records",
-        "popularity": 32
+        "popularity": 33
       }
     },
     {
@@ -168201,7 +168667,7 @@
         "external_ids": { "upc": "810090094113" },
         "genres": [],
         "label": "Mom+Pop",
-        "popularity": 6
+        "popularity": 4
       }
     },
     {
@@ -170811,7 +171277,7 @@
         "external_ids": { "upc": "00888072089921" },
         "genres": [],
         "label": "Fantasy",
-        "popularity": 41
+        "popularity": 42
       }
     },
     {
@@ -173642,7 +174108,7 @@
         "external_ids": { "upc": "197188834722" },
         "genres": [],
         "label": "The Brook & The Bluff",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -181615,7 +182081,7 @@
         "external_ids": { "upc": "644110040893" },
         "genres": [],
         "label": "Polyvinyl Records",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -184998,7 +185464,7 @@
         "external_ids": { "upc": "825646543335" },
         "genres": [],
         "label": "Atlantic Records UK",
-        "popularity": 44
+        "popularity": 45
       }
     },
     {
@@ -187184,7 +187650,7 @@
         "external_ids": { "upc": "196626246646" },
         "genres": [],
         "label": "Grind Select",
-        "popularity": 6
+        "popularity": 7
       }
     },
     {
@@ -188725,7 +189191,7 @@
         "external_ids": { "upc": "192378682688" },
         "genres": [],
         "label": "The Irons",
-        "popularity": 4
+        "popularity": 3
       }
     },
     {
@@ -191709,7 +192175,7 @@
         "external_ids": { "upc": "5034202204350" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 20
+        "popularity": 21
       }
     },
     {
@@ -203221,7 +203687,7 @@
         "external_ids": { "upc": "889211689682" },
         "genres": [],
         "label": "Blah Blah Blah",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -205393,7 +205859,7 @@
         "external_ids": { "upc": "00888072554597" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 25
+        "popularity": 26
       }
     },
     {
@@ -210163,7 +210629,7 @@
         "external_ids": { "upc": "093624867593" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 54
+        "popularity": 55
       }
     },
     {
@@ -213778,7 +214244,7 @@
         "external_ids": { "upc": "098787112269" },
         "genres": [],
         "label": "Apple Orchard Music",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -215406,7 +215872,7 @@
         "external_ids": { "upc": "098787096569" },
         "genres": [],
         "label": "Apple Orchard Music",
-        "popularity": 48
+        "popularity": 49
       }
     },
     {
@@ -218224,7 +218690,7 @@
         "external_ids": { "upc": "00602508571718" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 79
+        "popularity": 80
       }
     },
     {
@@ -223247,7 +223713,7 @@
         "external_ids": { "upc": "634904032463" },
         "genres": [],
         "label": "XL Recordings",
-        "popularity": 79
+        "popularity": 80
       }
     },
     {
@@ -227012,7 +227478,7 @@
         "external_ids": { "upc": "5054429176735" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 10
+        "popularity": 11
       }
     },
     {
@@ -228768,7 +229234,7 @@
         "external_ids": { "upc": "5063341252892" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 18
+        "popularity": 19
       }
     },
     {
@@ -232724,7 +233190,7 @@
         "external_ids": { "upc": "886447488812" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 64
+        "popularity": 65
       }
     },
     {
@@ -235542,7 +236008,7 @@
         "external_ids": { "upc": "8720923197961" },
         "genres": [],
         "label": "Wax Bodega and Cherry Lime Records",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -237083,7 +237549,7 @@
         "external_ids": { "upc": "193036006235" },
         "genres": [],
         "label": "Birds Plural",
-        "popularity": 17
+        "popularity": 18
       }
     },
     {
@@ -238419,7 +238885,7 @@
         "external_ids": { "upc": "193078089913" },
         "genres": [],
         "label": "Birds Plural",
-        "popularity": 20
+        "popularity": 21
       }
     },
     {
@@ -239745,7 +240211,7 @@
         "external_ids": { "upc": "0045778774562" },
         "genres": [],
         "label": "Epitaph",
-        "popularity": 24
+        "popularity": 25
       }
     },
     {
@@ -244775,7 +245241,7 @@
         "external_ids": { "upc": "191400056657" },
         "genres": [],
         "label": "4AD",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -249990,7 +250456,7 @@
         "external_ids": { "upc": "098787123265" },
         "genres": [],
         "label": "Sub Pop Records",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -252156,7 +252622,7 @@
         "external_ids": { "upc": "884977510232" },
         "genres": [],
         "label": "Record Collection",
-        "popularity": 34
+        "popularity": 35
       }
     },
     {
@@ -253052,7 +253518,7 @@
         "external_ids": { "upc": "197368355818" },
         "genres": [],
         "label": "Vansire",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -255718,7 +256184,7 @@
         "external_ids": { "upc": "887833004968" },
         "genres": [],
         "label": "Weird World",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -258562,7 +259028,7 @@
         "external_ids": { "upc": "656605037769" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 41
+        "popularity": 42
       }
     },
     {
@@ -261093,7 +261559,7 @@
         "external_ids": { "upc": "656605033761" },
         "genres": [],
         "label": "Secretly Canadian",
-        "popularity": 48
+        "popularity": 49
       }
     },
     {
@@ -266952,7 +267418,7 @@
         "external_ids": { "upc": "5060496189912" },
         "genres": [],
         "label": "Communion Records",
-        "popularity": 36
+        "popularity": 37
       }
     },
     {
@@ -268640,7 +269106,7 @@
         "external_ids": { "upc": "8720923109100" },
         "genres": [],
         "label": "Audiotree Music",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -272566,7 +273032,7 @@
         "external_ids": { "upc": "196925486941" },
         "genres": [],
         "label": "Glassnote Entertainment Group LLC",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -275188,7 +275654,7 @@
         "external_ids": { "upc": "5400863091637" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 13
+        "popularity": 14
       }
     },
     {
@@ -277595,7 +278061,7 @@
         "external_ids": { "upc": "5400863016326" },
         "genres": [],
         "label": "Transgressive",
-        "popularity": 22
+        "popularity": 23
       }
     },
     {
@@ -280958,7 +281424,7 @@
         "external_ids": { "upc": "703669153376" },
         "genres": [],
         "label": "Tender Loving Empire",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -282674,7 +283140,7 @@
         "external_ids": { "upc": "5055489298771" },
         "genres": [],
         "label": "Wegawam Music Co.",
-        "popularity": 36
+        "popularity": 37
       }
     },
     {
@@ -283146,7 +283612,7 @@
         "external_ids": { "upc": "00888072496804" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 19
+        "popularity": 20
       }
     },
     {
@@ -285547,7 +286013,7 @@
         "external_ids": { "upc": "5054960548657" },
         "genres": [],
         "label": "Independent",
-        "popularity": 32
+        "popularity": 33
       }
     },
     {
@@ -287518,7 +287984,7 @@
         "external_ids": { "upc": "656605143262" },
         "genres": [],
         "label": "Dead Oceans",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -289097,7 +289563,7 @@
         "external_ids": { "upc": "197147788387" },
         "genres": [],
         "label": "Seiichi",
-        "popularity": 1
+        "popularity": 2
       }
     },
     {
@@ -294509,7 +294975,7 @@
         "external_ids": { "upc": "886449563654" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -296385,7 +296851,7 @@
         "external_ids": { "upc": "859743643551" },
         "genres": [],
         "label": "Keenan O'Meara",
-        "popularity": 21
+        "popularity": 22
       }
     },
     {
@@ -299239,7 +299705,7 @@
         "external_ids": { "upc": "193036130459" },
         "genres": [],
         "label": "Fuji Apple Records",
-        "popularity": 29
+        "popularity": 30
       }
     },
     {
@@ -300264,7 +300730,7 @@
         "external_ids": { "upc": "886446191041" },
         "genres": [],
         "label": "Grand Jury (RED)",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -320789,7 +321255,7 @@
         "external_ids": { "upc": "602309894375" },
         "genres": [],
         "label": "Joyful Noise Recordings",
-        "popularity": 15
+        "popularity": 16
       }
     },
     {
@@ -328903,7 +329369,7 @@
         "external_ids": { "upc": "5054960516731" },
         "genres": [],
         "label": "Independent",
-        "popularity": 15
+        "popularity": 16
       }
     },
     {
@@ -329707,7 +330173,7 @@
         "external_ids": { "upc": "192914352754" },
         "genres": [],
         "label": "Tigers in the Sky",
-        "popularity": 22
+        "popularity": 25
       }
     },
     {
@@ -344369,7 +344835,7 @@
         "external_ids": { "upc": "00602557368871" },
         "genres": [],
         "label": "Bee Gees Catalog",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -349281,7 +349747,7 @@
         "external_ids": { "upc": "858275062786" },
         "genres": [],
         "label": "Mom+Pop",
-        "popularity": 23
+        "popularity": 19
       }
     },
     {
@@ -351252,7 +351718,7 @@
         "external_ids": { "upc": "195497414307" },
         "genres": [],
         "label": "Reunion Tour",
-        "popularity": 6
+        "popularity": 7
       }
     },
     {
@@ -351922,7 +352388,7 @@
         "external_ids": { "upc": "884977019797" },
         "genres": [],
         "label": "Arista/Legacy",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -356990,7 +357456,7 @@
         "external_ids": { "upc": "753936908642" },
         "genres": [],
         "label": "Refresh Records",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -363823,7 +364289,7 @@
         "external_ids": { "upc": "00602438598007" },
         "genres": [],
         "label": "Still Woozy Productions Inc., under exclusive license to Interscope Records",
-        "popularity": 26
+        "popularity": 27
       }
     },
     {
@@ -364810,7 +365276,7 @@
         "external_ids": { "upc": "5059806545395" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 34
+        "popularity": 35
       }
     },
     {
@@ -368919,7 +369385,7 @@
         "external_ids": { "upc": "00602567924357" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -371493,7 +371959,7 @@
         "external_ids": { "upc": "825646489053" },
         "genres": [],
         "label": "Atlantic Records UK",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -374818,7 +375284,7 @@
         "external_ids": { "upc": "190295572501" },
         "genres": [],
         "label": "Atlantic Records UK",
-        "popularity": 43
+        "popularity": 44
       }
     },
     {
@@ -375355,7 +375821,7 @@
         "external_ids": { "upc": "193436188616" },
         "genres": [],
         "label": "Cherry Lime Records",
-        "popularity": 3
+        "popularity": 2
       }
     },
     {
@@ -392068,7 +392534,7 @@
         "external_ids": { "upc": "889326153924" },
         "genres": [],
         "label": "Audiotree Music",
-        "popularity": 4
+        "popularity": 5
       }
     },
     {
@@ -401209,7 +401675,7 @@
         "external_ids": { "upc": "075679865816" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 50
+        "popularity": 51
       }
     },
     {
@@ -406200,7 +406666,7 @@
         "external_ids": { "upc": "859715293791" },
         "genres": [],
         "label": "Eloper Music",
-        "popularity": 34
+        "popularity": 35
       }
     },
     {
@@ -408162,7 +408628,7 @@
         "external_ids": { "upc": "5054429139075" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 35
+        "popularity": 36
       }
     },
     {
@@ -413661,7 +414127,7 @@
         "external_ids": { "upc": "859735898792" },
         "genres": [],
         "label": "Vulf Records",
-        "popularity": 30
+        "popularity": 25
       }
     },
     {
@@ -417323,7 +417789,7 @@
         "external_ids": { "upc": "859734115197" },
         "genres": [],
         "label": "Eloper Music",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -417791,7 +418257,7 @@
         "external_ids": { "upc": "886448085089" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 12
+        "popularity": 13
       }
     },
     {
@@ -421631,7 +422097,7 @@
         "external_ids": { "upc": "00602508184604" },
         "genres": [],
         "label": "Island Records",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -424387,7 +424853,7 @@
         "external_ids": { "upc": "5057302992576" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -427043,7 +427509,7 @@
         "external_ids": { "upc": "5057728690186" },
         "genres": [],
         "label": "RICEWINE",
-        "popularity": 20
+        "popularity": 21
       }
     },
     {
@@ -428859,7 +429325,7 @@
         "external_ids": { "upc": "193829507277" },
         "genres": [],
         "label": "Senyawa Records",
-        "popularity": 25
+        "popularity": 26
       }
     },
     {
@@ -431045,7 +431511,7 @@
         "external_ids": { "upc": "840093235954" },
         "genres": [],
         "label": "Senyawa Records",
-        "popularity": 27
+        "popularity": 28
       }
     },
     {
@@ -436843,7 +437309,7 @@
         "external_ids": { "upc": "5054429137064" },
         "genres": [],
         "label": "Ninja Tune",
-        "popularity": 38
+        "popularity": 39
       }
     },
     {
@@ -440051,7 +440517,7 @@
         "external_ids": { "upc": "886447136270" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -441164,7 +441630,7 @@
         "external_ids": { "upc": "886447136263" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -445238,7 +445704,7 @@
         "external_ids": { "upc": "0657968676596" },
         "genres": [],
         "label": "Mouda Music",
-        "popularity": 24
+        "popularity": 25
       }
     },
     {
@@ -449874,7 +450340,7 @@
         "external_ids": { "upc": "886447485521" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -453955,7 +454421,7 @@
         "external_ids": { "upc": "00888072089839" },
         "genres": [],
         "label": "Loma Vista Recordings",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -454639,7 +455105,7 @@
         "external_ids": { "upc": "075679858962" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -455103,7 +455569,7 @@
         "external_ids": { "upc": "00602577630033" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 54
+        "popularity": 55
       }
     },
     {
@@ -456426,7 +456892,7 @@
         "external_ids": { "upc": "843357194790" },
         "genres": [],
         "label": "besphrenz",
-        "popularity": 3
+        "popularity": 4
       }
     },
     {
@@ -463421,7 +463887,7 @@
         "external_ids": { "upc": "193665571371" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 30
+        "popularity": 31
       }
     },
     {
@@ -466806,7 +467272,7 @@
         "external_ids": { "upc": "00602567151517" },
         "genres": [],
         "label": "Universal Music Australia Pty. Ltd.",
-        "popularity": 55
+        "popularity": 56
       }
     },
     {
@@ -467273,7 +467739,7 @@
         "external_ids": { "upc": "00602577333545" },
         "genres": [],
         "label": "Astralwerks",
-        "popularity": 25
+        "popularity": 26
       }
     },
     {
@@ -472537,7 +473003,7 @@
         "external_ids": { "upc": "075679864482" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 59
+        "popularity": 60
       }
     },
     {
@@ -485725,7 +486191,7 @@
         "external_ids": { "upc": "00602537065202" },
         "genres": [],
         "label": "Modular",
-        "popularity": 71
+        "popularity": 72
       }
     },
     {
@@ -488720,7 +489186,7 @@
         "external_ids": { "upc": "887158100413" },
         "genres": [],
         "label": "OnThe Records",
-        "popularity": 46
+        "popularity": 47
       }
     },
     {
@@ -491324,7 +491790,7 @@
         "external_ids": { "upc": "887835044399" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -492256,7 +492722,7 @@
         "external_ids": { "upc": "0885014582984" },
         "genres": [],
         "label": "777 Music",
-        "popularity": 29
+        "popularity": 30
       }
     },
     {
@@ -493797,7 +494263,7 @@
         "external_ids": { "upc": "191515394958" },
         "genres": [],
         "label": "777 Music",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -494263,7 +494729,7 @@
         "external_ids": { "upc": "192641043192" },
         "genres": [],
         "label": "U OK?",
-        "popularity": 20
+        "popularity": 21
       }
     },
     {
@@ -496669,7 +497135,7 @@
         "external_ids": { "upc": "840094713499" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -498063,7 +498529,7 @@
         "external_ids": { "upc": "840093971098" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 33
+        "popularity": 34
       }
     },
     {
@@ -499645,7 +500111,7 @@
         "external_ids": { "upc": "192378312240" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 22
+        "popularity": 23
       }
     },
     {
@@ -500204,7 +500670,7 @@
         "external_ids": { "upc": "192378312165" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 3
+        "popularity": 4
       }
     },
     {
@@ -500668,7 +501134,7 @@
         "external_ids": { "upc": "192378312394" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 5
+        "popularity": 6
       }
     },
     {
@@ -501132,7 +501598,7 @@
         "external_ids": { "upc": "840093396433" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 25
+        "popularity": 26
       }
     },
     {
@@ -501701,7 +502167,7 @@
         "external_ids": { "upc": "840093396341" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 7
+        "popularity": 8
       }
     },
     {
@@ -502260,7 +502726,7 @@
         "external_ids": { "upc": "840093396259" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -502819,7 +503285,7 @@
         "external_ids": { "upc": "840092455629" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 21
+        "popularity": 22
       }
     },
     {
@@ -503283,7 +503749,7 @@
         "external_ids": { "upc": "840092455599" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 5
+        "popularity": 6
       }
     },
     {
@@ -507207,7 +507673,7 @@
         "external_ids": { "upc": "840094539303" },
         "genres": [],
         "label": "Off The Jump",
-        "popularity": 10
+        "popularity": 11
       }
     },
     {
@@ -508506,7 +508972,7 @@
         "external_ids": { "upc": "886446517834" },
         "genres": [],
         "label": "Sony Music Entertainment",
-        "popularity": 9
+        "popularity": 10
       }
     },
     {
@@ -511768,7 +512234,7 @@
         "external_ids": { "upc": "886446987996" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 10
+        "popularity": 11
       }
     },
     {
@@ -514171,7 +514637,7 @@
         "external_ids": { "upc": "886446696409" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 68
+        "popularity": 69
       }
     },
     {
@@ -520339,7 +520805,7 @@
         "external_ids": { "upc": "075679952172" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 30
+        "popularity": 31
       }
     },
     {
@@ -523558,7 +524024,7 @@
         "external_ids": { "upc": "886446439082" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -525626,7 +526092,7 @@
         "external_ids": { "upc": "884977893496" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 16
+        "popularity": 17
       }
     },
     {
@@ -528026,7 +528492,7 @@
         "external_ids": { "upc": "888880287779" },
         "genres": [],
         "label": "Red Ink/Columbia",
-        "popularity": 77
+        "popularity": 78
       }
     },
     {
@@ -532794,7 +533260,7 @@
         "external_ids": { "upc": "886446397429" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -535627,7 +536093,7 @@
         "external_ids": { "upc": "886446550589" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -540413,7 +540879,7 @@
         "external_ids": { "upc": "609008295069" },
         "genres": [],
         "label": "Young Turks",
-        "popularity": 1
+        "popularity": 2
       }
     },
     {
@@ -540875,7 +541341,7 @@
         "external_ids": { "upc": "075679899156" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 45
+        "popularity": 46
       }
     },
     {
@@ -544950,7 +545416,7 @@
         "external_ids": { "upc": "859715827538" },
         "genres": [],
         "label": "Konoba",
-        "popularity": 8
+        "popularity": 9
       }
     },
     {
@@ -548416,7 +548882,7 @@
         "external_ids": { "upc": "0602561607058" },
         "genres": [],
         "label": "Konoba",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -551522,7 +551988,7 @@
         "external_ids": { "upc": "886445613247" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 62
+        "popularity": 63
       }
     },
     {
@@ -557409,7 +557875,7 @@
         "external_ids": { "upc": "016861780609" },
         "genres": [],
         "label": "Roadrunner Records",
-        "popularity": 37
+        "popularity": 38
       }
     },
     {
@@ -562871,7 +563337,7 @@
         "external_ids": { "upc": "00602517350144" },
         "genres": [],
         "label": "Island Def Jam",
-        "popularity": 12
+        "popularity": 13
       }
     },
     {
@@ -566649,7 +567115,7 @@
         "external_ids": { "upc": "655037093329" },
         "genres": [],
         "label": "Badman Recording Co",
-        "popularity": 49
+        "popularity": 50
       }
     },
     {
@@ -568622,7 +569088,7 @@
         "external_ids": { "upc": "075679901392" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 42
+        "popularity": 43
       }
     },
     {
@@ -571113,7 +571579,7 @@
         "external_ids": { "upc": "886443338418" },
         "genres": [],
         "label": "Aural Apothecary/Columbia",
-        "popularity": 50
+        "popularity": 51
       }
     },
     {
@@ -573735,7 +574201,7 @@
         "external_ids": { "upc": "0724359863559" },
         "genres": [],
         "label": "Parlophone (France)",
-        "popularity": 42
+        "popularity": 43
       }
     },
     {
@@ -574034,7 +574500,7 @@
         "external_ids": { "upc": "825646191406" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 23
+        "popularity": 24
       }
     },
     {
@@ -576430,7 +576896,7 @@
         "external_ids": { "upc": "075679915320" },
         "genres": [],
         "label": "Elektra (NEK)",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -579796,7 +580262,7 @@
         "external_ids": { "upc": "884977979725" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 75
+        "popularity": 76
       }
     },
     {
@@ -581767,7 +582233,7 @@
         "external_ids": { "upc": "889211330799" },
         "genres": [],
         "label": "The Symposium",
-        "popularity": 41
+        "popularity": 42
       }
     },
     {
@@ -585631,7 +586097,7 @@
         "external_ids": { "upc": "075679952233" },
         "genres": [],
         "label": "Canvasback/ATL",
-        "popularity": 52
+        "popularity": 53
       }
     },
     {
@@ -589617,7 +590083,7 @@
         "external_ids": { "upc": "075679946713" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -590141,7 +590607,7 @@
         "external_ids": { "upc": "00602547495921" },
         "genres": [],
         "label": "EMI Recorded Music Australia Pty Ltd",
-        "popularity": 15
+        "popularity": 16
       }
     },
     {
@@ -591751,7 +592217,7 @@
         "external_ids": { "upc": "886444143073" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 72
+        "popularity": 73
       }
     },
     {
@@ -594154,7 +594620,7 @@
         "external_ids": { "upc": "886445411881" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 66
+        "popularity": 67
       }
     },
     {
@@ -596764,7 +597230,7 @@
         "external_ids": { "upc": "075679911971" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -599802,7 +600268,7 @@
         "external_ids": { "upc": "886445613834" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -609245,7 +609711,7 @@
         "external_ids": { "upc": "603497976140" },
         "genres": [],
         "label": "Rhino/Warner Records",
-        "popularity": 47
+        "popularity": 48
       }
     },
     {
@@ -612136,7 +612602,7 @@
         "external_ids": { "upc": "825646411689" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 44
+        "popularity": 45
       }
     },
     {
@@ -614457,7 +614923,7 @@
         "external_ids": { "upc": "190295936525" },
         "genres": [],
         "label": "Parlophone UK",
-        "popularity": 17
+        "popularity": 18
       }
     },
     {
@@ -616881,7 +617347,7 @@
         "external_ids": { "upc": "00602557014365" },
         "genres": [],
         "label": "EMI",
-        "popularity": 26
+        "popularity": 27
       }
     },
     {
@@ -623726,7 +624192,7 @@
         "external_ids": { "upc": "093624424161" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 83
+        "popularity": 84
       }
     },
     {
@@ -633460,7 +633926,7 @@
         "external_ids": { "upc": "00602527594354" },
         "genres": [],
         "label": "EMI",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -637192,7 +637658,7 @@
         "external_ids": { "upc": "00602527594347" },
         "genres": [],
         "label": "EMI",
-        "popularity": 56
+        "popularity": 57
       }
     },
     {
@@ -642952,7 +643418,7 @@
         "external_ids": { "upc": "075679954572" },
         "genres": [],
         "label": "Atlantic Records",
-        "popularity": 47
+        "popularity": 48
       }
     },
     {
@@ -648523,7 +648989,7 @@
         "external_ids": { "upc": "886444964470" },
         "genres": [],
         "label": "RCA Records Label",
-        "popularity": 54
+        "popularity": 58
       }
     },
     {
@@ -652128,7 +652594,7 @@
         "external_ids": { "upc": "825646568741" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 64
+        "popularity": 65
       }
     },
     {
@@ -655174,7 +655640,7 @@
         "external_ids": { "upc": "825646912650" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 60
+        "popularity": 61
       }
     },
     {
@@ -661445,7 +661911,7 @@
         "external_ids": { "upc": "825646911486" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 75
+        "popularity": 76
       }
     },
     {
@@ -664049,7 +664515,7 @@
         "external_ids": { "upc": "825646864836" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 70
+        "popularity": 71
       }
     },
     {
@@ -666327,7 +666793,7 @@
         "external_ids": { "upc": "825646076246" },
         "genres": [],
         "label": "Warner Records",
-        "popularity": 61
+        "popularity": 62
       }
     },
     {
@@ -668730,7 +669196,7 @@
         "external_ids": { "upc": "886444088954" },
         "genres": [],
         "label": "Columbia",
-        "popularity": 36
+        "popularity": 37
       }
     },
     {
@@ -676526,7 +676992,7 @@
         "external_ids": { "upc": "828765035125" },
         "genres": [],
         "label": "RCA/BMG Heritage",
-        "popularity": 63
+        "popularity": 64
       }
     },
     {
@@ -686867,7 +687333,7 @@
         "external_ids": { "upc": "603497922987" },
         "genres": [],
         "label": "Rhino/Warner Records",
-        "popularity": 84
+        "popularity": 85
       }
     },
     {
@@ -699166,7 +699632,7 @@
         "external_ids": { "upc": "603497907168" },
         "genres": [],
         "label": "Rhino/Elektra",
-        "popularity": 39
+        "popularity": 40
       }
     },
     {
@@ -704364,7 +704830,7 @@
         "external_ids": { "upc": "0094638087151" },
         "genres": [],
         "label": "Venusnote Ltd.",
-        "popularity": 53
+        "popularity": 54
       }
     },
     {
@@ -708042,7 +708508,7 @@
         "external_ids": { "upc": "5034202016250" },
         "genres": [],
         "label": "Domino Recording Co",
-        "popularity": 0
+        "popularity": 1
       }
     },
     {
@@ -716263,7 +716729,7 @@
         "external_ids": { "upc": "886444614719" },
         "genres": [],
         "label": "Arista/Legacy",
-        "popularity": 57
+        "popularity": 58
       }
     },
     {
@@ -716339,8 +716805,8 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/5U4rii0MZR1hN9WLzm9WUH"
               },
-              "href": "https://api.spotify.com/v1/tracks/6Qs5u9Tqh1rm1ljdr1ckhw",
-              "id": "6Qs5u9Tqh1rm1ljdr1ckhw",
+              "href": "https://api.spotify.com/v1/tracks/0Ru1qTLPUcwZ8LR1QktXQ0",
+              "id": "0Ru1qTLPUcwZ8LR1QktXQ0",
               "linked_from": {
                 "external_urls": {
                   "spotify": "https://open.spotify.com/track/5U4rii0MZR1hN9WLzm9WUH"
@@ -716351,10 +716817,10 @@
                 "uri": "spotify:track:5U4rii0MZR1hN9WLzm9WUH"
               },
               "name": "Mama Kin",
-              "preview_url": "https://p.scdn.co/mp3-preview/e8f6030f097d4a3d9bc5fa450f3af51d7e240853?cid=c73100e39ab6406dae4c4479ff75d174",
+              "preview_url": "https://p.scdn.co/mp3-preview/ea9c00386b4a3dcd7633da53600ac243c32bd49d?cid=c73100e39ab6406dae4c4479ff75d174",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:6Qs5u9Tqh1rm1ljdr1ckhw",
+              "uri": "spotify:track:0Ru1qTLPUcwZ8LR1QktXQ0",
               "is_local": false
             },
             {
@@ -716377,8 +716843,8 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/07KHJvlYBeQVqrmifTEqEp"
               },
-              "href": "https://api.spotify.com/v1/tracks/1xsYj84j7hUDDnTTerGWlH",
-              "id": "1xsYj84j7hUDDnTTerGWlH",
+              "href": "https://api.spotify.com/v1/tracks/5Ih9gbqyxCzTJ43nuSuKnC",
+              "id": "5Ih9gbqyxCzTJ43nuSuKnC",
               "linked_from": {
                 "external_urls": {
                   "spotify": "https://open.spotify.com/track/07KHJvlYBeQVqrmifTEqEp"
@@ -716389,10 +716855,10 @@
                 "uri": "spotify:track:07KHJvlYBeQVqrmifTEqEp"
               },
               "name": "Dream On",
-              "preview_url": "https://p.scdn.co/mp3-preview/b56a69c9cddc7358e940daa656a8dd5874e5f58f?cid=c73100e39ab6406dae4c4479ff75d174",
+              "preview_url": "https://p.scdn.co/mp3-preview/a7af61cf950a1014dad001a35a21329211050aaa?cid=c73100e39ab6406dae4c4479ff75d174",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:1xsYj84j7hUDDnTTerGWlH",
+              "uri": "spotify:track:5Ih9gbqyxCzTJ43nuSuKnC",
               "is_local": false
             },
             {
@@ -721100,7 +721566,7 @@
         "external_ids": { "upc": "075679960375" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 71
+        "popularity": 72
       }
     },
     {
@@ -724157,7 +724623,7 @@
         "external_ids": { "upc": "075679928160" },
         "genres": [],
         "label": "Fueled By Ramen",
-        "popularity": 83
+        "popularity": 84
       }
     },
     {
@@ -726418,7 +726884,7 @@
         "external_ids": { "upc": "00602547306807" },
         "genres": [],
         "label": "Universal Music Group",
-        "popularity": 0
+        "popularity": 1
       }
     },
     {
@@ -733986,7 +734452,7 @@
         "external_ids": { "upc": "886445613841" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 79
+        "popularity": 80
       }
     },
     {
@@ -735314,7 +735780,7 @@
         "external_ids": { "upc": "886445613278" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 75
+        "popularity": 76
       }
     },
     {
@@ -737717,7 +738183,7 @@
         "external_ids": { "upc": "886445613261" },
         "genres": [],
         "label": "Pink Floyd Records",
-        "popularity": 78
+        "popularity": 79
       }
     }
   ]

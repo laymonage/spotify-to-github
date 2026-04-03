@@ -1,11 +1,71 @@
 {
-  "total": 8,
+  "total": 7,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+      },
+      "followers": { "href": null, "total": 94043 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/2S11VlKvbvSKyyb7Wk4YP1",
+      "id": "2S11VlKvbvSKyyb7Wk4YP1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd1b53e721cb5d8f8adee23ea",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d1b53e721cb5d8f8adee23ea",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d1b53e721cb5d8f8adee23ea",
+          "width": 160
+        }
+      ],
+      "name": "Oracle Sisters",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:2S11VlKvbvSKyyb7Wk4YP1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+      },
+      "followers": { "href": null, "total": 134184 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
+      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb00c427b409fc61afefec685a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517400c427b409fc61afefec685a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17800c427b409fc61afefec685a",
+          "width": 160
+        }
+      ],
+      "name": "The Brook & The Bluff",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
       },
-      "followers": { "href": null, "total": 21459 },
+      "followers": { "href": null, "total": 21636 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/02nqs3YdfX7Th3gYTYFrqc",
       "id": "02nqs3YdfX7Th3gYTYFrqc",
@@ -35,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6i48BaGgUX0ceBv2F0iQH0"
       },
-      "followers": { "href": null, "total": 5486 },
+      "followers": { "href": null, "total": 5501 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/6i48BaGgUX0ceBv2F0iQH0",
       "id": "6i48BaGgUX0ceBv2F0iQH0",
@@ -63,183 +123,93 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        "spotify": "https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899"
       },
-      "followers": { "href": null, "total": 133274 },
+      "followers": { "href": null, "total": 8477 },
       "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4dWtsQvuME6tCWFycaTvO7",
-      "id": "4dWtsQvuME6tCWFycaTvO7",
+      "href": "https://api.spotify.com/v1/artists/46g5hcuu0pLv0KYtk3m899",
+      "id": "46g5hcuu0pLv0KYtk3m899",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb00c427b409fc61afefec685a",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb451f3fa39f233e36b201e45c",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517400c427b409fc61afefec685a",
+          "url": "https://i.scdn.co/image/ab67616100005174451f3fa39f233e36b201e45c",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17800c427b409fc61afefec685a",
+          "url": "https://i.scdn.co/image/ab6761610000f178451f3fa39f233e36b201e45c",
           "width": 160
         }
       ],
-      "name": "The Brook & The Bluff",
-      "popularity": 52,
+      "name": "Josh Gilligan",
+      "popularity": 33,
       "type": "artist",
-      "uri": "spotify:artist:4dWtsQvuME6tCWFycaTvO7"
+      "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        "spotify": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
       },
-      "followers": { "href": null, "total": 93431 },
+      "followers": { "href": null, "total": 289767 },
       "genres": [],
-      "href": "https://api.spotify.com/v1/artists/2S11VlKvbvSKyyb7Wk4YP1",
-      "id": "2S11VlKvbvSKyyb7Wk4YP1",
+      "href": "https://api.spotify.com/v1/artists/32aUoW94mJ7xTJI7fG0V1G",
+      "id": "32aUoW94mJ7xTJI7fG0V1G",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd1b53e721cb5d8f8adee23ea",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7b4c85d53d77381c6aaa8f8c",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d1b53e721cb5d8f8adee23ea",
+          "url": "https://i.scdn.co/image/ab676161000051747b4c85d53d77381c6aaa8f8c",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d1b53e721cb5d8f8adee23ea",
+          "url": "https://i.scdn.co/image/ab6761610000f1787b4c85d53d77381c6aaa8f8c",
           "width": 160
         }
       ],
-      "name": "Oracle Sisters",
-      "popularity": 52,
-      "type": "artist",
-      "uri": "spotify:artist:2S11VlKvbvSKyyb7Wk4YP1"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4hSeosKw3pr72gC10igZow"
-      },
-      "followers": { "href": null, "total": 45819 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4hSeosKw3pr72gC10igZow",
-      "id": "4hSeosKw3pr72gC10igZow",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfd99a83c10e123074f907768",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fd99a83c10e123074f907768",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fd99a83c10e123074f907768",
-          "width": 160
-        }
-      ],
-      "name": "Szymon",
-      "popularity": 43,
-      "type": "artist",
-      "uri": "spotify:artist:4hSeosKw3pr72gC10igZow"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-      },
-      "followers": { "href": null, "total": 267537 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3LVPGE5jPPwtbGslx07YR0",
-      "id": "3LVPGE5jPPwtbGslx07YR0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc016b2ad359f97b3ad3ae071",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c016b2ad359f97b3ad3ae071",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c016b2ad359f97b3ad3ae071",
-          "width": 160
-        }
-      ],
-      "name": "Kishi Bashi",
+      "name": "Whitney",
       "popularity": 49,
       "type": "artist",
-      "uri": "spotify:artist:3LVPGE5jPPwtbGslx07YR0"
+      "uri": "spotify:artist:32aUoW94mJ7xTJI7fG0V1G"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        "spotify": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
       },
-      "followers": { "href": null, "total": 3939504 },
-      "genres": ["christmas", "adult standards"],
-      "href": "https://api.spotify.com/v1/artists/1eEfMU2AhEo7XnKgL7c304",
-      "id": "1eEfMU2AhEo7XnKgL7c304",
-      "images": [
-        {
-          "height": 493,
-          "url": "https://i.scdn.co/image/ed45f575339b044d7168780a15ff457b85be851a",
-          "width": 500
-        },
-        {
-          "height": 197,
-          "url": "https://i.scdn.co/image/6d1f554e76304a29b8baa3f61213a88702c0f599",
-          "width": 200
-        },
-        {
-          "height": 63,
-          "url": "https://i.scdn.co/image/53a2c2a3d9f4c61f20b04d95936fadc83b7b08b5",
-          "width": 64
-        }
-      ],
-      "name": "Carpenters",
-      "popularity": 68,
-      "type": "artist",
-      "uri": "spotify:artist:1eEfMU2AhEo7XnKgL7c304"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-      },
-      "followers": { "href": null, "total": 5590148 },
-      "genres": ["soft rock"],
-      "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
-      "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+      "followers": { "href": null, "total": 562078 },
+      "genres": ["taiwanese indie", "chinese indie", "bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/7BqRcZsHYYQeqMAOp7e532",
+      "id": "7BqRcZsHYYQeqMAOp7e532",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79bedf7da0a906b84128f3af",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb17dd503b5c1841cd238c9aa7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479bedf7da0a906b84128f3af",
+          "url": "https://i.scdn.co/image/ab6761610000517417dd503b5c1841cd238c9aa7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879bedf7da0a906b84128f3af",
+          "url": "https://i.scdn.co/image/ab6761610000f17817dd503b5c1841cd238c9aa7",
           "width": 160
         }
       ],
-      "name": "Air Supply",
-      "popularity": 71,
+      "name": "落日飛車 Sunset Rollercoaster",
+      "popularity": 57,
       "type": "artist",
-      "uri": "spotify:artist:4xXCRXOfQKQ2gjWxNhNzYW"
+      "uri": "spotify:artist:7BqRcZsHYYQeqMAOp7e532"
     }
   ]
 }
