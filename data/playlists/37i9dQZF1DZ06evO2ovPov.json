@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ovPov"
   },
-  "followers": { "href": null, "total": 198 },
+  "followers": { "href": null, "total": 200 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2ovPov?locale=*",
   "id": "37i9dQZF1DZ06evO2ovPov",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "akBkAAAAAABiAyf0zyl/Bg7nv6AtT9wQ",
+  "snapshot_id": "akRYgAAAAAC6JohTX5R/cDRjaQICYnA7",
   "items": {
     "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2ovPov/items?offset=0&limit=100&locale=*",
     "items": [
@@ -2275,7 +2275,7 @@
           "href": "https://api.spotify.com/v1/tracks/2OPbRy3YszY2qVYVu51VYH",
           "id": "2OPbRy3YszY2qVYVu51VYH",
           "name": "Something, Nothing, Everything",
-          "popularity": 38,
+          "popularity": 39,
           "uri": "spotify:track:2OPbRy3YszY2qVYVu51VYH",
           "is_local": false
         },
@@ -2724,7 +2724,7 @@
           "href": "https://api.spotify.com/v1/tracks/2OPbRy3YszY2qVYVu51VYH",
           "id": "2OPbRy3YszY2qVYVu51VYH",
           "name": "Something, Nothing, Everything",
-          "popularity": 38,
+          "popularity": 39,
           "uri": "spotify:track:2OPbRy3YszY2qVYVu51VYH",
           "is_local": false
         },
@@ -7661,7 +7661,7 @@
           "href": "https://api.spotify.com/v1/tracks/2JO89KA6zhkTNzrop52avm",
           "id": "2JO89KA6zhkTNzrop52avm",
           "name": "Shell",
-          "popularity": 15,
+          "popularity": 16,
           "uri": "spotify:track:2JO89KA6zhkTNzrop52avm",
           "is_local": false
         },
@@ -8110,7 +8110,7 @@
           "href": "https://api.spotify.com/v1/tracks/2JO89KA6zhkTNzrop52avm",
           "id": "2JO89KA6zhkTNzrop52avm",
           "name": "Shell",
-          "popularity": 15,
+          "popularity": 16,
           "uri": "spotify:track:2JO89KA6zhkTNzrop52avm",
           "is_local": false
         },
@@ -10394,7 +10394,7 @@
           "href": "https://api.spotify.com/v1/tracks/0qRDCFkqDp7wZPFhKztgkS",
           "id": "0qRDCFkqDp7wZPFhKztgkS",
           "name": "Ceiling",
-          "popularity": 17,
+          "popularity": 18,
           "uri": "spotify:track:0qRDCFkqDp7wZPFhKztgkS",
           "is_local": false
         },
@@ -10843,7 +10843,7 @@
           "href": "https://api.spotify.com/v1/tracks/0qRDCFkqDp7wZPFhKztgkS",
           "id": "0qRDCFkqDp7wZPFhKztgkS",
           "name": "Ceiling",
-          "popularity": 17,
+          "popularity": 18,
           "uri": "spotify:track:0qRDCFkqDp7wZPFhKztgkS",
           "is_local": false
         },
@@ -10861,7 +10861,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -11049,7 +11049,7 @@
             "ET",
             "XK"
           ],
-          "explicit": true,
+          "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
@@ -11243,29 +11243,29 @@
             ],
             "type": "album",
             "album_type": "single",
-            "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
-            "id": "3WKOxvrJJ29iqigAddJPNc",
+            "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
+            "id": "59n5hJUTjae754GA75MRMx",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Hazy",
-            "release_date": "2022-08-11",
+            "name": "Go Around",
+            "release_date": "2021-06-25",
             "release_date_precision": "day",
-            "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
+            "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
             "artists": [
               {
                 "external_urls": {
@@ -11279,9 +11279,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
+              "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
             },
-            "total_tracks": 1
+            "total_tracks": 5
           },
           "artists": [
             {
@@ -11293,24 +11293,34 @@
               "name": "Josh Gilligan",
               "type": "artist",
               "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+              },
+              "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
+              "id": "7E1o9IcnpiFQDlAUk2H7Az",
+              "name": "Madi Diaz",
+              "type": "artist",
+              "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 231145,
-          "external_ids": { "isrc": "TCAGI2252951" },
+          "track_number": 5,
+          "duration_ms": 158024,
+          "external_ids": { "isrc": "TCAFP2143049" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
+            "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
           },
-          "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
-          "id": "2kGIkBt8cq48N1oYp3m6Dj",
-          "name": "Hazy",
+          "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
+          "id": "0kB4VZXmw5eNpz1gE6R5BB",
+          "name": "So Clear",
           "popularity": 15,
-          "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
+          "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -11498,7 +11508,7 @@
             "ET",
             "XK"
           ],
-          "explicit": true,
+          "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
@@ -11692,29 +11702,29 @@
             ],
             "type": "album",
             "album_type": "single",
-            "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
-            "id": "3WKOxvrJJ29iqigAddJPNc",
+            "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
+            "id": "59n5hJUTjae754GA75MRMx",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
+                "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Hazy",
-            "release_date": "2022-08-11",
+            "name": "Go Around",
+            "release_date": "2021-06-25",
             "release_date_precision": "day",
-            "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
+            "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
             "artists": [
               {
                 "external_urls": {
@@ -11728,9 +11738,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
+              "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
             },
-            "total_tracks": 1
+            "total_tracks": 5
           },
           "artists": [
             {
@@ -11742,20 +11752,30 @@
               "name": "Josh Gilligan",
               "type": "artist",
               "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+              },
+              "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
+              "id": "7E1o9IcnpiFQDlAUk2H7Az",
+              "name": "Madi Diaz",
+              "type": "artist",
+              "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 231145,
-          "external_ids": { "isrc": "TCAGI2252951" },
+          "track_number": 5,
+          "duration_ms": 158024,
+          "external_ids": { "isrc": "TCAFP2143049" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
+            "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
           },
-          "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
-          "id": "2kGIkBt8cq48N1oYp3m6Dj",
-          "name": "Hazy",
+          "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
+          "id": "0kB4VZXmw5eNpz1gE6R5BB",
+          "name": "So Clear",
           "popularity": 15,
-          "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
+          "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -11772,7 +11792,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -11960,7 +11980,7 @@
             "ET",
             "XK"
           ],
-          "explicit": false,
+          "explicit": true,
           "type": "track",
           "episode": false,
           "track": true,
@@ -12154,29 +12174,29 @@
             ],
             "type": "album",
             "album_type": "single",
-            "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
-            "id": "59n5hJUTjae754GA75MRMx",
+            "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
+            "id": "3WKOxvrJJ29iqigAddJPNc",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Go Around",
-            "release_date": "2021-06-25",
+            "name": "Hazy",
+            "release_date": "2022-08-11",
             "release_date_precision": "day",
-            "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
+            "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
             "artists": [
               {
                 "external_urls": {
@@ -12190,9 +12210,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
+              "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
             },
-            "total_tracks": 5
+            "total_tracks": 1
           },
           "artists": [
             {
@@ -12204,34 +12224,24 @@
               "name": "Josh Gilligan",
               "type": "artist",
               "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-              },
-              "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
-              "id": "7E1o9IcnpiFQDlAUk2H7Az",
-              "name": "Madi Diaz",
-              "type": "artist",
-              "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
             }
           ],
           "disc_number": 1,
-          "track_number": 5,
-          "duration_ms": 158024,
-          "external_ids": { "isrc": "TCAFP2143049" },
+          "track_number": 1,
+          "duration_ms": 231145,
+          "external_ids": { "isrc": "TCAGI2252951" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
+            "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
           },
-          "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
-          "id": "0kB4VZXmw5eNpz1gE6R5BB",
-          "name": "So Clear",
+          "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
+          "id": "2kGIkBt8cq48N1oYp3m6Dj",
+          "name": "Hazy",
           "popularity": 15,
-          "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
+          "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -12419,7 +12429,7 @@
             "ET",
             "XK"
           ],
-          "explicit": false,
+          "explicit": true,
           "type": "track",
           "episode": false,
           "track": true,
@@ -12613,29 +12623,29 @@
             ],
             "type": "album",
             "album_type": "single",
-            "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
-            "id": "59n5hJUTjae754GA75MRMx",
+            "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
+            "id": "3WKOxvrJJ29iqigAddJPNc",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
+                "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Go Around",
-            "release_date": "2021-06-25",
+            "name": "Hazy",
+            "release_date": "2022-08-11",
             "release_date_precision": "day",
-            "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
+            "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
             "artists": [
               {
                 "external_urls": {
@@ -12649,9 +12659,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
+              "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
             },
-            "total_tracks": 5
+            "total_tracks": 1
           },
           "artists": [
             {
@@ -12663,30 +12673,20 @@
               "name": "Josh Gilligan",
               "type": "artist",
               "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-              },
-              "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
-              "id": "7E1o9IcnpiFQDlAUk2H7Az",
-              "name": "Madi Diaz",
-              "type": "artist",
-              "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
             }
           ],
           "disc_number": 1,
-          "track_number": 5,
-          "duration_ms": 158024,
-          "external_ids": { "isrc": "TCAFP2143049" },
+          "track_number": 1,
+          "duration_ms": 231145,
+          "external_ids": { "isrc": "TCAGI2252951" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
+            "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
           },
-          "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
-          "id": "0kB4VZXmw5eNpz1gE6R5BB",
-          "name": "So Clear",
+          "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
+          "id": "2kGIkBt8cq48N1oYp3m6Dj",
+          "name": "Hazy",
           "popularity": 15,
-          "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
+          "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -22239,7 +22239,7 @@
         "href": "https://api.spotify.com/v1/tracks/2OPbRy3YszY2qVYVu51VYH",
         "id": "2OPbRy3YszY2qVYVu51VYH",
         "name": "Something, Nothing, Everything",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:2OPbRy3YszY2qVYVu51VYH",
         "is_local": false
       },
@@ -22688,7 +22688,7 @@
         "href": "https://api.spotify.com/v1/tracks/2OPbRy3YszY2qVYVu51VYH",
         "id": "2OPbRy3YszY2qVYVu51VYH",
         "name": "Something, Nothing, Everything",
-        "popularity": 38,
+        "popularity": 39,
         "uri": "spotify:track:2OPbRy3YszY2qVYVu51VYH",
         "is_local": false
       },
@@ -27625,7 +27625,7 @@
         "href": "https://api.spotify.com/v1/tracks/2JO89KA6zhkTNzrop52avm",
         "id": "2JO89KA6zhkTNzrop52avm",
         "name": "Shell",
-        "popularity": 15,
+        "popularity": 16,
         "uri": "spotify:track:2JO89KA6zhkTNzrop52avm",
         "is_local": false
       },
@@ -28074,7 +28074,7 @@
         "href": "https://api.spotify.com/v1/tracks/2JO89KA6zhkTNzrop52avm",
         "id": "2JO89KA6zhkTNzrop52avm",
         "name": "Shell",
-        "popularity": 15,
+        "popularity": 16,
         "uri": "spotify:track:2JO89KA6zhkTNzrop52avm",
         "is_local": false
       },
@@ -30358,7 +30358,7 @@
         "href": "https://api.spotify.com/v1/tracks/0qRDCFkqDp7wZPFhKztgkS",
         "id": "0qRDCFkqDp7wZPFhKztgkS",
         "name": "Ceiling",
-        "popularity": 17,
+        "popularity": 18,
         "uri": "spotify:track:0qRDCFkqDp7wZPFhKztgkS",
         "is_local": false
       },
@@ -30807,7 +30807,7 @@
         "href": "https://api.spotify.com/v1/tracks/0qRDCFkqDp7wZPFhKztgkS",
         "id": "0qRDCFkqDp7wZPFhKztgkS",
         "name": "Ceiling",
-        "popularity": 17,
+        "popularity": 18,
         "uri": "spotify:track:0qRDCFkqDp7wZPFhKztgkS",
         "is_local": false
       },
@@ -30825,7 +30825,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -31013,7 +31013,7 @@
           "ET",
           "XK"
         ],
-        "explicit": true,
+        "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
@@ -31207,29 +31207,29 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
-          "id": "3WKOxvrJJ29iqigAddJPNc",
+          "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
+          "id": "59n5hJUTjae754GA75MRMx",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
               "width": 64
             }
           ],
-          "name": "Hazy",
-          "release_date": "2022-08-11",
+          "name": "Go Around",
+          "release_date": "2021-06-25",
           "release_date_precision": "day",
-          "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
+          "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
           "artists": [
             {
               "external_urls": {
@@ -31243,9 +31243,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
+            "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
           },
-          "total_tracks": 1
+          "total_tracks": 5
         },
         "artists": [
           {
@@ -31257,24 +31257,34 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+            },
+            "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
+            "id": "7E1o9IcnpiFQDlAUk2H7Az",
+            "name": "Madi Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 231145,
-        "external_ids": { "isrc": "TCAGI2252951" },
+        "track_number": 5,
+        "duration_ms": 158024,
+        "external_ids": { "isrc": "TCAFP2143049" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
+          "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
         },
-        "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
-        "id": "2kGIkBt8cq48N1oYp3m6Dj",
-        "name": "Hazy",
+        "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
+        "id": "0kB4VZXmw5eNpz1gE6R5BB",
+        "name": "So Clear",
         "popularity": 15,
-        "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
+        "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -31462,7 +31472,7 @@
           "ET",
           "XK"
         ],
-        "explicit": true,
+        "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
@@ -31656,29 +31666,29 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
-          "id": "3WKOxvrJJ29iqigAddJPNc",
+          "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
+          "id": "59n5hJUTjae754GA75MRMx",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
+              "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
               "width": 64
             }
           ],
-          "name": "Hazy",
-          "release_date": "2022-08-11",
+          "name": "Go Around",
+          "release_date": "2021-06-25",
           "release_date_precision": "day",
-          "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
+          "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
           "artists": [
             {
               "external_urls": {
@@ -31692,9 +31702,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
+            "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
           },
-          "total_tracks": 1
+          "total_tracks": 5
         },
         "artists": [
           {
@@ -31706,20 +31716,30 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+            },
+            "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
+            "id": "7E1o9IcnpiFQDlAUk2H7Az",
+            "name": "Madi Diaz",
+            "type": "artist",
+            "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 231145,
-        "external_ids": { "isrc": "TCAGI2252951" },
+        "track_number": 5,
+        "duration_ms": 158024,
+        "external_ids": { "isrc": "TCAFP2143049" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
+          "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
         },
-        "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
-        "id": "2kGIkBt8cq48N1oYp3m6Dj",
-        "name": "Hazy",
+        "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
+        "id": "0kB4VZXmw5eNpz1gE6R5BB",
+        "name": "So Clear",
         "popularity": 15,
-        "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
+        "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -31736,7 +31756,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -31924,7 +31944,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -32118,29 +32138,29 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
-          "id": "59n5hJUTjae754GA75MRMx",
+          "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
+          "id": "3WKOxvrJJ29iqigAddJPNc",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
               "width": 64
             }
           ],
-          "name": "Go Around",
-          "release_date": "2021-06-25",
+          "name": "Hazy",
+          "release_date": "2022-08-11",
           "release_date_precision": "day",
-          "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
+          "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
           "artists": [
             {
               "external_urls": {
@@ -32154,9 +32174,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
+            "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
           },
-          "total_tracks": 5
+          "total_tracks": 1
         },
         "artists": [
           {
@@ -32168,34 +32188,24 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-            },
-            "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
-            "id": "7E1o9IcnpiFQDlAUk2H7Az",
-            "name": "Madi Diaz",
-            "type": "artist",
-            "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
           }
         ],
         "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 158024,
-        "external_ids": { "isrc": "TCAFP2143049" },
+        "track_number": 1,
+        "duration_ms": 231145,
+        "external_ids": { "isrc": "TCAGI2252951" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
+          "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
         },
-        "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
-        "id": "0kB4VZXmw5eNpz1gE6R5BB",
-        "name": "So Clear",
+        "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
+        "id": "2kGIkBt8cq48N1oYp3m6Dj",
+        "name": "Hazy",
         "popularity": 15,
-        "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
+        "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c7a61e999067b39d53ef2f34e6302b4f409ee9b5?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/c8b964cfba5e59019d4345727daf19639d9d9f1a?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -32383,7 +32393,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -32577,29 +32587,29 @@
           ],
           "type": "album",
           "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/59n5hJUTjae754GA75MRMx",
-          "id": "59n5hJUTjae754GA75MRMx",
+          "href": "https://api.spotify.com/v1/albums/3WKOxvrJJ29iqigAddJPNc",
+          "id": "3WKOxvrJJ29iqigAddJPNc",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d0000b2734aa689db2a5beebb1a56e8bf",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d00001e024aa689db2a5beebb1a56e8bf",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851592702674556f57f63fe2b3b",
+              "url": "https://i.scdn.co/image/ab67616d000048514aa689db2a5beebb1a56e8bf",
               "width": 64
             }
           ],
-          "name": "Go Around",
-          "release_date": "2021-06-25",
+          "name": "Hazy",
+          "release_date": "2022-08-11",
           "release_date_precision": "day",
-          "uri": "spotify:album:59n5hJUTjae754GA75MRMx",
+          "uri": "spotify:album:3WKOxvrJJ29iqigAddJPNc",
           "artists": [
             {
               "external_urls": {
@@ -32613,9 +32623,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/59n5hJUTjae754GA75MRMx"
+            "spotify": "https://open.spotify.com/album/3WKOxvrJJ29iqigAddJPNc"
           },
-          "total_tracks": 5
+          "total_tracks": 1
         },
         "artists": [
           {
@@ -32627,30 +32637,20 @@
             "name": "Josh Gilligan",
             "type": "artist",
             "uri": "spotify:artist:46g5hcuu0pLv0KYtk3m899"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-            },
-            "href": "https://api.spotify.com/v1/artists/7E1o9IcnpiFQDlAUk2H7Az",
-            "id": "7E1o9IcnpiFQDlAUk2H7Az",
-            "name": "Madi Diaz",
-            "type": "artist",
-            "uri": "spotify:artist:7E1o9IcnpiFQDlAUk2H7Az"
           }
         ],
         "disc_number": 1,
-        "track_number": 5,
-        "duration_ms": 158024,
-        "external_ids": { "isrc": "TCAFP2143049" },
+        "track_number": 1,
+        "duration_ms": 231145,
+        "external_ids": { "isrc": "TCAGI2252951" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0kB4VZXmw5eNpz1gE6R5BB"
+          "spotify": "https://open.spotify.com/track/2kGIkBt8cq48N1oYp3m6Dj"
         },
-        "href": "https://api.spotify.com/v1/tracks/0kB4VZXmw5eNpz1gE6R5BB",
-        "id": "0kB4VZXmw5eNpz1gE6R5BB",
-        "name": "So Clear",
+        "href": "https://api.spotify.com/v1/tracks/2kGIkBt8cq48N1oYp3m6Dj",
+        "id": "2kGIkBt8cq48N1oYp3m6Dj",
+        "name": "Hazy",
         "popularity": 15,
-        "uri": "spotify:track:0kB4VZXmw5eNpz1gE6R5BB",
+        "uri": "spotify:track:2kGIkBt8cq48N1oYp3m6Dj",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
