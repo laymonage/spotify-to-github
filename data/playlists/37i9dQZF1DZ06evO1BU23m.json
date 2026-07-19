@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BU23m"
   },
-  "followers": { "href": null, "total": 56270 },
+  "followers": { "href": null, "total": 56260 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1BU23m?locale=*",
   "id": "37i9dQZF1DZ06evO1BU23m",
   "images": [
@@ -25,7 +25,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "alV8AAAAAABHyh+463Lp3me57RvONe9V",
+  "snapshot_id": "allwgAAAAAC1mAEDeq9/1iNlSft0Jt6e",
   "items": {
     "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1BU23m/items?offset=0&limit=100&locale=*",
     "items": [
@@ -2287,7 +2287,7 @@
           "href": "https://api.spotify.com/v1/tracks/5HrF8yLnr3CbK4Aap7YDGy",
           "id": "5HrF8yLnr3CbK4Aap7YDGy",
           "name": "Seperti Yang Kau Minta",
-          "popularity": 65,
+          "popularity": 64,
           "uri": "spotify:track:5HrF8yLnr3CbK4Aap7YDGy",
           "is_local": false
         },
@@ -2732,7 +2732,7 @@
           "href": "https://api.spotify.com/v1/tracks/5HrF8yLnr3CbK4Aap7YDGy",
           "id": "5HrF8yLnr3CbK4Aap7YDGy",
           "name": "Seperti Yang Kau Minta",
-          "popularity": 65,
+          "popularity": 64,
           "uri": "spotify:track:5HrF8yLnr3CbK4Aap7YDGy",
           "is_local": false
         },
@@ -5479,7 +5479,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -5857,47 +5857,57 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
-            "id": "4HeHlp0KXmMkTTJFVoY4Km",
+            "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
+            "id": "3MxOZH9BbgUwLY1dsO5OJr",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Badai Pasti Berlalu",
-            "release_date": "1999-01-06",
+            "name": "15 Lagu Terpopuler Iwan Fals",
+            "release_date": "2021-06-13",
             "release_date_precision": "day",
-            "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
+            "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+                  "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
                 },
-                "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-                "id": "2NteKKMj3takKR3ABTd279",
-                "name": "Chrisye",
+                "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+                "id": "7LkkXDrBNVODZKIJlWGwbX",
+                "name": "Iwan Fals",
                 "type": "artist",
-                "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+                "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
+              "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
             },
-            "total_tracks": 11
+            "total_tracks": 15
           },
           "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+              },
+              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+              "id": "7LkkXDrBNVODZKIJlWGwbX",
+              "name": "Iwan Fals",
+              "type": "artist",
+              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -5907,24 +5917,84 @@
               "name": "Chrisye",
               "type": "artist",
               "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
+              },
+              "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
+              "id": "3ErcfJwO96HGsKIyGOjvfI",
+              "name": "Rafika Duri",
+              "type": "artist",
+              "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
+              },
+              "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
+              "id": "3FsNh5N2AxOGA1UU5IAnlG",
+              "name": "Betharia Sonatha",
+              "type": "artist",
+              "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
+              },
+              "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
+              "id": "1wjFcEQhkDvlc6kaFSAOZ5",
+              "name": "Jamal Mirdad",
+              "type": "artist",
+              "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
+              },
+              "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
+              "id": "1HD3yDVzqWVWWr6rgIWoO1",
+              "name": "Etrie Jayanthie",
+              "type": "artist",
+              "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
+              "id": "1dVpz0PaQtPEaqiuRXYpvv",
+              "name": "Nani Sugianto",
+              "type": "artist",
+              "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
+              },
+              "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
+              "id": "22LAcfnDvnbs795BrGx0G5",
+              "name": "Itang Yunasz",
+              "type": "artist",
+              "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 278175,
-          "external_ids": { "isrc": "IDA181223401" },
+          "track_number": 2,
+          "duration_ms": 324898,
+          "external_ids": { "isrc": "IDA182500034" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
+            "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
           },
-          "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
-          "id": "2NgWSDbSjIAH9iZZyfAKcn",
-          "name": "Cintaku",
-          "popularity": 60,
-          "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
+          "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
+          "id": "1zU5ZA2C00kmanXkT34f5w",
+          "name": "Kemesraan",
+          "popularity": 59,
+          "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -6302,47 +6372,57 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
-            "id": "4HeHlp0KXmMkTTJFVoY4Km",
+            "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
+            "id": "3MxOZH9BbgUwLY1dsO5OJr",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
+                "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Badai Pasti Berlalu",
-            "release_date": "1999-01-06",
+            "name": "15 Lagu Terpopuler Iwan Fals",
+            "release_date": "2021-06-13",
             "release_date_precision": "day",
-            "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
+            "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+                  "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
                 },
-                "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-                "id": "2NteKKMj3takKR3ABTd279",
-                "name": "Chrisye",
+                "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+                "id": "7LkkXDrBNVODZKIJlWGwbX",
+                "name": "Iwan Fals",
                 "type": "artist",
-                "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+                "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
+              "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
             },
-            "total_tracks": 11
+            "total_tracks": 15
           },
           "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+              },
+              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+              "id": "7LkkXDrBNVODZKIJlWGwbX",
+              "name": "Iwan Fals",
+              "type": "artist",
+              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -6352,20 +6432,80 @@
               "name": "Chrisye",
               "type": "artist",
               "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
+              },
+              "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
+              "id": "3ErcfJwO96HGsKIyGOjvfI",
+              "name": "Rafika Duri",
+              "type": "artist",
+              "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
+              },
+              "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
+              "id": "3FsNh5N2AxOGA1UU5IAnlG",
+              "name": "Betharia Sonatha",
+              "type": "artist",
+              "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
+              },
+              "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
+              "id": "1wjFcEQhkDvlc6kaFSAOZ5",
+              "name": "Jamal Mirdad",
+              "type": "artist",
+              "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
+              },
+              "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
+              "id": "1HD3yDVzqWVWWr6rgIWoO1",
+              "name": "Etrie Jayanthie",
+              "type": "artist",
+              "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
+              },
+              "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
+              "id": "1dVpz0PaQtPEaqiuRXYpvv",
+              "name": "Nani Sugianto",
+              "type": "artist",
+              "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
+              },
+              "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
+              "id": "22LAcfnDvnbs795BrGx0G5",
+              "name": "Itang Yunasz",
+              "type": "artist",
+              "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 278175,
-          "external_ids": { "isrc": "IDA181223401" },
+          "track_number": 2,
+          "duration_ms": 324898,
+          "external_ids": { "isrc": "IDA182500034" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
+            "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
           },
-          "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
-          "id": "2NgWSDbSjIAH9iZZyfAKcn",
-          "name": "Cintaku",
-          "popularity": 60,
-          "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
+          "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
+          "id": "1zU5ZA2C00kmanXkT34f5w",
+          "name": "Kemesraan",
+          "popularity": 59,
+          "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -6382,7 +6522,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -6760,57 +6900,47 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
-            "id": "3MxOZH9BbgUwLY1dsO5OJr",
+            "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
+            "id": "4HeHlp0KXmMkTTJFVoY4Km",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "15 Lagu Terpopuler Iwan Fals",
-            "release_date": "2021-06-13",
+            "name": "Badai Pasti Berlalu",
+            "release_date": "1999-01-06",
             "release_date_precision": "day",
-            "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
+            "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+                  "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
                 },
-                "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-                "id": "7LkkXDrBNVODZKIJlWGwbX",
-                "name": "Iwan Fals",
+                "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+                "id": "2NteKKMj3takKR3ABTd279",
+                "name": "Chrisye",
                 "type": "artist",
-                "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+                "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
+              "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
             },
-            "total_tracks": 15
+            "total_tracks": 11
           },
           "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-              },
-              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-              "id": "7LkkXDrBNVODZKIJlWGwbX",
-              "name": "Iwan Fals",
-              "type": "artist",
-              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
-            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -6820,84 +6950,24 @@
               "name": "Chrisye",
               "type": "artist",
               "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
-              },
-              "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
-              "id": "3ErcfJwO96HGsKIyGOjvfI",
-              "name": "Rafika Duri",
-              "type": "artist",
-              "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
-              },
-              "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
-              "id": "3FsNh5N2AxOGA1UU5IAnlG",
-              "name": "Betharia Sonatha",
-              "type": "artist",
-              "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
-              },
-              "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
-              "id": "1wjFcEQhkDvlc6kaFSAOZ5",
-              "name": "Jamal Mirdad",
-              "type": "artist",
-              "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
-              },
-              "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
-              "id": "1HD3yDVzqWVWWr6rgIWoO1",
-              "name": "Etrie Jayanthie",
-              "type": "artist",
-              "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
-              },
-              "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
-              "id": "1dVpz0PaQtPEaqiuRXYpvv",
-              "name": "Nani Sugianto",
-              "type": "artist",
-              "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
-              },
-              "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
-              "id": "22LAcfnDvnbs795BrGx0G5",
-              "name": "Itang Yunasz",
-              "type": "artist",
-              "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
             }
           ],
           "disc_number": 1,
-          "track_number": 2,
-          "duration_ms": 324898,
-          "external_ids": { "isrc": "IDA182500034" },
+          "track_number": 1,
+          "duration_ms": 278175,
+          "external_ids": { "isrc": "IDA181223401" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
+            "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
           },
-          "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
-          "id": "1zU5ZA2C00kmanXkT34f5w",
-          "name": "Kemesraan",
-          "popularity": 59,
-          "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
+          "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
+          "id": "2NgWSDbSjIAH9iZZyfAKcn",
+          "name": "Cintaku",
+          "popularity": 60,
+          "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -7275,57 +7345,47 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
-            "id": "3MxOZH9BbgUwLY1dsO5OJr",
+            "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
+            "id": "4HeHlp0KXmMkTTJFVoY4Km",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
+                "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "15 Lagu Terpopuler Iwan Fals",
-            "release_date": "2021-06-13",
+            "name": "Badai Pasti Berlalu",
+            "release_date": "1999-01-06",
             "release_date_precision": "day",
-            "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
+            "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
             "artists": [
               {
                 "external_urls": {
-                  "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+                  "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
                 },
-                "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-                "id": "7LkkXDrBNVODZKIJlWGwbX",
-                "name": "Iwan Fals",
+                "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+                "id": "2NteKKMj3takKR3ABTd279",
+                "name": "Chrisye",
                 "type": "artist",
-                "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+                "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
+              "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
             },
-            "total_tracks": 15
+            "total_tracks": 11
           },
           "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-              },
-              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-              "id": "7LkkXDrBNVODZKIJlWGwbX",
-              "name": "Iwan Fals",
-              "type": "artist",
-              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
-            },
             {
               "external_urls": {
                 "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -7335,80 +7395,20 @@
               "name": "Chrisye",
               "type": "artist",
               "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
-              },
-              "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
-              "id": "3ErcfJwO96HGsKIyGOjvfI",
-              "name": "Rafika Duri",
-              "type": "artist",
-              "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
-              },
-              "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
-              "id": "3FsNh5N2AxOGA1UU5IAnlG",
-              "name": "Betharia Sonatha",
-              "type": "artist",
-              "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
-              },
-              "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
-              "id": "1wjFcEQhkDvlc6kaFSAOZ5",
-              "name": "Jamal Mirdad",
-              "type": "artist",
-              "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
-              },
-              "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
-              "id": "1HD3yDVzqWVWWr6rgIWoO1",
-              "name": "Etrie Jayanthie",
-              "type": "artist",
-              "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
-              },
-              "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
-              "id": "1dVpz0PaQtPEaqiuRXYpvv",
-              "name": "Nani Sugianto",
-              "type": "artist",
-              "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
-              },
-              "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
-              "id": "22LAcfnDvnbs795BrGx0G5",
-              "name": "Itang Yunasz",
-              "type": "artist",
-              "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
             }
           ],
           "disc_number": 1,
-          "track_number": 2,
-          "duration_ms": 324898,
-          "external_ids": { "isrc": "IDA182500034" },
+          "track_number": 1,
+          "duration_ms": 278175,
+          "external_ids": { "isrc": "IDA181223401" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
+            "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
           },
-          "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
-          "id": "1zU5ZA2C00kmanXkT34f5w",
-          "name": "Kemesraan",
-          "popularity": 59,
-          "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
+          "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
+          "id": "2NgWSDbSjIAH9iZZyfAKcn",
+          "name": "Cintaku",
+          "popularity": 60,
+          "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -13303,7 +13303,7 @@
           "href": "https://api.spotify.com/v1/tracks/4KyGIy8MhUNCcNVOLFSoSr",
           "id": "4KyGIy8MhUNCcNVOLFSoSr",
           "name": "Oh Cintaku",
-          "popularity": 50,
+          "popularity": 49,
           "uri": "spotify:track:4KyGIy8MhUNCcNVOLFSoSr",
           "is_local": false
         },
@@ -13748,7 +13748,7 @@
           "href": "https://api.spotify.com/v1/tracks/4KyGIy8MhUNCcNVOLFSoSr",
           "id": "4KyGIy8MhUNCcNVOLFSoSr",
           "name": "Oh Cintaku",
-          "popularity": 50,
+          "popularity": 49,
           "uri": "spotify:track:4KyGIy8MhUNCcNVOLFSoSr",
           "is_local": false
         },
@@ -19784,7 +19784,7 @@
           "href": "https://api.spotify.com/v1/tracks/703ui0frwk9nUBSm8460oM",
           "id": "703ui0frwk9nUBSm8460oM",
           "name": "Kidung",
-          "popularity": 47,
+          "popularity": 46,
           "uri": "spotify:track:703ui0frwk9nUBSm8460oM",
           "is_local": false
         },
@@ -20229,7 +20229,7 @@
           "href": "https://api.spotify.com/v1/tracks/703ui0frwk9nUBSm8460oM",
           "id": "703ui0frwk9nUBSm8460oM",
           "name": "Kidung",
-          "popularity": 47,
+          "popularity": 46,
           "uri": "spotify:track:703ui0frwk9nUBSm8460oM",
           "is_local": false
         },
@@ -21150,7 +21150,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -21581,21 +21581,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 9,
-          "duration_ms": 323221,
-          "external_ids": { "isrc": "IDA181223409" },
+          "track_number": 4,
+          "duration_ms": 285419,
+          "external_ids": { "isrc": "IDA181223404" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
+            "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
           },
-          "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
-          "id": "3yjb7y4AJl0gbF9DETp9MW",
-          "name": "Pelangi",
-          "popularity": 42,
-          "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
+          "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
+          "id": "7AYmq9SoIMNyDEziFqYsEv",
+          "name": "Merpati Putih",
+          "popularity": 43,
+          "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -22026,17 +22026,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 9,
-          "duration_ms": 323221,
-          "external_ids": { "isrc": "IDA181223409" },
+          "track_number": 4,
+          "duration_ms": 285419,
+          "external_ids": { "isrc": "IDA181223404" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
+            "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
           },
-          "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
-          "id": "3yjb7y4AJl0gbF9DETp9MW",
-          "name": "Pelangi",
-          "popularity": 42,
-          "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
+          "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
+          "id": "7AYmq9SoIMNyDEziFqYsEv",
+          "name": "Merpati Putih",
+          "popularity": 43,
+          "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -24762,7 +24762,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -25193,21 +25193,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 4,
-          "duration_ms": 285419,
-          "external_ids": { "isrc": "IDA181223404" },
+          "track_number": 9,
+          "duration_ms": 323221,
+          "external_ids": { "isrc": "IDA181223409" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
+            "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
           },
-          "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
-          "id": "7AYmq9SoIMNyDEziFqYsEv",
-          "name": "Merpati Putih",
-          "popularity": 43,
-          "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
+          "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
+          "id": "3yjb7y4AJl0gbF9DETp9MW",
+          "name": "Pelangi",
+          "popularity": 42,
+          "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -25638,17 +25638,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 4,
-          "duration_ms": 285419,
-          "external_ids": { "isrc": "IDA181223404" },
+          "track_number": 9,
+          "duration_ms": 323221,
+          "external_ids": { "isrc": "IDA181223409" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
+            "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
           },
-          "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
-          "id": "7AYmq9SoIMNyDEziFqYsEv",
-          "name": "Merpati Putih",
-          "popularity": 43,
-          "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
+          "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
+          "id": "3yjb7y4AJl0gbF9DETp9MW",
+          "name": "Pelangi",
+          "popularity": 42,
+          "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -34763,7 +34763,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -35141,29 +35141,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
-            "id": "2ksqFQCKgCUkVq52QFzd8Y",
+            "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
+            "id": "24RL7kjM5BHKgvhfEYeQUT",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Konser Tur 2001 Legendary",
-            "release_date": "2001-01-12",
+            "name": "Kidung Abadi",
+            "release_date": "2018-03-03",
             "release_date_precision": "day",
-            "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
+            "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
             "artists": [
               {
                 "external_urls": {
@@ -35177,9 +35177,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
+              "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
             },
-            "total_tracks": 15
+            "total_tracks": 11
           },
           "artists": [
             {
@@ -35194,21 +35194,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 328980,
-          "external_ids": { "isrc": "IDA181304243" },
+          "track_number": 7,
+          "duration_ms": 228205,
+          "external_ids": { "isrc": "IDA181407301" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
+            "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
           },
-          "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
-          "id": "7qoVQgNWpggclW59rcsDe0",
-          "name": "Setia",
-          "popularity": 42,
-          "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
+          "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
+          "id": "0mNd940C1LCbb5oibYY5Xc",
+          "name": "Lirih",
+          "popularity": 37,
+          "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -35586,29 +35586,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
-            "id": "2ksqFQCKgCUkVq52QFzd8Y",
+            "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
+            "id": "24RL7kjM5BHKgvhfEYeQUT",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
+                "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Konser Tur 2001 Legendary",
-            "release_date": "2001-01-12",
+            "name": "Kidung Abadi",
+            "release_date": "2018-03-03",
             "release_date_precision": "day",
-            "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
+            "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
             "artists": [
               {
                 "external_urls": {
@@ -35622,9 +35622,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
+              "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
             },
-            "total_tracks": 15
+            "total_tracks": 11
           },
           "artists": [
             {
@@ -35639,17 +35639,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 328980,
-          "external_ids": { "isrc": "IDA181304243" },
+          "track_number": 7,
+          "duration_ms": 228205,
+          "external_ids": { "isrc": "IDA181407301" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
+            "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
           },
-          "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
-          "id": "7qoVQgNWpggclW59rcsDe0",
-          "name": "Setia",
-          "popularity": 42,
-          "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
+          "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
+          "id": "0mNd940C1LCbb5oibYY5Xc",
+          "name": "Lirih",
+          "popularity": 37,
+          "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -35666,7 +35666,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -36044,29 +36044,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
-            "id": "24RL7kjM5BHKgvhfEYeQUT",
+            "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
+            "id": "2ksqFQCKgCUkVq52QFzd8Y",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Kidung Abadi",
-            "release_date": "2018-03-03",
+            "name": "Konser Tur 2001 Legendary",
+            "release_date": "2001-01-12",
             "release_date_precision": "day",
-            "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
+            "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
             "artists": [
               {
                 "external_urls": {
@@ -36080,9 +36080,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
+              "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
             },
-            "total_tracks": 11
+            "total_tracks": 15
           },
           "artists": [
             {
@@ -36097,21 +36097,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 7,
-          "duration_ms": 228205,
-          "external_ids": { "isrc": "IDA181407301" },
+          "track_number": 1,
+          "duration_ms": 328980,
+          "external_ids": { "isrc": "IDA181304243" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
+            "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
           },
-          "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
-          "id": "0mNd940C1LCbb5oibYY5Xc",
-          "name": "Lirih",
-          "popularity": 37,
-          "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
+          "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
+          "id": "7qoVQgNWpggclW59rcsDe0",
+          "name": "Setia",
+          "popularity": 42,
+          "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -36489,29 +36489,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
-            "id": "24RL7kjM5BHKgvhfEYeQUT",
+            "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
+            "id": "2ksqFQCKgCUkVq52QFzd8Y",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
+                "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Kidung Abadi",
-            "release_date": "2018-03-03",
+            "name": "Konser Tur 2001 Legendary",
+            "release_date": "2001-01-12",
             "release_date_precision": "day",
-            "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
+            "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
             "artists": [
               {
                 "external_urls": {
@@ -36525,9 +36525,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
+              "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
             },
-            "total_tracks": 11
+            "total_tracks": 15
           },
           "artists": [
             {
@@ -36542,17 +36542,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 7,
-          "duration_ms": 228205,
-          "external_ids": { "isrc": "IDA181407301" },
+          "track_number": 1,
+          "duration_ms": 328980,
+          "external_ids": { "isrc": "IDA181304243" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
+            "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
           },
-          "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
-          "id": "0mNd940C1LCbb5oibYY5Xc",
-          "name": "Lirih",
-          "popularity": 37,
-          "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
+          "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
+          "id": "7qoVQgNWpggclW59rcsDe0",
+          "name": "Setia",
+          "popularity": 42,
+          "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -38411,7 +38411,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -38789,29 +38789,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
-            "id": "6iIf3xZaCirFK8OD8YZ2T1",
+            "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
+            "id": "7Ldp3d33SzfLCHLbfUCAcH",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "AkustiChrisye",
-            "release_date": "1997-12-01",
+            "name": "Dekade",
+            "release_date": "2002-01-09",
             "release_date_precision": "day",
-            "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
+            "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
             "artists": [
               {
                 "external_urls": {
@@ -38825,9 +38825,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
+              "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
             },
-            "total_tracks": 10
+            "total_tracks": 9
           },
           "artists": [
             {
@@ -38842,21 +38842,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 310032,
-          "external_ids": { "isrc": "IDA181210007" },
+          "track_number": 7,
+          "duration_ms": 215759,
+          "external_ids": { "isrc": "IDA181230602" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
+            "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
           },
-          "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
-          "id": "762IL0cZFqY90Zjga73Kut",
-          "name": "Damai Bersama-Mu",
+          "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
+          "id": "0Ogz5VNqsmbtEEJkFX2K8k",
+          "name": "Dara Manisku",
           "popularity": 37,
-          "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
+          "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -39234,29 +39234,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
-            "id": "6iIf3xZaCirFK8OD8YZ2T1",
+            "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
+            "id": "7Ldp3d33SzfLCHLbfUCAcH",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
+                "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "AkustiChrisye",
-            "release_date": "1997-12-01",
+            "name": "Dekade",
+            "release_date": "2002-01-09",
             "release_date_precision": "day",
-            "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
+            "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
             "artists": [
               {
                 "external_urls": {
@@ -39270,9 +39270,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
+              "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
             },
-            "total_tracks": 10
+            "total_tracks": 9
           },
           "artists": [
             {
@@ -39287,17 +39287,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 1,
-          "duration_ms": 310032,
-          "external_ids": { "isrc": "IDA181210007" },
+          "track_number": 7,
+          "duration_ms": 215759,
+          "external_ids": { "isrc": "IDA181230602" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
+            "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
           },
-          "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
-          "id": "762IL0cZFqY90Zjga73Kut",
-          "name": "Damai Bersama-Mu",
+          "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
+          "id": "0Ogz5VNqsmbtEEJkFX2K8k",
+          "name": "Dara Manisku",
           "popularity": 37,
-          "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
+          "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -39314,7 +39314,7 @@
         "is_local": false,
         "primary_color": null,
         "track": {
-          "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -39692,29 +39692,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
-            "id": "7Ldp3d33SzfLCHLbfUCAcH",
+            "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
+            "id": "6iIf3xZaCirFK8OD8YZ2T1",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Dekade",
-            "release_date": "2002-01-09",
+            "name": "AkustiChrisye",
+            "release_date": "1997-12-01",
             "release_date_precision": "day",
-            "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
+            "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
             "artists": [
               {
                 "external_urls": {
@@ -39728,9 +39728,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
+              "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
             },
-            "total_tracks": 9
+            "total_tracks": 10
           },
           "artists": [
             {
@@ -39745,21 +39745,21 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 7,
-          "duration_ms": 215759,
-          "external_ids": { "isrc": "IDA181230602" },
+          "track_number": 1,
+          "duration_ms": 310032,
+          "external_ids": { "isrc": "IDA181210007" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
+            "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
           },
-          "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
-          "id": "0Ogz5VNqsmbtEEJkFX2K8k",
-          "name": "Dara Manisku",
+          "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
+          "id": "762IL0cZFqY90Zjga73Kut",
+          "name": "Damai Bersama-Mu",
           "popularity": 37,
-          "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
+          "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
           "is_local": false
         },
         "item": {
-          "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
+          "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
           "available_markets": [
             "AR",
             "AU",
@@ -40137,29 +40137,29 @@
             ],
             "type": "album",
             "album_type": "album",
-            "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
-            "id": "7Ldp3d33SzfLCHLbfUCAcH",
+            "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
+            "id": "6iIf3xZaCirFK8OD8YZ2T1",
             "images": [
               {
-                "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
                 "width": 640,
                 "height": 640
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
                 "width": 300,
                 "height": 300
               },
               {
-                "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
+                "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
                 "width": 64,
                 "height": 64
               }
             ],
-            "name": "Dekade",
-            "release_date": "2002-01-09",
+            "name": "AkustiChrisye",
+            "release_date": "1997-12-01",
             "release_date_precision": "day",
-            "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
+            "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
             "artists": [
               {
                 "external_urls": {
@@ -40173,9 +40173,9 @@
               }
             ],
             "external_urls": {
-              "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
+              "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
             },
-            "total_tracks": 9
+            "total_tracks": 10
           },
           "artists": [
             {
@@ -40190,17 +40190,17 @@
             }
           ],
           "disc_number": 1,
-          "track_number": 7,
-          "duration_ms": 215759,
-          "external_ids": { "isrc": "IDA181230602" },
+          "track_number": 1,
+          "duration_ms": 310032,
+          "external_ids": { "isrc": "IDA181210007" },
           "external_urls": {
-            "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
+            "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
           },
-          "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
-          "id": "0Ogz5VNqsmbtEEJkFX2K8k",
-          "name": "Dara Manisku",
+          "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
+          "id": "762IL0cZFqY90Zjga73Kut",
+          "name": "Damai Bersama-Mu",
           "popularity": 37,
-          "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
+          "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
           "is_local": false
         },
         "video_thumbnail": { "url": null }
@@ -47891,7 +47891,7 @@
         "href": "https://api.spotify.com/v1/tracks/5HrF8yLnr3CbK4Aap7YDGy",
         "id": "5HrF8yLnr3CbK4Aap7YDGy",
         "name": "Seperti Yang Kau Minta",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:5HrF8yLnr3CbK4Aap7YDGy",
         "is_local": false
       },
@@ -48336,7 +48336,7 @@
         "href": "https://api.spotify.com/v1/tracks/5HrF8yLnr3CbK4Aap7YDGy",
         "id": "5HrF8yLnr3CbK4Aap7YDGy",
         "name": "Seperti Yang Kau Minta",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:5HrF8yLnr3CbK4Aap7YDGy",
         "is_local": false
       },
@@ -51083,7 +51083,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -51461,47 +51461,57 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
-          "id": "4HeHlp0KXmMkTTJFVoY4Km",
+          "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
+          "id": "3MxOZH9BbgUwLY1dsO5OJr",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
               "width": 64
             }
           ],
-          "name": "Badai Pasti Berlalu",
-          "release_date": "1999-01-06",
+          "name": "15 Lagu Terpopuler Iwan Fals",
+          "release_date": "2021-06-13",
           "release_date_precision": "day",
-          "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
+          "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
               },
-              "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-              "id": "2NteKKMj3takKR3ABTd279",
-              "name": "Chrisye",
+              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+              "id": "7LkkXDrBNVODZKIJlWGwbX",
+              "name": "Iwan Fals",
               "type": "artist",
-              "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
+            "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
           },
-          "total_tracks": 11
+          "total_tracks": 15
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+            "id": "7LkkXDrBNVODZKIJlWGwbX",
+            "name": "Iwan Fals",
+            "type": "artist",
+            "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -51511,24 +51521,84 @@
             "name": "Chrisye",
             "type": "artist",
             "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
+            "id": "3ErcfJwO96HGsKIyGOjvfI",
+            "name": "Rafika Duri",
+            "type": "artist",
+            "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
+            "id": "3FsNh5N2AxOGA1UU5IAnlG",
+            "name": "Betharia Sonatha",
+            "type": "artist",
+            "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
+            "id": "1wjFcEQhkDvlc6kaFSAOZ5",
+            "name": "Jamal Mirdad",
+            "type": "artist",
+            "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
+            "id": "1HD3yDVzqWVWWr6rgIWoO1",
+            "name": "Etrie Jayanthie",
+            "type": "artist",
+            "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
+            "id": "1dVpz0PaQtPEaqiuRXYpvv",
+            "name": "Nani Sugianto",
+            "type": "artist",
+            "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
+            },
+            "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
+            "id": "22LAcfnDvnbs795BrGx0G5",
+            "name": "Itang Yunasz",
+            "type": "artist",
+            "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 278175,
-        "external_ids": { "isrc": "IDA181223401" },
+        "track_number": 2,
+        "duration_ms": 324898,
+        "external_ids": { "isrc": "IDA182500034" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
+          "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
         },
-        "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
-        "id": "2NgWSDbSjIAH9iZZyfAKcn",
-        "name": "Cintaku",
-        "popularity": 60,
-        "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
+        "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
+        "id": "1zU5ZA2C00kmanXkT34f5w",
+        "name": "Kemesraan",
+        "popularity": 59,
+        "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -51906,47 +51976,57 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
-          "id": "4HeHlp0KXmMkTTJFVoY4Km",
+          "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
+          "id": "3MxOZH9BbgUwLY1dsO5OJr",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
+              "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
               "width": 64
             }
           ],
-          "name": "Badai Pasti Berlalu",
-          "release_date": "1999-01-06",
+          "name": "15 Lagu Terpopuler Iwan Fals",
+          "release_date": "2021-06-13",
           "release_date_precision": "day",
-          "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
+          "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
               },
-              "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-              "id": "2NteKKMj3takKR3ABTd279",
-              "name": "Chrisye",
+              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+              "id": "7LkkXDrBNVODZKIJlWGwbX",
+              "name": "Iwan Fals",
               "type": "artist",
-              "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
+            "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
           },
-          "total_tracks": 11
+          "total_tracks": 15
         },
         "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+            },
+            "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
+            "id": "7LkkXDrBNVODZKIJlWGwbX",
+            "name": "Iwan Fals",
+            "type": "artist",
+            "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -51956,20 +52036,80 @@
             "name": "Chrisye",
             "type": "artist",
             "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
+            },
+            "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
+            "id": "3ErcfJwO96HGsKIyGOjvfI",
+            "name": "Rafika Duri",
+            "type": "artist",
+            "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
+            },
+            "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
+            "id": "3FsNh5N2AxOGA1UU5IAnlG",
+            "name": "Betharia Sonatha",
+            "type": "artist",
+            "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
+            "id": "1wjFcEQhkDvlc6kaFSAOZ5",
+            "name": "Jamal Mirdad",
+            "type": "artist",
+            "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
+            "id": "1HD3yDVzqWVWWr6rgIWoO1",
+            "name": "Etrie Jayanthie",
+            "type": "artist",
+            "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
+            "id": "1dVpz0PaQtPEaqiuRXYpvv",
+            "name": "Nani Sugianto",
+            "type": "artist",
+            "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
+            },
+            "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
+            "id": "22LAcfnDvnbs795BrGx0G5",
+            "name": "Itang Yunasz",
+            "type": "artist",
+            "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 278175,
-        "external_ids": { "isrc": "IDA181223401" },
+        "track_number": 2,
+        "duration_ms": 324898,
+        "external_ids": { "isrc": "IDA182500034" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
+          "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
         },
-        "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
-        "id": "2NgWSDbSjIAH9iZZyfAKcn",
-        "name": "Cintaku",
-        "popularity": 60,
-        "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
+        "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
+        "id": "1zU5ZA2C00kmanXkT34f5w",
+        "name": "Kemesraan",
+        "popularity": 59,
+        "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -51986,7 +52126,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -52364,57 +52504,47 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
-          "id": "3MxOZH9BbgUwLY1dsO5OJr",
+          "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
+          "id": "4HeHlp0KXmMkTTJFVoY4Km",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
               "width": 64
             }
           ],
-          "name": "15 Lagu Terpopuler Iwan Fals",
-          "release_date": "2021-06-13",
+          "name": "Badai Pasti Berlalu",
+          "release_date": "1999-01-06",
           "release_date_precision": "day",
-          "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
+          "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+                "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
               },
-              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-              "id": "7LkkXDrBNVODZKIJlWGwbX",
-              "name": "Iwan Fals",
+              "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+              "id": "2NteKKMj3takKR3ABTd279",
+              "name": "Chrisye",
               "type": "artist",
-              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+              "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
+            "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
           },
-          "total_tracks": 15
+          "total_tracks": 11
         },
         "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-            },
-            "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-            "id": "7LkkXDrBNVODZKIJlWGwbX",
-            "name": "Iwan Fals",
-            "type": "artist",
-            "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
-          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -52424,84 +52554,24 @@
             "name": "Chrisye",
             "type": "artist",
             "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
-            "id": "3ErcfJwO96HGsKIyGOjvfI",
-            "name": "Rafika Duri",
-            "type": "artist",
-            "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
-            },
-            "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
-            "id": "3FsNh5N2AxOGA1UU5IAnlG",
-            "name": "Betharia Sonatha",
-            "type": "artist",
-            "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
-            },
-            "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
-            "id": "1wjFcEQhkDvlc6kaFSAOZ5",
-            "name": "Jamal Mirdad",
-            "type": "artist",
-            "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
-            },
-            "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
-            "id": "1HD3yDVzqWVWWr6rgIWoO1",
-            "name": "Etrie Jayanthie",
-            "type": "artist",
-            "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
-            },
-            "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
-            "id": "1dVpz0PaQtPEaqiuRXYpvv",
-            "name": "Nani Sugianto",
-            "type": "artist",
-            "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
-            },
-            "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
-            "id": "22LAcfnDvnbs795BrGx0G5",
-            "name": "Itang Yunasz",
-            "type": "artist",
-            "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 324898,
-        "external_ids": { "isrc": "IDA182500034" },
+        "track_number": 1,
+        "duration_ms": 278175,
+        "external_ids": { "isrc": "IDA181223401" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
+          "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
         },
-        "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
-        "id": "1zU5ZA2C00kmanXkT34f5w",
-        "name": "Kemesraan",
-        "popularity": 59,
-        "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
+        "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
+        "id": "2NgWSDbSjIAH9iZZyfAKcn",
+        "name": "Cintaku",
+        "popularity": 60,
+        "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8445df1a04ad1ea7b16a330a44d28e2f94ed8eb8?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/5678a3c56748a14ab0a0d1c453c7b3147cdd0491?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -52879,57 +52949,47 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/3MxOZH9BbgUwLY1dsO5OJr",
-          "id": "3MxOZH9BbgUwLY1dsO5OJr",
+          "href": "https://api.spotify.com/v1/albums/4HeHlp0KXmMkTTJFVoY4Km",
+          "id": "4HeHlp0KXmMkTTJFVoY4Km",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d0000b273deb9e7770721e44232230043",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514e2d30ac877d03f85d0b4e1c",
+              "url": "https://i.scdn.co/image/ab67616d00004851deb9e7770721e44232230043",
               "width": 64
             }
           ],
-          "name": "15 Lagu Terpopuler Iwan Fals",
-          "release_date": "2021-06-13",
+          "name": "Badai Pasti Berlalu",
+          "release_date": "1999-01-06",
           "release_date_precision": "day",
-          "uri": "spotify:album:3MxOZH9BbgUwLY1dsO5OJr",
+          "uri": "spotify:album:4HeHlp0KXmMkTTJFVoY4Km",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+                "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
               },
-              "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-              "id": "7LkkXDrBNVODZKIJlWGwbX",
-              "name": "Iwan Fals",
+              "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+              "id": "2NteKKMj3takKR3ABTd279",
+              "name": "Chrisye",
               "type": "artist",
-              "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
+              "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/3MxOZH9BbgUwLY1dsO5OJr"
+            "spotify": "https://open.spotify.com/album/4HeHlp0KXmMkTTJFVoY4Km"
           },
-          "total_tracks": 15
+          "total_tracks": 11
         },
         "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-            },
-            "href": "https://api.spotify.com/v1/artists/7LkkXDrBNVODZKIJlWGwbX",
-            "id": "7LkkXDrBNVODZKIJlWGwbX",
-            "name": "Iwan Fals",
-            "type": "artist",
-            "uri": "spotify:artist:7LkkXDrBNVODZKIJlWGwbX"
-          },
           {
             "external_urls": {
               "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
@@ -52939,80 +52999,20 @@
             "name": "Chrisye",
             "type": "artist",
             "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3ErcfJwO96HGsKIyGOjvfI"
-            },
-            "href": "https://api.spotify.com/v1/artists/3ErcfJwO96HGsKIyGOjvfI",
-            "id": "3ErcfJwO96HGsKIyGOjvfI",
-            "name": "Rafika Duri",
-            "type": "artist",
-            "uri": "spotify:artist:3ErcfJwO96HGsKIyGOjvfI"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3FsNh5N2AxOGA1UU5IAnlG"
-            },
-            "href": "https://api.spotify.com/v1/artists/3FsNh5N2AxOGA1UU5IAnlG",
-            "id": "3FsNh5N2AxOGA1UU5IAnlG",
-            "name": "Betharia Sonatha",
-            "type": "artist",
-            "uri": "spotify:artist:3FsNh5N2AxOGA1UU5IAnlG"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1wjFcEQhkDvlc6kaFSAOZ5"
-            },
-            "href": "https://api.spotify.com/v1/artists/1wjFcEQhkDvlc6kaFSAOZ5",
-            "id": "1wjFcEQhkDvlc6kaFSAOZ5",
-            "name": "Jamal Mirdad",
-            "type": "artist",
-            "uri": "spotify:artist:1wjFcEQhkDvlc6kaFSAOZ5"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1HD3yDVzqWVWWr6rgIWoO1"
-            },
-            "href": "https://api.spotify.com/v1/artists/1HD3yDVzqWVWWr6rgIWoO1",
-            "id": "1HD3yDVzqWVWWr6rgIWoO1",
-            "name": "Etrie Jayanthie",
-            "type": "artist",
-            "uri": "spotify:artist:1HD3yDVzqWVWWr6rgIWoO1"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1dVpz0PaQtPEaqiuRXYpvv"
-            },
-            "href": "https://api.spotify.com/v1/artists/1dVpz0PaQtPEaqiuRXYpvv",
-            "id": "1dVpz0PaQtPEaqiuRXYpvv",
-            "name": "Nani Sugianto",
-            "type": "artist",
-            "uri": "spotify:artist:1dVpz0PaQtPEaqiuRXYpvv"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/22LAcfnDvnbs795BrGx0G5"
-            },
-            "href": "https://api.spotify.com/v1/artists/22LAcfnDvnbs795BrGx0G5",
-            "id": "22LAcfnDvnbs795BrGx0G5",
-            "name": "Itang Yunasz",
-            "type": "artist",
-            "uri": "spotify:artist:22LAcfnDvnbs795BrGx0G5"
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 324898,
-        "external_ids": { "isrc": "IDA182500034" },
+        "track_number": 1,
+        "duration_ms": 278175,
+        "external_ids": { "isrc": "IDA181223401" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1zU5ZA2C00kmanXkT34f5w"
+          "spotify": "https://open.spotify.com/track/2NgWSDbSjIAH9iZZyfAKcn"
         },
-        "href": "https://api.spotify.com/v1/tracks/1zU5ZA2C00kmanXkT34f5w",
-        "id": "1zU5ZA2C00kmanXkT34f5w",
-        "name": "Kemesraan",
-        "popularity": 59,
-        "uri": "spotify:track:1zU5ZA2C00kmanXkT34f5w",
+        "href": "https://api.spotify.com/v1/tracks/2NgWSDbSjIAH9iZZyfAKcn",
+        "id": "2NgWSDbSjIAH9iZZyfAKcn",
+        "name": "Cintaku",
+        "popularity": 60,
+        "uri": "spotify:track:2NgWSDbSjIAH9iZZyfAKcn",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -58907,7 +58907,7 @@
         "href": "https://api.spotify.com/v1/tracks/4KyGIy8MhUNCcNVOLFSoSr",
         "id": "4KyGIy8MhUNCcNVOLFSoSr",
         "name": "Oh Cintaku",
-        "popularity": 50,
+        "popularity": 49,
         "uri": "spotify:track:4KyGIy8MhUNCcNVOLFSoSr",
         "is_local": false
       },
@@ -59352,7 +59352,7 @@
         "href": "https://api.spotify.com/v1/tracks/4KyGIy8MhUNCcNVOLFSoSr",
         "id": "4KyGIy8MhUNCcNVOLFSoSr",
         "name": "Oh Cintaku",
-        "popularity": 50,
+        "popularity": 49,
         "uri": "spotify:track:4KyGIy8MhUNCcNVOLFSoSr",
         "is_local": false
       },
@@ -65388,7 +65388,7 @@
         "href": "https://api.spotify.com/v1/tracks/703ui0frwk9nUBSm8460oM",
         "id": "703ui0frwk9nUBSm8460oM",
         "name": "Kidung",
-        "popularity": 47,
+        "popularity": 46,
         "uri": "spotify:track:703ui0frwk9nUBSm8460oM",
         "is_local": false
       },
@@ -65833,7 +65833,7 @@
         "href": "https://api.spotify.com/v1/tracks/703ui0frwk9nUBSm8460oM",
         "id": "703ui0frwk9nUBSm8460oM",
         "name": "Kidung",
-        "popularity": 47,
+        "popularity": 46,
         "uri": "spotify:track:703ui0frwk9nUBSm8460oM",
         "is_local": false
       },
@@ -66754,7 +66754,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -67185,21 +67185,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 9,
-        "duration_ms": 323221,
-        "external_ids": { "isrc": "IDA181223409" },
+        "track_number": 4,
+        "duration_ms": 285419,
+        "external_ids": { "isrc": "IDA181223404" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
+          "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
         },
-        "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
-        "id": "3yjb7y4AJl0gbF9DETp9MW",
-        "name": "Pelangi",
-        "popularity": 42,
-        "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
+        "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
+        "id": "7AYmq9SoIMNyDEziFqYsEv",
+        "name": "Merpati Putih",
+        "popularity": 43,
+        "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -67630,17 +67630,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 9,
-        "duration_ms": 323221,
-        "external_ids": { "isrc": "IDA181223409" },
+        "track_number": 4,
+        "duration_ms": 285419,
+        "external_ids": { "isrc": "IDA181223404" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
+          "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
         },
-        "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
-        "id": "3yjb7y4AJl0gbF9DETp9MW",
-        "name": "Pelangi",
-        "popularity": 42,
-        "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
+        "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
+        "id": "7AYmq9SoIMNyDEziFqYsEv",
+        "name": "Merpati Putih",
+        "popularity": 43,
+        "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -70366,7 +70366,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -70797,21 +70797,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 285419,
-        "external_ids": { "isrc": "IDA181223404" },
+        "track_number": 9,
+        "duration_ms": 323221,
+        "external_ids": { "isrc": "IDA181223409" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
+          "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
         },
-        "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
-        "id": "7AYmq9SoIMNyDEziFqYsEv",
-        "name": "Merpati Putih",
-        "popularity": 43,
-        "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
+        "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
+        "id": "3yjb7y4AJl0gbF9DETp9MW",
+        "name": "Pelangi",
+        "popularity": 42,
+        "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bd0d898d1ff115a5881b3eaf1c26c1b55e766a8d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/35baf13f6c1445f6f12f54c31ac0ad9e661e03b2?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -71242,17 +71242,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 285419,
-        "external_ids": { "isrc": "IDA181223404" },
+        "track_number": 9,
+        "duration_ms": 323221,
+        "external_ids": { "isrc": "IDA181223409" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7AYmq9SoIMNyDEziFqYsEv"
+          "spotify": "https://open.spotify.com/track/3yjb7y4AJl0gbF9DETp9MW"
         },
-        "href": "https://api.spotify.com/v1/tracks/7AYmq9SoIMNyDEziFqYsEv",
-        "id": "7AYmq9SoIMNyDEziFqYsEv",
-        "name": "Merpati Putih",
-        "popularity": 43,
-        "uri": "spotify:track:7AYmq9SoIMNyDEziFqYsEv",
+        "href": "https://api.spotify.com/v1/tracks/3yjb7y4AJl0gbF9DETp9MW",
+        "id": "3yjb7y4AJl0gbF9DETp9MW",
+        "name": "Pelangi",
+        "popularity": 42,
+        "uri": "spotify:track:3yjb7y4AJl0gbF9DETp9MW",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -80367,7 +80367,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -80745,29 +80745,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
-          "id": "2ksqFQCKgCUkVq52QFzd8Y",
+          "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
+          "id": "24RL7kjM5BHKgvhfEYeQUT",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
               "width": 64
             }
           ],
-          "name": "Konser Tur 2001 Legendary",
-          "release_date": "2001-01-12",
+          "name": "Kidung Abadi",
+          "release_date": "2018-03-03",
           "release_date_precision": "day",
-          "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
+          "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
           "artists": [
             {
               "external_urls": {
@@ -80781,9 +80781,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
+            "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
           },
-          "total_tracks": 15
+          "total_tracks": 11
         },
         "artists": [
           {
@@ -80798,21 +80798,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 328980,
-        "external_ids": { "isrc": "IDA181304243" },
+        "track_number": 7,
+        "duration_ms": 228205,
+        "external_ids": { "isrc": "IDA181407301" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
+          "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
         },
-        "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
-        "id": "7qoVQgNWpggclW59rcsDe0",
-        "name": "Setia",
-        "popularity": 42,
-        "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
+        "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
+        "id": "0mNd940C1LCbb5oibYY5Xc",
+        "name": "Lirih",
+        "popularity": 37,
+        "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -81190,29 +81190,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
-          "id": "2ksqFQCKgCUkVq52QFzd8Y",
+          "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
+          "id": "24RL7kjM5BHKgvhfEYeQUT",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
+              "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
               "width": 64
             }
           ],
-          "name": "Konser Tur 2001 Legendary",
-          "release_date": "2001-01-12",
+          "name": "Kidung Abadi",
+          "release_date": "2018-03-03",
           "release_date_precision": "day",
-          "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
+          "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
           "artists": [
             {
               "external_urls": {
@@ -81226,9 +81226,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
+            "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
           },
-          "total_tracks": 15
+          "total_tracks": 11
         },
         "artists": [
           {
@@ -81243,17 +81243,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 328980,
-        "external_ids": { "isrc": "IDA181304243" },
+        "track_number": 7,
+        "duration_ms": 228205,
+        "external_ids": { "isrc": "IDA181407301" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
+          "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
         },
-        "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
-        "id": "7qoVQgNWpggclW59rcsDe0",
-        "name": "Setia",
-        "popularity": 42,
-        "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
+        "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
+        "id": "0mNd940C1LCbb5oibYY5Xc",
+        "name": "Lirih",
+        "popularity": 37,
+        "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -81270,7 +81270,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -81648,29 +81648,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
-          "id": "24RL7kjM5BHKgvhfEYeQUT",
+          "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
+          "id": "2ksqFQCKgCUkVq52QFzd8Y",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
               "width": 64
             }
           ],
-          "name": "Kidung Abadi",
-          "release_date": "2018-03-03",
+          "name": "Konser Tur 2001 Legendary",
+          "release_date": "2001-01-12",
           "release_date_precision": "day",
-          "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
+          "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
           "artists": [
             {
               "external_urls": {
@@ -81684,9 +81684,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
+            "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
           },
-          "total_tracks": 11
+          "total_tracks": 15
         },
         "artists": [
           {
@@ -81701,21 +81701,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 228205,
-        "external_ids": { "isrc": "IDA181407301" },
+        "track_number": 1,
+        "duration_ms": 328980,
+        "external_ids": { "isrc": "IDA181304243" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
+          "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
         },
-        "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
-        "id": "0mNd940C1LCbb5oibYY5Xc",
-        "name": "Lirih",
-        "popularity": 37,
-        "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
+        "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
+        "id": "7qoVQgNWpggclW59rcsDe0",
+        "name": "Setia",
+        "popularity": 42,
+        "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d3d587c5a0dcaec27032eb554019816ac7639b9b?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/90ea08d27aab7c88dfce3961a024f5f3f049c44c?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -82093,29 +82093,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/24RL7kjM5BHKgvhfEYeQUT",
-          "id": "24RL7kjM5BHKgvhfEYeQUT",
+          "href": "https://api.spotify.com/v1/albums/2ksqFQCKgCUkVq52QFzd8Y",
+          "id": "2ksqFQCKgCUkVq52QFzd8Y",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d0000b273604a25ca6825471b4a74b69d",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e020a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d00001e02604a25ca6825471b4a74b69d",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048510a6f8e7f6a46802e954442aa",
+              "url": "https://i.scdn.co/image/ab67616d00004851604a25ca6825471b4a74b69d",
               "width": 64
             }
           ],
-          "name": "Kidung Abadi",
-          "release_date": "2018-03-03",
+          "name": "Konser Tur 2001 Legendary",
+          "release_date": "2001-01-12",
           "release_date_precision": "day",
-          "uri": "spotify:album:24RL7kjM5BHKgvhfEYeQUT",
+          "uri": "spotify:album:2ksqFQCKgCUkVq52QFzd8Y",
           "artists": [
             {
               "external_urls": {
@@ -82129,9 +82129,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/24RL7kjM5BHKgvhfEYeQUT"
+            "spotify": "https://open.spotify.com/album/2ksqFQCKgCUkVq52QFzd8Y"
           },
-          "total_tracks": 11
+          "total_tracks": 15
         },
         "artists": [
           {
@@ -82146,17 +82146,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 228205,
-        "external_ids": { "isrc": "IDA181407301" },
+        "track_number": 1,
+        "duration_ms": 328980,
+        "external_ids": { "isrc": "IDA181304243" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0mNd940C1LCbb5oibYY5Xc"
+          "spotify": "https://open.spotify.com/track/7qoVQgNWpggclW59rcsDe0"
         },
-        "href": "https://api.spotify.com/v1/tracks/0mNd940C1LCbb5oibYY5Xc",
-        "id": "0mNd940C1LCbb5oibYY5Xc",
-        "name": "Lirih",
-        "popularity": 37,
-        "uri": "spotify:track:0mNd940C1LCbb5oibYY5Xc",
+        "href": "https://api.spotify.com/v1/tracks/7qoVQgNWpggclW59rcsDe0",
+        "id": "7qoVQgNWpggclW59rcsDe0",
+        "name": "Setia",
+        "popularity": 42,
+        "uri": "spotify:track:7qoVQgNWpggclW59rcsDe0",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -84015,7 +84015,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -84393,29 +84393,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
-          "id": "6iIf3xZaCirFK8OD8YZ2T1",
+          "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
+          "id": "7Ldp3d33SzfLCHLbfUCAcH",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
               "width": 64
             }
           ],
-          "name": "AkustiChrisye",
-          "release_date": "1997-12-01",
+          "name": "Dekade",
+          "release_date": "2002-01-09",
           "release_date_precision": "day",
-          "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
+          "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
           "artists": [
             {
               "external_urls": {
@@ -84429,9 +84429,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
+            "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
           },
-          "total_tracks": 10
+          "total_tracks": 9
         },
         "artists": [
           {
@@ -84446,21 +84446,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 310032,
-        "external_ids": { "isrc": "IDA181210007" },
+        "track_number": 7,
+        "duration_ms": 215759,
+        "external_ids": { "isrc": "IDA181230602" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
+          "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
         },
-        "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
-        "id": "762IL0cZFqY90Zjga73Kut",
-        "name": "Damai Bersama-Mu",
+        "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
+        "id": "0Ogz5VNqsmbtEEJkFX2K8k",
+        "name": "Dara Manisku",
         "popularity": 37,
-        "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
+        "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -84838,29 +84838,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
-          "id": "6iIf3xZaCirFK8OD8YZ2T1",
+          "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
+          "id": "7Ldp3d33SzfLCHLbfUCAcH",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
+              "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
               "width": 64
             }
           ],
-          "name": "AkustiChrisye",
-          "release_date": "1997-12-01",
+          "name": "Dekade",
+          "release_date": "2002-01-09",
           "release_date_precision": "day",
-          "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
+          "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
           "artists": [
             {
               "external_urls": {
@@ -84874,9 +84874,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
+            "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
           },
-          "total_tracks": 10
+          "total_tracks": 9
         },
         "artists": [
           {
@@ -84891,17 +84891,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 310032,
-        "external_ids": { "isrc": "IDA181210007" },
+        "track_number": 7,
+        "duration_ms": 215759,
+        "external_ids": { "isrc": "IDA181230602" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
+          "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
         },
-        "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
-        "id": "762IL0cZFqY90Zjga73Kut",
-        "name": "Damai Bersama-Mu",
+        "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
+        "id": "0Ogz5VNqsmbtEEJkFX2K8k",
+        "name": "Dara Manisku",
         "popularity": 37,
-        "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
+        "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -84918,7 +84918,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -85296,29 +85296,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
-          "id": "7Ldp3d33SzfLCHLbfUCAcH",
+          "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
+          "id": "6iIf3xZaCirFK8OD8YZ2T1",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
               "width": 64
             }
           ],
-          "name": "Dekade",
-          "release_date": "2002-01-09",
+          "name": "AkustiChrisye",
+          "release_date": "1997-12-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
+          "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
           "artists": [
             {
               "external_urls": {
@@ -85332,9 +85332,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
+            "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
           },
-          "total_tracks": 9
+          "total_tracks": 10
         },
         "artists": [
           {
@@ -85349,21 +85349,21 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 215759,
-        "external_ids": { "isrc": "IDA181230602" },
+        "track_number": 1,
+        "duration_ms": 310032,
+        "external_ids": { "isrc": "IDA181210007" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
+          "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
         },
-        "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
-        "id": "0Ogz5VNqsmbtEEJkFX2K8k",
-        "name": "Dara Manisku",
+        "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
+        "id": "762IL0cZFqY90Zjga73Kut",
+        "name": "Damai Bersama-Mu",
         "popularity": 37,
-        "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
+        "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
         "is_local": false
       },
       "item": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a9bd183020e0ded4995bb6708fa2d6885071b52d?cid=c73100e39ab6406dae4c4479ff75d174",
+        "preview_url": "https://p.scdn.co/mp3-preview/780b946468b9d5194eea6d0e0f347945dbe6be25?cid=c73100e39ab6406dae4c4479ff75d174",
         "available_markets": [
           "AR",
           "AU",
@@ -85741,29 +85741,29 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/7Ldp3d33SzfLCHLbfUCAcH",
-          "id": "7Ldp3d33SzfLCHLbfUCAcH",
+          "href": "https://api.spotify.com/v1/albums/6iIf3xZaCirFK8OD8YZ2T1",
+          "id": "6iIf3xZaCirFK8OD8YZ2T1",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff01b97bc84485ba06309eb5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d00001e02ff01b97bc84485ba06309eb5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851f7ec90a8fba3ce33a4e744e2",
+              "url": "https://i.scdn.co/image/ab67616d00004851ff01b97bc84485ba06309eb5",
               "width": 64
             }
           ],
-          "name": "Dekade",
-          "release_date": "2002-01-09",
+          "name": "AkustiChrisye",
+          "release_date": "1997-12-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:7Ldp3d33SzfLCHLbfUCAcH",
+          "uri": "spotify:album:6iIf3xZaCirFK8OD8YZ2T1",
           "artists": [
             {
               "external_urls": {
@@ -85777,9 +85777,9 @@
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/7Ldp3d33SzfLCHLbfUCAcH"
+            "spotify": "https://open.spotify.com/album/6iIf3xZaCirFK8OD8YZ2T1"
           },
-          "total_tracks": 9
+          "total_tracks": 10
         },
         "artists": [
           {
@@ -85794,17 +85794,17 @@
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 215759,
-        "external_ids": { "isrc": "IDA181230602" },
+        "track_number": 1,
+        "duration_ms": 310032,
+        "external_ids": { "isrc": "IDA181210007" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/0Ogz5VNqsmbtEEJkFX2K8k"
+          "spotify": "https://open.spotify.com/track/762IL0cZFqY90Zjga73Kut"
         },
-        "href": "https://api.spotify.com/v1/tracks/0Ogz5VNqsmbtEEJkFX2K8k",
-        "id": "0Ogz5VNqsmbtEEJkFX2K8k",
-        "name": "Dara Manisku",
+        "href": "https://api.spotify.com/v1/tracks/762IL0cZFqY90Zjga73Kut",
+        "id": "762IL0cZFqY90Zjga73Kut",
+        "name": "Damai Bersama-Mu",
         "popularity": 37,
-        "uri": "spotify:track:0Ogz5VNqsmbtEEJkFX2K8k",
+        "uri": "spotify:track:762IL0cZFqY90Zjga73Kut",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
